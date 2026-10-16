@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 02:01:54",
+  "updatedAt": "2026-10-17 02:02:32",
   "weather": {
     "widget": true,
     "scene": true,
