@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-16 17:10:00",
+  "updatedAt": "2026-10-16 17:18:32",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -162,8 +162,8 @@
         "id": "b2",
         "name": "Onur Yetim",
         "title": "Senior IT Support Engineer",
-        "day": "",
-        "month": "",
+        "day": 22,
+        "month": 8,
         "photo": ""
       },
       {
@@ -179,8 +179,8 @@
         "id": "b4",
         "name": "Tolga Ünal",
         "title": "IT Support",
-        "day": "",
-        "month": "",
+        "day": 7,
+        "month": 9,
         "photo": ""
       }
     ]
