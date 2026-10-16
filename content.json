@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-16 17:20:56",
+  "updatedAt": "2026-10-16 17:26:28",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -183,5 +183,13 @@
         "photo": ""
       }
     ]
+  },
+  "weather": {
+    "widget": true,
+    "scene": true,
+    "duration": 10,
+    "name": "İstanbul – Kartal",
+    "lat": 40.906,
+    "lon": 29.16
   }
 }
