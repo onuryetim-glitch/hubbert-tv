@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 01:50:22",
+  "updatedAt": "2026-10-17 01:54:34",
   "weather": {
     "widget": true,
     "scene": true,
@@ -163,7 +163,7 @@
   "events": {
     "enabled": true,
     "title": "Etkinlik ve Eğitim Takvimi",
-    "daysAhead": 10,
+    "daysAhead": 30,
     "max": 12,
     "duration": 60,
     "items": [
@@ -172,7 +172,7 @@
         "type": "toplanti",
         "title": "IT crew Montly Meeting",
         "date": "2026-10-28",
-        "endDate": "",
+        "endDate": "2026-10-28",
         "start": "11:00",
         "end": "12:00",
         "location": "Microsoft Teams",
