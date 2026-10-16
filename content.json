@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 01:44:11",
+  "updatedAt": "2026-10-17 01:50:22",
   "weather": {
     "widget": true,
     "scene": true,
@@ -182,13 +182,13 @@
       {
         "id": "emvbjuwy5yxf9",
         "type": "egitim",
-        "title": "",
-        "date": "2026-10-18",
-        "endDate": "",
-        "start": "10:00",
-        "end": "11:00",
-        "location": "",
-        "desc": "",
+        "title": "Hubbert Eğitimi",
+        "date": "2026-10-21",
+        "endDate": "2026-10-21",
+        "start": "11:00",
+        "end": "00:00",
+        "location": "ttteeesssttt",
+        "desc": "qqqqqqqq",
         "enabled": true
       }
     ]
