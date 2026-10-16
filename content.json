@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 01:22:14",
+  "updatedAt": "2026-10-17 01:39:45",
   "weather": {
     "widget": true,
     "scene": true,
@@ -163,20 +163,32 @@
   "events": {
     "enabled": true,
     "title": "Etkinlik ve Eğitim Takvimi",
-    "daysAhead": 30,
+    "daysAhead": 100,
     "max": 12,
-    "duration": 15,
+    "duration": 60,
     "items": [
       {
         "id": "e1",
-        "type": "egitim",
-        "title": "Hubbert Kullanım Eğitimi",
-        "date": "2026-10-21",
+        "type": "toplanti",
+        "title": "IT crew Montly Meeting",
+        "date": "2026-10-28",
         "endDate": "",
         "start": "11:00",
         "end": "12:00",
         "location": "Microsoft Teams",
         "desc": "Hubbert ve genel IT yapısı, destek süreçleri",
+        "enabled": true
+      },
+      {
+        "id": "emvbjuwy5yxf9",
+        "type": "egitim",
+        "title": "",
+        "date": "2026-10-18",
+        "endDate": "",
+        "start": "10:00",
+        "end": "11:00",
+        "location": "",
+        "desc": "",
         "enabled": true
       }
     ]
