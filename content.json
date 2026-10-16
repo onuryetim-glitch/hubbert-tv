@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 01:39:45",
+  "updatedAt": "2026-10-17 01:44:11",
   "weather": {
     "widget": true,
     "scene": true,
@@ -163,7 +163,7 @@
   "events": {
     "enabled": true,
     "title": "Etkinlik ve Eğitim Takvimi",
-    "daysAhead": 100,
+    "daysAhead": 10,
     "max": 12,
     "duration": 60,
     "items": [
