@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": false,
@@ -64,11 +64,11 @@
       "enabled": true,
       "type": "hero",
       "anim": "zoomSpin",
-      "duration": 15,
-      "title": "Bu bir test başlığıdır",
-      "subtitle": "Bu da bu test başlığının alt başlığıdır.",
+      "duration": 20,
+      "title": "Hubbert Kullanım Eğitimi",
+      "subtitle": "21 Ekim Çarşamba",
       "cta": true,
-      "caption": "Yazın, ticket otomatik açılsın, ekip çözsün.",
+      "caption": "IT destek taleplerinizi daha hızlı ve etkin şekilde iletebilmeniz için \n21 Ekim Çarşamba günü, 11.00–12.00 saatleri arasında \nHubbert kullanım eğitimi gerçekleştireceğiz.\n",
       "tiles": [
         {
           "icon": "💬",
@@ -196,5 +196,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16 16:14:13"
+  "updatedAt": "2026-10-16 16:18:11"
 }
