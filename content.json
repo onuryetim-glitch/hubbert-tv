@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-16 17:08:49",
+  "updatedAt": "2026-10-16 17:10:00",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
