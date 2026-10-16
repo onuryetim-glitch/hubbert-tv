@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -144,7 +144,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-16 17:18:32",
+  "updatedAt": "2026-10-16 17:18:43",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -154,8 +154,8 @@
         "id": "b1",
         "name": "Sayidi Battal",
         "title": "IT Team Leader",
-        "day": "",
-        "month": "",
+        "day": 15,
+        "month": 12,
         "photo": ""
       },
       {
