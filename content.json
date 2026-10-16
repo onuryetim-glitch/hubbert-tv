@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -53,10 +53,6 @@
         {
           "icon": "⭐",
           "label": "Yeni güncelleme "
-        },
-        {
-          "icon": "⭐",
-          "label": "Yeni"
         }
       ]
     },
@@ -146,55 +142,7 @@
       "cta": true,
       "caption": "IT desteği mi lazım? Önce Hubbert! – Atlas Copco Türkiye IT",
       "tiles": []
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "roll",
-      "duration": 8,
-      "title": "Yeni duyuru",
-      "subtitle": "",
-      "cta": false,
-      "caption": "",
-      "tiles": [
-        {
-          "icon": "📢",
-          "label": "Duyuru"
-        }
-      ]
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "roll",
-      "duration": 8,
-      "title": "Yeni duyuru",
-      "subtitle": "",
-      "cta": false,
-      "caption": "",
-      "tiles": [
-        {
-          "icon": "📢",
-          "label": "Duyuru"
-        }
-      ]
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "roll",
-      "duration": 8,
-      "title": "Yeni duyuru",
-      "subtitle": "",
-      "cta": false,
-      "caption": "",
-      "tiles": [
-        {
-          "icon": "📢",
-          "label": "Duyuru"
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-10-16 16:19:26"
+  "updatedAt": "2026-10-16 16:21:35"
 }
