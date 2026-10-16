@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "settings": {
     "brand": "HUBBERT AI",
     "showLogo": false,
@@ -200,5 +200,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16 15:27:37"
+  "updatedAt": "2026-10-16 15:27:47"
 }
