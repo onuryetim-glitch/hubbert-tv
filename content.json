@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "settings": {
     "brand": "HUBBERT AI",
     "showLogo": true,
@@ -57,21 +57,17 @@
         {
           "icon": "⭐",
           "label": "Yeni"
-        },
-        {
-          "icon": "⭐",
-          "label": "Yeni"
         }
       ]
     },
     {
       "enabled": true,
-      "type": "flow",
-      "anim": "flip",
-      "duration": 8,
-      "title": "",
-      "subtitle": "",
-      "cta": false,
+      "type": "hero",
+      "anim": "zoomSpin",
+      "duration": 15,
+      "title": "Bu bir test başlığıdır",
+      "subtitle": "Bu da bu test başlığının alt başlığıdır.",
+      "cta": true,
       "caption": "Yazın, ticket otomatik açılsın, ekip çözsün.",
       "tiles": [
         {
@@ -200,5 +196,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16 15:42:49"
+  "updatedAt": "2026-10-16 15:50:49"
 }
