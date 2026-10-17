@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -15,21 +15,22 @@
       "type": "hero",
       "anim": "spinGrow",
       "duration": 7,
-      "title": "Hubbert test",
+      "title": "Hubbert",
       "subtitle": "Teams'teki AI destek asistanınız",
-      "cta": false,
-      "caption": "Teams'teki yapay zekâ destekli IT asistanınız: Hubbert.",
-      "tiles": []
+      "cta": true,
+      "caption": "Teams'teki yapay zekâ destekli IT asistanınız: \n\n\nHubbert.",
+      "tiles": [],
+      "captionHtml": "Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;<div><br></div><div><span style=\"font-weight:bold\">Hubbert</span>.</div>"
     },
     {
       "enabled": true,
       "type": "tiles",
-      "anim": "roll",
+      "anim": "drop",
       "duration": 7,
       "title": "IT sorunu mu var?",
       "subtitle": "",
       "cta": false,
-      "caption": "Bir IT sorununuz mu var? Bilgisayarı kargolamayın, Hubbert'a yazın.",
+      "caption": "Bir IT sorununuz mu var?\n\nBilgisayarı kargolamayın, Hubbert'a yazın.",
       "tiles": [
         {
           "icon": "🔐",
@@ -55,7 +56,8 @@
           "icon": "⭐",
           "label": "Yeni güncelleme "
         }
-      ]
+      ],
+      "captionHtml": "Bir IT sorununuz mu var? <br><br>Bilgisayarı kargolamayın, Hubbert'a yazın."
     },
     {
       "enabled": true,
@@ -146,7 +148,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 03:34:49",
+  "updatedAt": "2026-10-17 03:40:14",
   "weather": {
     "widget": true,
     "scene": true,
