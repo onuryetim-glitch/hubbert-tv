@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -148,7 +148,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 14:57:58",
+  "updatedAt": "2026-10-17 15:00:08",
   "weather": {
     "widget": true,
     "scene": true,
@@ -349,8 +349,92 @@
         "status": "auto",
         "note": "",
         "enabled": true
+      },
+      {
+        "id": "rmvccg13r1y26",
+        "name": "İstanbul Toplantı Odası",
+        "email": "Istanbul-AC.Turkey@atlascopco.com",
+        "capacity": 15,
+        "location": "İstanbul",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvccg53s07be",
+        "name": "ACTA Excellence Center",
+        "email": "ACTA.Excellence.Center-Room-AC.Turkey@atlascopco.com",
+        "capacity": 0,
+        "location": "İstanbul",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvccg88dlrwx",
+        "name": "CP Toplantı Odası",
+        "email": "CP.Istanbul-AC.Turkey@atlascopco.com",
+        "capacity": 6,
+        "location": "ITBA Kuris ofisi",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvccg9b6pulk",
+        "name": "Desoutter Toplantı Odası",
+        "email": "Desoutter.Istanbul-AC.Turkey@atlascopco.com",
+        "capacity": 11,
+        "location": "ITBA Kuris ofisi",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvccgaacu4ng",
+        "name": "Ankara Toplantı Odası",
+        "email": "Ankara-AC.Turkey@atlascopco.com",
+        "capacity": 8,
+        "location": "Ankara",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvccgb9pdsxo",
+        "name": "Bursa Toplantı Odası",
+        "email": "Bursa-AC.Turkey@atlascopco.com",
+        "capacity": 6,
+        "location": "Bursa",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
       }
     ],
-    "bookings": []
+    "bookings": [
+      {
+        "id": "kmvccgyq4csf0",
+        "room": "rmvccg88dlrwx",
+        "date": "2026-10-17",
+        "start": "15:00",
+        "end": "15:30",
+        "organizer": "",
+        "title": ""
+      }
+    ]
   }
 }
