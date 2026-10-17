@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -146,7 +146,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 02:59:53",
+  "updatedAt": "2026-10-17 03:24:53",
   "weather": {
     "widget": true,
     "scene": true,
@@ -196,5 +196,159 @@
         "photos": []
       }
     ]
+  },
+  "rooms": {
+    "enabled": false,
+    "title": "Toplantı Odaları",
+    "subtitle": "Maya Tower · Kartal",
+    "duration": 20,
+    "soonMinutes": 15,
+    "dayStart": "08:00",
+    "dayEnd": "19:00",
+    "showOrganizer": true,
+    "showTitle": false,
+    "footer": "",
+    "items": [
+      {
+        "id": "r1",
+        "name": "Zeytin",
+        "email": "tr.trt.zeytin.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r2",
+        "name": "Ladin",
+        "email": "tr.trt.ladin.meeting.room@atlascopco.com",
+        "capacity": 16,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r3",
+        "name": "Sedir",
+        "email": "tr.trt.sedir.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r4",
+        "name": "Akasya",
+        "email": "tr.trn.akasya.meeting.room@atlascopco.com",
+        "capacity": 16,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv",
+          "video"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r5",
+        "name": "Ihlamur",
+        "email": "tr.trn.ihlamur.meeting.room@atlascopco.com",
+        "capacity": 10,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r6",
+        "name": "Meşe",
+        "email": "tr.trn.mese.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r7",
+        "name": "Çınar",
+        "email": "tr.trn.cinar.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r8",
+        "name": "Begonvil",
+        "email": "tr.trn.begonvil.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r9",
+        "name": "Manolya",
+        "email": "tr.trn.manolya.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r10",
+        "name": "Ardıç",
+        "email": "trn.tr.ardic.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "r11",
+        "name": "Innovation Center",
+        "email": "trn.maya.innovation.center.meetingroom@atlascopco.com",
+        "capacity": 20,
+        "location": "Maya Tower · Kartal",
+        "features": [
+          "tv",
+          "video"
+        ],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      }
+    ],
+    "bookings": []
   }
 }
