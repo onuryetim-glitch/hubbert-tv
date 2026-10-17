@@ -408,6 +408,75 @@ body.tv .controls, body.tv .hint{display:none}
 .scene.active .sdesc.fade{animation-delay:1.9s}
 @keyframes descScroll{0%,14%{transform:translateY(0)}86%,100%{transform:translateY(var(--sc,0px))}}
 
+/* ===== Toplantı odaları ===== */
+.rooms-only .caption,.rooms-only .bar{display:none}
+.scene.corp.rms{padding:calc(var(--u)*9.5) calc(var(--u)*5) calc(var(--u)*5);gap:calc(var(--u)*2);justify-content:flex-start}
+.scene.corp.rms .cbg{background:
+  linear-gradient(rgba(5,78,90,.05) 1px,rgba(5,78,90,0) 1px) 0 0/calc(var(--u)*5) calc(var(--u)*5),
+  linear-gradient(90deg,rgba(5,78,90,.05) 1px,rgba(5,78,90,0) 1px) 0 0/calc(var(--u)*5) calc(var(--u)*5),
+  linear-gradient(160deg,#ffffff 0%,#f5f9fa 55%,#e8f1f3 100%)}
+.rm-head{width:100%;display:flex;align-items:flex-end;justify-content:space-between;gap:calc(var(--u)*3)}
+.rm-hl{display:flex;flex-direction:column;align-items:flex-start;gap:calc(var(--u)*.5);text-align:start;min-width:0}
+.rm-hl .chead{justify-content:flex-start}
+.rm-title{font-size:calc(var(--u)*4.8);font-weight:800;color:#054e5a;line-height:1.05}
+.rm-sub{font-size:calc(var(--u)*2.1);color:#5f6d74;font-weight:600}
+.rm-sum{display:flex;gap:calc(var(--u)*1);flex-wrap:wrap;justify-content:center}
+.rm-pill{display:inline-flex;align-items:center;gap:.45em;padding:.45em 1em;border-radius:999px;background:#fff;border:1px solid #e3edef;font-size:calc(var(--u)*1.9);color:#33474e;font-weight:600;box-shadow:0 1px 3px rgba(5,78,90,.06)}
+.rm-pill i{width:.7em;height:.7em;border-radius:50%}
+.rm-pill b{font-weight:800}
+.p-free i{background:#1f9d6b}.p-busy i{background:#d6453d}.p-soon i{background:#e0aa62}.p-out i{background:#9aa5ab}
+.rm-hr{display:flex;flex-direction:column;align-items:flex-end;text-align:end}
+.rm-clock{font-size:calc(var(--u)*6.2);font-weight:800;color:#054e5a;line-height:1;font-variant-numeric:tabular-nums}
+.rm-date{font-size:calc(var(--u)*2);color:#5f6d74;font-weight:600}
+.rm-wrap{width:100%;flex:1 1 auto;min-height:0;display:flex}
+.rm-grid{display:none;width:100%;height:100%;gap:calc(var(--u)*1.8);grid-auto-rows:1fr}
+.rm-grid.on{display:grid}
+.rm-foot{width:100%;display:flex;justify-content:space-between;gap:calc(var(--u)*2);font-size:calc(var(--u)*1.6);color:#7b878d;font-weight:600}
+.rt{--sc:#1f9d6b;position:relative;display:flex;flex-direction:column;gap:calc(var(--u)*.7);min-width:0;min-height:0;overflow:hidden;text-align:start;
+  background:#fff;border:1px solid #e3edef;border-radius:calc(var(--u)*1.8);padding:calc(var(--u)*1.8) calc(var(--u)*2.2) calc(var(--u)*1.7) calc(var(--u)*2.8);
+  box-shadow:0 calc(var(--u)*.6) calc(var(--u)*2.2) rgba(5,78,90,.07);transition:background .6s,border-color .6s}
+.rt::before{content:"";position:absolute;inset-block:0;inset-inline-start:0;width:calc(var(--u)*.9);background:var(--sc);transition:background .6s}
+.rt.s-free{--sc:#1f9d6b;background:linear-gradient(160deg,#ffffff 55%,#eefaf4 100%)}
+.rt.s-busy{--sc:#d6453d;background:linear-gradient(160deg,#ffffff 55%,#fdf0ef 100%);border-color:#f3d3d0}
+.rt.s-soon{--sc:#e0aa62;background:linear-gradient(160deg,#ffffff 55%,#fdf5e9 100%);border-color:#f0dfc2}
+.rt.s-out{--sc:#9aa5ab;background:#f5f7f8}
+.rt-top{display:flex;align-items:baseline;justify-content:space-between;gap:calc(var(--u)*1)}
+.rt-name{font-size:calc(var(--u)*3.2);font-weight:800;color:#14313a;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rt-cap{font-size:calc(var(--u)*1.8);font-weight:700;color:#5f6d74;white-space:nowrap}
+.rt-meta{font-size:calc(var(--u)*1.6);color:#7b878d;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-height:1.2em}
+.rt-st{display:inline-flex;align-items:center;gap:.55em;align-self:flex-start;padding:.35em .95em;border-radius:999px;font-size:calc(var(--u)*1.8);letter-spacing:.1em;margin-block:calc(var(--u)*.3)}
+.s-free .rt-st{background:#e2f5ec;color:#126b48}.s-busy .rt-st{background:#fbe3e1;color:#a52f29}.s-soon .rt-st{background:#fbecd6;color:#8a5f22}.s-out .rt-st{background:#e9edef;color:#5f6d74}
+.rt-dot{width:.75em;height:.75em;border-radius:50%;background:var(--sc);animation:rpulse 2s ease-out infinite}
+@keyframes rpulse{0%{box-shadow:0 0 0 0 rgba(20,49,58,.22)}70%{box-shadow:0 0 0 .7em rgba(20,49,58,0)}100%{box-shadow:0 0 0 0 rgba(20,49,58,0)}}
+.rt-main{font-size:calc(var(--u)*2.3);font-weight:700;color:#14313a;line-height:1.25}
+.rt-who{font-size:calc(var(--u)*2);color:#33474e;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rt-next{font-size:calc(var(--u)*1.7);color:#6b7a80;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rt-tl{position:relative;margin-top:auto;height:calc(var(--u)*1.1);border-radius:999px;background:#e9f0f2;flex:none}
+.rt-tli{position:absolute;inset:0;border-radius:999px;overflow:hidden}
+.rt-tli i{position:absolute;top:0;bottom:0;background:#e8968f}
+.rt-tli i.tent{background:#efc98f}
+.rt-now{position:absolute;top:calc(var(--u)*-.5);bottom:calc(var(--u)*-.5);width:calc(var(--u)*.4);margin-inline-start:calc(var(--u)*-.2);border-radius:999px;background:#054e5a}
+.rt-hours{display:flex;justify-content:space-between;font-size:calc(var(--u)*1.25);color:#9aa5ab;margin-top:calc(var(--u)*-.2)}
+.rows1 .rt{padding:calc(var(--u)*3) calc(var(--u)*3) calc(var(--u)*2.6) calc(var(--u)*3.8);gap:calc(var(--u)*1.2)}
+.rows1 .rt-name{font-size:calc(var(--u)*4.6)}
+.rows1 .rt-cap{font-size:calc(var(--u)*2.3)}
+.rows1 .rt-meta{font-size:calc(var(--u)*2)}
+.rows1 .rt-st{font-size:calc(var(--u)*2.2)}
+.rows1 .rt-main{font-size:calc(var(--u)*3)}
+.rows1 .rt-who{font-size:calc(var(--u)*2.6)}
+.rows1 .rt-next{font-size:calc(var(--u)*2.1)}
+.rows1 .rt-tl{height:calc(var(--u)*1.5)}
+.rows1 .rt-hours{font-size:calc(var(--u)*1.6)}
+.rows3 .rt{padding:calc(var(--u)*1.2) calc(var(--u)*1.6) calc(var(--u)*1.1) calc(var(--u)*2.2);gap:calc(var(--u)*.45);border-radius:calc(var(--u)*1.4)}
+.rows3 .rt-name{font-size:calc(var(--u)*2.5)}
+.rows3 .rt-cap{font-size:calc(var(--u)*1.5)}
+.rows3 .rt-meta{font-size:calc(var(--u)*1.35)}
+.rows3 .rt-st{font-size:calc(var(--u)*1.45);margin-block:0}
+.rows3 .rt-main{font-size:calc(var(--u)*1.85)}
+.rows3 .rt-who{font-size:calc(var(--u)*1.65)}
+.rows3 .rt-next{font-size:calc(var(--u)*1.45)}
+.rows3 .rt-tl{height:calc(var(--u)*.9)}
+.rows3 .rt-hours{display:none}
 </style>
 </head>
 <body>
@@ -942,6 +1011,146 @@ body.tv .controls, body.tv .hint{display:none}
   }
   function richText(html){return String(html||'').replace(/<br\s*\/?>/gi,' ').replace(/<\/(p|div|li)>/gi,' ').replace(/<[^>]*>/g,'').replace(/&nbsp;/g,' ').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&').replace(/\s+/g,' ').trim();}
 
+  /* ===== Toplantı odaları ===== */
+  var ROOMS_ONLY=/^(odalar|rooms)$/i.test(params.get('sayfa')||'');
+  if(ROOMS_ONLY){document.body.classList.add('rooms-only');}
+  var roomsLive=null;
+  var ROOM_FEAT={tv:'📺',video:'🎥',board:'📝',phone:'☎️',access:'♿'};
+  /* Türkçe saat ekleri: 14:30'da, 15:00'te, 16:00'ya kadar … */
+  var TR_SFX={0:['da','a'],1:['de','e'],2:['de','ye'],3:['te','e'],4:['te','e'],5:['te','e'],6:['da','ya'],7:['de','ye'],8:['de','e'],9:['da','a'],10:['da','a'],20:['de','ye'],30:['da','a'],40:['ta','a'],50:['de','ye']};
+  function trSfx(min,dat){var h=Math.floor(min/60)%24,m=Math.round(min)%60,n=m||h,k=n%10?n%10:n;return (TR_SFX[k]||TR_SFX[0])[dat?1:0];}
+  function hm(min){min=Math.max(0,Math.min(1439,Math.round(min)));return ('0'+Math.floor(min/60)).slice(-2)+':'+('0'+(min%60)).slice(-2);}
+  function hmS(min,dat){return hm(min)+'\u2019'+trSfx(Math.min(1439,Math.round(min)),dat);}
+  function durTxt(m){m=Math.max(1,Math.round(m));if(m<60){return m+' dk';}var h=Math.floor(m/60),r=m%60;return h+' sa'+(r?' '+r+' dk':'');}
+  function toMin(s){var m=/^(\d{1,2}):(\d{2})/.exec(String(s||''));return m?(+m[1])*60+(+m[2]):null;}
+  function liveMin(iso,today){var m=/^(\d{4}-\d{2}-\d{2})T(\d{2}):(\d{2})/.exec(String(iso||''));if(!m){return null;}if(m[1]<today){return 0;}if(m[1]>today){return 1440;}return (+m[2])*60+(+m[3]);}
+  function roomEvents(room,R,now){
+    var today=dayKey(now),out=[];
+    (R.bookings||[]).forEach(function(b){
+      if(!b||b.room!==room.id||b.date!==today){return;}
+      var s=toMin(b.start),e=toMin(b.end);if(s===null||e===null||e<=s){return;}
+      out.push({s:s,e:e,who:b.organizer||'',title:b.title||'',priv:false,tent:false});
+    });
+    var em=String(room.email||'').trim().toLowerCase(),L=(roomsLive&&roomsLive.byEmail&&em)?roomsLive.byEmail[em]:null;
+    (L||[]).forEach(function(v){
+      var s=liveMin(v.start,today),e=liveMin(v.end,today);if(s===null||e===null||e<=s){return;}
+      out.push({s:s,e:e,who:v.organizer||'',title:v.subject||'',priv:!!v.private,tent:!!v.tentative});
+    });
+    return out.sort(function(a,b){return a.s-b.s||a.e-b.e;});
+  }
+  function roomState(room,evs,nowMin,soon){
+    if(room.status==='out'){return {k:'out'};}
+    var cur=null;evs.forEach(function(e){if(e.s<=nowMin&&nowMin<e.e&&(!cur||e.s>=cur.s)){cur=e;}});
+    function after(t){var nx=null;evs.forEach(function(e){if(e.s>=t&&(!nx||e.s<nx.s)){nx=e;}});return nx;}
+    if(cur){
+      var end=cur.e,ch=true;
+      while(ch){ch=false;evs.forEach(function(e){if(e.s<=end+5&&e.e>end){end=e.e;ch=true;}});}
+      return {k:'busy',cur:cur,freeAt:end,left:end-nowMin,next:after(end)};
+    }
+    var nx=after(nowMin);
+    if(nx&&nx.s-nowMin<=soon){return {k:'soon',next:nx,inMin:nx.s-nowMin};}
+    return {k:'free',next:nx};
+  }
+  function whoTxt(e,R){
+    if(!e){return '';}
+    if(e.priv){return '🔒 Özel toplantı';}
+    var p=[];if(R.showOrganizer!==false&&e.who){p.push('👤 '+e.who);}
+    if(R.showTitle&&e.title&&e.title!==e.who){p.push('“'+e.title+'”');}
+    return p.join('  ·  ');
+  }
+  function roomTile(room){
+    var t=el('div','rt'),top=el('div','rt-top');
+    top.appendChild(el('div','rt-name',room.name||''));
+    if(+room.capacity){top.appendChild(el('div','rt-cap','👥 '+(+room.capacity)));}
+    t.appendChild(top);
+    var fe=(room.features||[]).map(function(f){return ROOM_FEAT[f]||'';}).filter(Boolean).join(' ');
+    t.appendChild(el('div','rt-meta',[room.location||'',fe].filter(Boolean).join('   ·   ')));
+    var st=el('div','rt-st'),lab=el('b','rt-lab');st.appendChild(el('i','rt-dot'));st.appendChild(lab);t.appendChild(st);
+    var main=el('div','rt-main'),who=el('div','rt-who'),nxt=el('div','rt-next');t.appendChild(main);t.appendChild(who);t.appendChild(nxt);
+    var tl=el('div','rt-tl'),tli=el('div','rt-tli'),nw=el('i','rt-now');tl.appendChild(tli);tl.appendChild(nw);t.appendChild(tl);
+    var hrs=el('div','rt-hours');t.appendChild(hrs);
+    t._u={lab:lab,main:main,who:who,nxt:nxt,tli:tli,nw:nw,hrs:hrs};t._room=room;
+    return t;
+  }
+  function updTile(t,R,now){
+    var room=t._room,u=t._u,nowMin=now.getHours()*60+now.getMinutes()+now.getSeconds()/60;
+    var evs=roomEvents(room,R,now),st=roomState(room,evs,nowMin,Math.max(5,+R.soonMinutes||15));
+    var ws=toMin(R.dayStart||'08:00'),we=toMin(R.dayEnd||'19:00');if(ws===null){ws=480;}if(we===null||we<=ws){we=Math.min(1440,ws+660);}
+    t.className='rt s-'+st.k;
+    u.lab.textContent=st.k==='busy'?(st.cur&&st.cur.tent?'REZERVE':'MEŞGUL'):st.k==='soon'?'YAKINDA DOLU':st.k==='out'?'KULLANIM DIŞI':'MÜSAİT';
+    var main='',who='',nxt='';
+    if(st.k==='out'){main=room.note||'Bakım nedeniyle kullanılamıyor';}
+    else if(st.k==='busy'){
+      main=st.freeAt>=1440?'⏱ Gün sonuna kadar dolu':'⏱ '+hmS(st.freeAt,false)+' müsait  ·  '+durTxt(st.left)+' kaldı';
+      who=whoTxt(st.cur,R);
+      if(st.next){nxt='Sıradaki: '+hm(st.next.s)+' – '+hm(st.next.e);}
+    } else if(st.k==='soon'){
+      main='⏳ '+durTxt(st.inMin)+' sonra toplantı var';
+      who=whoTxt(st.next,R);nxt=hm(st.next.s)+' – '+hm(st.next.e);
+    } else {
+      main=st.next?'✓ '+hmS(st.next.s,true)+' kadar müsait':(nowMin>=we?'✓ Bugün başka toplantı yok':'✓ Gün boyu müsait');
+      if(st.next){var w2=whoTxt(st.next,R);nxt='Sıradaki: '+hm(st.next.s)+' – '+hm(st.next.e)+(w2?'  ·  '+w2.replace('👤 ',''):'');}
+    }
+    u.main.textContent=main;u.who.textContent=who;u.nxt.textContent=nxt;
+    u.who.style.display=who?'':'none';u.nxt.style.display=nxt?'':'none';
+    u.tli.innerHTML='';
+    evs.forEach(function(e){var a=Math.max(ws,e.s),b=Math.min(we,e.e);if(b<=a){return;}
+      var g=el('i',e.tent?'tent':'');g.style.left=((a-ws)/(we-ws)*100).toFixed(2)+'%';g.style.width=((b-a)/(we-ws)*100).toFixed(2)+'%';u.tli.appendChild(g);});
+    var p=(nowMin-ws)/(we-ws);u.nw.style.display=(p>=0&&p<=1)?'':'none';u.nw.style.left=(Math.max(0,Math.min(1,p))*100).toFixed(2)+'%';
+    if(!u.hrs._done){u.hrs._done=true;var step=(we-ws)>480?120:60;for(var x=ws;x<=we;x+=step){u.hrs.appendChild(el('span',null,hm(x).slice(0,2)));}}
+    return st.k;
+  }
+  function roomsScene(c){
+    var R=c.rooms||{},items=(R.items||[]).filter(function(r){return r&&r.name&&r.enabled!==false;});
+    var sec=corpScene('rms');sec._rooms=true;
+    var head=el('div','rm-head cin d1'),hl=el('div','rm-hl'),hr=el('div','rm-hr'),sum=el('div','rm-sum');
+    var kh=el('div','chead');kh.appendChild(el('span','sq'));kh.appendChild(el('span','csub','TOPLANTI ODALARI'));hl.appendChild(kh);
+    hl.appendChild(el('div','rm-title',R.title||'Toplantı Odaları'));
+    if(R.subtitle){hl.appendChild(el('div','rm-sub',R.subtitle));}
+    var clock=el('div','rm-clock'),date=el('div','rm-date');hr.appendChild(clock);hr.appendChild(date);
+    head.appendChild(hl);head.appendChild(sum);head.appendChild(hr);sec.appendChild(head);
+    var per=Math.max(1,Math.min(16,+R.perPage||12)),pages=[],tiles=[],wrap=el('div','rm-wrap cin d2');
+    for(var i=0;i<items.length;i+=per){
+      var chunk=items.slice(i,i+per),n=chunk.length,cols=n<=4?n:n<=6?3:4,rows=Math.ceil(n/cols),pg=el('div','rm-grid rows'+rows);
+      pg.style.gridTemplateColumns='repeat('+cols+',minmax(0,1fr))';
+      chunk.forEach(function(r){var t=roomTile(r);tiles.push(t);pg.appendChild(t);});
+      wrap.appendChild(pg);pages.push(pg);
+    }
+    if(!items.length){wrap.appendChild(el('div','cempty','Henüz toplantı odası eklenmedi.'));}
+    sec.appendChild(wrap);
+    var foot=el('div','rm-foot cin d3'),fl=el('span'),fr=el('span');foot.appendChild(fl);foot.appendChild(fr);sec.appendChild(foot);
+    fl.textContent=R.footer||'📅 Oda rezervasyonu için Outlook’ta toplantınıza odayı ekleyin.';
+    function refresh(){
+      var now=new Date(),cnt={free:0,busy:0,soon:0,out:0};
+      clock.textContent=('0'+now.getHours()).slice(-2)+':'+('0'+now.getMinutes()).slice(-2);
+      date.textContent=now.getDate()+' '+BD_MONTHS[now.getMonth()]+' '+TR_DAYS[now.getDay()];
+      tiles.forEach(function(t){cnt[updTile(t,R,now)]++;});
+      sum.innerHTML='';
+      [['free','müsait'],['soon','yakında dolu'],['busy','meşgul'],['out','kullanım dışı']].forEach(function(x){
+        if(!cnt[x[0]]&&x[0]!=='free'&&x[0]!=='busy'){return;}
+        var p=el('span','rm-pill p-'+x[0]);p.appendChild(el('i'));p.appendChild(el('b',null,String(cnt[x[0]])));p.appendChild(document.createTextNode(' '+x[1]));sum.appendChild(p);
+      });
+      var up=roomsLive&&roomsLive.source==='outlook'&&roomsLive.updatedAt&&String(roomsLive.updatedAt).slice(0,10)===dayKey(now)?String(roomsLive.updatedAt).slice(11,16):'';
+      fr.textContent=up?'Outlook takviminden · güncelleme '+up:'';
+      sec._cap=cnt.free+' oda müsait, '+cnt.busy+' oda meşgul'+(cnt.soon?', '+cnt.soon+' oda yakında dolacak':'')+'.';
+      cap.textContent=player.classList.contains('rooms-on')?sec._cap:cap.textContent;
+    }
+    sec._d=ROOMS_ONLY?60000:Math.max(Math.max(8,+R.duration||20)*1000,pages.length*10000);
+    sec._render=function(){
+      refresh();var k=0,ticks=0;
+      pages.forEach(function(p,j){p.classList.toggle('on',j===0);});
+      return setInterval(function(){refresh();ticks++;if(pages.length>1&&ticks%2===0){pages[k].classList.remove('on');k=(k+1)%pages.length;pages[k].classList.add('on');}},5000);
+    };
+    refresh();
+    return sec;
+  }
+  function getRoomsLive(){return getJSON('rooms.json').catch(function(){return getJSON('api/rooms');});}
+  function pollRooms(){
+    if(location.protocol==='file:'){return;}
+    getRoomsLive().then(function(j){if(j&&typeof j==='object'&&j.byEmail){roomsLive=j;}}).catch(function(){})
+      .then(function(){setTimeout(pollRooms,60000);});
+  }
+
   function build(c,opts){
     opts=opts||{};content=c; stage.innerHTML=''; scenes=[];builtDay=stamp();lastOpts=opts;wxRebuild=false;ensureWeather(c,opts.forceWeather);
     var st=c.settings||{};
@@ -983,13 +1192,16 @@ body.tv .controls, body.tv .hint{display:none}
     });
     var bdays=birthdayScenes(c,opts);
     var wxs=(opts.forceWeather||(!opts.force&&wxCfg(c).scene&&wxFresh()))?[weatherScene(c)]:[];
-    var X=extraScenes(c,opts),list;
-    if(opts.only){list=X.only;}
+    var X=extraScenes(c,opts),list,RM=c.rooms||{},hasRooms=(RM.items||[]).some(function(r){return r&&r.name&&r.enabled!==false;});
+    var rms=(RM.enabled&&hasRooms)?[roomsScene(c)]:[];
+    if(opts.only&&opts.only.kind==='rooms'){list=[roomsScene(c)];}
+    else if(opts.only){list=X.only;}
+    else if(ROOMS_ONLY&&!opts.force&&!opts.forceWeather){list=[roomsScene(c)];}
     else if(opts.forceWeather){list=wxs;}
     else if(opts.force){list=bdays;}
     else{
       var mid=userScenes.slice(1,Math.max(1,userScenes.length-1)),last=userScenes.length>1?userScenes.slice(-1):[];
-      list=userScenes.slice(0,1).concat(X.welcome,bdays,X.anniv,wxs,mid,X.ach,X.events,X.gallery,X.monthB,X.monthA,last);
+      list=userScenes.slice(0,1).concat(X.welcome,bdays,X.anniv,wxs,rms,mid,X.ach,X.events,X.gallery,X.monthB,X.monthA,last);
     }
     list.forEach(function(sec){stage.appendChild(sec);scenes.push(sec);});
     if(!scenes.length){var e=el('section','scene active');e._d=5000;e._cap='';e.appendChild(el('h2',null,'Gösterilecek sahne yok'));stage.appendChild(e);scenes.push(e);}
@@ -1005,6 +1217,7 @@ body.tv .controls, body.tv .hint{display:none}
     player.classList.toggle('light',!!s._light);
     player.classList.toggle('wx-scene',!!s._wx);
     player.classList.toggle('corp-on',!!s._corp);
+    player.classList.toggle('rooms-on',!!s._rooms);
   }
   function flash(){var s=document.getElementById('sync');s.classList.add('show');setTimeout(function(){s.classList.remove('show');},3000);}
   function tick(t){
@@ -1062,7 +1275,7 @@ body.tv .controls, body.tv .hint{display:none}
       setTimeout(poll,Math.max(3,sec)*1000);
     });
   }
-  function boot(c){build(c);show(0);requestAnimationFrame(tick);poll();}
+  function boot(c){build(c);show(0);requestAnimationFrame(tick);poll();pollRooms();}
   if(isPreview||location.protocol==='file:'){boot(DEFAULT);}
   else{getContent().then(boot).catch(function(){boot(DEFAULT);});}
 })();
