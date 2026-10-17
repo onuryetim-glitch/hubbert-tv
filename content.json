@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -146,14 +146,14 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 03:28:33",
+  "updatedAt": "2026-10-17 03:31:46",
   "weather": {
     "widget": true,
     "scene": true,
     "duration": 10,
-    "name": "İstanbul – Kartal",
-    "lat": 40.906,
-    "lon": 29.16
+    "name": "Antalya",
+    "lat": 36.9081,
+    "lon": 30.6956
   },
   "anniversaries": {
     "enabled": true,
