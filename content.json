@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -148,7 +148,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 14:44:27",
+  "updatedAt": "2026-10-17 14:45:24",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -196,9 +196,9 @@
     "widget": true,
     "scene": true,
     "duration": 10,
-    "name": "İstanbul – Kartal",
-    "lat": 40.906,
-    "lon": 29.16
+    "name": "Kadıköy (İstanbul)",
+    "lat": 41.1366,
+    "lon": 28.3642
   },
   "anniversaries": {
     "enabled": true,
