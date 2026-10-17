@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -146,7 +146,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-17 03:24:53",
+  "updatedAt": "2026-10-17 03:28:33",
   "weather": {
     "widget": true,
     "scene": true,
@@ -198,7 +198,7 @@
     ]
   },
   "rooms": {
-    "enabled": false,
+    "enabled": true,
     "title": "Toplantı Odaları",
     "subtitle": "Maya Tower · Kartal",
     "duration": 20,
