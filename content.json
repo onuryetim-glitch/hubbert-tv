@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -148,7 +148,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-19 15:01:40",
+  "updatedAt": "2026-10-19 15:08:49",
   "weather": {
     "widget": true,
     "scene": true,
@@ -173,16 +173,17 @@
     "items": [
       {
         "id": "e1",
-        "type": "toplanti",
-        "title": "IT crew Montly Meeting",
+        "type": "etkinlik",
+        "title": "Atlas Copco Tuzla Yeni Yıl Hediyeleşme Etkinliği",
         "date": "2026-10-28",
         "endDate": "2026-10-28",
         "start": "11:00",
         "end": "12:00",
-        "location": "Microsoft Teams",
-        "desc": "Hubbert ve genel IT yapısı, destek süreçleri",
+        "location": "Tuzla",
+        "desc": "",
         "enabled": true,
-        "photos": []
+        "photos": [],
+        "galleryUntil": "2026-11-11"
       },
       {
         "id": "emvbjuwy5yxf9",
@@ -194,6 +195,19 @@
         "end": "00:00",
         "location": "ttteeesssttt",
         "desc": "qqqqqqqq",
+        "enabled": true,
+        "photos": []
+      },
+      {
+        "id": "emvf7mihviiiy",
+        "type": "egitim",
+        "title": "",
+        "date": "2026-10-20",
+        "endDate": "",
+        "start": "10:00",
+        "end": "11:00",
+        "location": "",
+        "desc": "",
         "enabled": true,
         "photos": []
       }
