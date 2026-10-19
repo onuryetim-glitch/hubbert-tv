@@ -1,5 +1,5 @@
 {
-  "version": 71,
+  "version": 72,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -7,7 +7,8 @@
     "loop": true,
     "refreshSeconds": 5,
     "showCaptions": true,
-    "publishPeople": false
+    "publishPeople": false,
+    "publishNews": true
   },
   "scenes": [
     {
@@ -148,7 +149,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-19 15:17:46",
+  "updatedAt": "2026-10-19 15:38:37",
   "weather": {
     "widget": true,
     "scene": true,
@@ -352,5 +353,48 @@
       }
     ],
     "bookings": []
+  },
+  "news": {
+    "enabled": true,
+    "title": "Haberler ve Duyurular",
+    "front": true,
+    "articles": true,
+    "max": 8,
+    "duration": 12,
+    "frontDuration": 12,
+    "items": [
+      {
+        "id": "n1",
+        "title": "Hubbert Kullanım Eğitimi 21 Ekim’de",
+        "category": "egitim",
+        "date": "2026-10-19",
+        "from": "",
+        "to": "2026-10-21",
+        "source": "Atlas Copco Türkiye IT",
+        "summary": "Hubbert’ı ve IT destek süreçlerini tanıtacağımız eğitim 21 Ekim Çarşamba 11:00’de Teams’te.",
+        "pinned": true,
+        "enabled": true,
+        "image": "",
+        "imageCaption": "",
+        "body": "",
+        "bodyHtml": "IT süreçlerini daha yakından tanıtmak ve <b>Hubbert</b> kullanımını anlatmak için Microsoft Teams üzerinden bir kullanıcı eğitimi düzenliyoruz.<ul><li>📅 <b>21 Ekim 2026 Çarşamba, 11:00 – 12:00</b></li><li>📍 Microsoft Teams</li><li>Hubbert nedir, nasıl kullanılır, IT desteğine nasıl ulaşılır?</li></ul>Katılımınızı bekliyoruz!"
+      },
+      {
+        "id": "n2",
+        "title": "USB bellek kısıtlaması ertelendi",
+        "category": "it",
+        "date": "2026-10-02",
+        "from": "2026-10-19",
+        "to": "2026-10-24",
+        "source": "Atlas Copco Group IT Service Desk",
+        "summary": "5 Ekim’de başlaması planlanan USB kısıtlaması Kompresör Tekniği iş alanı için ertelendi.",
+        "pinned": false,
+        "enabled": true,
+        "image": "media/6423e9d8c5183d6bc74e7ea2.jpg",
+        "imageCaption": "ekip açıklama test",
+        "body": "",
+        "bodyHtml": "Dosyaların USB belleklere kopyalanmasını engelleyecek ve <b>5 Ekim 2026</b>’da devreye alınması planlanan güvenlik politikası, <b>Kompresör Tekniği iş alanı</b> için ertelendi. Henüz yeni bir uygulama tarihi belirlenmedi.<ul><li>Mevcut çalışma şekliniz değişmiyor; USB bellek kullanmaya devam edebilirsiniz.</li><li>Yeni tarih belirlendiğinde ayrıca bilgilendirileceksiniz.</li></ul>Sorularınız için Teams’te <b>Hubbert</b>’a yazabilirsiniz."
+      }
+    ]
   }
 }
