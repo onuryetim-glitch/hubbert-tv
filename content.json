@@ -1,5 +1,5 @@
 {
-  "version": 75,
+  "version": 76,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -150,7 +150,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-19 16:28:25",
+  "updatedAt": "2026-10-19 16:28:45",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -502,7 +502,7 @@
         "summary": "Hubbert’ı ve IT destek süreçlerini tanıtacağımız eğitim 21 Ekim Çarşamba 11:00’de Teams’te.",
         "pinned": true,
         "enabled": true,
-        "image": "",
+        "image": "media/6423e9d8c5183d6bc74e7ea2.jpg",
         "imageCaption": "",
         "body": "",
         "bodyHtml": "IT süreçlerini daha yakından tanıtmak ve <b>Hubbert</b> kullanımını anlatmak için Microsoft Teams üzerinden bir kullanıcı eğitimi düzenliyoruz.<ul><li>📅 <b>21 Ekim 2026 Çarşamba, 11:00 – 12:00</b></li><li>📍 Microsoft Teams</li><li>Hubbert nedir, nasıl kullanılır, IT desteğine nasıl ulaşılır?</li></ul>Katılımınızı bekliyoruz!"
