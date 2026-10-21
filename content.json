@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -23,96 +23,6 @@
       "caption": "Teams'teki yapay zekâ destekli IT asistanınız: \n\n\nHubbert.",
       "tiles": [],
       "captionHtml": "<span style=\"color:rgb(79, 163, 191)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><br></span></div><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div>"
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "drop",
-      "duration": 7,
-      "title": "IT sorunu mu var?",
-      "subtitle": "",
-      "cta": false,
-      "caption": "Bir IT sorununuz mu var?\n\nBilgisayarı kargolamayın, Hubbert'a yazın.",
-      "tiles": [
-        {
-          "icon": "🔐",
-          "label": "Hesap"
-        },
-        {
-          "icon": "💻",
-          "label": "Yazılım"
-        },
-        {
-          "icon": "📱",
-          "label": "Mobil"
-        },
-        {
-          "icon": "⌨️",
-          "label": "Donanım"
-        },
-        {
-          "icon": "⭐",
-          "label": "test"
-        },
-        {
-          "icon": "⭐",
-          "label": "Yeni güncelleme "
-        }
-      ],
-      "captionHtml": "Bir IT sorununuz mu var? <br><br>Bilgisayarı kargolamayın, Hubbert'a yazın."
-    },
-    {
-      "enabled": true,
-      "type": "hero",
-      "anim": "zoomSpin",
-      "duration": 20,
-      "title": "Hubbert Kullanım Eğitimi",
-      "subtitle": "21 Ekim Çarşamba",
-      "cta": true,
-      "caption": "IT destek taleplerinizi daha hızlı ve etkin şekilde iletebilmeniz için\n21 Ekim Çarşamba günü, 11.00–12.00 saatleri arasında\nHubbert kullanım eğitimi gerçekleştireceğiz.",
-      "tiles": [
-        {
-          "icon": "💬",
-          "label": "Yaz"
-        },
-        {
-          "icon": "🎫",
-          "label": "Ticket"
-        },
-        {
-          "icon": "✅",
-          "label": "Çözüm"
-        }
-      ],
-      "captionHtml": "<div style=\"text-align:left\">IT destek taleplerinizi daha hızlı ve etkin şekilde iletebilmeniz için</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">21 Ekim Çarşamba günü, <span style=\"color:rgb(255, 138, 128)\">11.00–12.00</span></span><span style=\"color:rgb(255, 138, 128)\"> </span>saatleri arasında</div><div style=\"text-align:left\">Hubbert kullanım eğitimi gerçekleştireceğiz.</div>"
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "drop",
-      "duration": 8,
-      "title": "",
-      "subtitle": "",
-      "cta": false,
-      "caption": "Hızlı, kayıt altında, mümkünse uzaktan; cihazsız kalmazsınız.",
-      "tiles": [
-        {
-          "icon": "⚡",
-          "label": "Hızlı Destek T"
-        },
-        {
-          "icon": "📋",
-          "label": "Takip"
-        },
-        {
-          "icon": "🌐",
-          "label": "Uzaktan"
-        },
-        {
-          "icon": "⏱️",
-          "label": "SLA"
-        }
-      ]
     },
     {
       "enabled": true,
@@ -150,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-21 16:35:15",
+  "updatedAt": "2026-10-21 16:38:14",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -462,24 +372,6 @@
       }
     ],
     "bookings": [
-      {
-        "id": "kmvf9lcmqabsj",
-        "room": "r2",
-        "date": "2026-10-19",
-        "start": "16:00",
-        "end": "16:30",
-        "organizer": "Onur Yetim",
-        "title": ""
-      },
-      {
-        "id": "kmvf9lik2p7yk",
-        "room": "r4",
-        "date": "2026-10-19",
-        "start": "16:00",
-        "end": "16:30",
-        "organizer": "Tolga Unal",
-        "title": ""
-      },
       {
         "id": "kmvi5mpfu14jf",
         "room": "r4",
