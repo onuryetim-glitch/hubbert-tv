@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "settings": {
     "brand": "HUBBERT AI Tool",
     "showLogo": true,
@@ -150,7 +150,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-21 09:37:03",
+  "updatedAt": "2026-10-21 09:37:19",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -255,7 +255,7 @@
         "department": "Service Operation",
         "manager": "Sedat Kocabas",
         "location": "Düzce",
-        "start": "2026-10-17",
+        "start": "2026-10-21",
         "photo": "",
         "message": "",
         "enabled": true
