@@ -1,5 +1,5 @@
 {
-  "version": 99,
+  "version": 100,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:42:09",
+  "updatedAt": "2026-10-22 15:46:41",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -182,7 +182,8 @@
         "message": "",
         "enabled": true
       }
-    ]
+    ],
+    "messageEn": ""
   },
   "events": {
     "enabled": true,
@@ -379,6 +380,33 @@
         "start": "16:35",
         "end": "17:05",
         "organizer": "Onur Yetim",
+        "title": ""
+      },
+      {
+        "id": "kmvjjbcidr33z",
+        "room": "r1",
+        "date": "2026-10-22",
+        "start": "15:45",
+        "end": "16:15",
+        "organizer": "Akay Ildan",
+        "title": ""
+      },
+      {
+        "id": "kmvjjbxlrw8nk",
+        "room": "r4",
+        "date": "2026-10-22",
+        "start": "15:45",
+        "end": "16:45",
+        "organizer": "Onur Yetim",
+        "title": ""
+      },
+      {
+        "id": "kmvjjc5cjhub3",
+        "room": "r5",
+        "date": "2026-10-22",
+        "start": "15:45",
+        "end": "16:15",
+        "organizer": "Tolga Ünal",
         "title": ""
       }
     ]
