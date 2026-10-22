@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -60,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 11:56:00",
+  "updatedAt": "2026-10-22 14:34:36",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -392,6 +392,22 @@
     "duration": 12,
     "frontDuration": 12,
     "items": [
+      {
+        "id": "nmvjfd3ft69hp",
+        "title": "",
+        "category": "duyuru",
+        "date": "2026-10-22",
+        "from": "",
+        "to": "",
+        "source": "",
+        "summary": "Görsel kısa özeti",
+        "image": "media/f3d0a8b74a580409bb4fd039.jpg",
+        "imageCaption": "Görsel açıklaması",
+        "pinned": true,
+        "enabled": true,
+        "bodyHtml": "detaylar burada yayınlanacak<div><br></div>",
+        "body": "detaylar burada yayınlanacak"
+      },
       {
         "id": "n1",
         "title": "Hubbert Kullanım Eğitimi 21 Ekim’de",
