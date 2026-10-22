@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -41,11 +41,11 @@
         },
         {
           "icon": "🔁",
-          "label": "Yeniden aç"
+          "label": "Ticket'ı yeniden aç"
         },
         {
-          "icon": "⭐",
-          "label": "Anket"
+          "icon": "📱",
+          "label": "Cep Telefonundan Erişim"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:47:13",
+  "updatedAt": "2026-10-22 15:48:34",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
