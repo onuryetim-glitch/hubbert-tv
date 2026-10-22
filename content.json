@@ -1,5 +1,5 @@
 {
-  "version": 90,
+  "version": 91,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -60,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 14:34:52",
+  "updatedAt": "2026-10-22 14:50:25",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -394,8 +394,8 @@
     "items": [
       {
         "id": "nmvjfd3ft69hp",
-        "title": "",
-        "category": "duyuru",
+        "title": "Bu bir test duyurusudur.....",
+        "category": "it",
         "date": "2026-10-22",
         "from": "",
         "to": "",
