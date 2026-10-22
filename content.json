@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:48:34",
+  "updatedAt": "2026-10-22 15:50:23",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -517,7 +517,7 @@
   "guests": {
     "enabled": true,
     "duration": 15,
-    "message": "",
+    "message": "Varsayılan karşılama mesajıdır.....",
     "items": [
       {
         "id": "gmvjihr23a358",
@@ -526,7 +526,7 @@
         "country": "SE",
         "start": "2026-10-22",
         "end": "",
-        "host": "",
+        "host": "Atlas Copco",
         "purpose": "Amaçsız",
         "logo": "media/d4c0faf86b3b98650cd98247.jpg",
         "message": "Hoşgeldiniz...",
