@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -9,7 +9,8 @@
     "showCaptions": true,
     "publishPeople": true,
     "publishNews": true,
-    "publishPhotos": true
+    "publishPhotos": true,
+    "lang": "en"
   },
   "scenes": [
     {
@@ -60,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:36:45",
+  "updatedAt": "2026-10-22 15:42:09",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
