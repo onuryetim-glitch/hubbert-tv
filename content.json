@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:46:41",
+  "updatedAt": "2026-10-22 15:47:00",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -407,6 +407,15 @@
         "start": "15:45",
         "end": "16:15",
         "organizer": "Tolga Ünal",
+        "title": ""
+      },
+      {
+        "id": "kmvjjcggxl2j5",
+        "room": "r7",
+        "date": "2026-10-22",
+        "start": "15:45",
+        "end": "16:15",
+        "organizer": "Sayidi Battal",
         "title": ""
       }
     ]
