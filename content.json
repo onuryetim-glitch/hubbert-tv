@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 98,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -60,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:31:04",
+  "updatedAt": "2026-10-22 15:36:45",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -446,8 +446,8 @@
     "items": [
       {
         "id": "pmvjihhv3rhgf",
-        "title": "",
-        "image": "",
+        "title": "tam ekran",
+        "image": "media/043694efadbdc64046253ff7.jpg",
         "fit": "contain",
         "duration": 10,
         "from": "",
