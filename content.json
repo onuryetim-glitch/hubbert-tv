@@ -1,5 +1,5 @@
 {
-  "version": 92,
+  "version": 93,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -60,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 15:24:14",
+  "updatedAt": "2026-10-22 15:27:25",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -108,9 +108,9 @@
     "widget": true,
     "scene": true,
     "duration": 10,
-    "name": "Kadıköy (İstanbul)",
-    "lat": 41.1366,
-    "lon": 28.3642
+    "name": "İstanbul – Kartal",
+    "lat": 40.906,
+    "lon": 29.16
   },
   "anniversaries": {
     "enabled": true,
