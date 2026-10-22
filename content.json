@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 92,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -60,7 +60,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 14:50:25",
+  "updatedAt": "2026-10-22 15:24:14",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -439,6 +439,61 @@
         "imageCaption": "ekip açıklama test",
         "body": "",
         "bodyHtml": "Dosyaların USB belleklere kopyalanmasını engelleyecek ve <b>5 Ekim 2026</b>’da devreye alınması planlanan güvenlik politikası, <b>Kompresör Tekniği iş alanı</b> için ertelendi. Henüz yeni bir uygulama tarihi belirlenmedi.<ul><li>Mevcut çalışma şekliniz değişmiyor; USB bellek kullanmaya devam edebilirsiniz.</li><li>Yeni tarih belirlendiğinde ayrıca bilgilendirileceksiniz.</li></ul>Sorularınız için Teams’te <b>Hubbert</b>’a yazabilirsiniz."
+      }
+    ]
+  },
+  "posters": {
+    "enabled": true,
+    "items": [
+      {
+        "id": "pmvjihhv3rhgf",
+        "title": "",
+        "image": "",
+        "fit": "contain",
+        "duration": 10,
+        "from": "",
+        "to": "",
+        "enabled": true
+      },
+      {
+        "id": "pmvjihhv3c6e4",
+        "title": "",
+        "image": "",
+        "fit": "contain",
+        "duration": 10,
+        "from": "",
+        "to": "",
+        "enabled": true
+      },
+      {
+        "id": "pmvjihhv3h50s",
+        "title": "",
+        "image": "",
+        "fit": "contain",
+        "duration": 10,
+        "from": "",
+        "to": "",
+        "enabled": true
+      }
+    ]
+  },
+  "guests": {
+    "enabled": true,
+    "duration": 15,
+    "message": "",
+    "items": [
+      {
+        "id": "gmvjihr23a358",
+        "names": "Alfonso Marin",
+        "company": "Atlas Copco",
+        "country": "SE",
+        "start": "2026-10-22",
+        "end": "",
+        "host": "",
+        "purpose": "Amaçsız",
+        "logo": "media/d4c0faf86b3b98650cd98247.jpg",
+        "message": "Hoşgeldiniz...",
+        "enabled": true
       }
     ]
   }
