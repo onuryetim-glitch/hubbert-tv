@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-23 14:34:01",
+  "updatedAt": "2026-10-23 14:35:47",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -180,19 +180,6 @@
     "duration": 60,
     "items": [
       {
-        "id": "emvbjuwy5yxf9",
-        "type": "egitim",
-        "title": "Hubbert Eğitimi",
-        "date": "2026-10-21",
-        "endDate": "2026-10-21",
-        "start": "11:00",
-        "end": "00:00",
-        "location": "ttteeesssttt",
-        "desc": "qqqqqqqq",
-        "enabled": true,
-        "photos": []
-      },
-      {
         "id": "emvf7mihviiiy",
         "type": "egitim",
         "title": "",
@@ -202,7 +189,20 @@
         "end": "11:00",
         "location": "",
         "desc": "",
-        "enabled": true,
+        "enabled": false,
+        "photos": []
+      },
+      {
+        "id": "emvkw8q106ziq",
+        "type": "egitim",
+        "title": "",
+        "date": "2026-10-20",
+        "endDate": "",
+        "start": "10:00",
+        "end": "11:00",
+        "location": "",
+        "desc": "",
+        "enabled": false,
         "photos": []
       }
     ]
