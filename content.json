@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-23 14:36:39",
+  "updatedAt": "2026-10-23 16:58:55",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -402,7 +402,7 @@
   },
   "news": {
     "enabled": true,
-    "title": "Haberler ve Duyurular",
+    "title": "Şirketten Haberler",
     "front": true,
     "articles": true,
     "max": 8,
@@ -505,25 +505,13 @@
         "company": "Atlas Copco",
         "country": "SE",
         "start": "2026-10-22",
-        "end": "",
+        "end": "2026-10-31",
         "host": "Atlas Copco",
-        "purpose": "Amaçsız",
+        "purpose": "Ziyaret amacı test",
         "logo": "media/d4c0faf86b3b98650cd98247.jpg",
         "message": "Hoşgeldiniz...",
-        "enabled": true
-      },
-      {
-        "id": "gmvkvzlblx9l5",
-        "names": "Bert Derom",
-        "company": "Atlas Copco",
-        "country": "BE",
-        "start": "2026-10-23",
-        "end": "2026-10-31",
-        "host": "",
-        "purpose": "Ziyaret",
-        "logo": "media/7cf02b51001164056c59179f.jpg",
-        "message": "Özel Karşılama Mesajı....",
-        "enabled": true
+        "enabled": true,
+        "bg": "corp"
       }
     ]
   }
