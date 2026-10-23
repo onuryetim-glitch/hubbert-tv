@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-23 14:35:47",
+  "updatedAt": "2026-10-23 14:36:39",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -187,23 +187,16 @@
         "endDate": "",
         "start": "10:00",
         "end": "11:00",
-        "location": "",
-        "desc": "",
-        "enabled": false,
-        "photos": []
-      },
-      {
-        "id": "emvkw8q106ziq",
-        "type": "egitim",
-        "title": "",
-        "date": "2026-10-20",
-        "endDate": "",
-        "start": "10:00",
-        "end": "11:00",
-        "location": "",
-        "desc": "",
-        "enabled": false,
-        "photos": []
+        "location": "Test",
+        "desc": "Test Kısa Açıklama",
+        "enabled": true,
+        "photos": [
+          {
+            "src": "media/8cdd92c054707e92339fe718.jpg",
+            "caption": ""
+          }
+        ],
+        "galleryUntil": "2026-11-23"
       }
     ]
   },
