@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-23 14:28:17",
+  "updatedAt": "2026-10-23 14:29:50",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -517,6 +517,19 @@
         "purpose": "Amaçsız",
         "logo": "media/d4c0faf86b3b98650cd98247.jpg",
         "message": "Hoşgeldiniz...",
+        "enabled": true
+      },
+      {
+        "id": "gmvkvzlblx9l5",
+        "names": "Nassim Mindjou",
+        "company": "Atlas Copco",
+        "country": "FR",
+        "start": "2026-10-23",
+        "end": "2026-10-31",
+        "host": "",
+        "purpose": "",
+        "logo": "",
+        "message": "",
         "enabled": true
       }
     ]
