@@ -1,0 +1,12 @@
+{
+  "version": 0,
+  "settings": {},
+  "scenes": [],
+  "unit": {
+    "id": "itba",
+    "name": "ITBA",
+    "title": "Industrial Technique",
+    "parent": null,
+    "theme": "it"
+  }
+}
