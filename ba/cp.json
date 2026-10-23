@@ -1,0 +1,12 @@
+{
+  "version": 0,
+  "settings": {},
+  "scenes": [],
+  "unit": {
+    "id": "cp",
+    "name": "Chicago Pneumatic Türkiye",
+    "title": "",
+    "parent": "itba",
+    "theme": "it"
+  }
+}
