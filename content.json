@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 108,
   "settings": {
     "brand": "Atlas Copco Broadcast Services",
     "showLogo": true,
@@ -61,7 +61,7 @@
       "tiles": []
     }
   ],
-  "updatedAt": "2026-10-22 16:58:36",
+  "updatedAt": "2026-10-23 14:28:12",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -123,19 +123,6 @@
     "enabled": true,
     "duration": 12,
     "items": [
-      {
-        "id": "amvbkodupac4c",
-        "personId": "b3",
-        "name": "",
-        "role": "unvansız",
-        "type": "goal",
-        "title": "adam adammm",
-        "text": "adammmmm",
-        "from": "2026-10-17",
-        "to": "2026-10-31",
-        "photo": "",
-        "enabled": true
-      },
       {
         "id": "amvbknn2ly75d",
         "personId": "b2",
