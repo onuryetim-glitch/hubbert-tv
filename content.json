@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -50,7 +50,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-24 00:32:24",
+  "updatedAt": "2026-10-24 13:51:21",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -501,6 +501,74 @@
         "message": "Hoşgeldiniz...",
         "enabled": true,
         "bg": "corp"
+      }
+    ]
+  },
+  "albums": {
+    "enabled": true,
+    "perPage": 3,
+    "duration": 7,
+    "items": []
+  },
+  "worldClock": {
+    "enabled": true,
+    "duration": 12,
+    "items": [
+      {
+        "id": "ckmvlyrh5wgh4a",
+        "city": "Stockholm",
+        "tz": "Europe/Stockholm",
+        "country": "SE",
+        "hq": true
+      },
+      {
+        "id": "ckmvlyrh5wjjyi",
+        "city": "İstanbul",
+        "tz": "Europe/Istanbul",
+        "country": "TR",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wjahx",
+        "city": "Antwerpen",
+        "tz": "Europe/Brussels",
+        "country": "BE",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wfku8",
+        "city": "Dubai",
+        "tz": "Asia/Dubai",
+        "country": "AE",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wsdla",
+        "city": "Pune",
+        "tz": "Asia/Kolkata",
+        "country": "IN",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wdg23",
+        "city": "Şanghay",
+        "tz": "Asia/Shanghai",
+        "country": "CN",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wggbl",
+        "city": "Rock Hill",
+        "tz": "America/New_York",
+        "country": "US",
+        "hq": false
+      },
+      {
+        "id": "ckmvlyrh5wv2ls",
+        "city": "São Paulo",
+        "tz": "America/Sao_Paulo",
+        "country": "BR",
+        "hq": false
       }
     ]
   }
