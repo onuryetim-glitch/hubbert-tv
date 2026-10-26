@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "settings": {},
   "scenes": [],
   "events": {
@@ -11,7 +11,7 @@
     "items": []
   },
   "rooms": {
-    "enabled": false,
+    "enabled": true,
     "title": "Toplantı Odaları",
     "subtitle": "",
     "duration": 20,
@@ -119,7 +119,7 @@
       }
     ]
   },
-  "updatedAt": "2026-10-26 12:25:53",
+  "updatedAt": "2026-10-26 13:58:44",
   "unit": {
     "id": "ctba",
     "name": "CTBA",
