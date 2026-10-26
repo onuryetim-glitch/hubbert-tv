@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 127,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26 10:10:51",
+  "updatedAt": "2026-10-26 10:13:19",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -493,7 +493,7 @@
         "id": "gmvjihr23a358",
         "names": "Alfonso Marin",
         "company": "Atlas Copco",
-        "country": "SE",
+        "country": "ES",
         "start": "2026-10-22",
         "end": "2026-10-31",
         "host": "Atlas Copco",
