@@ -1,5 +1,5 @@
 {
-  "version": 132,
+  "version": 133,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -52,7 +52,7 @@
       "captionHtml": "<div style=\"text-align:left\"><span style=\"font-weight:bold\">Geri Bildirimler: </span>Ticket çözüldüğünde size iletilen <span style=\"font-size:1em\">CSA</span>T (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Aktif İletişim:</span> Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Ticket’ı Yeniden Açma:</span> Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.</div>"
     }
   ],
-  "updatedAt": "2026-10-26 12:32:43",
+  "updatedAt": "2026-10-26 14:01:13",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -345,51 +345,6 @@
     ],
     "bookings": [
       {
-        "id": "kmvi5mpfu14jf",
-        "room": "r4",
-        "date": "2026-10-21",
-        "start": "16:35",
-        "end": "17:05",
-        "organizer": "Onur Yetim",
-        "title": ""
-      },
-      {
-        "id": "kmvjjbcidr33z",
-        "room": "r1",
-        "date": "2026-10-22",
-        "start": "15:45",
-        "end": "16:15",
-        "organizer": "Akay Ildan",
-        "title": ""
-      },
-      {
-        "id": "kmvjjbxlrw8nk",
-        "room": "r4",
-        "date": "2026-10-22",
-        "start": "15:45",
-        "end": "16:45",
-        "organizer": "Onur Yetim",
-        "title": ""
-      },
-      {
-        "id": "kmvjjc5cjhub3",
-        "room": "r5",
-        "date": "2026-10-22",
-        "start": "15:45",
-        "end": "16:15",
-        "organizer": "Tolga Ünal",
-        "title": ""
-      },
-      {
-        "id": "kmvjjcggxl2j5",
-        "room": "r7",
-        "date": "2026-10-22",
-        "start": "15:45",
-        "end": "16:15",
-        "organizer": "Sayidi Battal",
-        "title": ""
-      },
-      {
         "id": "kmvp1yywnykp1",
         "room": "r3",
         "date": "2026-10-26",
@@ -520,7 +475,8 @@
         "logo": "media/d4c0faf86b3b98650cd98247.jpg",
         "message": "Hoşgeldiniz...",
         "enabled": true,
-        "bg": "corp"
+        "bg": "corp",
+        "photos": []
       }
     ]
   },
