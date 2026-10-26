@@ -1,5 +1,5 @@
 {
-  "version": 125,
+  "version": 126,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-26 09:04:10",
+  "updatedAt": "2026-10-26 10:10:51",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -131,17 +131,17 @@
   "welcome": {
     "enabled": true,
     "mode": "day",
-    "duration": 15,
+    "duration": 20,
     "itTip": true,
     "message": "Atlas Copco ailesine hoş geldin {ad}! Aramıza katılmandan büyük mutluluk duyuyoruz. Yeni yolculuğunda başarılar diler, ihtiyaç duyduğun her an yanında olduğumuzu hatırlatmak isteriz.",
     "items": [
       {
         "id": "w1",
-        "name": "Erkan Konuk",
+        "name": "Burak Aslan",
         "title": "Field Service Technician",
         "department": "Service Operation",
-        "manager": "Sedat Kocabas",
-        "location": "Düzce",
+        "manager": "Ali Kankurt",
+        "location": "Bursa",
         "start": "2026-10-22",
         "photo": "",
         "message": "",
