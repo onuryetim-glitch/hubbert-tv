@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "settings": {
     "itNews": true
   },
@@ -115,8 +115,8 @@
       }
     ]
   },
-  "updatedAt": "2026-10-26 16:51:27",
-  "cv": 5,
+  "updatedAt": "2026-10-26 16:53:42",
+  "cv": 6,
   "unit": {
     "id": "ctba",
     "name": "CTBA",
