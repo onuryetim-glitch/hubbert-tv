@@ -1,5 +1,5 @@
 {
-  "version": 137,
+  "version": 138,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -555,6 +555,85 @@
   "itnews": {
     "items": [
       {
+        "id": "itmvpb98401clw",
+        "type": "change",
+        "status": "auto",
+        "enabled": true,
+        "title": "Yeni hizmet: ",
+        "html": "Size daha iyi hizmet verebilmek için <b>[hizmet]</b> devreye alınıyor.",
+        "start": "2026-10-27T09:00",
+        "pinned": true
+      },
+      {
+        "id": "itmvpb97cx3wxc",
+        "type": "tip",
+        "status": "auto",
+        "enabled": true,
+        "title": "IT ipucu: ",
+        "html": ""
+      },
+      {
+        "id": "itmvpb96tki82l",
+        "type": "change",
+        "status": "auto",
+        "enabled": true,
+        "title": "Yeni hizmet: ",
+        "html": "Size daha iyi hizmet verebilmek için <b>[hizmet]</b> devreye alınıyor.",
+        "start": "2026-10-27T09:00"
+      },
+      {
+        "id": "itmvpb95xw37pn",
+        "type": "info",
+        "status": "auto",
+        "enabled": true,
+        "title": "",
+        "html": ""
+      },
+      {
+        "id": "itmvpb958j9v3k",
+        "type": "change",
+        "status": "auto",
+        "enabled": true,
+        "title": "Yeni hizmet: ",
+        "html": "Size daha iyi hizmet verebilmek için <b>[hizmet]</b> devreye alınıyor.",
+        "start": "2026-10-27T09:00"
+      },
+      {
+        "id": "itmvpb94du5t3z",
+        "type": "info",
+        "status": "auto",
+        "enabled": true,
+        "title": "",
+        "html": ""
+      },
+      {
+        "id": "itmvpb936i4jbl",
+        "type": "change",
+        "status": "auto",
+        "enabled": true,
+        "title": "Yeni hizmet: ",
+        "html": "Size daha iyi hizmet verebilmek için <b>[hizmet]</b> devreye alınıyor.",
+        "start": "2026-10-27T09:00"
+      },
+      {
+        "id": "itmvpb919r6uei",
+        "type": "change",
+        "status": "auto",
+        "enabled": true,
+        "title": "Yeni hizmet: ",
+        "html": "Size daha iyi hizmet verebilmek için <b>[hizmet]</b> devreye alınıyor.",
+        "start": "2026-10-27T09:00"
+      },
+      {
+        "id": "itmvpb8zoo3clw",
+        "type": "security",
+        "status": "auto",
+        "enabled": true,
+        "title": "Güvenlik uyarısı: ",
+        "html": "Şüpheli e-postalara, bağlantılara ve eklere karşı dikkatli olun. <b>Şifrenizi kimseyle paylaşmayın.</b>",
+        "action": "Şüpheli e-postaları Outlook’taki “Report” düğmesiyle bildirin."
+      },
+      {
         "id": "itmvparet5msh1",
         "type": "incident",
         "status": "ongoing",
@@ -593,7 +672,7 @@
       "qr": true
     },
     "public": true,
-    "rev": 1,
-    "updatedAt": "2026-10-26 16:33:24"
+    "rev": 2,
+    "updatedAt": "2026-10-26 16:47:40"
   }
 }
