@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>Atlas Copco Broadcast Services – TV</title>
-<meta name="acbs-version" content="15">
+<meta name="acbs-version" content="16">
 <style>
 :root{--bg:#1b1d1f;--bg2:#24292c;--teal:#2f6b80;--teal2:#4fa3bf;--gold:#d8bb7d;--text:#ffffff;--muted:#b9c3c9;--stage:#0e0f10;--card:rgba(255,255,255,.06);--cardb:rgba(216,187,125,.25)}
 @media (prefers-color-scheme: dark){:root{--stage:#08090a}}
@@ -827,6 +827,99 @@ body.tv .controls, body.tv .hint{display:none}
 .ck.night .rim{fill:#14313a}.ck.night .dial{fill:#1d3a44}.ck.night .tk{stroke:#5f7c86}.ck.night .tk.b{stroke:#cfe3e7}
 .ck.night .hh,.ck.night .mm{stroke:#f2f6f7}
 
+
+/* ===== v16: Hubbert açıklaması — ince, şeffaf cam alan; ikonlar açıklamanın altında ===== */
+.sdesc{position:relative;padding:.75vw 2.2vw;border:0;border-radius:clamp(8px,1vw,18px);box-shadow:none;
+  background:radial-gradient(ellipse 80% 120% at 50% 0%,rgba(79,163,191,.10),rgba(255,255,255,.025) 70%);-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}
+.sdesc::before,.sdesc::after{content:"";position:absolute;inset-inline:7%;height:1px;background:linear-gradient(90deg,rgba(216,187,125,0),rgba(216,187,125,.6),rgba(216,187,125,0));pointer-events:none}
+.sdesc::before{inset-block-start:0}.sdesc::after{inset-block-end:0}
+.scene.has-tiles .sdesc{max-height:27vh;margin-block-end:.4vh}
+.scene.has-desc .pop.tiles{margin-block-start:.6vh}
+/* açıklamadaki görsel, video ve QR kodlar */
+.sdesc img,.sdesc video,.nw-body img,.nw-body video{display:block;margin:.45em auto;max-width:100%;object-fit:contain;border-radius:clamp(6px,.8vw,14px);box-shadow:0 10px 26px rgba(0,0,0,.32)}
+.sdesc img,.sdesc video{display:inline-block;vertical-align:middle;margin:.35em .5em;max-width:92%}
+.scene.has-tiles .sdesc img.rm-s,.scene.has-tiles .sdesc video.rm-s{max-height:9vh}.scene.has-tiles .sdesc img.rm-m,.scene.has-tiles .sdesc video.rm-m{max-height:14vh}.scene.has-tiles .sdesc img.rm-l,.scene.has-tiles .sdesc video.rm-l{max-height:19vh}
+.scene.has-tiles .rq.rm-s{--qs:7vh}.scene.has-tiles .rq.rm-m{--qs:10vh}.scene.has-tiles .rq.rm-l{--qs:13vh}
+.sdesc img.rm-s,.sdesc video.rm-s{max-height:12vh}.sdesc img.rm-m,.sdesc video.rm-m{max-height:20vh}.sdesc img.rm-l,.sdesc video.rm-l{max-height:28vh}
+.nw-body img.rm-s,.nw-body video.rm-s{max-height:14vh}.nw-body img.rm-m,.nw-body video.rm-m{max-height:24vh}.nw-body img.rm-l,.nw-body video.rm-l{max-height:34vh}
+.nw-body img,.nw-body video{box-shadow:0 8px 22px rgba(5,78,90,.18)}
+.rq{display:inline-flex;flex-direction:column;align-items:center;gap:.3em;vertical-align:middle;margin:.35em .6em;padding:.45em;border-radius:.55em;background:#fff;color:#14313a;line-height:1.2;
+  box-shadow:0 8px 22px rgba(0,0,0,.25)}
+.rq svg{display:block;width:var(--qs,12vh);height:var(--qs,12vh)}
+.rq.rm-s{--qs:8vh}.rq.rm-m{--qs:12vh}.rq.rm-l{--qs:17vh}
+.rq svg{flex-shrink:0}
+.rq::after{content:attr(data-cap);font-size:max(11px,.5em);font-weight:800;max-width:calc(var(--qs) + 5vh);text-align:center;color:#054e5a}
+.rq:not([data-cap])::after{display:none}
+/* içerik kartlarındaki QR kod */
+.scene .qrc{position:absolute;z-index:4;inset-inline-end:calc(var(--u,1vh)*4.5);inset-block-end:calc(var(--u,1vh)*7);display:flex;align-items:center;gap:calc(var(--u,1vh)*1.4);
+  padding:calc(var(--u,1vh)*1.1);padding-inline-end:calc(var(--u,1vh)*2);border-radius:calc(var(--u,1vh)*1.6);background:#fff;max-width:calc(var(--u,1vh)*44);
+  box-shadow:0 calc(var(--u,1vh)*1) calc(var(--u,1vh)*3) rgba(5,78,90,.18),0 0 0 1px rgba(5,78,90,.08);text-align:start}
+.scene.corp>div.qrc{position:absolute}
+.qrc-q{width:calc(var(--u,1vh)*12);height:calc(var(--u,1vh)*12);flex:none}
+.qrc-q svg{display:block;width:100%;height:100%}
+.qrc-t{display:flex;flex-direction:column;gap:calc(var(--u,1vh)*.4);min-width:0}
+.qrc-t b{font-size:calc(var(--u,1vh)*2);color:#054e5a;line-height:1.2}
+.qrc-t small{font-size:calc(var(--u,1vh)*1.45);color:#5f6d74;font-weight:700;line-height:1.25;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.qrc-t i{font-style:normal;font-size:calc(var(--u,1vh)*1.3);color:#a8782f;font-weight:800;letter-spacing:.08em}
+.scene.poster .qrc{--u:min(1vh,.5625vw)}
+.scene.active .qrc{animation:qrIn .7s cubic-bezier(.2,.8,.3,1) 1.2s both}
+@keyframes qrIn{from{opacity:0;transform:translateY(calc(var(--u,1vh)*2)) scale(.94)}to{opacity:1;transform:none}}
+/* tam ekran video */
+.scene.poster video.ps-img{background:#000}
+
+/* ===== v16: Yurt dışı misafirler — fotoğraf, belirgin isim, rota, Atlas Copco iş alanları ===== */
+.scene.corp.gst2 .tbody{justify-content:center;gap:calc(var(--u)*1.8)}
+.g2{display:grid;grid-template-columns:calc(var(--u)*33) minmax(0,1fr);gap:calc(var(--u)*4.4);align-items:center;width:min(100%,calc(var(--u)*140));text-align:start}
+.g2 .gs-bw{padding-block-start:calc(var(--u)*6.4)}
+.g2-main{position:relative;display:flex;flex-direction:column;gap:calc(var(--u)*1.5);padding:calc(var(--u)*3.2) calc(var(--u)*3.6) calc(var(--u)*3);border-radius:calc(var(--u)*2.6);min-width:0;
+  background:rgba(255,255,255,.82);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);box-shadow:0 calc(var(--u)*1.6) calc(var(--u)*5) rgba(5,78,90,.14),0 0 0 1px rgba(5,78,90,.06)}
+.g2-main::before{content:"";position:absolute;inset-block-start:0;inset-inline:calc(var(--u)*3.6);height:calc(var(--u)*.55);border-radius:0 0 4px 4px;
+  background:linear-gradient(90deg,#054e5a 0 62%,#e1b77e 62% 68%,#a1a9b4 68% 100%)}
+.g2 .gs-greet{font-size:calc(var(--u)*3);margin-block-start:calc(var(--u)*.6)}
+.g2-nw{padding-block-end:calc(var(--u)*1.2)}
+.g2-name{position:relative;display:inline-block;font-size:calc(var(--u)*6.6);font-weight:800;color:#054e5a;line-height:1.02;letter-spacing:-.015em;
+  background:linear-gradient(100deg,#054e5a 0%,#0b7285 55%,#054e5a 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.g2-name.long{font-size:calc(var(--u)*5.2)}
+.g2-name svg{position:absolute;inset-inline:-1%;inset-block-end:calc(var(--u)*-1.7);width:102%;height:calc(var(--u)*2.2);overflow:visible}
+.g2-name path{fill:none;stroke:#e1b77e;stroke-width:5;stroke-linecap:round;stroke-dasharray:440;stroke-dashoffset:440}
+.scene.active .g2-name path{animation:g2Sw 1.3s ease-out 1.1s forwards}
+@keyframes g2Sw{to{stroke-dashoffset:0}}
+.g2-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:calc(var(--u)*1.2)}
+.g2-card{display:flex;align-items:center;gap:calc(var(--u)*1.4);padding:calc(var(--u)*1) calc(var(--u)*1.6) calc(var(--u)*1) calc(var(--u)*1);border-radius:calc(var(--u)*1.8);background:#fff;
+  box-shadow:0 0 0 1px rgba(5,78,90,.08),0 calc(var(--u)*.5) calc(var(--u)*1.4) rgba(5,78,90,.08);min-width:0}
+.g2-av{width:calc(var(--u)*8.4);aspect-ratio:1;border-radius:50%;overflow:hidden;flex:none;display:grid;place-items:center;background:linear-gradient(140deg,#054e5a,#0b7285);color:#fff;
+  font-weight:800;font-size:calc(var(--u)*2.8);border:calc(var(--u)*.45) solid #fff;box-shadow:0 0 0 calc(var(--u)*.3) #e1b77e}
+.g2-av img{width:100%;height:100%;object-fit:cover;display:block}
+.g2-card b{font-size:calc(var(--u)*3);color:#054e5a;line-height:1.1;overflow:hidden;text-overflow:ellipsis}
+.g2-ph{width:calc(var(--u)*17.5);aspect-ratio:1;border-radius:calc(var(--u)*1.8);overflow:hidden;border:calc(var(--u)*.5) solid #fff;background:#eef5f6;
+  box-shadow:0 0 0 calc(var(--u)*.3) #e1b77e,0 calc(var(--u)*.8) calc(var(--u)*2) rgba(5,78,90,.22)}
+.g2-ph img{width:100%;height:100%;object-fit:cover;display:block}
+.g2-cty{display:flex;align-items:center;justify-content:center;gap:.5em;font-size:calc(var(--u)*1.8);font-weight:800;color:#6b7a80;letter-spacing:.06em}
+.g2-cty .fl{height:1.15em;line-height:0;border-radius:2px;overflow:hidden;box-shadow:0 0 0 1px rgba(0,0,0,.08)}
+.g2-cty .fl svg{height:100%;width:auto;display:block}
+.g2-route{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:calc(var(--u)*1.2)}
+.g2-pt{display:flex;align-items:center;gap:calc(var(--u)*1);font-size:calc(var(--u)*2.1);font-weight:800;color:#14313a;line-height:1.1}
+.g2-pt small{display:block;font-size:calc(var(--u)*1.25);color:#8a979c;font-weight:800;letter-spacing:.14em;margin-block-start:.25em}
+.g2-pt .fl{width:calc(var(--u)*4.6);height:calc(var(--u)*4.6);border-radius:50%;overflow:hidden;flex:none;display:flex;justify-content:center;
+  box-shadow:0 0 0 calc(var(--u)*.35) #fff,0 0 0 calc(var(--u)*.6) rgba(5,78,90,.16)}
+.g2-pt .fl svg{height:100%;width:auto;flex:none;display:block}
+.g2-arc{height:calc(var(--u)*6.4);min-width:0}
+.g2-arc svg{width:100%;height:100%;display:block;overflow:visible}
+.g2-arc .tr{fill:none;stroke:#a1a9b4;stroke-width:2.2;stroke-dasharray:1 7;stroke-linecap:round}
+.g2-arc .tg{fill:none;stroke:#e1b77e;stroke-width:2.4;stroke-linecap:round;stroke-dasharray:330;stroke-dashoffset:330}
+.scene.active .g2-arc .tg{animation:g2Tr 5s ease-in-out 1.4s infinite}
+@keyframes g2Tr{0%{stroke-dashoffset:330}70%,100%{stroke-dashoffset:0}}
+.g2-arc .pl{fill:#054e5a}
+.g2-band{display:flex;align-items:center;justify-content:center;gap:calc(var(--u)*2.6);padding:calc(var(--u)*1) calc(var(--u)*2.6);border-radius:999px;max-width:100%;
+  background:rgba(255,255,255,.88);box-shadow:0 0 0 1px rgba(5,78,90,.07),0 calc(var(--u)*.6) calc(var(--u)*2) rgba(5,78,90,.08);white-space:nowrap}
+.g2-band .acg{line-height:0}
+.g2-band .acg svg{height:calc(var(--u)*3.4);width:auto;display:block}
+.g2-tag{font-size:calc(var(--u)*1.75);font-weight:800;color:#054e5a;padding-inline-end:calc(var(--u)*2.4);border-inline-end:1px solid #d6dfe2}
+.g2-ba{display:flex;align-items:center;gap:calc(var(--u)*.8);font-size:calc(var(--u)*1.5);font-weight:700;color:#3d4f56}
+.g2-ba svg{width:calc(var(--u)*3.4);height:calc(var(--u)*3.4);stroke:#0b6e7c;fill:none;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.g2 .gs-info{gap:calc(var(--u)*1)}
+.g2 .gs-msg{font-size:calc(var(--u)*2.3)}
+
 /* ===== Tam ekran görseller ===== */
 .scene.poster{padding:0;background:#000;overflow:hidden}
 .scene.poster .ps-bg{position:absolute;inset:-6%;width:112%;height:112%;object-fit:cover;filter:blur(30px) brightness(.8) saturate(1.1)}
@@ -1062,7 +1155,7 @@ body.tv .controls, body.tv .hint{display:none}
   var DEFAULT=/*HUBBERT-CONTENT-START*/{"version": 1, "settings": {"brand": "HUBBERT", "showLogo": true, "logo": "data:image/png;base64,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", "loop": true, "refreshSeconds": 10, "showCaptions": true}, "scenes": [{"enabled": true, "type": "hero", "anim": "spinGrow", "duration": 7, "title": "Hubbert", "subtitle": "Teams'teki AI destek asistanınız", "cta": false, "caption": "Teams'teki yapay zekâ destekli IT asistanınız: Hubbert.", "tiles": []}, {"enabled": true, "type": "tiles", "anim": "roll", "duration": 7, "title": "IT sorunu mu var?", "subtitle": "", "cta": false, "caption": "Bir IT sorununuz mu var? Bilgisayarı kargolamayın, Hubbert'a yazın.", "tiles": [{"icon": "🔐", "label": "Hesap"}, {"icon": "💻", "label": "Yazılım"}, {"icon": "📱", "label": "Mobil"}, {"icon": "⌨️", "label": "Donanım"}]}, {"enabled": true, "type": "flow", "anim": "flip", "duration": 8, "title": "", "subtitle": "", "cta": false, "caption": "Yazın, ticket otomatik açılsın, ekip çözsün.", "tiles": [{"icon": "💬", "label": "Yaz"}, {"icon": "🎫", "label": "Ticket"}, {"icon": "✅", "label": "Çözüm"}]}, {"enabled": true, "type": "tiles", "anim": "drop", "duration": 8, "title": "", "subtitle": "", "cta": false, "caption": "Hızlı, kayıt altında, mümkünse uzaktan; cihazsız kalmazsınız.", "tiles": [{"icon": "⚡", "label": "Hızlı"}, {"icon": "📋", "label": "Takip"}, {"icon": "🌐", "label": "Uzaktan"}, {"icon": "⏱️", "label": "SLA"}]}, {"enabled": true, "type": "tiles", "anim": "zoomSpin", "duration": 8, "title": "", "subtitle": "", "cta": false, "caption": "İpucu: Durumu yorumla sorun, sorun sürerse aynı ticket'ı yeniden açın, anketi doldurun.", "tiles": [{"icon": "💬", "label": "Durum sor"}, {"icon": "🔁", "label": "Yeniden aç"}, {"icon": "⭐", "label": "Anket"}]}, {"enabled": true, "type": "hero", "anim": "spinGrow", "duration": 8, "title": "Önce Hubbert!", "subtitle": "Atlas Copco Türkiye IT", "cta": true, "caption": "IT desteği mi lazım? Önce Hubbert! – Atlas Copco Türkiye IT", "tiles": []}]}/*HUBBERT-CONTENT-END*/;
   var params=new URLSearchParams(location.search);
   var isPreview=params.has('preview');
-  var ACBS_VERSION=15;
+  var ACBS_VERSION=16;
   if(isPreview){document.documentElement.classList.add('pv');}
   if(params.has('tv')){document.body.classList.add('tv');}
   var ACG_SVG="<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 989 291\" role=\"img\" aria-label=\"Atlas Copco Group\"><path class=\"lg-a\" fill=\"#054e5a\" fill-rule=\"evenodd\" d=\"M574 3l4-0.5l9 0l8 1.1l8 2.3l8 3.8l3 2l6 4.9l5.4 6.4l1.9 3l3.1 6l1.8 5l1.2 5l-0.1 1l-0.3 0.3l-17 0l-1-1.3l-1.7-5l-2.8-5l-3.5-4.2l-4-3.2l-3-1.8l-5-2.2l-4-1l-7-0.9l-3 0l-8 1.1l-3 0.8l-5 2.1l-6 3.9l-3 2.8l-2.3 2.6l-3.9 6l-3 7l-1.1 4l-1 6l-0.2 11l1.4 9l2.8 8l2 4l2 3l4.5 5l2.8 2.4l4 2.6l5 2.4l8 1.9l9 0.2l7-1.1l6-2.2l3-1.7l3-2.1l3-2.8l2.3-2.6l1.9-3l2.2-5l0.9-3l0.7-0.7l17 0l0.5 0.7l-0.2 2l-1.9 6l-3.2 7l-4.1 6l-4.1 4.6l-3 2.7l-4 3l-7 3.9l-9 3.1l-5 1l-6 0.4l-1 0.3l-4 0l-8-0.7l-5-1l-6-1.9l-5-2.2l-5-2.9l-4-2.9l-3.8-3.4l-4.6-5l-2.9-4l-3-5l-3.1-7l-1.9-6l-0.9-4l-1.1-9l0-9l1-8l1-5l1.9-6l3.2-7l3-5l3.8-5l3.8-4l3.6-3.1l6-4.1l4-2.1l5-2.1l6-1.7zM178.4 5l0.6-0.7l22 0l1.2 1.7l41.1 109l1.1 3l0 1l-0.4 0.3l-17 0l-0.4-0.3l-1-2l-8.5-23l-1.1-1.5l-52 0l-0.5 0.5l-0.9 2l-7.3 20l-1.9 4l-0.4 0.3l-17 0l-0.4-0.3l0-1zM306.7 5l0.3-0.4l1-0.3l15 0l0.7 0.7l0 113l-0.3 1l-0.4 0.3l-15 0l-1.1-0.3l-0.2-1zM257.3 12l0.7-0.5l14 0l0.5 0.5l0 24l0.5 1l21 0l1 1l0 13l-0.3 1l-0.7 0.3l-21 0l-0.5 0.7l0 43l0.4 3l0.8 2l1.3 1.4l1 0.8l3 1.1l15 0.2l1 0.5l0 13l-0.3 1l-0.7 0.3l-19 0l-3-0.3l-4-0.8l-3-1.2l-3-1.7l-2.4-2.3l-1.9-3l-0.9-2l-1-4l-0.3-3l0-48l-0.5-0.7l-18 0l-0.3-0.3l-0.2-14l0.5-1l10 0l3-0.5l3-1.2l2-2.3l1.3-3l1-8zM189.9 23l1.4 2l18 48l0.7 3.1l-39 0.2l-0.8-0.3l1.5-5zM363 36l7-0.7l7 0.2l6 1.1l4 1.1l6 3l4 3.1l4.1 5.2l2.3 5l0.9 3l0.7 6l0.1 36l0.5 2l1.7 2l2.7 0.9l3 0.1l1 0.3l0.3 0.7l0 13l-0.3 1.1l-7 0.2l-6-1l-3-1.2l-3-1.7l-1.6-1.4l-1.8-2l-1.6-2.7l-4 4.1l-2 1.6l-4 2.5l-4 1.6l-4 1.1l-6 0.5l-1 0.3l-4 0l-1-0.3l-4-0.2l-5-1.2l-5-2.2l-4-2.7l-4.1-4.4l-2.2-4l-1.1-3l-0.9-5l0-5l1-5l2.1-5l2.1-3l3.1-3.1l5-3.2l5-2l4-0.9l5-0.5l26 0l1.1-0.3l0.2-6l-0.9-4l-1.2-3l-2.2-2.8l-2-1.7l-4-1.9l-4-0.9l-7 0.1l-4 0.8l-4 2l-4.3 4.4l-1.8 4l-0.7 3l-1.2 0.7l-14 0l-0.6-0.7l0.5-4l1.8-6l2-4l3.9-5l5.4-4.4l3-1.6l6-2.3zM446 36l1-0.3l6-0.4l8 0.4l6 1.2l5 1.9l6 4l2.2 2.2l3.1 4l1.1 2l1.8 4l0.9 3l0.6 3l-0.3 1l-0.4 0.3l-14 0l-1-0.4l-1.6-3.9l-1.3-2l-2.1-2.3l-3-2l-2-0.9l-5-1.1l-6 0l-5 1l-2 0.9l-3.4 2.4l-0.8 1l-1.3 3l-0.2 2l0.5 3l2.1 3l2.1 1.4l2 1l4 0.9l18 2.4l6 1.1l3 0.9l4 1.9l3 2l2.4 2.4l2.1 3l1.8 4l1 6l-0.1 5l-1 5l-1.2 3l-1.7 3l-2.6 3l-2.7 2.4l-5 3l-5 1.8l-5 1.1l-8 0.7l-4 0l-8-0.7l-4-1l-6-2.1l-5-2.9l-3.8-3.3l-1.8-2l-1.5-2l-2.3-4l-1.8-5l-1-5l0.2-0.5l1-0.5l14 0l0.8 1l1.1 3l1.7 3l3.4 3.4l3 1.9l2 0.8l6 1.4l8 0l6-1.3l3.7-2.2l2.6-3l1-3l0-3l-1-3l-2.3-2.3l-5-2l-23-3.4l-6-1.8l-3-1.3l-4.6-3.2l-2.8-3l-2.8-5l-1.1-4l0-8l0.9-4l1.2-3l1.9-3l4.3-4.4l4-2.8l5-2.2l3-0.9zM673.5 36l3.5-0.5l5-0.2l6 0.4l5 1l6 2l4 2l3 2l6 5.5l2.5 2.8l2 3l2.7 5l1.2 3l1.9 7l0.7 7l0 4l-0.7 7l-2.2 8l-2.8 6l-5.1 7l-3.2 3.2l-4 3.1l-8 4.1l-7 1.9l-7 0.7l-10-0.7l-7-1.9l-8-4.1l-4-3.1l-3.2-3.2l-5.1-7l-3.1-7l-1.9-7l-0.7-9l0.8-9l1.8-7l2.2-5l1.7-3l4.5-5.8l6-5.5l5-3l5-2.1zM767.3 36l6.7-0.7l5 0.2l6 1.1l3 1l6 3l3 2.1l4 3.7l2.2 2.6l2.1 3l3.1 6l1.9 5l1 4l1 8l0 6l-1 8l-1 4l-3.1 8l-3.8 6l-2.4 2.8l-5 4.5l-3 2l-7 3.1l-5 1.1l-5 0.5l-3 0l-7-0.8l-4-1l-5-2l-3-1.7l-4-3.1l-1 0.6l0 38l-1 0.7l-15 0l-1-0.7l0-113l1-1l15 0l0.7 1l0 7l0.3 1.4l4-3.7l4-2.8l4-2.1zM851.5 36l7.5-0.7l8 0.5l8 1.9l8 4l5.2 4.3l3.2 4l1.9 3l2.8 7l1.1 5l-1.2 0.5l-15 0l-0.5-0.5l-1.1-3l-1.1-2l-2.1-3l-2.2-2.2l-5-3l-4-1.2l-3-0.3l-8 0.4l-3 0.9l-3 1.4l-4 3l-3.4 4l-1.1 2l-1.7 4l-1.1 5l-0.4 4l0.2 9l1.2 6l2.2 5l2.8 4l3.3 3l4 2.4l3 1l4 0.6l5 0l5-0.9l2-0.7l4-2.2l3.4-3.2l2.1-3l2.5-5.3l15 0l1 0.3l-0.6 4l-2.2 6l-2.9 5l-2.3 2.8l-5 4.6l-4 2.6l-5 2.4l-7 1.9l-6 0.4l-1 0.3l-4 0l-1-0.3l-5-0.4l-7-1.9l-3-1.2l-5-2.9l-4-3.1l-2.2-2.2l-3.1-4l-1.9-3l-3.2-7l-1.9-8l-0.4-4l0-9l0.5-5l2-8l3.9-8l3.7-5l4.6-4.4l3-2.1l3-1.8l5-2.1zM936.5 36l3.5-0.5l5-0.2l6 0.4l5 0.9l6 2.1l4 2l3 2l6.8 6.3l2.5 3l3.9 7l2.1 6l1 4l0.7 7l0 4l-0.7 7l-2.2 8l-2.8 6l-5.1 7l-3.2 3.2l-4 3.1l-8 4.1l-7 1.9l-7 0.7l-10-0.7l-7-1.9l-8-4.1l-4-3.1l-3.2-3.2l-5.1-7l-3.1-7l-1.9-7l-0.7-9l0.8-9l1.8-7l2.2-5l1.7-3l4.5-5.8l6-5.5l5-3l5-2.1zM674.8 51l4.2-0.7l7 0.2l4 1l3 1.4l3 2l3.2 3.1l3.2 5l2 5l1 6l0.1 8l-1.3 7l-1.2 3l-2.7 5l-4.3 4.4l-3 2l-5 2l-4 0.6l-5 0l-5-0.9l-4-1.7l-3-2l-3.4-3.4l-2.6-4l-1.4-3l-1-3l-1.1-7l0-6l1.2-7l1-3l2-4l2.1-3l2.2-2.2l3-2.3zM765.5 51l3.5-0.6l6-0.1l3 0.4l5 2l4 2.9l2.1 2.4l2.9 5l1.5 4l1.2 7l0 8l-0.4 4l-2.1 7l-2.9 5l-2.3 2.6l-3.1 2.4l-4.9 2.3l-4 0.7l-6 0l-3-0.5l-3-1l-4-2.2l-4.4-4.3l-2-3l-1.7-4l-1.2-4l-0.7-6l0-6l0.8-6l2-6l2.2-3.9l3-3.5l4-2.9zM937.8 51l4.2-0.7l7 0.2l4 1l3 1.4l3 2l3.2 3.1l3.2 5l2 5l1 6l0.1 8l-1.3 7l-1.2 3l-2.7 5l-4.3 4.4l-5 3l-3 1l-4 0.6l-5 0l-5-0.9l-4-1.7l-3-2l-3.4-3.4l-2.6-4l-1.4-3l-1-3l-1.1-7l0-6l1.2-7l1-3l2-4l2.1-3l2.2-2.2l3-2.3zM362 84l1-0.3l25 0.2l0.3 3.1l-0.9 5l-1.2 3l-2.7 4l-3.5 3.4l-3 1.8l-3 1.2l-5 1.1l-7 0l-5-1.2l-2-1l-1.6-1.3l-1.8-2l-1-2l-0.5-4l0.6-4l1-2l3.3-3l3-1.4z\"/><path class=\"lg-g\" fill=\"#a1a9b4\" fill-rule=\"evenodd\" d=\"M62 104l4-0.5l9-0.2l6 0.4l7 1l10 3l5 2.1l5 2.8l7 5l8.3 8.4l4.1 6l2.8 5l4 10l-1.2 0.5l-22-0.2l-1.7-3.3l-3.2-5l-3.1-3.6l-3-2.8l-4-2.8l-4-2.1l-5-2l-4-1l-8-1l-5 0l-7 0.8l-5 1.1l-4 1.3l-6 2.8l-3 1.9l-4 3.2l-4.1 4.2l-2.3 3l-1.9 3l-3.1 6l-2.9 9l-1 5l-0.7 7l0 9l0.7 7l2.2 9l1.9 5l2 4l4.8 7l6.4 6.3l6 4l7 3.1l8 1.9l9 0.4l6-0.5l8-1.9l7-3.2l7-4.7l6.2-6.4l2.1-3l2.1-4l1.7-5l0.6-4l0-24l0.3-0.4l20-0.3l1 0.7l0 75l-1 0.7l-19 0l-0.5-0.7l0-16l0-1l-0.5-0.6l-5.2 5.6l-6.8 5.4l-7 3.8l-6 2.2l-8 1.9l-10 1l-8-0.3l-6-0.7l-5-1l-7-2.1l-5-2l-4-2.1l-6-3.8l-6-4.9l-4.2-4.4l-3.9-5l-4.3-7l-4-9l-1.9-6l-2-9l-1-10l0-9l1-10l2.1-10l2.8-8l5-10l4.1-6l6.3-7.2l6-5.1l6-4l10-4.9l7-2.2l4-0.9zM253 143l4-0.5l8 0l9 1.3l6 1.8l5 2.1l8 5l8.4 8.3l4.1 6l3.8 8l1.9 6l1 5l0.5 5l0 10l-0.4 5l-1 5l-1.9 6l-2.1 5l-2.9 5l-2.1 3l-4.3 5l-6 5.3l-3 2l-6 3.1l-5 2l-8 1.9l-5 0.4l-8 0l-5-0.4l-5-1l-8-2.8l-6-3.1l-3-2l-4-3.2l-3.2-3.2l-4.1-5l-1.9-3l-4-8l-1.9-6l-1.2-5l-0.7-7l0-8l0.8-7l0.9-4l2.2-7l1.8-4l2.9-5l4.4-5.8l4-4l3-2.6l4-2.7l6-3.2l5-1.9l4-1.1zM477 143l4-0.5l10 0.2l5 1l6 1.9l6 3l3.5 2.4l5.7 5l4.1 5l3.1 5l2 4l2 5l1.9 7l1 6l0 16l-2.2 11l-1.7 5l-3.4 7l-2.5 4l-3.5 4.4l-5 4.7l-6 4.1l-4 2l-6 2.1l-5 1l-4 0.4l-12-0.4l-5-1l-6-2l-6-3.1l-6-4.6l-0.6 0.4l-0.1 49l-1.3 0.5l-19 0l-1-0.5l0-143l1-0.5l19 0l0.7 0.5l0 11l0.3 0.7l4-3.9l7-5.1l7-3.1zM201 144l6 0l1 0.3l0.3 0.7l-0.2 19l-1.1 0.3l-9 0l-4 0.4l-4 0.9l-6 3.1l-5.3 5.3l-2.1 4l-1.9 6l-0.4 4l0 59l-0.3 0.4l-1 0.3l-20-0.3l-0.3-0.4l0-102l1.3-0.5l19 0l0.7 0.5l0 11l0.3 1.4l6-5.4l3-2.3l4-2.2l4-1.7l4-1.1zM323.3 145l0.7-0.5l20 0l0.7 0.5l0 64l1.1 6l1.1 3l1.6 3l2.1 3l2.4 2.4l5 3.1l2 0.8l5 1l5 0l5-1l3-1l3.9-2.3l3.5-3l3-4l2-4l1-3l1.1-6l0-62l0.5-0.5l20 0l1 0.5l0 102l-1 0.7l-19 0l-1-0.7l0-9l-1-0.6l-3 3l-4 3l-5 2.8l-5 1.9l-7 1.4l-10 0.2l-4-0.4l-5-1.1l-7-2.9l-6-4.1l-3.2-3.2l-4.2-6l-1.9-4l-2-6l-1-6l-0.4-7zM252.8 162l6.2-1l4 0l6 0.9l3 0.9l4 1.9l4.4 3.3l2.9 3l2.2 3l3 6l1.7 6l0.8 6l0 8l-0.7 6l-1 4l-2 5l-3 5l-4.3 4.6l-5 3.4l-3 1.4l-3 1l-6 0.9l-5 0l-5-0.9l-3-1l-3-1.2l-3-1.9l-4-3.5l-2.4-2.8l-2-3l-2-4l-1.9-6l-1-7l0-7l1.1-8l1.9-6l2-4l2-3l3.3-3.6l2-1.7l5-3.1zM473 162l6-1l5 0l5 0.8l3 1l4 1.9l4 3.1l3.5 4.2l2.8 5l2.1 6l0.8 4l0.5 5l-0.2 11l-1.3 7l-1.8 5l-2.1 4l-4.3 5.4l-4 3.1l-4 1.9l-3 1l-5 0.9l-5 0l-6-1l-3-1l-4-2l-5.2-4.3l-3.1-4l-2.9-6l-1.2-4l-0.8-4l-0.5-5l0.2-10l1.2-7l2.1-6l2.8-5l4.7-5l4.7-3.2z\"/><path class=\"lg-d\" fill=\"#e1b77e\" d=\"M76.5 171.3h25v25.2h-25z\"/></svg>";
@@ -1118,11 +1211,265 @@ body.tv .controls, body.tv .hint{display:none}
     [[6,0,''],[14,5,'t'],[24,10,''],[78,2,'t'],[88,7,''],[94,12,'t']].forEach(function(p){var i=el('i',p[2]||null);i.style.left=p[0]+'%';i.style.animationDelay=p[1]+'s';fx.appendChild(i);});
     sec.classList.add('tm');sec.insertBefore(fx,sec.firstChild);sec.appendChild(L);sec.appendChild(R);
   }
+
+  /* ===== QR kod üretici (çevrimdışı) ===== */
+  /*
+   * qr.js - dependency-free QR Code encoder (ISO/IEC 18004), plain ES5. Byte mode (UTF-8), versions 1-40,
+   * ECC levels L/M/Q/H, smallest version that fits, best of the 8 masks. Defines only:
+   *   qrMatrix(text, ecl) -> {size: N, m: [[bool, ...], ...]} (m[row][col], true = dark) or null if too long
+   *   qrSvg(text, opts) -> '<svg ...>...</svg>' or '' if too long;
+   *     opts {ecl: 'M', margin: 4, dark: '#000', light: '#fff' ('none' = transparent), cls: ''}
+   */
+  function qrMatrix(text, ecl) {
+    // ISO/IEC 18004 Table 9 (rows L, M, Q, H; versions 1-40): ECC codewords per block, number of blocks
+    var ECC_LEN = [
+      [7,10,15,20,26,18,20,24,30,18,20,24,26,30,22,24,28,30,28,28,28,28,30,30,26,28,30,30,30,30,30,30,30,30,30,30,30,30,30,30],
+      [10,16,26,18,24,16,18,22,22,26,30,22,22,24,24,28,28,26,26,26,26,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28],
+      [13,22,18,26,18,24,18,22,20,24,28,26,24,20,30,24,28,28,26,30,28,30,30,30,30,28,30,30,30,30,30,30,30,30,30,30,30,30,30,30],
+      [17,28,22,16,22,28,26,26,24,28,24,28,22,24,24,30,28,28,26,28,30,24,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30]];
+    var BLOCKS = [
+      [1,1,1,1,1,2,2,2,2,4,4,4,4,4,6,6,6,6,7,8,8,9,9,10,12,12,12,13,14,15,16,17,18,19,19,20,21,22,24,25],
+      [1,1,1,2,2,4,4,4,5,5,5,8,9,9,10,10,11,13,14,16,17,17,18,20,21,23,25,26,28,29,31,33,35,37,38,40,43,45,47,49],
+      [1,1,2,2,4,4,6,6,8,8,8,10,12,16,12,17,16,18,21,20,23,23,25,27,29,34,34,35,38,40,43,45,48,51,53,56,59,62,65,68],
+      [1,1,2,4,4,4,5,6,8,8,11,11,16,16,18,16,19,21,25,25,25,34,30,32,35,37,40,42,45,48,51,54,57,60,63,66,70,74,77,81]];
+    var lvl = {L: 0, M: 1, Q: 2, H: 3}[String(ecl || 'M').toUpperCase()];
+    var bytes = utf8(text == null ? '' : String(text)), bits = '', data = [], out = [], blocks = [], ecc = [];
+    var EXP = [], LOG = [], m = [], fn = [], size, ver, rawCw, eccLen, nb, dataCw, shortLen, al;
+    var i, j, k, x, r, c, best, bestPen, pen;
+
+    function utf8(s) {
+      var b = [], i, c, d;
+      for (i = 0; i < s.length; i++) {
+        c = s.charCodeAt(i);
+        if (c >= 0xD800 && c < 0xDC00 && (d = s.charCodeAt(i + 1)) >= 0xDC00 && d < 0xE000) {
+          c = 0x10000 + (c - 0xD800) * 0x400 + d - 0xDC00;
+          i++;
+        } else if (c >= 0xD800 && c < 0xE000) c = 0xFFFD; // lone surrogate
+        if (c < 0x80) b.push(c);
+        else if (c < 0x800) b.push(0xC0 | c >> 6, 0x80 | c & 63);
+        else if (c < 0x10000) b.push(0xE0 | c >> 12, 0x80 | c >> 6 & 63, 0x80 | c & 63);
+        else b.push(0xF0 | c >> 18, 0x80 | c >> 12 & 63, 0x80 | c >> 6 & 63, 0x80 | c & 63);
+      }
+      return b;
+    }
+    function rawModules(v) { // all modules minus function patterns
+      var a = Math.floor(v / 7) + 2;
+      return (16 * v + 128) * v + 64 - (v < 2 ? 0 : (25 * a - 10) * a - 55) - (v < 7 ? 0 : 36);
+    }
+    function alignPos(v) { // alignment pattern centres, as in ISO/IEC 18004 Annex E
+      var n = Math.floor(v / 7) + 2, step = Math.floor((8 * v + 3 * n + 5) / (4 * n - 4)) * 2, res = [6], p;
+      if (v == 1) return [];
+      for (p = 4 * v + 10; res.length < n; p -= step) res.splice(1, 0, p);
+      return res;
+    }
+    function put(val, len) { while (len-- > 0) bits += val >> len & 1; }
+    function gmul(a, b) { return a && b ? EXP[(LOG[a] + LOG[b]) % 255] : 0; }
+    function rsEcc(block, n) { // block(x) * x^n mod (x - 2^0)(x - 2^1)...(x - 2^(n-1))
+      var g = [1], r = [], i, j, f;
+      for (i = 0; i < n; i++) {
+        g.push(0);
+        r.push(0);
+        for (j = i + 1; j > 0; j--) g[j] ^= gmul(g[j - 1], EXP[i]);
+      }
+      for (i = 0; i < block.length; i++) {
+        f = block[i] ^ r.shift();
+        r.push(0);
+        for (j = 0; j < n; j++) r[j] ^= gmul(g[j + 1], f);
+      }
+      return r;
+    }
+    function set(r, c, dark) { m[r][c] = !!dark; fn[r][c] = true; }
+    function pattern(r, c, rad) { // finder + separator (rad 4) or alignment (rad 2), clipped to the symbol
+      var dr, dc, d;
+      for (dr = -rad; dr <= rad; dr++) {
+        for (dc = -rad; dc <= rad; dc++) {
+          d = Math.max(Math.abs(dr), Math.abs(dc));
+          if (m[r + dr] && c + dc >= 0 && c + dc < size) set(r + dr, c + dc, rad == 4 ? d != 2 && d != 4 : d != 1);
+        }
+      }
+    }
+    // Format info: level (L=01 M=00 Q=11 H=10) + mask, BCH(15,5) code 0x537, XOR 0x5412; plus the dark module
+    function drawFormat(mask) {
+      var v = [1, 0, 3, 2][lvl] << 3 | mask, rem = v, i, b;
+      for (i = 0; i < 10; i++) rem = rem << 1 ^ (rem >> 9) * 0x537;
+      v = (v << 10 | rem) ^ 0x5412;
+      for (i = 0; i < 15; i++) { // bit i, 0 = least significant
+        b = v >> i & 1;
+        if (i < 6) set(i, 8, b); else if (i < 8) set(i + 1, 8, b); else if (i == 8) set(8, 7, b); else set(8, 14 - i, b);
+        if (i < 8) set(8, size - 1 - i, b); else set(size - 15 + i, 8, b);
+      }
+      set(size - 8, 8, 1);
+    }
+    function drawVersion() { // version + BCH(18,6) code 0x1F25, 6x3 blocks at top right and bottom left
+      var rem = ver, v, i;
+      for (i = 0; i < 12; i++) rem = rem << 1 ^ (rem >> 11) * 0x1F25;
+      v = ver << 12 | rem;
+      for (i = 0; i < 18; i++) {
+        set(Math.floor(i / 3), size - 11 + i % 3, v >> i & 1);
+        set(size - 11 + i % 3, Math.floor(i / 3), v >> i & 1);
+      }
+    }
+    function masked(k, r, c) {
+      switch (k) {
+        case 0: return (r + c) % 2 == 0;
+        case 1: return r % 2 == 0;
+        case 2: return c % 3 == 0;
+        case 3: return (r + c) % 3 == 0;
+        case 4: return (Math.floor(r / 2) + Math.floor(c / 3)) % 2 == 0;
+        case 5: return r * c % 2 + r * c % 3 == 0;
+        case 6: return (r * c % 2 + r * c % 3) % 2 == 0;
+        default: return ((r + c) % 2 + r * c % 3) % 2 == 0;
+      }
+    }
+    function applyMask(k) { // XOR: applying it twice undoes it
+      var r, c;
+      for (r = 0; r < size; r++) for (c = 0; c < size; c++) if (!fn[r][c] && masked(k, r, c)) m[r][c] = !m[r][c];
+    }
+    // N1: 3 + (n - 5) per run of n >= 5 same-coloured modules; N3: 40 per 1011101 with 4 light modules
+    // before or after it (outside the symbol counts as light)
+    function lineScore(s) {
+      var p = 0, re = /0{5,}|1{5,}/g, hit, i;
+      while ((hit = re.exec(s))) p += hit[0].length - 2;
+      s = '0000' + s + '0000';
+      for (i = s.indexOf('1011101'); i >= 0; i = s.indexOf('1011101', i + 1)) {
+        if (s.slice(i - 4, i) == '0000' || s.slice(i + 7, i + 11) == '0000') p += 40;
+      }
+      return p;
+    }
+    // N1 + N3 on rows and columns, N2: 3 per same-coloured 2x2 block, N4: 10 per full 5% away from 50% dark
+    function penalty() {
+      var p = 0, dark = 0, r, c, a, b, v;
+      for (r = 0; r < size; r++) {
+        for (a = b = '', c = 0; c < size; c++) {
+          v = m[r][c];
+          a += v ? 1 : 0;
+          b += m[c][r] ? 1 : 0;
+          if (v) dark++;
+          if (r && c && v == m[r - 1][c] && v == m[r][c - 1] && v == m[r - 1][c - 1]) p += 3;
+        }
+        p += lineScore(a) + lineScore(b);
+      }
+      return p + 10 * Math.floor(Math.abs(20 * dark - 10 * size * size) / (size * size));
+    }
+
+    if (lvl == null) lvl = 1;
+    for (i = 0, x = 1; i < 255; i++) { // GF(256), primitive polynomial 0x11D
+      EXP[i] = x;
+      LOG[x] = i;
+      x = x << 1 ^ (x & 0x80 ? 0x11D : 0);
+    }
+    // 1. Smallest version holding mode (4 bits) + character count (8 or 16 bits) + data
+    for (ver = 1; ; ver++) {
+      if (ver > 40) return null;
+      rawCw = rawModules(ver) >> 3;
+      eccLen = ECC_LEN[lvl][ver - 1];
+      nb = BLOCKS[lvl][ver - 1];
+      dataCw = rawCw - eccLen * nb;
+      if (4 + (ver < 10 ? 8 : 16) + 8 * bytes.length <= 8 * dataCw) break;
+    }
+    // 2. Mode 0100, count, data, terminator, zero bits to a byte boundary, pad bytes EC 11
+    put(4, 4);
+    put(bytes.length, ver < 10 ? 8 : 16);
+    for (i = 0; i < bytes.length; i++) put(bytes[i], 8);
+    put(0, Math.min(4, 8 * dataCw - bits.length));
+    put(0, (8 - bits.length % 8) % 8);
+    for (x = 0xEC; bits.length < 8 * dataCw; x ^= 0xEC ^ 0x11) put(x, 8);
+    for (i = 0; i < bits.length; i += 8) data.push(parseInt(bits.slice(i, i + 8), 2));
+    // 3. Blocks (the last rawCw % nb get one more data codeword) + ECC, interleaved
+    shortLen = Math.floor(rawCw / nb) - eccLen;
+    for (i = 0, x = 0; i < nb; i++, x += j) {
+      j = shortLen + (i < nb - rawCw % nb ? 0 : 1);
+      blocks.push(data.slice(x, x + j));
+      ecc.push(rsEcc(blocks[i], eccLen));
+    }
+    for (i = 0; i <= shortLen; i++) for (j = 0; j < nb; j++) if (i < blocks[j].length) out.push(blocks[j][i]);
+    for (i = 0; i < eccLen; i++) for (j = 0; j < nb; j++) out.push(ecc[j][i]);
+    // 4. Finders, alignment patterns (not over finders), timing, reserved format area, version info
+    size = 4 * ver + 17;
+    for (i = 0; i < size; i++) for (m[i] = [], fn[i] = [], j = 0; j < size; j++) m[i][j] = fn[i][j] = false;
+    pattern(3, 3, 4);
+    pattern(3, size - 4, 4);
+    pattern(size - 4, 3, 4);
+    al = alignPos(ver);
+    for (i = 0; i < al.length; i++) for (j = 0; j < al.length; j++) if (!fn[al[i]][al[j]]) pattern(al[i], al[j], 2);
+    for (i = 8; i < size - 8; i++) { set(6, i, i % 2 == 0); set(i, 6, i % 2 == 0); }
+    drawFormat(0);
+    if (ver >= 7) drawVersion();
+    // 5. Codeword bits, MSB first, in 2-module columns zigzagging from the bottom right; remainder bits stay 0
+    for (k = 0, x = size - 1; x >= 1; x -= 2) {
+      if (x == 6) x = 5; // skip the vertical timing pattern
+      for (i = 0; i < size; i++) {
+        for (j = 0; j < 2; j++) {
+          r = (x + 1) & 2 ? i : size - 1 - i;
+          c = x - j;
+          if (!fn[r][c]) {
+            m[r][c] = k < 8 * out.length && (out[k >> 3] >> (7 - (k & 7)) & 1) == 1;
+            k++;
+          }
+        }
+      }
+    }
+    // 6. Keep the mask with the lowest penalty (the first one on ties)
+    for (best = 0, bestPen = Infinity, i = 0; i < 8; i++) {
+      applyMask(i);
+      drawFormat(i);
+      pen = penalty();
+      if (pen < bestPen) { best = i; bestPen = pen; }
+      applyMask(i);
+    }
+    applyMask(best);
+    drawFormat(best);
+    return {size: size, m: m};
+  }
+
+  function qrSvg(text, opts) {
+    opts = opts || {};
+    var q = qrMatrix(text, opts.ecl), light = opts.light || '#fff', d = '', w, r, c, s;
+    var mg = opts.margin == null ? 4 : Math.max(0, Math.floor(opts.margin) || 0);
+    if (!q) return '';
+    w = q.size + 2 * mg;
+    for (r = 0; r < q.size; r++) { // one sub-path per horizontal run of dark modules
+      for (c = 0; c < q.size; c++) {
+        if (!q.m[r][c]) continue;
+        for (s = c; c < q.size && q.m[r][c];) c++;
+        d += 'M' + (s + mg) + ' ' + (r + mg) + 'h' + (c - s) + 'v1h-' + (c - s) + 'z';
+      }
+    }
+    return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + w + ' ' + w + '" shape-rendering="crispEdges" class="' +
+      (opts.cls || '') + '">' + (light == 'none' ? '' : '<rect width="' + w + '" height="' + w + '" fill="' + light + '"/>') +
+      '<path fill="' + (opts.dark || '#000') + '" d="' + d + '"/></svg>';
+  }
+
+  /* ===== açıklamalardaki görsel / video / QR kodlar ===== */
+  function richMedia(box,sec){
+    [].forEach.call(box.querySelectorAll('.rq[data-qr]'),function(q){q.innerHTML=qrSvg(q.getAttribute('data-qr'),{margin:2});});
+    [].forEach.call(box.querySelectorAll('img'),function(im){im.addEventListener('error',function(){im.style.display='none';});});
+    [].forEach.call(box.querySelectorAll('video'),function(v){
+      v.muted=true;v.loop=true;v.autoplay=true;v.setAttribute('muted','');v.setAttribute('playsinline','');v.preload='auto';
+      v.addEventListener('loadedmetadata',function(){if(sec&&isFinite(v.duration)&&v.duration>0){sec._d=Math.max(sec._d,Math.min(180000,v.duration*1000+800));}});
+      v.addEventListener('error',function(){v.style.display='none';});
+    });
+  }
+  /* yalnızca görünen sahnedeki videolar oynar */
+  function mediaPlay(s){
+    [].forEach.call(stage.querySelectorAll('video'),function(v){if(!s.contains(v)){try{v.pause();}catch(e){}}});
+    [].forEach.call(s.querySelectorAll('video'),function(v){try{v.currentTime=0;var p=v.play();if(p&&p.catch){p.catch(function(){});}}catch(e){}});
+  }
+  /* içerik kartındaki QR kod (etkinlik kaydı, bağlantı vb.) */
+  function qrCard(sec,o,label){
+    if(!sec||!o||!o.qrText){return;}
+    var svg=qrSvg(String(o.qrText),{margin:2});if(!svg){return;}
+    var c=el('div','qrc'),q=el('div','qrc-q');q.innerHTML=svg;c.appendChild(q);
+    var t=el('div','qrc-t');t.appendChild(el('i',null,_t('QR KOD')));t.appendChild(el('b',null,o.qrCap||_t('Telefonunuzla okutun')));
+    if(label){t.appendChild(el('small',null,label));}
+    c.appendChild(t);sec.appendChild(c);
+  }
+
   function hub(size,anim,live){var h=el('div','hub '+size+(live?' live':''));h.setAttribute('data-anim',anim||'spinGrow');h.innerHTML=(live?HX:'')+ICON;return h;}
 
   /* ===== Dil: Türkçe / English ===== */
   var LANG='tr';
-  var EN={"Ocak": "January", "Şubat": "February", "Mart": "March", "Nisan": "April", "Mayıs": "May", "Haziran": "June", "Temmuz": "July", "Ağustos": "August", "Eylül": "September", "Ekim": "October", "Kasım": "November", "Aralık": "December", "Pazar": "Sunday", "Pazartesi": "Monday", "Salı": "Tuesday", "Çarşamba": "Wednesday", "Perşembe": "Thursday", "Cuma": "Friday", "Cumartesi": "Saturday", "Oğlak": "Capricorn", "Kova": "Aquarius", "Balık": "Pisces", "Koç": "Aries", "Boğa": "Taurus", "İkizler": "Gemini", "Yengeç": "Cancer", "Aslan": "Leo", "Başak": "Virgo", "Terazi": "Libra", "Akrep": "Scorpio", "Yay": "Sagittarius", "Toprak": "Earth", "Hava": "Air", "Su": "Water", "Ateş": "Fire", "🎂 HAFTA SONU DOĞUM GÜNÜ": "🎂 WEEKEND BIRTHDAY", "🎂 BUGÜN DOĞUM GÜNÜ": "🎂 BIRTHDAY TODAY", "🎂 DOĞUM GÜNÜ KUTLAMASI": "🎂 BIRTHDAY CELEBRATION", "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉": "Happy birthday! Wishing you many happy returns! 🎉", "Açık": "Clear", "Çoğunlukla açık": "Mostly clear", "Parçalı bulutlu": "Partly cloudy", "Kapalı": "Overcast", "Sisli": "Foggy", "Hafif çisenti": "Light drizzle", "Çisenti": "Drizzle", "Yoğun çisenti": "Dense drizzle", "Donan çisenti": "Freezing drizzle", "Hafif yağmurlu": "Light rain", "Yağmurlu": "Rain", "Kuvvetli yağmur": "Heavy rain", "Donan yağmur": "Freezing rain", "Hafif kar": "Light snow", "Kar yağışlı": "Snow", "Yoğun kar": "Heavy snow", "Kar taneleri": "Snow grains", "Hafif sağanak": "Light showers", "Sağanak yağış": "Showers", "Şiddetli sağanak": "Violent showers", "Kar sağanağı": "Snow showers", "Yoğun kar sağanağı": "Heavy snow showers", "Gök gürültülü fırtına": "Thunderstorm", "Dolulu fırtına": "Thunderstorm with hail", "Şiddetli dolulu fırtına": "Severe thunderstorm with hail", "Fırtınaya dikkat, güvenli kalın! ⛈️": "Storm warning – stay safe! ⛈️", "Şemsiyenizi almayı unutmayın! ☂️": "Don’t forget your umbrella! ☂️", "Yollar kaygan olabilir, dikkatli olun! ❄️": "Roads may be slippery – take care! ❄️", "Sisli havada trafikte dikkatli olun! 🌫️": "Drive carefully in the fog! 🌫️", "Bol su için, serin kalın! ☀️": "Drink plenty of water and stay cool! ☀️", "Sıkı giyinin! 🧣": "Wrap up warm! 🧣", "İyi çalışmalar! 😊": "Have a great day! 😊", "Hava Durumu": "Weather", "Veri: Open-Meteo.com": "Data: Open-Meteo.com", "Hava durumu bilgisi alınıyor…": "Loading weather data…", "Bugün": "Today", "Ödül": "Award", "Sertifika": "Certification", "Proje başarısı": "Project success", "Takdir": "Recognition", "Hedef başarısı": "Goal achieved", "Eğitim": "Training", "Etkinlik": "Event", "Toplantı": "Meeting", "Duyuru": "Announcement", "✨ ARAMIZA YENİ KATILDI": "✨ NEW TEAM MEMBER", "Hoş geldin,": "Welcome,", "Departman": "Department", "Yöneticisi": "Manager", "Lokasyon": "Location", "İlk iş günü": "First day", "💬 IT desteğine ihtiyacın olursa Teams’te Hubbert’a yazman yeterli!": "💬 Need IT support? Just message Hubbert on Teams!", "Aramıza hoş geldin ": "Welcome aboard, ", "! Yeni yolculuğunda başarılar dileriz.": "! Wishing you every success on your new journey.", "BU HAFTA SONU İŞ YIL DÖNÜMÜ": "WORK ANNIVERSARY THIS WEEKEND", "İŞ YIL DÖNÜMÜ": "WORK ANNIVERSARY", "ÇALIŞAN BAŞARILARI": "EMPLOYEE ACHIEVEMENTS", "Tebrikler! 👏": "Congratulations! 👏", " — Tebrikler!": " — Congratulations!", "BUGÜN": "TODAY", "YARIN": "TOMORROW", "Etkinlik ve Eğitim Takvimi": "Events & Training Calendar", "ÖNÜMÜZDEKİ ": "NEXT ", " GÜN": " DAYS", "Sıradaki: ": "Up next: ", "bugün": "today", "Önümüzdeki günlerde planlanmış etkinlik bulunmuyor.": "No events are scheduled for the coming days.", "YAKLAŞAN ETKİNLİK": "UPCOMING EVENT", "ETKİNLİKTEN KARELER": "EVENT HIGHLIGHTS", " — etkinlikten kareler": " — event highlights", "🎂 BU AY DOĞANLAR · ": "🎂 BORN THIS MONTH · ", " · Bugün 🎉": " · Today 🎉", "Bu Ay Doğanlar": "Born This Month", "Bu ay doğum günü olan kimse yok.": "No birthdays this month.", "Bu Ayın İş Yıl Dönümleri": "Work Anniversaries This Month", "Bu ay iş yıl dönümünü kutlayan tüm çalışma arkadaşlarımıza emekleri için teşekkür ederiz! 👏": "Thank you to all our colleagues celebrating a work anniversary this month! 👏", "Bu ay iş yıl dönümü olan kimse yok.": "No work anniversaries this month.", "🔒 Özel toplantı": "🔒 Private meeting", "Özel toplantı": "Private meeting", "MÜSAİT": "AVAILABLE", "KULLANIM DIŞI": "OUT OF SERVICE", "Bakım nedeniyle kullanılamıyor": "Unavailable for maintenance", "REZERVE": "RESERVED", "MEŞGUL": "BUSY", "Gün sonuna kadar dolu": "Booked for the rest of the day", "DK": "MIN", "SAAT": "HRS", "Sıradaki  ": "Next  ", "YAKINDA DOLU": "BOOKED SOON", "Toplantı  ": "Meeting  ", "Bugün başka toplantı yok": "No more meetings today", "Gün boyu müsait": "Available all day", "TOPLANTI ODALARI": "MEETING ROOMS", "Toplantı Odaları": "Meeting Rooms", "YAKINDA": "SOON", "Henüz toplantı odası eklenmedi.": "No meeting rooms added yet.", "📅 Oda rezervasyonu için Outlook’ta toplantınıza odayı ekleyin.": "📅 To book a room, add it to your meeting in Outlook.", "🔄 Outlook takviminden · ": "🔄 From Outlook calendars · ", " dk": " min", " sa": " h", "Haber": "News", "Önemli": "Important", "Başarı": "Achievement", "İnsan Kaynakları": "Human Resources", "İş Güvenliği": "Health & Safety", "Sürdürülebilirlik": "Sustainability", "ŞİRKETTEN HABERLER": "COMPANY NEWS", "Haberler ve Duyurular": "News & Announcements", " güncel haber ve duyuru": " current news items and announcements", "📌 Öne çıkan": "📌 Featured", "Kaynak: ": "Source: ", "Yayında haber veya duyuru yok.": "No news or announcements are live.", "Gösterilecek sahne yok": "No scenes to show", "● Güncellendi": "● Updated", "⏮ Geri": "⏮ Back", "⏸ Duraklat": "⏸ Pause", "▶ Oynat": "▶ Play", "İleri ⏭": "Next ⏭", "↺ Baştan": "↺ Restart", "⛶ Tam ekran": "⛶ Full screen", "Boşluk = oynat/duraklat · ← → = sahne · F = tam ekran · TV modu için adrese ?tv=1 ekleyin": "Space = play/pause · ← → = scene · F = full screen · add ?tv=1 to the address for TV mode", "TEBRİKLER": "CONGRATULATIONS", "Çalışan Başarıları": "Employee Achievements", "İş Yıl Dönümü": "Work Anniversary", "BU HAFTA SONU": "THIS WEEKEND", "Tam ekran görsel": "Full-screen image", "Bu alana henüz görsel eklenmedi.": "No image has been added to this slot yet.", "Şirketten Haberler": "Company News", "ATLAS COPCO TÜRKİYE": "ATLAS COPCO TÜRKIYE", " güncel haber": " latest news", "Yayında haber yok.": "No news is being published right now.", "FOTOĞRAF GALERİSİ": "PHOTO GALLERY", "Fotoğraf Galerisi": "Photo Gallery", "Bu albümde henüz fotoğraf yok.": "This album has no photos yet.", "ATLAS COPCO DÜNYADA": "ATLAS COPCO WORLDWIDE", "Dünya Saatleri": "World Clocks", "Panelden şehir ekleyin.": "Add cities in the admin panel.", "MERKEZ": "HEADQUARTERS", "Merkez": "Headquarters", "Aynı saat": "Same time", "Yarın": "Tomorrow", "Dün": "Yesterday", "Çevrimiçi · Microsoft Teams": "Online · Microsoft Teams", "Sohbet": "Chat", "Dosyalar": "Files", "SİZ": "YOU", "Siz": "You", "IT Destek": "IT Support", "Hubbert’a mesaj yazın…": "Type a message to Hubbert…", "Outlook şifremi unuttum 😕": "I forgot my Outlook password 😕", "Hemen yardımcı olayım! Şifre sıfırlama bağlantısını e-postanıza gönderdim. ✅": "Happy to help! I’ve sent a password reset link to your e-mail. ✅", "🔐 Şifre sıfırlama": "🔐 Password reset", "Tamamlandı": "Completed", "Ayrıntılar": "Details", "VPN bağlantım sürekli kopuyor": "My VPN connection keeps dropping", "Kontrol ettim; VPN istemcinizi güncellemeniz yeterli. Adımları paylaşıyorum 👇": "I checked: updating your VPN client will fix it. Here are the steps 👇", "🛠️ Çözüm adımları gönderildi": "🛠️ Fix steps sent", "3 adımda tamamlanır": "Done in 3 steps", "Adımları gör": "View steps", "Yeni bir monitör talep etmek istiyorum": "I’d like to request a new monitor", "Talebinizi oluşturdum ve onay için yöneticinize ilettim 👍": "I’ve created your request and sent it to your manager for approval 👍", "📦 Talep oluşturuldu": "📦 Request created", "Onay bekliyor": "Awaiting approval", "Talebi aç": "Open request", "Toplantı odasında ekran yansıtma çalışmıyor": "Screen sharing in the meeting room isn’t working", "HDMI kablosunu takıp Windows + P tuşlarına basmayı deneyin 💡": "Plug in the HDMI cable and try pressing Windows + P 💡", "💡 Hızlı çözüm": "💡 Quick fix", "Toplantı odaları rehberi": "Meeting room guide", "Rehberi aç": "Open guide", "Talebiniz çözüldü ✅": "Your request is resolved ✅", "7/24 Teams’te yanınızdayım 💬": "Here for you 24/7 in Teams 💬", "Sorunuzu yazın, saniyeler içinde yanıt alın ⚡": "Ask your question, get an answer in seconds ⚡", "Ticket’ınız güncellendi 🎫": "Your ticket was updated 🎫", "şimdi": "now", "1 dk": "1 min", "5 dk": "5 min", "12 dk": "12 min"};
+  var EN={"Ocak": "January", "Şubat": "February", "Mart": "March", "Nisan": "April", "Mayıs": "May", "Haziran": "June", "Temmuz": "July", "Ağustos": "August", "Eylül": "September", "Ekim": "October", "Kasım": "November", "Aralık": "December", "Pazar": "Sunday", "Pazartesi": "Monday", "Salı": "Tuesday", "Çarşamba": "Wednesday", "Perşembe": "Thursday", "Cuma": "Friday", "Cumartesi": "Saturday", "Oğlak": "Capricorn", "Kova": "Aquarius", "Balık": "Pisces", "Koç": "Aries", "Boğa": "Taurus", "İkizler": "Gemini", "Yengeç": "Cancer", "Aslan": "Leo", "Başak": "Virgo", "Terazi": "Libra", "Akrep": "Scorpio", "Yay": "Sagittarius", "Toprak": "Earth", "Hava": "Air", "Su": "Water", "Ateş": "Fire", "🎂 HAFTA SONU DOĞUM GÜNÜ": "🎂 WEEKEND BIRTHDAY", "🎂 BUGÜN DOĞUM GÜNÜ": "🎂 BIRTHDAY TODAY", "🎂 DOĞUM GÜNÜ KUTLAMASI": "🎂 BIRTHDAY CELEBRATION", "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉": "Happy birthday! Wishing you many happy returns! 🎉", "Açık": "Clear", "Çoğunlukla açık": "Mostly clear", "Parçalı bulutlu": "Partly cloudy", "Kapalı": "Overcast", "Sisli": "Foggy", "Hafif çisenti": "Light drizzle", "Çisenti": "Drizzle", "Yoğun çisenti": "Dense drizzle", "Donan çisenti": "Freezing drizzle", "Hafif yağmurlu": "Light rain", "Yağmurlu": "Rain", "Kuvvetli yağmur": "Heavy rain", "Donan yağmur": "Freezing rain", "Hafif kar": "Light snow", "Kar yağışlı": "Snow", "Yoğun kar": "Heavy snow", "Kar taneleri": "Snow grains", "Hafif sağanak": "Light showers", "Sağanak yağış": "Showers", "Şiddetli sağanak": "Violent showers", "Kar sağanağı": "Snow showers", "Yoğun kar sağanağı": "Heavy snow showers", "Gök gürültülü fırtına": "Thunderstorm", "Dolulu fırtına": "Thunderstorm with hail", "Şiddetli dolulu fırtına": "Severe thunderstorm with hail", "Fırtınaya dikkat, güvenli kalın! ⛈️": "Storm warning – stay safe! ⛈️", "Şemsiyenizi almayı unutmayın! ☂️": "Don’t forget your umbrella! ☂️", "Yollar kaygan olabilir, dikkatli olun! ❄️": "Roads may be slippery – take care! ❄️", "Sisli havada trafikte dikkatli olun! 🌫️": "Drive carefully in the fog! 🌫️", "Bol su için, serin kalın! ☀️": "Drink plenty of water and stay cool! ☀️", "Sıkı giyinin! 🧣": "Wrap up warm! 🧣", "İyi çalışmalar! 😊": "Have a great day! 😊", "Hava Durumu": "Weather", "Veri: Open-Meteo.com": "Data: Open-Meteo.com", "Hava durumu bilgisi alınıyor…": "Loading weather data…", "Bugün": "Today", "Ödül": "Award", "Sertifika": "Certification", "Proje başarısı": "Project success", "Takdir": "Recognition", "Hedef başarısı": "Goal achieved", "Eğitim": "Training", "Etkinlik": "Event", "Toplantı": "Meeting", "Duyuru": "Announcement", "✨ ARAMIZA YENİ KATILDI": "✨ NEW TEAM MEMBER", "Hoş geldin,": "Welcome,", "Departman": "Department", "Yöneticisi": "Manager", "Lokasyon": "Location", "İlk iş günü": "First day", "💬 IT desteğine ihtiyacın olursa Teams’te Hubbert’a yazman yeterli!": "💬 Need IT support? Just message Hubbert on Teams!", "Aramıza hoş geldin ": "Welcome aboard, ", "! Yeni yolculuğunda başarılar dileriz.": "! Wishing you every success on your new journey.", "BU HAFTA SONU İŞ YIL DÖNÜMÜ": "WORK ANNIVERSARY THIS WEEKEND", "İŞ YIL DÖNÜMÜ": "WORK ANNIVERSARY", "ÇALIŞAN BAŞARILARI": "EMPLOYEE ACHIEVEMENTS", "Tebrikler! 👏": "Congratulations! 👏", " — Tebrikler!": " — Congratulations!", "BUGÜN": "TODAY", "YARIN": "TOMORROW", "Etkinlik ve Eğitim Takvimi": "Events & Training Calendar", "ÖNÜMÜZDEKİ ": "NEXT ", " GÜN": " DAYS", "Sıradaki: ": "Up next: ", "bugün": "today", "Önümüzdeki günlerde planlanmış etkinlik bulunmuyor.": "No events are scheduled for the coming days.", "YAKLAŞAN ETKİNLİK": "UPCOMING EVENT", "ETKİNLİKTEN KARELER": "EVENT HIGHLIGHTS", " — etkinlikten kareler": " — event highlights", "🎂 BU AY DOĞANLAR · ": "🎂 BORN THIS MONTH · ", " · Bugün 🎉": " · Today 🎉", "Bu Ay Doğanlar": "Born This Month", "Bu ay doğum günü olan kimse yok.": "No birthdays this month.", "Bu Ayın İş Yıl Dönümleri": "Work Anniversaries This Month", "Bu ay iş yıl dönümünü kutlayan tüm çalışma arkadaşlarımıza emekleri için teşekkür ederiz! 👏": "Thank you to all our colleagues celebrating a work anniversary this month! 👏", "Bu ay iş yıl dönümü olan kimse yok.": "No work anniversaries this month.", "🔒 Özel toplantı": "🔒 Private meeting", "Özel toplantı": "Private meeting", "MÜSAİT": "AVAILABLE", "KULLANIM DIŞI": "OUT OF SERVICE", "Bakım nedeniyle kullanılamıyor": "Unavailable for maintenance", "REZERVE": "RESERVED", "MEŞGUL": "BUSY", "Gün sonuna kadar dolu": "Booked for the rest of the day", "DK": "MIN", "SAAT": "HRS", "Sıradaki  ": "Next  ", "YAKINDA DOLU": "BOOKED SOON", "Toplantı  ": "Meeting  ", "Bugün başka toplantı yok": "No more meetings today", "Gün boyu müsait": "Available all day", "TOPLANTI ODALARI": "MEETING ROOMS", "Toplantı Odaları": "Meeting Rooms", "YAKINDA": "SOON", "Henüz toplantı odası eklenmedi.": "No meeting rooms added yet.", "📅 Oda rezervasyonu için Outlook’ta toplantınıza odayı ekleyin.": "📅 To book a room, add it to your meeting in Outlook.", "🔄 Outlook takviminden · ": "🔄 From Outlook calendars · ", " dk": " min", " sa": " h", "Haber": "News", "Önemli": "Important", "Başarı": "Achievement", "İnsan Kaynakları": "Human Resources", "İş Güvenliği": "Health & Safety", "Sürdürülebilirlik": "Sustainability", "ŞİRKETTEN HABERLER": "COMPANY NEWS", "Haberler ve Duyurular": "News & Announcements", " güncel haber ve duyuru": " current news items and announcements", "📌 Öne çıkan": "📌 Featured", "Kaynak: ": "Source: ", "Yayında haber veya duyuru yok.": "No news or announcements are live.", "Gösterilecek sahne yok": "No scenes to show", "● Güncellendi": "● Updated", "⏮ Geri": "⏮ Back", "⏸ Duraklat": "⏸ Pause", "▶ Oynat": "▶ Play", "İleri ⏭": "Next ⏭", "↺ Baştan": "↺ Restart", "⛶ Tam ekran": "⛶ Full screen", "Boşluk = oynat/duraklat · ← → = sahne · F = tam ekran · TV modu için adrese ?tv=1 ekleyin": "Space = play/pause · ← → = scene · F = full screen · add ?tv=1 to the address for TV mode", "TEBRİKLER": "CONGRATULATIONS", "Çalışan Başarıları": "Employee Achievements", "İş Yıl Dönümü": "Work Anniversary", "BU HAFTA SONU": "THIS WEEKEND", "Tam ekran görsel": "Full-screen image", "Bu alana henüz görsel eklenmedi.": "No image has been added to this slot yet.", "Şirketten Haberler": "Company News", "ATLAS COPCO TÜRKİYE": "ATLAS COPCO TÜRKIYE", " güncel haber": " latest news", "Yayında haber yok.": "No news is being published right now.", "FOTOĞRAF GALERİSİ": "PHOTO GALLERY", "Fotoğraf Galerisi": "Photo Gallery", "Bu albümde henüz fotoğraf yok.": "This album has no photos yet.", "ATLAS COPCO DÜNYADA": "ATLAS COPCO WORLDWIDE", "Dünya Saatleri": "World Clocks", "Panelden şehir ekleyin.": "Add cities in the admin panel.", "MERKEZ": "HEADQUARTERS", "Merkez": "Headquarters", "Aynı saat": "Same time", "Yarın": "Tomorrow", "Dün": "Yesterday", "Çevrimiçi · Microsoft Teams": "Online · Microsoft Teams", "Sohbet": "Chat", "Dosyalar": "Files", "SİZ": "YOU", "Siz": "You", "IT Destek": "IT Support", "Hubbert’a mesaj yazın…": "Type a message to Hubbert…", "Outlook şifremi unuttum 😕": "I forgot my Outlook password 😕", "Hemen yardımcı olayım! Şifre sıfırlama bağlantısını e-postanıza gönderdim. ✅": "Happy to help! I’ve sent a password reset link to your e-mail. ✅", "🔐 Şifre sıfırlama": "🔐 Password reset", "Tamamlandı": "Completed", "Ayrıntılar": "Details", "VPN bağlantım sürekli kopuyor": "My VPN connection keeps dropping", "Kontrol ettim; VPN istemcinizi güncellemeniz yeterli. Adımları paylaşıyorum 👇": "I checked: updating your VPN client will fix it. Here are the steps 👇", "🛠️ Çözüm adımları gönderildi": "🛠️ Fix steps sent", "3 adımda tamamlanır": "Done in 3 steps", "Adımları gör": "View steps", "Yeni bir monitör talep etmek istiyorum": "I’d like to request a new monitor", "Talebinizi oluşturdum ve onay için yöneticinize ilettim 👍": "I’ve created your request and sent it to your manager for approval 👍", "📦 Talep oluşturuldu": "📦 Request created", "Onay bekliyor": "Awaiting approval", "Talebi aç": "Open request", "Toplantı odasında ekran yansıtma çalışmıyor": "Screen sharing in the meeting room isn’t working", "HDMI kablosunu takıp Windows + P tuşlarına basmayı deneyin 💡": "Plug in the HDMI cable and try pressing Windows + P 💡", "💡 Hızlı çözüm": "💡 Quick fix", "Toplantı odaları rehberi": "Meeting room guide", "Rehberi aç": "Open guide", "Talebiniz çözüldü ✅": "Your request is resolved ✅", "7/24 Teams’te yanınızdayım 💬": "Here for you 24/7 in Teams 💬", "Sorunuzu yazın, saniyeler içinde yanıt alın ⚡": "Ask your question, get an answer in seconds ⚡", "Ticket’ınız güncellendi 🎫": "Your ticket was updated 🎫", "şimdi": "now", "1 dk": "1 min", "5 dk": "5 min", "12 dk": "12 min", "QR KOD": "QR CODE", "Telefonunuzla okutun": "Scan with your phone"};
   function _t(s){return (LANG==='en'&&s!=null&&Object.prototype.hasOwnProperty.call(EN,s))?EN[s]:s;}
   function normLang(x){return /^en/i.test(String(x||''))?'en':'tr';}
   function plEn(n,one,many){return n+' '+(n===1?one:(many||one+'s'));}
@@ -1683,38 +2030,77 @@ body.tv .controls, body.tv .hint{display:none}
   var DEF_GUEST='It is a great pleasure to welcome you to Atlas Copco Türkiye. We wish you a productive visit and a pleasant stay in Türkiye.';
   function guestNames(g){return String(g.names||'').split(/\r?\n|;|,(?=\s*[A-ZÇĞİÖŞÜ])/).map(function(x){return x.trim();}).filter(Boolean).slice(0,12);}
   function guestOn(g,t){if(!g||g.enabled===false||!(guestNames(g).length||g.company)||!parseYmd(g.start)){return false;}var end=parseYmd(g.end)&&g.end>=g.start?g.end:g.start;return t>=g.start&&t<=end;}
+  var BA_ICONS={
+    ct:'<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="14" width="27" height="24" rx="3"/><path d="M11 20h17M11 25h17M11 30h17"/><circle cx="38.5" cy="15" r="6"/><path d="M38.5 15l3.2-3.2"/><path d="M11 38v4M28 38v4"/></svg>',
+    vt:'<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="5" y="19" width="23" height="15" rx="7.5"/><rect x="28" y="21" width="11" height="11" rx="2"/><path d="M39 26.5h4.5"/><circle cx="16.5" cy="11" r="5"/><path d="M16.5 11l2.6-2.6M16.5 16v3"/><path d="M10 34v5M23 34v5"/></svg>',
+    it:'<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M7 13h21a7 7 0 0 1 0 14h-6l-3.5 14h-7.5l3.5-14H7z"/><path d="M35 20h7M38.5 16.5v7"/><path d="M12 20h9"/></svg>',
+    pt:'<svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 6v17"/><rect x="17" y="3.5" width="14" height="6" rx="1.5"/><path d="M19 13.5l-3-2.5M29 13.5l3-2.5"/><rect x="7" y="23" width="34" height="13" rx="2.5"/><path d="M13 29.5h9M28 29.5h7"/><circle cx="14" cy="40" r="3"/><circle cx="34" cy="40" r="3"/></svg>'};
+  var PLANE='<path class="pl" d="M12 0 L4 -1.6 L-0.6 -9 H-2.6 L-0.2 -1.9 L-5.4 -2.4 L-7 -4.8 H-8.4 L-7.6 0 L-8.4 4.8 H-7 L-5.4 2.4 L-0.2 1.9 L-2.6 9 H-0.6 L4 1.6 Z"/>';
+  function acBand(){
+    var b=el('div','g2-band cin d4'),lg=el('span','acg');lg.innerHTML=ACG_SVG;b.appendChild(lg);
+    b.appendChild(el('span','g2-tag','Home of industrial ideas'));
+    [['ct','Compressor Technique'],['vt','Vacuum Technique'],['it','Industrial Technique'],['pt','Power Technique']].forEach(function(x){
+      var i=el('span','g2-ba');i.innerHTML=BA_ICONS[x[0]];i.appendChild(document.createTextNode(x[1]));b.appendChild(i);});
+    return b;
+  }
+  function guestRoute(cc,cn){
+    var r=el('div','g2-route');
+    function pt(code,label,sub){var p=el('div','g2-pt'),f=el('span','fl');f.innerHTML=geoFlag(code);p.appendChild(f);
+      var t=el('span');t.appendChild(document.createTextNode(label));t.appendChild(el('small',null,sub));p.appendChild(t);return p;}
+    r.appendChild(pt(cc,cn,'FROM'));
+    var a=el('div','g2-arc'),d='M14 48 Q150 -4 286 48';
+    a.innerHTML='<svg viewBox="0 0 300 60" aria-hidden="true"><path class="tr" d="'+d+'"/><path class="tg" d="'+d+'"/>'+
+      '<g>'+PLANE+'<animateMotion dur="5s" begin="1.4s" repeatCount="indefinite" rotate="auto" keyPoints="0;1;1" keyTimes="0;.7;1" calcMode="linear" path="'+d+'"/></g></svg>';
+    r.appendChild(a);
+    r.appendChild(pt('TR','İstanbul','TO · TÜRKİYE'));
+    return r;
+  }
   function guestScene(g,G,now){
     var keep=LANG;LANG='en';
     try{
-      var sec=corpScene('gst');sec._key='gst:'+g.id;sec._nowx=true;sec.setAttribute('lang','en');pbg(sec,guestBg(g),false);
+      var sec=corpScene('gst gst2');sec._key='gst:'+g.id;sec._nowx=true;sec.setAttribute('lang','en');pbg(sec,guestBg(g),false);
       var body=thead(sec,'ATLAS COPCO TÜRKIYE','Our Guests');
-      var wrap=el('div','gs cin d2'),bw=el('div','gs-bw'),badge=el('div','gs-badge'),R=el('div','gs-r');
+      var okp=function(x){return /^(media\/[\w.-]+|data:image\/)/.test(String(x||''));};
+      var nm=guestNames(g),ph=Array.isArray(g.photos)?g.photos:[],cc=String(g.country||'').toUpperCase(),fs=geoFlag(cc);
+      var cn=cc==='INT'?'International':geoName(cc,'en'),solo=nm.length<=1&&okp(ph[0]);
+      var wrap=el('div','g2 cin d2'),bw=el('div','gs-bw'),badge=el('div','gs-badge'),M=el('div','g2-main');
       bw.appendChild(el('div','gs-strap'));badge.appendChild(el('div','gs-clip'));
       var top=el('div','gs-btop','GUEST');top.appendChild(el('small',null,'ATLAS COPCO TÜRKIYE'));badge.appendChild(top);
-      var bin=el('div','gs-bin'),cc=String(g.country||'').toUpperCase(),fs=geoFlag(cc),fl;
-      if(fs){fl=el('div','gs-flag');fl.style.aspectRatio=String(geoRatio(cc));fl.innerHTML=fs;}
-      else{fl=el('div','gs-flag none',cc&&cc!=='INT'?cc:'🌍');}
-      bin.appendChild(fl);
-      if(g.logo&&/^(media\/[\w.-]+|data:image\/)/.test(g.logo)){var lg=el('div','gs-logo'),li=document.createElement('img');li.alt='';li.src=g.logo;li.addEventListener('error',function(){lg.style.display='none';});lg.appendChild(li);bin.appendChild(lg);}
+      var bin=el('div','gs-bin');
+      if(solo){var pf=el('div','g2-ph'),pi=document.createElement('img');pi.alt=nm[0]||'';pi.src=ph[0];pi.addEventListener('error',function(){pf.style.display='none';});pf.appendChild(pi);bin.appendChild(pf);}
+      else{var fl;if(fs){fl=el('div','gs-flag');fl.style.aspectRatio=String(geoRatio(cc));fl.innerHTML=fs;}else{fl=el('div','gs-flag none',cc&&cc!=='INT'?cc:'🌍');}bin.appendChild(fl);}
+      if(g.logo&&okp(g.logo)){var lg=el('div','gs-logo'),li=document.createElement('img');li.alt='';li.src=g.logo;li.addEventListener('error',function(){lg.style.display='none';});lg.appendChild(li);bin.appendChild(lg);}
       if(g.company){bin.appendChild(el('div','gs-company',g.company));}
-      var cn=cc==='INT'?'International':geoName(cc,'en');if(cn){bin.appendChild(el('div','gs-country',cn.toUpperCase()));}
-      bin.appendChild(el('div','gs-code'));
-      badge.appendChild(bin);bw.appendChild(badge);
+      if(cn){var ct=el('div','g2-cty');if(solo&&fs){var f2=el('span','fl');f2.innerHTML=fs;ct.appendChild(f2);}ct.appendChild(el('span',null,cn.toUpperCase()));bin.appendChild(ct);}
+      bin.appendChild(el('div','gs-code'));badge.appendChild(bin);bw.appendChild(badge);
       var gr=el('div','gs-greet'),words=[];
       String(GEO_GREET[cc]||'').split('|').concat(['Welcome','Hoş geldiniz']).forEach(function(w){if(w&&words.indexOf(w)<0){words.push(w);}});
-      words.forEach(function(w,k){if(k){gr.appendChild(el('i',null,'·'));}var s=el('span',null,w);s.setAttribute('dir','auto');gr.appendChild(s);});
-      R.appendChild(gr);
-      var nm=guestNames(g),nb=el('div','gs-names'+(nm.length>3?' many':''));nm.forEach(function(n){nb.appendChild(el('b',null,n));});
-      if(nm.length){R.appendChild(nb);}else if(g.company){var nb2=el('div','gs-names');nb2.appendChild(el('b',null,g.company));R.appendChild(nb2);}
+      words.forEach(function(w,k){if(k){gr.appendChild(el('i',null,'·'));}var sp=el('span',null,w);sp.setAttribute('dir','auto');gr.appendChild(sp);});
+      M.appendChild(gr);
+      if(nm.length<=1){
+        var who=nm[0]||g.company||'';
+        if(who){var nw=el('div','g2-nw'),nn=el('div','g2-name'+(who.length>22?' long':''),who);
+          nn.insertAdjacentHTML('beforeend','<svg viewBox="0 0 400 20" preserveAspectRatio="none" aria-hidden="true"><path d="M4 14 C 120 2, 270 2, 396 9"/></svg>');nw.appendChild(nn);M.appendChild(nw);}
+      } else if(nm.length<=4){
+        var cards=el('div','g2-cards');
+        nm.forEach(function(n,k){var cd=el('div','g2-card'),av=el('div','g2-av');
+          if(okp(ph[k])){var im=document.createElement('img');im.alt='';im.src=ph[k];im.addEventListener('error',function(){av.textContent=bdInitials(n);});av.appendChild(im);}else{av.textContent=bdInitials(n);}
+          cd.appendChild(av);cd.appendChild(el('b',null,n));cards.appendChild(cd);});
+        M.appendChild(cards);
+      } else {
+        var nb=el('div','gs-names many');nm.forEach(function(n){nb.appendChild(el('b',null,n));});M.appendChild(nb);
+      }
+      if(fs&&cc!=='TR'&&cn){M.appendChild(guestRoute(cc,cn));}
       var info=el('div','gs-info');
       function chip(ic,lab,val){if(!val){return;}var r=el('div','wl-row'),t=el('div');r.appendChild(el('span','wl-ic',ic));t.appendChild(el('small',null,lab));t.appendChild(el('b',null,val));r.appendChild(t);info.appendChild(r);}
       var sd=parseYmd(g.start),ed=parseYmd(g.end);
       var when=sd?(ed&&g.end>g.start?(sd.getMonth()===ed.getMonth()?sd.getDate()+' – '+fmtDate(ed):sd.getDate()+' '+_t(BD_MONTHS[sd.getMonth()])+' – '+fmtDate(ed)):fmtDate(sd)):'';
       chip('📅','VISIT',when);chip('🤝','HOSTED BY',g.host);chip('🎯','AGENDA',g.purpose);
-      if(info.children.length){R.appendChild(info);}
+      if(info.children.length){M.appendChild(info);}
       var o={company:g.company||'',host:g.host||'',names:nm.join(', ')};
-      R.appendChild(el('div','gs-msg',fillTpl(g.message||G.message||DEF_GUEST,o)));
-      wrap.appendChild(bw);wrap.appendChild(R);body.appendChild(wrap);
+      M.appendChild(el('div','gs-msg',fillTpl(g.message||G.message||DEF_GUEST,o)));
+      wrap.appendChild(bw);wrap.appendChild(M);body.appendChild(wrap);
+      body.appendChild(acBand());
       sec._d=Math.max(8,+G.duration||15)*1000;
       sec._cap='Welcome to Atlas Copco Türkiye'+(nm.length?', '+nm.join(', '):g.company?', '+g.company:'')+'!';
       return sec;
@@ -1836,19 +2222,30 @@ body.tv .controls, body.tv .hint{display:none}
 
   /* ===== Tam ekran görseller (boş şablon alanları) ===== */
   function posterOk(src){return !!src&&/^(media\/[\w.-]+|data:image\/)/.test(String(src));}
+  function posterVid(v){return /^media\/[a-f0-9]{24}\.(mp4|webm)$/.test(String(v||''));}
+  function posterHas(p){return !!p&&(posterVid(p.video)||posterOk(p.image));}
   function posterScene(p){
     var sec=el('section','scene poster'+(p.fit==='cover'?' cover':''));sec._key='pst:'+p.id;sec._poster=true;sec._cap='';
-    var bg=document.createElement('img');bg.className='ps-bg';bg.alt='';bg.src=p.image;
-    var im=document.createElement('img');im.className='ps-img';im.alt=p.title||'';im.src=p.image;
-    sec.appendChild(bg);sec.appendChild(im);
     sec._d=Math.max(4,+p.duration||10)*1000;
+    if(posterVid(p.video)){
+      var v=document.createElement('video');v.className='ps-img';v.src=p.video;v.muted=true;v.autoplay=true;v.loop=p.untilEnd===false;v.preload='auto';
+      v.setAttribute('muted','');v.setAttribute('playsinline','');
+      v.addEventListener('loadedmetadata',function(){if(p.untilEnd!==false&&isFinite(v.duration)&&v.duration>0){sec._d=Math.min(600000,Math.max(3000,v.duration*1000));}});
+      v.addEventListener('error',function(){v.style.display='none';});
+      sec.classList.add('cover');sec.appendChild(v);
+      if(p.fit!=='cover'){sec.classList.remove('cover');}
+    } else {
+      var bg=document.createElement('img');bg.className='ps-bg';bg.alt='';bg.src=p.image;
+      var im=document.createElement('img');im.className='ps-img';im.alt=p.title||'';im.src=p.image;
+      sec.appendChild(bg);sec.appendChild(im);
+    }
     return sec;
   }
   function posterScenes(c,opts,now){
     var P=c.posters||{},only=opts.only||null,t=dayKey(now);
-    if(only&&only.kind==='poster'){var it=(P.items||[]).filter(function(p){return p&&p.id===only.id;})[0];if(!it){return [];}return posterOk(it.image)?[posterScene(it)]:[emptyCorp(_t('Tam ekran görsel'),_t('Bu alana henüz görsel eklenmedi.'))];}
+    if(only&&only.kind==='poster'){var it=(P.items||[]).filter(function(p){return p&&p.id===only.id;})[0];if(!it){return [];}return posterHas(it)?[posterScene(it)]:[emptyCorp(_t('Tam ekran görsel'),_t('Bu alana henüz görsel eklenmedi.'))];}
     if(only||P.enabled===false){return [];}
-    return (P.items||[]).filter(function(p){return p&&p.enabled!==false&&posterOk(p.image)&&(!p.from||t>=p.from)&&(!p.to||t<=p.to);}).map(posterScene);
+    return (P.items||[]).filter(function(p){return p&&p.enabled!==false&&posterHas(p)&&(!p.from||t>=p.from)&&(!p.to||t<=p.to);}).map(posterScene);
   }
   function extraScenes(c,opts){
     var now=new Date(),today=midnight(now),only=opts.only||null;
@@ -1922,21 +2319,34 @@ body.tv .controls, body.tv .hint{display:none}
   }
   function escTxt(s){return String(s).replace(/&(?!(#\d{1,7}|#x[0-9a-f]{1,6}|[a-z][a-z0-9]{1,31});)/gi,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
   function escHtml(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function escAttr(v){return String(v==null?'':v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
+  function unEnt(v){return String(v||'').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&');}
+  var RM_SIZE=/(?:^|\s)rm-(s|m|l)(?:\s|$)/;
   function cleanRich(html){
     var s=String(html||'').replace(/<!--[\s\S]*?-->/g,'').replace(/<(script|style|iframe|object|embed|noscript|template|svg|math|textarea|select|button|head|title|xml)\b[\s\S]*?<\/\1\s*>/gi,'');
-    var out='',last=0,re=/<(\/?)([a-zA-Z][a-zA-Z0-9]*)\b([^<>]*)>/g,m;
+    var out='',last=0,re=/<(\/?)([a-zA-Z][a-zA-Z0-9]*)\b((?:[^<>"']|"[^"]*"|'[^']*')*)>/g,m;
     while((m=re.exec(s))){
       out+=escTxt(s.slice(last,m.index));last=re.lastIndex;
-      var name=m[2].toLowerCase(),tag=RICH_OK[name];if(!tag){continue;}
-      if(m[1]){if(tag!=='br'){out+='</'+tag+'>';}continue;}
-      if(tag==='br'){out+='<br>';continue;}
-      var st='',col='',sz='',am,are=/([a-zA-Z-]+)\s*=\s*("([^"]*)"|'([^']*)'|([^\s"'>]+))/g;
-      while((am=are.exec(m[3]))){
+      var name=m[2].toLowerCase();
+      var st='',col='',sz='',src='',cls='',dq=null,dc='',am,are=/([a-zA-Z-]+)\s*=\s*("([^"]*)"|'([^']*)'|([^\s"'>]+))/g;
+      if(!m[1]){while((am=are.exec(m[3]))){
         var an=am[1].toLowerCase(),av=am[3]!=null?am[3]:am[4]!=null?am[4]:am[5];
         if(an==='style'){st=richStyle(av);}
+        else if(an==='src'){src=unEnt(av).trim();}
+        else if(an==='class'){cls=av;}
+        else if(an==='data-qr'){dq=unEnt(av);}
+        else if(an==='data-cap'){dc=unEnt(av);}
         else if(name==='font'&&an==='color'){col=richStyle('color:'+av);}
         else if(name==='font'&&an==='size'&&FONT_SIZES[av]){sz='font-size:'+FONT_SIZES[av];}
-      }
+      }}
+      var szc=RM_SIZE.exec(cls),rm=' class="'+(name==='span'?'rq ':'')+'rm-'+(szc?szc[1]:'m')+'"';
+      if(name==='img'){if(!m[1]&&/^media\/[a-f0-9]{24}\.(jpg|png|webp)$/.test(src)){out+='<img src="'+src+'"'+rm+' alt="">';}continue;}
+      if(name==='video'){if(!m[1]&&/^media\/[a-f0-9]{24}\.(mp4|webm)$/.test(src)){out+='<video src="'+src+'"'+rm+' muted autoplay loop playsinline></video>';}continue;}
+      if(name==='span'&&!m[1]&&/(?:^|\s)rq(?:\s|$)/.test(cls)&&dq&&dq.trim()){
+        out+='<span'+rm+' data-qr="'+escAttr(dq.slice(0,1200))+'"'+(dc.trim()?' data-cap="'+escAttr(dc.trim().slice(0,80))+'"':'')+'>';continue;}
+      var tag=RICH_OK[name];if(!tag){continue;}
+      if(m[1]){if(tag!=='br'){out+='</'+tag+'>';}continue;}
+      if(tag==='br'){out+='<br>';continue;}
       var all=[st,col,sz].filter(Boolean).join(';');
       out+='<'+tag+(all?' style="'+all+'"':'')+'>';
     }
@@ -2177,8 +2587,8 @@ body.tv .controls, body.tv .hint{display:none}
     tx.appendChild(meta);
     tx.appendChild(el('div','nw-title cin d3',n.title));
     tx.appendChild(el('div','nw-line cin d3'));
-    if(len){
-      var bd=el('div','nw-body cin d4'),inn=el('div','sdesc-in');inn.innerHTML=html;bd.appendChild(inn);
+    if(len||/<(img|video)\b|class="rq/.test(html)){
+      var bd=el('div','nw-body cin d4'),inn=el('div','sdesc-in');inn.innerHTML=html;richMedia(inn,sec);bd.appendChild(inn);
       bd.classList.add(len>900?'len-xl':len>500?'len-l':len>250?'len-m':'len-s');tx.appendChild(bd);
       sec._render=function(){
         inn.style.animation='none';var over=inn.scrollHeight-bd.clientHeight;
@@ -2208,8 +2618,27 @@ body.tv .controls, body.tv .hint{display:none}
   /* ===== BA kanalları: genel (tüm şirket) + üst BA + BA'nın kendi kanalı tek yayında birleşir ===== */
   var BA=(function(){var b=String(params.get('ba')||'').toLowerCase().trim();return /^[a-z][a-z0-9-]{1,23}$/.test(b)&&b!=='genel'?b:'';})();
   var MCATS=['scenes','news','posters','people','guests','events','albums','rooms','weather','clocks'];
+
+  /* ===== Ekran hedefleme: içerik yalnızca seçilen ekranlarda gösterilir (boşsa kanalın tüm ekranlarında) ===== */
+  var CUR_SCREEN=null;
+  function scrOk(x){var l=x&&x.screens;return !CUR_SCREEN||!Array.isArray(l)||!l.length||l.indexOf(CUR_SCREEN)>=0;}
+  function forScreen(c){
+    if(!c||typeof c!=='object'||!CUR_SCREEN){return c;}
+    var o=Object.assign({},c);
+    if(Array.isArray(o.scenes)){o.scenes=o.scenes.filter(scrOk);}
+    ['news','posters','welcome','guests','achievements','events','albums'].forEach(function(k){var x=o[k];
+      if(x&&typeof x==='object'&&Array.isArray(x.items)){o[k]=Object.assign({},x,{items:x.items.filter(scrOk)});}});
+    ['birthdays','anniversaries','worldClock'].forEach(function(k){var x=o[k];if(x&&typeof x==='object'&&!scrOk(x)){o[k]=Object.assign({},x,{enabled:false});}});
+    /* oda panosu bu ekrana kapalıysa: üst kanalın odaları da onun yerine gösterilmez */
+    if(o.rooms&&typeof o.rooms==='object'&&!scrOk(o.rooms)){o.rooms=Object.assign({},o.rooms,{enabled:false,enabledSet:true,_scrOff:ownRoomsOn(o.rooms)});}
+    if(o.weather&&typeof o.weather==='object'&&!scrOk(o.weather)){o.weather=Object.assign({},o.weather,{widget:false,scene:false});}
+    return o;
+  }
+  /* BA kanalının kendi oda listesi: eski kayıtlarda yayın kutusu işaretlenmemiş olsa da odalar gösterilir */
+  function ownRoomsOn(R){if(!R||typeof R!=='object'){return false;}if(R.enabled){return true;}
+    return R.enabledSet!==true&&(R.items||[]).some(function(r){return r&&r.name&&r.enabled!==false;});}
   function mergeChain(list){
-    list=(list||[]).filter(function(c){return c&&typeof c==='object';});
+    list=(list||[]).filter(function(c){return c&&typeof c==='object';}).map(forScreen);
     if(!list.length){return DEFAULT;}
     var own=list[list.length-1];
     if(list.length===1&&!own.unit){return own;}
@@ -2256,17 +2685,30 @@ body.tv .controls, body.tv .hint{display:none}
     mergeList('guests','guests',on,function(q,e){if(e.th){q._theme=e.th;}});
     mergeList('events','events',on,function(q,e,x){if(x.galleries===false){q.galleryOn=false;}});
     out.events.galleries=true;
-    var rooms=[],bk=[],anyR=false;
-    L.forEach(function(e){var R=e.c.rooms;if(!R||!okCat(e,'rooms')||!R.enabled){return;}anyR=true;
+    var rooms=[],bk=[],anyR=false,ownR=own.rooms,ownHas=!!own.unit&&!!ownR&&(ownRoomsOn(ownR)||ownR._scrOff===true)&&(ownR.items||[]).some(function(r){return r&&r.name&&r.enabled!==false;});
+    L.forEach(function(e){var R=e.c.rooms;if(!R||!okCat(e,'rooms')){return;}
+      if(e.own){if(!ownRoomsOn(R)){return;}}else{if(!R.enabled||(ownHas&&!ownR.includeInherited)){return;}}
+      anyR=true;
       (R.items||[]).forEach(function(r){if(!r){return;}var q=Object.assign({},r);q.id=pid(e.p,r.id);rooms.push(q);});
       (R.bookings||[]).forEach(function(b){if(!b){return;}var q=Object.assign({},b);q.id=pid(e.p,b.id);q.room=pid(e.p,b.room);bk.push(q);});});
-    out.rooms=Object.assign({},pick('rooms','rooms',on)||{},{enabled:anyR,items:rooms,bookings:bk});
+    out.rooms=Object.assign({},ownHas?ownR:(pick('rooms','rooms',on)||{}),{enabled:anyR,items:rooms,bookings:bk});
     out.weather=pick('weather','weather',function(w){return !!((w.widget||w.scene)&&w.lat!==''&&w.lat!=null);})||own.weather||{};
     out.worldClock=pick('worldClock','clocks',function(w){return !!(w.enabled&&(w.items||[]).length);})||own.worldClock||{};
     return out;
   }
+  /* QR kodlu içerik kartları */
+  (function(){
+    var W=welcomeScene;welcomeScene=function(w,cfg){var x=W(w,cfg);qrCard(x,w);return x;};
+    var A=achScene;achScene=function(a,cfg,p){var x=A(a,cfg,p);qrCard(x,a);return x;};
+    var G=galleryScene;galleryScene=function(e,cfg,now){var x=G(e,cfg,now);qrCard(x,e,e.title);return x;};
+    var AL=albumScene;albumScene=function(a,AA){var x=AL(a,AA);qrCard(x,a);return x;};
+    var PS=posterScene;posterScene=function(p){var x=PS(p);qrCard(x,p);return x;};
+    var NS=newsScene;newsScene=function(n,N){var x=NS(n,N);qrCard(x,n);return x;};
+    var GS=guestScene;guestScene=function(g,GG,now){var x=GS(g,GG,now);qrCard(x,g);return x;};
+    var EV=eventsScene;eventsScene=function(list,cfg,now){var x=EV(list,cfg,now),q=(list||[]).filter(function(e){return e&&e.qrText;})[0];if(q){qrCard(x,q,q.title);}return x;};
+  })();
   function build(c,opts){
-    opts=opts||{};content=c; stage.innerHTML=''; scenes=[];builtDay=stamp();lastOpts=opts;wxRebuild=false;ensureWeather(c,opts.forceWeather);
+    opts=opts||{};c=forScreen(c);content=c; stage.innerHTML=''; scenes=[];builtDay=stamp();lastOpts=opts;wxRebuild=false;ensureWeather(c,opts.forceWeather);
     var st=c.settings||{};
     LANG=normLang(params.get('lang')||st.lang);document.documentElement.lang=LANG;applyChrome();
     var bb=document.getElementById('brandbar');document.getElementById('brand').textContent=st.brand||'';
@@ -2291,13 +2733,14 @@ body.tv .controls, body.tv .hint{display:none}
           if(s.type==='flow' && ix>0){box.appendChild(el('span','arrow','➜'));}
           box.appendChild(tile(t));
         });
-        sec.appendChild(box);
+        sec.appendChild(box);sec._tiles=box;
         if((s.tiles||[]).length){sec.classList.add('has-tiles');}
       }
       var dh=s.captionHtml?cleanRich(s.captionHtml):(s.caption?escHtml(s.caption).replace(/\n/g,'<br>'):'');
-      if(dh&&richText(dh)&&st.showCaptions!==false){
+      if(dh&&(richText(dh)||/<(img|video)\b|class="rq/.test(dh))&&st.showCaptions!==false){
         var dd=el('div','sdesc fade'),inn=el('div','sdesc-in'),len=richText(dh).length;
-        inn.innerHTML=dh;dd.appendChild(inn);sec.appendChild(dd);sec.classList.add('has-desc');
+        inn.innerHTML=dh;richMedia(inn,sec);dd.appendChild(inn);if(sec._tiles){sec.insertBefore(dd,sec._tiles);}else{sec.appendChild(dd);}sec.classList.add('has-desc');
+        if(/<(img|video)\b|class="rq/.test(dh)){dd.classList.add('has-media');}
         dd.classList.add(len>900?'len-xl':len>480?'len-l':len>220?'len-m':'len-s');
         sec._d=Math.max(sec._d,Math.min(90000,5000+len*55));
         (function(sec,dd,inn){sec._render=function(){
@@ -2336,7 +2779,7 @@ body.tv .controls, body.tv .hint{display:none}
     else if(wxRebuild&&content){build(content,lastOpts);n=Math.min(n,scenes.length-1);}
     scenes.forEach(function(s){s.classList.remove('active');});
     i=((n%scenes.length)+scenes.length)%scenes.length;done=false;
-    var s=scenes[i];if(sceneTimer){clearInterval(sceneTimer);sceneTimer=null;}s.classList.toggle('instant',!!instant);if(s._render){sceneTimer=s._render()||null;}void s.offsetWidth;s.classList.add('active');
+    var s=scenes[i];if(sceneTimer){clearInterval(sceneTimer);sceneTimer=null;}s.classList.toggle('instant',!!instant);if(s._render){sceneTimer=s._render()||null;}void s.offsetWidth;s.classList.add('active');mediaPlay(s);
     cap.textContent=s._cap;elapsed=0;start=performance.now();
     player.classList.toggle('light',!!s._light);
     player.classList.toggle('wx-scene',!!s._wx);
@@ -2378,6 +2821,7 @@ body.tv .controls, body.tv .hint{display:none}
     if(m&&m.type==='acbs-ping'){try{(ev.source||parent).postMessage({type:'acbs-preview-ready',version:ACBS_VERSION},'*');}catch(e){}return;}
     if(!(m&&m.type==='hubbert-preview'&&m.content)){return;}
     var focus=!m.forceBirthday&&!m.forceWeather&&!m.only,curKey=(m.keep&&focus&&scenes[i])?scenes[i]._key:null;
+    CUR_SCREEN=m.screen||null;
     var mc=((m.chain&&m.chain.length)||m.content.unit)?mergeChain((m.chain||[]).concat([m.content])):m.content;
     pending=null;build(mc,{force:m.forceBirthday||null,forceWeather:!!m.forceWeather,only:m.only||null});
     var at=0,q;
@@ -2425,6 +2869,7 @@ body.tv .controls, body.tv .hint{display:none}
     if(!/^tv-[a-z0-9]{8}$/.test(v)){v='tv-';while(v.length<11){v+=Math.random().toString(36).slice(2);}v=v.slice(0,11);try{localStorage.setItem('acbs-screen',v);}catch(x){}}
     return v;
   })();
+  if(!isPreview){CUR_SCREEN=SCREEN_ID;}
   var HB_ON=!isPreview&&!params.has('nohb')&&/^https?:$/.test(location.protocol)&&(params.has('tv')||params.has('ekran')||params.has('screen'))&&!/\.github\.io$/i.test(location.hostname);
   var hbFails=0,hbTimer=null;
   function sceneTitle(sec){
