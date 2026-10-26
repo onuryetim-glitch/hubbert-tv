@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -34,7 +34,7 @@
       "title": "",
       "subtitle": "",
       "cta": false,
-      "caption": "Geri Bildirimler: Ticket çözüldüğünde size iletilen CSAT (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar\n\n\nAktif İletişim: Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz\n\n\nTicket’ı Yeniden Açma: Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.",
+      "caption": "Geri Bildirimler: Ticket çözüldüğünde size iletilen CSAT (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar\nAktif İletişim: Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz\nTicket’ı Yeniden Açma: Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.",
       "tiles": [
         {
           "icon": "💬",
@@ -49,10 +49,10 @@
           "label": "Cep Telefonundan Erişim"
         }
       ],
-      "captionHtml": "<div style=\"text-align:left\"><span style=\"font-weight:bold\">Geri Bildirimler: </span>Ticket çözüldüğünde size iletilen <span style=\"font-size:1em\">CSA</span>T (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar</div><div style=\"text-align:left\"><br></div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Aktif İletişim:</span> Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz</div><div style=\"text-align:left\"><br></div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Ticket’ı Yeniden Açma:</span> Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.</div>"
+      "captionHtml": "<div style=\"text-align:left\"><span style=\"font-weight:bold\">Geri Bildirimler: </span>Ticket çözüldüğünde size iletilen <span style=\"font-size:1em\">CSA</span>T (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Aktif İletişim:</span> Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Ticket’ı Yeniden Açma:</span> Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.</div>"
     }
   ],
-  "updatedAt": "2026-10-26 12:20:02",
+  "updatedAt": "2026-10-26 12:32:43",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -387,6 +387,24 @@
         "start": "15:45",
         "end": "16:15",
         "organizer": "Sayidi Battal",
+        "title": ""
+      },
+      {
+        "id": "kmvp1yywnykp1",
+        "room": "r3",
+        "date": "2026-10-26",
+        "start": "12:25",
+        "end": "13:55",
+        "organizer": "Akay Ildan",
+        "title": ""
+      },
+      {
+        "id": "kmvp1z6c5iade",
+        "room": "r4",
+        "date": "2026-10-26",
+        "start": "12:25",
+        "end": "13:55",
+        "organizer": "Onur Yetim",
         "title": ""
       }
     ]
