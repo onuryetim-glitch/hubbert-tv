@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "settings": {},
   "scenes": [],
   "events": {
@@ -21,7 +21,19 @@
     "showOrganizer": true,
     "showTitle": false,
     "footer": "",
-    "items": [],
+    "items": [
+      {
+        "id": "rmvp1xb67vlo0",
+        "name": "Zeytin",
+        "email": "tr.trt.zeytin.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      }
+    ],
     "bookings": []
   },
   "weather": {
@@ -107,7 +119,7 @@
       }
     ]
   },
-  "updatedAt": "2026-10-26 12:21:07",
+  "updatedAt": "2026-10-26 12:25:53",
   "unit": {
     "id": "ctba",
     "name": "CTBA",
