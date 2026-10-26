@@ -1,7 +1,113 @@
 {
-  "version": 0,
+  "version": 1,
   "settings": {},
   "scenes": [],
+  "events": {
+    "enabled": true,
+    "title": "Etkinlik ve Eğitim Takvimi",
+    "daysAhead": 30,
+    "max": 12,
+    "duration": 15,
+    "items": []
+  },
+  "rooms": {
+    "enabled": false,
+    "title": "Toplantı Odaları",
+    "subtitle": "",
+    "duration": 20,
+    "soonMinutes": 15,
+    "dayStart": "08:00",
+    "dayEnd": "19:00",
+    "showOrganizer": true,
+    "showTitle": false,
+    "footer": "",
+    "items": [],
+    "bookings": []
+  },
+  "weather": {
+    "widget": false,
+    "scene": false,
+    "duration": 10,
+    "name": "İstanbul – Kartal",
+    "lat": 40.906,
+    "lon": 29.16
+  },
+  "anniversaries": {
+    "enabled": true,
+    "message": "Atlas Copco ailesindeki {yil}. yılın kutlu olsun! Emeğin ve katkıların için teşekkür ederiz.",
+    "duration": 12,
+    "monthList": true,
+    "monthDuration": 12
+  },
+  "albums": {
+    "enabled": true,
+    "perPage": 3,
+    "duration": 7,
+    "items": []
+  },
+  "worldClock": {
+    "enabled": false,
+    "duration": 12,
+    "items": [
+      {
+        "id": "ckmvp1pv53ux1z",
+        "city": "Stockholm",
+        "tz": "Europe/Stockholm",
+        "country": "SE",
+        "hq": true
+      },
+      {
+        "id": "ckmvp1pv5338mo",
+        "city": "İstanbul",
+        "tz": "Europe/Istanbul",
+        "country": "TR",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53fowa",
+        "city": "Antwerpen",
+        "tz": "Europe/Brussels",
+        "country": "BE",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53ciq1",
+        "city": "Dubai",
+        "tz": "Asia/Dubai",
+        "country": "AE",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53wumj",
+        "city": "Pune",
+        "tz": "Asia/Kolkata",
+        "country": "IN",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53qa9k",
+        "city": "Şanghay",
+        "tz": "Asia/Shanghai",
+        "country": "CN",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53faox",
+        "city": "Rock Hill",
+        "tz": "America/New_York",
+        "country": "US",
+        "hq": false
+      },
+      {
+        "id": "ckmvp1pv53wqeg",
+        "city": "São Paulo",
+        "tz": "America/Sao_Paulo",
+        "country": "BR",
+        "hq": false
+      }
+    ]
+  },
+  "updatedAt": "2026-10-26 12:21:07",
   "unit": {
     "id": "ctba",
     "name": "CTBA",
