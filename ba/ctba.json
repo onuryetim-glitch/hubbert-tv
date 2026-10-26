@@ -51,12 +51,6 @@
     "monthList": true,
     "monthDuration": 12
   },
-  "albums": {
-    "enabled": true,
-    "perPage": 3,
-    "duration": 7,
-    "items": []
-  },
   "worldClock": {
     "enabled": false,
     "duration": 12,
