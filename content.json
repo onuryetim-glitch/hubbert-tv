@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -10,7 +10,8 @@
     "publishPeople": true,
     "publishNews": true,
     "publishPhotos": true,
-    "lang": "tr"
+    "lang": "tr",
+    "teamsDecor": false
   },
   "scenes": [
     {
@@ -50,7 +51,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-24 20:18:54",
+  "updatedAt": "2026-10-26 08:56:16",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
