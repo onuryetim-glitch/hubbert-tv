@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -52,7 +52,7 @@
       "captionHtml": "<div style=\"text-align:left\"><span style=\"font-weight:bold\">Geri Bildirimler: </span>Ticket çözüldüğünde size iletilen <span style=\"font-size:1em\">CSA</span>T (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar</div><div style=\"text-align:left\"><br></div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Aktif İletişim:</span> Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz</div><div style=\"text-align:left\"><br></div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Ticket’ı Yeniden Açma:</span> Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.</div>"
     }
   ],
-  "updatedAt": "2026-10-26 12:08:03",
+  "updatedAt": "2026-10-26 12:08:48",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
