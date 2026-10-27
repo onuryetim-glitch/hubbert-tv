@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "settings": {
     "itNews": true
   },
@@ -15,7 +15,7 @@
   "rooms": {
     "enabled": true,
     "title": "Toplantı Odaları",
-    "subtitle": "",
+    "subtitle": "Maya Tower · Kartal",
     "duration": 20,
     "soonMinutes": 15,
     "dayStart": "08:00",
@@ -28,6 +28,28 @@
         "id": "rmvp1xb67vlo0",
         "name": "Zeytin",
         "email": "tr.trt.zeytin.meeting.room@atlascopco.com",
+        "capacity": 4,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvqo7vql04pq",
+        "name": "Ladin",
+        "email": "tr.trt.ladin.meeting.room@atlascopco.com",
+        "capacity": 16,
+        "location": "Maya Tower · Kartal",
+        "features": [],
+        "status": "auto",
+        "note": "",
+        "enabled": true
+      },
+      {
+        "id": "rmvqo7vql5516",
+        "name": "Sedir",
+        "email": "tr.trt.sedir.meeting.room@atlascopco.com",
         "capacity": 4,
         "location": "Maya Tower · Kartal",
         "features": [],
@@ -115,8 +137,8 @@
       }
     ]
   },
-  "updatedAt": "2026-10-26 16:53:42",
-  "cv": 6,
+  "updatedAt": "2026-10-27 15:37:46",
+  "cv": 7,
   "unit": {
     "id": "ctba",
     "name": "CTBA",
