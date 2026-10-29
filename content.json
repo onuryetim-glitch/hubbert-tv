@@ -1,5 +1,5 @@
 {
-  "version": 144,
+  "version": 145,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -22,37 +22,12 @@
       "title": "Hubbert",
       "subtitle": "Teams'teki AI destek asistanınız",
       "cta": true,
-      "caption": "Teams'teki yapay zekâ destekli IT asistanınız: \n\n\nHubbert.\n\n\nkjnkn",
+      "caption": "Teams'teki yapay zekâ destekli IT asistanınız: \nHubbert.\nErişim için QR Okutun.",
       "tiles": [],
-      "captionHtml": "<span style=\"color:rgb(79, 163, 191)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><br></span></div><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span style=\"color:rgb(79, 163, 191)\"><br></span></div><div><span class=\"sm sm-linkedin\" data-sm=\"linkedin\" data-url=\"https://jhbjhbj\" data-label=\"kjnkn\"><span></span>kjnkn</span>&nbsp;<span style=\"color:rgb(79, 163, 191)\"></span></div>"
-    },
-    {
-      "enabled": true,
-      "type": "tiles",
-      "anim": "zoomSpin",
-      "duration": 30,
-      "title": "",
-      "subtitle": "",
-      "cta": false,
-      "caption": "Geri Bildirimler: Ticket çözüldüğünde size iletilen CSAT (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar\nAktif İletişim: Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz\nTicket’ı Yeniden Açma: Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.",
-      "tiles": [
-        {
-          "icon": "💬",
-          "label": "Durum sor"
-        },
-        {
-          "icon": "🔁",
-          "label": "Ticket'ı yeniden aç"
-        },
-        {
-          "icon": "📱",
-          "label": "Cep Telefonundan Erişim"
-        }
-      ],
-      "captionHtml": "<div style=\"text-align:left\"><span style=\"font-weight:bold\">Geri Bildirimler: </span>Ticket çözüldüğünde size iletilen <span style=\"font-size:1em\">CSA</span>T (Memnuniyet Anketi) bizim karnemizdir. Olumlu veya olumsuz yorumlarınız süreçlerimizi iyileştirmemizi sağlar</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Aktif İletişim:</span> Talebiniz beklemedeyken sistem üzerinden yorum ekleyerek bizimle etkileşime geçebilir. Durumu sorabilirsiniz</div><div style=\"text-align:left\"><span style=\"font-weight:bold\">Ticket’ı Yeniden Açma:</span> Eğer sağlanan çözüm problem gidermediyse, yeni bir talep oluşturmak yerine mevcut ticket’I yorum ekleyerek yeniden açmış olursunuz.</div>"
+      "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-29 18:07:00",
+  "updatedAt": "2026-10-29 18:21:20",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -136,33 +111,9 @@
     "duration": 20,
     "itTip": true,
     "message": "Atlas Copco ailesine hoş geldin {ad}! Aramıza katılmandan büyük mutluluk duyuyoruz. Yeni yolculuğunda başarılar diler, ihtiyaç duyduğun her an yanında olduğumuzu hatırlatmak isteriz.",
-    "items": [
-      {
-        "id": "w1",
-        "name": "Burak Aslan",
-        "title": "Field Service Technician",
-        "department": "Service Operation",
-        "manager": "Ali Kankurt",
-        "location": "Bursa",
-        "start": "2026-10-26",
-        "photo": "",
-        "message": "",
-        "enabled": true
-      },
-      {
-        "id": "w2",
-        "name": "Muhammed On",
-        "title": "Field Service Technician",
-        "department": "Service Operation",
-        "manager": "Önder Çakal",
-        "location": "İstanbul",
-        "start": "2026-10-26",
-        "photo": "",
-        "message": "",
-        "enabled": true
-      }
-    ],
-    "messageEn": ""
+    "items": [],
+    "messageEn": "",
+    "hr": false
   },
   "events": {
     "enabled": true,
@@ -532,7 +483,7 @@
       }
     ]
   },
-  "cv": 144,
+  "cv": 145,
   "itnews": {
     "items": [
       {
