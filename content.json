@@ -1,5 +1,5 @@
 {
-  "version": 148,
+  "version": 149,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-29 21:27:49",
+  "updatedAt": "2026-10-29 21:31:28",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -319,7 +319,7 @@
       }
     ],
     "bookings": [],
-    "theme": "classic"
+    "theme": "lux"
   },
   "news": {
     "enabled": true,
@@ -518,7 +518,7 @@
       }
     ]
   },
-  "cv": 148,
+  "cv": 149,
   "itnews": {
     "items": [
       {
