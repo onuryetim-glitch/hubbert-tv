@@ -1,0 +1,47 @@
+{
+ "rev": 1,
+ "name": "Digital Signage Platform",
+ "company": "Atlas Copco Türkiye",
+ "logo": "",
+ "theme": {
+  "preset": "ac",
+  "primary": "#054e5a",
+  "accent": "#e0aa62",
+  "neutral": "#a1a9b4",
+  "tv": true
+ },
+ "panel": {
+  "icons": false,
+  "density": "comfortable",
+  "fontScale": 1,
+  "lang": "tr"
+ },
+ "tv": {
+  "lang": "tr",
+  "fontScale": 1,
+  "contrast": false
+ },
+ "ai": {
+  "enabled": true,
+  "llm": true
+ },
+ "updatedAt": "2026-10-29 18:07:23",
+ "changes": [
+  "panel.icons",
+  "rev"
+ ],
+ "product": "Digital Signage Platform",
+ "version": 19,
+ "langs": [
+  "tr",
+  "en",
+  "de",
+  "fr",
+  "es",
+  "it",
+  "pt",
+  "nl",
+  "sv",
+  "pl"
+ ]
+}
