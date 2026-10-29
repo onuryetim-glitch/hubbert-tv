@@ -1,5 +1,5 @@
 {
-  "version": 145,
+  "version": 146,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-29 18:21:20",
+  "updatedAt": "2026-10-29 19:03:18",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -124,9 +124,9 @@
     "items": [
       {
         "id": "emvf7mihviiiy",
-        "type": "egitim",
-        "title": "",
-        "date": "2026-10-20",
+        "type": "etkinlik",
+        "title": "Etkinlik",
+        "date": "2026-10-29",
         "endDate": "",
         "start": "10:00",
         "end": "11:00",
@@ -140,6 +140,25 @@
           }
         ],
         "galleryUntil": "2026-11-23"
+      },
+      {
+        "id": "emvtqcjtm18iw",
+        "type": "etkinlik",
+        "title": "Etkinler",
+        "date": "2026-10-30",
+        "endDate": "",
+        "start": "10:00",
+        "end": "11:00",
+        "location": "Tuzla Office",
+        "desc": "Tuzla Office Etkinliği",
+        "enabled": true,
+        "photos": [
+          {
+            "src": "media/b45eafdfb17bff017bcd0c1c.jpg",
+            "caption": ""
+          }
+        ],
+        "galleryUntil": "2026-11-13"
       }
     ]
   },
@@ -419,7 +438,18 @@
     "enabled": true,
     "perPage": 4,
     "duration": 7,
-    "items": []
+    "items": [
+      {
+        "id": "almvtq6f40t8qf",
+        "title": "",
+        "desc": "",
+        "date": "2026-10-29",
+        "from": "",
+        "to": "",
+        "enabled": true,
+        "photos": []
+      }
+    ]
   },
   "worldClock": {
     "enabled": true,
@@ -483,7 +513,7 @@
       }
     ]
   },
-  "cv": 145,
+  "cv": 146,
   "itnews": {
     "items": [
       {
