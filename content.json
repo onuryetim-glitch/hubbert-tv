@@ -1,5 +1,5 @@
 {
-  "version": 146,
+  "version": 147,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-29 19:03:18",
+  "updatedAt": "2026-10-29 21:27:23",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -69,7 +69,9 @@
       }
     ],
     "monthList": true,
-    "weekendFriday": true
+    "weekendFriday": true,
+    "hr": true,
+    "hrHide": []
   },
   "weather": {
     "widget": true,
@@ -84,7 +86,9 @@
     "message": "Atlas Copco ailesindeki {yil}. yılın kutlu olsun! Emeğin ve katkıların için teşekkür ederiz.",
     "duration": 12,
     "monthList": true,
-    "monthDuration": 12
+    "monthDuration": 12,
+    "hr": true,
+    "hrHide": []
   },
   "achievements": {
     "enabled": true,
@@ -314,7 +318,8 @@
         "enabled": true
       }
     ],
-    "bookings": []
+    "bookings": [],
+    "theme": "classic"
   },
   "news": {
     "enabled": true,
@@ -427,7 +432,7 @@
         "logo": "media/d4c0faf86b3b98650cd98247.jpg",
         "message": "Hoşgeldiniz...",
         "enabled": true,
-        "bg": "corp",
+        "bg": "",
         "photos": [
           "media/a8f3f639ab3ab084f7a58d8b.jpg"
         ]
@@ -513,7 +518,7 @@
       }
     ]
   },
-  "cv": 146,
+  "cv": 147,
   "itnews": {
     "items": [
       {
@@ -544,5 +549,13 @@
     "public": true,
     "rev": 3,
     "updatedAt": "2026-10-26 16:51:46"
+  },
+  "promotions": {
+    "enabled": true,
+    "duration": 12,
+    "list": true,
+    "items": [],
+    "hr": true,
+    "hrHide": []
   }
 }
