@@ -1,5 +1,5 @@
 {
- "rev": 2,
+ "rev": 3,
  "name": "Digital Signage Platform",
  "company": "Atlas Copco Türkiye",
  "logo": "",
@@ -25,10 +25,9 @@
   "enabled": true,
   "llm": true
  },
- "updatedAt": "2026-10-29 18:07:32",
+ "updatedAt": "2026-10-29 18:08:12",
  "changes": [
   "changes",
-  "panel.icons",
   "rev"
  ],
  "product": "Digital Signage Platform",
