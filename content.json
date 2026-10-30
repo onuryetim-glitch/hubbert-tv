@@ -1,5 +1,5 @@
 {
-  "version": 150,
+  "version": 151,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 00:15:19",
+  "updatedAt": "2026-10-30 10:16:44",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -167,7 +167,7 @@
     ]
   },
   "rooms": {
-    "enabled": true,
+    "enabled": false,
     "title": "Toplantı Odaları",
     "subtitle": "Maya Tower · Kartal",
     "duration": 20,
@@ -319,7 +319,8 @@
       }
     ],
     "bookings": [],
-    "theme": "lux"
+    "theme": "lux",
+    "enabledSet": true
   },
   "news": {
     "enabled": true,
@@ -523,7 +524,7 @@
       }
     ]
   },
-  "cv": 150,
+  "cv": 151,
   "itnews": {
     "items": [
       {
@@ -562,5 +563,122 @@
     "items": [],
     "hr": true,
     "hrHide": []
+  },
+  "doctor": {
+    "enabled": true,
+    "duration": 15,
+    "title": "Şirket Doktoru",
+    "site": "maya",
+    "qr": true,
+    "bookUrl": "",
+    "photo": "",
+    "phone": "+90 537 955 63 80",
+    "ext": "6380",
+    "email": "saglik@atlascopco.com",
+    "staff": [
+      {
+        "id": "dr",
+        "role": "doctor",
+        "name": "Dr. Mümin Hassan",
+        "title": "İşyeri Hekimi",
+        "photo": ""
+      },
+      {
+        "id": "dsp",
+        "role": "nurse",
+        "name": "Nesrin Çaydere",
+        "title": "Sağlık Personeli (DSP)",
+        "photo": ""
+      }
+    ],
+    "locations": [
+      {
+        "id": "maya",
+        "name": "Maya",
+        "place": "Maya Tower",
+        "note": ""
+      },
+      {
+        "id": "tuzla",
+        "name": "Tuzla",
+        "place": "Tuzla Revir",
+        "note": ""
+      }
+    ],
+    "schedule": [
+      {
+        "id": "s1",
+        "day": 1,
+        "start": "08:30",
+        "end": "12:00",
+        "staff": "dsp",
+        "loc": "tuzla"
+      },
+      {
+        "id": "s2",
+        "day": 2,
+        "start": "13:30",
+        "end": "17:00",
+        "staff": "dr",
+        "loc": "maya"
+      },
+      {
+        "id": "s3",
+        "day": 3,
+        "start": "13:00",
+        "end": "17:00",
+        "staff": "dr",
+        "loc": "tuzla"
+      },
+      {
+        "id": "s4",
+        "day": 4,
+        "start": "13:00",
+        "end": "17:00",
+        "staff": "dsp",
+        "loc": "tuzla"
+      },
+      {
+        "id": "s5",
+        "day": 5,
+        "start": "08:30",
+        "end": "13:00",
+        "staff": "dsp",
+        "loc": "tuzla"
+      },
+      {
+        "id": "s6",
+        "day": 5,
+        "start": "13:00",
+        "end": "17:00",
+        "staff": "dr",
+        "loc": "tuzla"
+      }
+    ],
+    "closures": [],
+    "emergency": [
+      {
+        "id": "e1",
+        "label": "Acil çağrı (ambulans)",
+        "value": "112"
+      },
+      {
+        "id": "e2",
+        "label": "Maya Resepsiyon — acil revir desteği",
+        "value": "0216 629 90 36"
+      }
+    ],
+    "notes": [
+      {
+        "id": "n1",
+        "icon": "bp",
+        "text": "Maya 18. kat İlk Yardım Dolabında otomatik tansiyon ölçme aleti bulunur."
+      },
+      {
+        "id": "n2",
+        "icon": "clock",
+        "text": "Hekim her ayın bir günü Kuriş ve Dost Kompresör’de, bir günü de eğitimde olduğundan randevu öncesi iletişime geçmenizi öneririz."
+      }
+    ]
   }
 }
