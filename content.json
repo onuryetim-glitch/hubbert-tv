@@ -1,5 +1,5 @@
 {
-  "version": 158,
+  "version": 159,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 14:18:16",
+  "updatedAt": "2026-10-30 14:20:35",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -77,9 +77,10 @@
     "widget": true,
     "scene": true,
     "duration": 10,
-    "name": "İstanbul – Kartal",
-    "lat": 40.906,
-    "lon": 29.16
+    "name": "Kocaeli",
+    "lat": 40.766,
+    "lon": 29.917,
+    "hourly": true
   },
   "anniversaries": {
     "enabled": true,
@@ -492,7 +493,7 @@
       }
     ]
   },
-  "cv": 158,
+  "cv": 159,
   "itnews": {
     "items": [
       {
