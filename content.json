@@ -1,5 +1,5 @@
 {
-  "version": 156,
+  "version": 157,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 13:27:28",
+  "updatedAt": "2026-10-30 14:16:50",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -333,11 +333,11 @@
     "items": [
       {
         "id": "n2",
-        "title": "USB bellek kısıtlaması ertelendi",
+        "title": "USB bellek kısıtlaması ertelendi......",
         "category": "it",
         "date": "2026-10-02",
-        "from": "2026-10-19",
-        "to": "2026-10-24",
+        "from": "2026-10-30",
+        "to": "2026-11-07",
         "source": "Atlas Copco Group IT Service Desk",
         "summary": "5 Ekim’de başlaması planlanan USB kısıtlaması Kompresör Tekniği iş alanı için ertelendi.",
         "pinned": true,
@@ -492,7 +492,7 @@
       }
     ]
   },
-  "cv": 156,
+  "cv": 157,
   "itnews": {
     "items": [
       {
