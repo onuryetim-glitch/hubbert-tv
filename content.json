@@ -1,5 +1,5 @@
 {
-  "version": 153,
+  "version": 154,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 10:25:43",
+  "updatedAt": "2026-10-30 13:25:41",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -492,7 +492,7 @@
       }
     ]
   },
-  "cv": 153,
+  "cv": 154,
   "itnews": {
     "items": [
       {
@@ -648,5 +648,22 @@
         "text": "Hekim her ayın bir günü Kuriş ve Dost Kompresör’de, bir günü de eğitimde olduğundan randevu öncesi iletişime geçmenizi öneririz."
       }
     ]
+  },
+  "holidays": {
+    "enabled": true,
+    "duration": 15,
+    "title": "",
+    "showDays": 0,
+    "country": "TR",
+    "region": "",
+    "types": [
+      "Public"
+    ],
+    "arife": true,
+    "remind": true,
+    "remindDays": 30,
+    "remindWeek": true,
+    "hidden": [],
+    "custom": []
   }
 }
