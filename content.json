@@ -1,5 +1,5 @@
 {
-  "version": 152,
+  "version": 153,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 10:23:25",
+  "updatedAt": "2026-10-30 10:25:43",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -332,22 +332,6 @@
     "frontDuration": 12,
     "items": [
       {
-        "id": "n1",
-        "title": "Hubbert Kullanım Eğitimi 21 Ekim’de",
-        "category": "egitim",
-        "date": "2026-10-19",
-        "from": "",
-        "to": "2026-10-21",
-        "source": "Atlas Copco Türkiye IT",
-        "summary": "Hubbert’ı ve IT destek süreçlerini tanıtacağımız eğitim 21 Ekim Çarşamba 11:00’de Teams’te.",
-        "pinned": true,
-        "enabled": true,
-        "image": "media/6423e9d8c5183d6bc74e7ea2.jpg",
-        "imageCaption": "",
-        "body": "",
-        "bodyHtml": "IT süreçlerini daha yakından tanıtmak ve <b>Hubbert</b> kullanımını anlatmak için Microsoft Teams üzerinden bir kullanıcı eğitimi düzenliyoruz.<ul><li>📅 <b>21 Ekim 2026 Çarşamba, 11:00 – 12:00</b></li><li>📍 Microsoft Teams</li><li>Hubbert nedir, nasıl kullanılır, IT desteğine nasıl ulaşılır?</li></ul>Katılımınızı bekliyoruz!"
-      },
-      {
         "id": "n2",
         "title": "USB bellek kısıtlaması ertelendi",
         "category": "it",
@@ -370,12 +354,12 @@
     "items": [
       {
         "id": "pmvjihhv3rhgf",
-        "title": "tam ekran",
-        "image": "media/35935e40282ee180827ad6d5.jpg",
+        "title": "29 Ekim Cumhuriyet Bayramı Kutlu Olsun.",
+        "image": "media/e0bf259f9bc70ebaa3769c0d.jpg",
         "fit": "contain",
         "duration": 10,
-        "from": "2026-10-22",
-        "to": "2026-10-24",
+        "from": "2026-10-29",
+        "to": "2026-10-31",
         "enabled": true
       },
       {
@@ -508,7 +492,7 @@
       }
     ]
   },
-  "cv": 152,
+  "cv": 153,
   "itnews": {
     "items": [
       {
