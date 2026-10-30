@@ -1,5 +1,5 @@
 {
-  "version": 165,
+  "version": 166,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -27,7 +27,7 @@
       "captionHtml": "<span style=\"color:rgb(255, 255, 255)\">Teams'teki yapay zekâ destekli IT asistanınız:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;"
     }
   ],
-  "updatedAt": "2026-10-30 14:34:58",
+  "updatedAt": "2026-10-30 16:32:28",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -94,21 +94,7 @@
   "achievements": {
     "enabled": true,
     "duration": 12,
-    "items": [
-      {
-        "id": "amvbknn2ly75d",
-        "personId": "b2",
-        "name": "",
-        "role": "Senior IT Support Engineer",
-        "type": "award",
-        "title": "",
-        "text": "",
-        "from": "2026-10-17",
-        "to": "2026-10-31",
-        "photo": "",
-        "enabled": true
-      }
-    ]
+    "items": []
   },
   "welcome": {
     "enabled": true,
@@ -493,7 +479,7 @@
       }
     ]
   },
-  "cv": 164,
+  "cv": 166,
   "itnews": {
     "items": [
       {
