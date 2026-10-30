@@ -1,5 +1,5 @@
 {
-  "version": 164,
+  "version": 165,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -501,9 +501,12 @@
         "type": "info",
         "status": "auto",
         "enabled": true,
-        "title": "",
-        "html": "",
-        "services": "VPN, ServiceNow, SAP, Outlook"
+        "title": "IT Destek Taleplerinizi Doğru Kanal Üzerinden İletin",
+        "html": "<p><span style=\"font-size:.85em\">IT destek süreçlerinin daha düzenli ve etkin şekilde yürütülebilmesi için taleplerinizi doğru kanal üzerinden oluşturmanızı rica ederiz.</span></p>\n<p><span style=\"font-size:.85em\"><b>IT Sorunu / Incident</b><br>\nYaşadığınız IT sorunları için <b>Hubbert</b> üzerinden destek talebi oluşturabilirsiniz.</span></p>\n<p><span style=\"font-size:.85em\"><b>Service Request</b><br>\nAşağıdaki gibi servis talepleri için <b>Service Desk Portal</b>'ı kullanabilirsiniz:</span></p>\n<ul style=\"font-size:.85em\">\n<li>Guest Wi-Fi</li>\n<li>Microsoft 365 lisans talepleri</li>\n<li>Shared Mailbox</li></ul>",
+        "services": "VPN, ServiceNow, SAP, Outlook",
+        "text": "IT destek süreçlerinin daha düzenli ve etkin şekilde yürütülebilmesi için taleplerinizi doğru kanal üzerinden oluşturmanızı rica ederiz.\n\nIT Sorunu / Incident\nYaşadığınız IT sorunları için Hubbert üzerinden destek talebi oluşturabilirsiniz.\n\nService Request\nAşağıdaki gibi servis talepleri için Service Desk Portal'ı kullanabilirsiniz:\n\nGuest Wi-Fi\nMicrosoft 365 lisans talepleri\nShared Mailbox",
+        "start": "2026-10-30T16:32",
+        "pinned": false
       }
     ],
     "enabled": true,
@@ -522,8 +525,8 @@
       "qr": true
     },
     "public": true,
-    "rev": 3,
-    "updatedAt": "2026-10-26 16:51:46"
+    "rev": 4,
+    "updatedAt": "2026-10-30 16:32:28"
   },
   "promotions": {
     "enabled": true,
