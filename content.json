@@ -1,5 +1,5 @@
 {
-  "version": 171,
+  "version": 172,
   "settings": {
     "brand": "",
     "showLogo": true,
@@ -22,12 +22,12 @@
       "title": "Local IT Team in Meeting Now.",
       "subtitle": "Teams'teki AI destek asistanınız",
       "cta": true,
-      "caption": "Merhabalar,\nŞuan ekip toplantısı yapmaktayız. Talepleriniz için Teams'teki yapay zekâ destekli IT asistanımızdan hızlıca destek alabilirsiniz.\naşağıdaki QR'ı okutarak da erişim sağlayabilirsiniz.\nanlayışınız için teşekkürler\n\n\nLocal IT Team\n: \nHubbert.\nErişim için QR Okutun.",
+      "caption": "Merhabalar,\nŞuan ekip toplantısı yapmaktayız. Talepleriniz için Teams'teki yapay zekâ destekli IT asistanımızdan hızlıca destek alabilirsiniz.\naşağıdaki QR'ı okutarak da erişim sağlayabilirsiniz.\nanlayışınız için teşekkürler\n\n\nLocal IT Team\nHubbert.\nErişim için QR Okutun.",
       "tiles": [],
-      "captionHtml": "<div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">Merhabalar,</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">Şuan ekip toplantısı yapmaktayız. Talepleriniz için Teams'teki yapay zekâ destekli IT asistanımızdan hızlıca destek alabilirsiniz.</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">aşağıdaki QR'ı okutarak da erişim sağlayabilirsiniz.</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">anlayışınız için teşekkürler</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\"><br></span></div><div><span style=\"color:rgb(224, 170, 98)\">Local IT Team</span></div><div><span style=\"color:rgb(255, 255, 255)\">:&nbsp;</span><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;</div>"
+      "captionHtml": "<div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">Merhabalar,</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">Şuan ekip toplantısı yapmaktayız. Talepleriniz için Teams'teki yapay zekâ destekli IT asistanımızdan hızlıca destek alabilirsiniz.</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">aşağıdaki QR'ı okutarak da erişim sağlayabilirsiniz.</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\">anlayışınız için teşekkürler</span></div><div style=\"text-align:center\"><span style=\"color:rgb(224, 170, 98)\"><br></span></div><div><span style=\"color:rgb(224, 170, 98)\">Local IT Team</span></div><div><div><span style=\"color:rgb(79, 163, 191)\"><span style=\"font-weight:bold\">Hubbert</span>.</span></div><div><span class=\"rq rm-s\" data-qr=\"Hubbert\"></span></div>Erişim için QR Okutun.&nbsp;</div>"
     }
   ],
-  "updatedAt": "2026-11-13 14:13:45",
+  "updatedAt": "2026-11-13 14:14:20",
   "birthdays": {
     "enabled": true,
     "message": "Doğum günün kutlu olsun, nice mutlu yıllara! 🎉",
@@ -479,7 +479,7 @@
       }
     ]
   },
-  "cv": 171,
+  "cv": 172,
   "itnews": {
     "items": [],
     "enabled": true,
