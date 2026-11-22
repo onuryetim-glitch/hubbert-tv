@@ -1,6 +1,6 @@
 # BÖLÜM 5 — AKILLI MI DEDİNİZ?
 
-**Seri:** Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (Kanal: belgesellenmek)
+**Seri:** Doğa Adil Değildir: Sarkastik Doğa Belgeseli (Kanal: belgesellenmek)
 **Yayın:** 25 Kasım 2026 Çarşamba, 10:00 (TSİ)
 **Hedef süre:** 10:30–11:30 dk (~1550–1700 kelime anlatım)
 
@@ -11,11 +11,11 @@
 
 ## Açıklama Metni
 Hayvanlar gerçekten akıllı mı? Bu bölümde alet yapan kargalar, kavanoz açan ahtapotlar, sayıları insandan iyi hatırlayan bir şempanze, birbirini isimle çağıran yunuslar, aynada kendini tanıyan filler ve konuşan bir papağan var. Tüm bilgiler hakemli dergilerde ve üniversite araştırmalarında belgelenmiş gerçeklerdir; anlatıcı sadece biraz iğneleyici.
-Doğanın Gerçekleri serisinin 5. bölümü. Sonraki bölüm bu akşam 19:00'da: Süper Güçler!
+Doğa Adil Değildir serisinin 5. bölümü. Sonraki bölüm bu akşam 19:00'da: Süper Güçler!
 Bölümler: 00:00 Soğuk açılış | Karga ve Betty | Yüz tanıyan kargalar | Ahtapot | Şempanze | Yunus, fil, saksağan | Papağan Alex | Puan Tablosu
 
 ## Etiketler (15)
-belgesellenmek, hayvan zekası, akıllı hayvanlar, karga zekası, Betty karga, ahtapot zekası, şempanze, yunus, fil, papağan Alex, belgesel, vahşi yaşam, doğa belgeseli, komik belgesel, doğanın gerçekleri
+belgesellenmek, hayvan zekası, akıllı hayvanlar, karga zekası, Betty karga, ahtapot zekası, şempanze, yunus, fil, papağan Alex, belgesel, vahşi yaşam, doğa belgeseli, komik belgesel, doğa adil değildir
 
 ## Thumbnail Fikri
 Sol tarafta şaşkın bir ifadeyle gözlüklü (AI üretimi) bir karga, elinde (gagasında) kıvrık bir tel; sağda büyük, sarı kalın yazı: "AKILLI MI DEDİNİZ?". Arka plan koyu mavi, köşede küçük bir ahtapot kolu kavanoz kapağı çeviriyor. Yüksek kontrast, tek vurgu rengi sarı.
@@ -24,7 +24,7 @@ Sol tarafta şaşkın bir ifadeyle gözlüklü (AI üretimi) bir karga, elinde (
 
 **[SAHNE 1 — SOĞUK AÇILIŞ, 0:00–0:45]**
 - 🎬 GÖRSEL: Sendai'de bir kavşak; kırmızı ışık, durmuş arabalar. Karga ceviz taşıyor, yola bırakıyor, geri çekiliyor. (AI üretim canlandırma, ekranda "canlandırma" yazısı; arşiv kargası görüntüleri için Wikimedia Commons CC)
-- 🎙️ ANLATIM: Japonya, Sendai kenti. Kırmızı ışık yanıyor, arabalar sıraya girmiş. Kaldırımdaki bir karga gagasında ceviz taşıyor. Sakin sakin yola iniyor, cevizi tekerleklerin geçeceği yere bırakıyor ve geri çekiliyor. Işık yeşile dönüyor, araçlar cevizin üstünden geçiyor, çıt. Karga bekliyor. Yayalara yeşil yandığı an yola dönüyor, kırılmış cevizi topluyor ve kaldırıma çekiliyor. Bu bir internet efsanesi değil; Japon araştırmacılar bu davranışı bilimsel olarak kaydetti. Yani bir kuş, trafik ışıklarını ve araba trafiğini kendi ceviz kırma makinesine çevirdi. Siz en son kırmızı ışıkta bekleyip bundan ne kazandınız, bir düşünün. Ben Anlatıcı: yorgun, her şeyi görmüş, artık hiçbir şeye şaşırmayan biri. Doğa adil değildir, ama komiktir. Hoş geldiniz, Doğanın Gerçekleri'nin beşinci bölümü. Bugünün konusu zekâ. Ve şimdiden uyarayım: bu bölümün sonunda kendinizi biraz küçük hissedebilirsiniz.
+- 🎙️ ANLATIM: Japonya, Sendai kenti. Kırmızı ışık yanıyor, arabalar sıraya girmiş. Kaldırımdaki bir karga gagasında ceviz taşıyor. Sakin sakin yola iniyor, cevizi tekerleklerin geçeceği yere bırakıyor ve geri çekiliyor. Işık yeşile dönüyor, araçlar cevizin üstünden geçiyor, çıt. Karga bekliyor. Yayalara yeşil yandığı an yola dönüyor, kırılmış cevizi topluyor ve kaldırıma çekiliyor. Bu bir internet efsanesi değil; Japon araştırmacılar bu davranışı bilimsel olarak kaydetti. Yani bir kuş, trafik ışıklarını ve araba trafiğini kendi ceviz kırma makinesine çevirdi. Siz en son kırmızı ışıkta bekleyip bundan ne kazandınız, bir düşünün. Kanalımıza hoş geldiniz. Doğa adil değildir, ama komiktir. Bu, Doğa Adil Değildir dizisinin beşinci bölümü. Bugünün konusu zekâ. Ve şimdiden uyarayım: bu bölümün sonunda kendinizi biraz küçük hissedebilirsiniz.
 - 🎵 MÜZİK/SFX: Şehir trafiği ambiyansı, hafif komik pizzicato; "çıt" sesi vurgulu; açılış jeneriği stinger'ı.
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE", 0:45–1:05]**
@@ -64,7 +64,7 @@ Sol tarafta şaşkın bir ifadeyle gözlüklü (AI üretimi) bir karga, elinde (
 
 **[SAHNE 9 — KAPANIŞ CTA + CLIFFHANGER, 10:15–10:55]**
 - 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; ekranda abone ol/zil animasyonu; Bölüm 6 fragmanı: suyun altında bir karides yumruğu ve baloncuk (AI üretim, "canlandırma" ibaresi); "BU AKŞAM 19:00" büyük yazı.
-- 🎙️ ANLATIM: Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde Süper Güçler var: yumruğuyla suyu kaynatan karides, ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı. Kaçırma! Bu akşam saat 19:00'da yayında. Bu arada yorumlarda hangi hayvanın sizce en zeki olduğunu yazın; karga yazarsanız, kargalar bunu kesinlikle hatırlayacak. Zekâ güzel, ama bazı hayvanlar zekâya hiç ihtiyaç duymuyor. Onların elinde bir yumruk var, ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor. Bu akşam 19:00.
+- 🎙️ ANLATIM: Sence en zeki hayvan hangisiydi? Karga mı, ahtapot mu, şempanze mi, yoksa Alex adlı papağan mı? İtirazlarını yorumlara yaz, hepsini okuyacağız. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm bu akşam saat 19:00'da: süper güçler. Yumruğunu saniyenin binde birkaçında vuran bir karides, kendini yeniden başlatan ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı. Zekâ güzel, ama bazı hayvanlarda zekâ yok, yumruk var. Ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor. Bu akşam 19:00'da görüşürüz.
 - 🎵 MÜZİK/SFX: Enerjik outro müziği, sona doğru gerilim yükselişi, baloncuk "pop" SFX ve kesilme.
 
 ---

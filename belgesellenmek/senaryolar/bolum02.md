@@ -1,5 +1,5 @@
 # BÖLÜM 2 — AŞK VE SAVAŞ
-### Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (2/10)
+### Doğa Adil Değildir: Sarkastik Doğa Belgeseli (2/10)
 
 **Yayın:** 23 Kasım 2026 Pazartesi, 19:00 (TSİ)
 **Hedef süre:** ~10:40 (yaklaşık 1600 kelime anlatım)
@@ -7,17 +7,17 @@
 ## Alternatif YouTube Başlıkları
 1. Tavus Kuşu Kuyruğu Aslında Bir Hata mı? Hayvanların Çılgın Flört Yöntemleri
 2. Ölü Taklidi Yapan Örümcek ve Mavi Eşya Hırsızı Kuş: Doğada Aşk Böyle Yapılır
-3. Anglerfish'in Korkunç Aşk Hikâyesi: Doğanın Gerçekleri #2 Aşk ve Savaş
+3. Anglerfish'in Korkunç Aşk Hikâyesi: Doğa Adil Değildir #2 Aşk ve Savaş
 
 ## Açıklama Metni
-Tavus kuşu kuyruğu, bower kuşunun mavi koleksiyonu, ölü taklidi yapan örümcek ve derin denizdeki anglerfish: eş bulmak için doğadaki en tuhaf, en komik ve bazen en tehlikeli yöntemler. "Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi" serisinin 2. bölümünde aşk ve savaşın hayvanlar âlemindeki hâllerine bakıyoruz. Espriler anlatıcıdan, bilgiler bilimden.
+Tavus kuşu kuyruğu, bower kuşunun mavi koleksiyonu, ölü taklidi yapan örümcek ve derin denizdeki anglerfish: eş bulmak için doğadaki en tuhaf, en komik ve bazen en tehlikeli yöntemler. "Doğa Adil Değildir: Sarkastik Doğa Belgeseli" serisinin 2. bölümünde aşk ve savaşın hayvanlar âlemindeki hâllerine bakıyoruz. Espriler anlatıcıdan, bilgiler bilimden.
 
 Serinin yayın takvimi: günde iki bölüm, 10:00 ve 19:00. Bir sonraki bölüm yarın sabah 10:00'da: Kötü ve Harika Ebeveynler.
 
 Bölümler: 00:00 Soğuk açılış | 00:45 Önceki bölümde | 01:05 Tavus kuşu | 02:29 Bower kuşu | 03:44 Penguen ve pelikan | 04:38 Peygamberdevesi ve ölü taklidi yapan örümcek | 05:57 Işıkböceği | 07:12 Sepya | 08:20 Anglerfish | 09:33 Puan Tablosu | 10:12 Kapanış
 
 ## Etiketler (15)
-belgesellenmek, doğa belgeseli, tavus kuşu, bower kuşu, bowerbird, anglerfish, peygamberdevesi, ışıkböceği, sepya, hayvanlarda çiftleşme, hayvanlar alemi, vahşi yaşam, komik belgesel, doğanın gerçekleri, Türkçe belgesel
+belgesellenmek, doğa belgeseli, tavus kuşu, bower kuşu, bowerbird, anglerfish, peygamberdevesi, ışıkböceği, sepya, hayvanlarda çiftleşme, hayvanlar alemi, vahşi yaşam, komik belgesel, doğa adil değildir, Türkçe belgesel
 
 ## Thumbnail Fikri
 Solda kuyruğunu açmış, "Tavus kuşu" yazısı ışıltılı; sağda mavi eşyalarla süslü bir bower kuşu yuvası. Ortada büyük sarı yazı: "AŞK = SAVAŞ?". Köşede küçük bir anglerfish silüeti. (Görseller Wikimedia Commons ya da AI üretimi; AI ise belirtilecek.)
@@ -26,7 +26,7 @@ Solda kuyruğunu açmış, "Tavus kuşu" yazısı ışıltılı; sağda mavi eş
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:45]**
 - 🎬 GÖRSEL: Erkek tavus kuşunun kuyruğunu açıp titremesi, dişinin zeminde yem arayışı (Wikimedia Commons / telifsiz arşiv; yoksa AI üretimi, belirtilecek). Ekranda Darwin'in 1860 mektubundan bir alıntı kartı.
-- 🎙️ ANLATIM: Bir erkek tavus kuşu. Kuyruğunu açıyor, titriyor, dönüyor, tekrar titriyor. Karşısında bir dişi var ve görüyorsunuz: dişi yerde yem arıyor. Bu sahne doğanın en eski dramı. Biri bütün enerjisiyle gösteriş yapıyor, diğeri hâlâ öğle yemeğini düşünüyor. Merhaba, ben Anlatıcı, ve bugünkü konumuz aşk ve savaş. Çünkü doğada eş bulmak çoğu zaman ikisinin karışımı. 1860'ta Charles Darwin bir arkadaşına yazdığı mektupta, bir tavus kuşu kuyruğundaki tüye her baktığında kendini hasta hissettiğini söyledi. Neden? Çünkü bu kuyruk, doğal seçilim kuramına uymayan bir bulmacaydı. Bu bölümde o bulmacanın en renkli, en tuhaf ve en tehlikeli sonuçlarını göreceğiz. Anlatıcı olarak uyarıyorum: romantizm beklemeyin. Doğa romantizmi pek sevmez, ölçülebilir sonuçları sever.
+- 🎙️ ANLATIM: Bir erkek tavus kuşu. Kuyruğunu açıyor, titriyor, dönüyor, tekrar titriyor. Karşısında bir dişi var ve görüyorsunuz: dişi yerde yem arıyor. Bu sahne doğanın en eski dramı. Biri bütün enerjisiyle gösteriş yapıyor, diğeri hâlâ öğle yemeğini düşünüyor. Kanalımıza hoş geldiniz, bugünkü konumuz aşk ve savaş. Çünkü doğada eş bulmak çoğu zaman ikisinin karışımı. 1860'ta Charles Darwin bir arkadaşına yazdığı mektupta, bir tavus kuşu kuyruğundaki tüye her baktığında kendini hasta hissettiğini söyledi. Neden? Çünkü bu kuyruk, doğal seçilim kuramına uymayan bir bulmacaydı. Bu bölümde o bulmacanın en renkli, en tuhaf ve en tehlikeli sonuçlarını göreceğiz. Baştan uyarayım: romantizm beklemeyin. Doğa romantizmi pek sevmez, ölçülebilir sonuçları sever.
 - 🎵 MÜZİK/SFX: Dramatik kuyruk açılış müziği; tüy titremesi SFX; Darwin alıntısında vintage kalem sesi.
 
 **[SAHNE 2 — ÖNCEKİ BÖLÜMDE — 0:45–1:05]**
@@ -76,7 +76,7 @@ Solda kuyruğunu açmış, "Tavus kuşu" yazısı ışıltılı; sağda mavi eş
 
 **[SAHNE 11 — KAPANIŞ CTA — 10:12–10:40]**
 - 🎬 GÖRSEL: Bölüm 3 fragmanı: guguk kuşu yavrusu, imparator penguen, erkek deniz atı; ekranda "Yarın sabah 10:00 — Bölüm 3".
-- 🎙️ ANLATIM: Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde kötü ve harika ebeveynler var — kaçırma! Yarın sabah saat 10:00'da yayında. Çünkü bazı yumurtalar, kendi annesinin değil, bir başkasının yuvasında çıkacak. Ve çıkan yavru, yumurtadan çıktıktan kısa süre sonra, yuvanın diğer sakinlerini dışarı itmeye başlayacak. Yarın sabah 10:00'da görüşürüz. Ebeveynlik rehberi, bu seride aşkın en pahalı sonucu. Beklentilerinizi düşük tutun: kimi hayvanlar harika ebeveyn, kimiyse sadece yumurtayı bırakıp gidiyor.
+- 🎙️ ANLATIM: Bu bölümde en etkili aşk taktiği sence hangisiydi? Dekoratör bower kuşu mu, ışık gösterisi yapan ışıkböceği mi, yoksa renk değiştiren sepya mı? Oyunu yorumlara yaz, en çok oy alanı bir sonraki videolarda anarız. Videoyu beğendiysen beğen butonuna basarak destek ol. Henüz abone değilsen abone ol ve zili aç, çünkü yarınki bölümü kaçırmak istemezsin. Sıradaki bölüm yarın sabah saat 10:00'da: kötü ve harika ebeveynler. Öyle bir yuva hırsızı var ki, yumurtadan çıktıktan kısa süre sonra yuvadaki diğer yumurtaları dışarı itiyor. Üstelik onu büyüten ebeveyn hiçbir şeyin farkında değil. Bu nasıl mümkün? Cevabı yarın sabah 10:00'da.
 - 🎵 MÜZİK/SFX: Ana tema yükselir; "kaçırma!" vurgusu; son cümlede müzik kesilir, kısa gerilim notası.
 
 ---

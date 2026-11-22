@@ -36,8 +36,8 @@ def seg_image(img,out,secs,k):
     run("ffmpeg","-y","-loglevel","error","-i",img,"-vf",
         f"scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,zoompan=z='{expr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s={W}x{H}:fps={FPS},format=yuv420p",
         "-t",str(secs),"-an","-c:v","libx264","-preset","veryfast","-crf","23",out)
-def seg_video(src,out,secs,k):
-    d=dur(src); ss=min(1.0,max(0,d-secs-0.1)) if d>secs+1.5 else 0
+def seg_video(src,out,secs,k,rep=0):
+    d=dur(src); ss=min(0.5+rep*(secs+0.5),max(0,d-secs-0.1)) if d>secs+1.5 else 0
     run("ffmpeg","-y","-loglevel","error","-stream_loop","-1","-ss",str(ss),"-i",src,"-t",str(secs),"-vf",
         f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p","-an","-c:v","libx264","-preset","veryfast","-crf","23",out)
 def tabledraw(path,rows,n):
@@ -65,11 +65,13 @@ for s in scenes:
         t0+=L; print("sahne",n,"önbellekten",flush=True); continue
     segs=[]; media=[m for m in man if m["scene"]==n]
     vids=[m for m in media if m["kind"]=="video"]; imgs=[m for m in media if m["kind"]=="image"]
-    order=[]; 
-    while len(order)<40 and (vids or imgs):
-        if vids: order.append(vids[len([o for o in order if o['kind']=='video'])%len(vids)])
-        for _ in range(2):
-            if imgs: order.append(imgs[len([o for o in order if o['kind']=='image'])%len(imgs)])
+    order=[]
+    vi=ii=0
+    while len(order)<60 and (vids or imgs):
+        for _ in range(3 if vids else 0):
+            order.append(dict(vids[vi%len(vids)],_k=vi)); vi+=1
+        if imgs: order.append(imgs[ii%len(imgs)]); ii+=1
+        if not vids and len(order)>=len(imgs)*4: break
     sp=f"{D}/s{n}"
     if n==META["scoreboard_scene"]:
         rows=META["scores"]; k=len(rows); per=L/(k+1)
@@ -83,7 +85,7 @@ for s in scenes:
             m=order[i%len(order)]; secs=min(7.0 if m["kind"]=="video" else 6.0,L-tot)
             if L-tot-secs<2.0: secs=L-tot
             o=f"{sp}_{i}.mp4"
-            (seg_video if m["kind"]=="video" else seg_image)(m["file"],o,secs,i); segs.append(o); tot+=secs; i+=1
+            (seg_video(m["file"],o,secs,i,m.get("_k",0)//max(1,len(vids))) if m["kind"]=="video" else seg_image(m["file"],o,secs,i)); segs.append(o); tot+=secs; i+=1
     lst=f"{sp}_list.txt"; open(lst,"w").write("".join(f"file '{os.path.abspath(x)}'\n" for x in segs))
     raw=f"{sp}_raw.mp4"; run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-c","copy",raw)
     ttl=META["titles"].get(str(n),s["title"]); tf=f"{sp}_title.txt"; open(tf,"w",encoding="utf-8").write(ttl)
@@ -93,6 +95,7 @@ for s in scenes:
         for j,(txt,sz,col,y) in enumerate(c):
             fn=f"{sp}_cta{j}.txt"; open(fn,"w",encoding="utf-8").write(txt); fs.append(f"drawtext=fontfile={BOLD}:textfile={fn}:fontsize={sz}:fontcolor={col}:x=(w-text_w)/2:y={y}:enable='gte(t,3)'")
         ov="drawbox=x=140:y=170:w=1000:h=380:color=black@0.62:t=fill:enable='gte(t,3)',"+",".join(fs)
+    ov=ov+f",drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1" if ov!="null" else f"drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1"
     out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error","-i",raw,"-i",a,"-vf",ov,"-af","apad=pad_dur=1,aresample=44100","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
     parts.append(out)
     # altyazı: cümleleri karakter oranıyla dağıt

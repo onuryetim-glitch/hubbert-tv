@@ -1,6 +1,6 @@
 # BÖLÜM 6 — SÜPER GÜÇLER
 
-**Seri:** Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (Kanal: belgesellenmek)
+**Seri:** Doğa Adil Değildir: Sarkastik Doğa Belgeseli (Kanal: belgesellenmek)
 **Yayın:** 25 Kasım 2026 Çarşamba, 19:00 (TSİ)
 **Hedef süre:** 10:30–11:30 dk (~1550–1700 kelime anlatım)
 
@@ -11,10 +11,10 @@
 
 ## Açıklama Metni
 Hayvanlar alemindeki gerçek süper güçler: peygamberdevesi karidesinin yumruğu, tabanca karidesinin baloncuk silahı, bombardıman böceğinin kaynar spreyi, uzay boşluğunda hayatta kalan su ayısı (tardigrad), yaşam döngüsünü geri saran Turritopsis dohrnii denizanası ve 860 volt üreten elektrikli yılan balığı. Tüm bilgiler hakemli dergilerde yayımlanmış bilimsel gerçeklerdir; anlatıcı sadece biraz iğneleyici.
-Doğanın Gerçekleri serisinin 6. bölümü. Sonraki bölüm yarın sabah 10:00'da: Sosyal Hayat!
+Doğa Adil Değildir serisinin 6. bölümü. Sonraki bölüm yarın sabah 10:00'da: Sosyal Hayat!
 
 ## Etiketler (15)
-belgesellenmek, süper güçler, peygamberdevesi karidesi, mantis shrimp, tabanca karidesi, bombardıman böceği, tardigrad, su ayısı, ölümsüz denizanası, elektrikli yılan balığı, hayvan yetenekleri, belgesel, doğa belgeseli, komik belgesel, doğanın gerçekleri
+belgesellenmek, süper güçler, peygamberdevesi karidesi, mantis shrimp, tabanca karidesi, bombardıman böceği, tardigrad, su ayısı, ölümsüz denizanası, elektrikli yılan balığı, hayvan yetenekleri, belgesel, doğa belgeseli, komik belgesel, doğa adil değildir
 
 ## Thumbnail Fikri
 Ortada, kaslı bir kol gibi uzanmış kırmızı-yeşil peygamberdevesi karidesi (AI üretimi), önünde suyun içinde parlayan baloncuk; sol altta küçük bir su ayısı astronot kaskıyla, sağ üstte elektrik çakan bir yılan balığı silueti. Büyük sarı yazı: "SÜPER GÜÇLER". Koyu lacivert zemin, yüksek kontrast.
@@ -23,7 +23,7 @@ Ortada, kaslı bir kol gibi uzanmış kırmızı-yeşil peygamberdevesi karidesi
 
 **[SAHNE 1 — SOĞUK AÇILIŞ, 0:00–0:45]**
 - 🎬 GÖRSEL: Akvaryumda renkli peygamberdevesi karidesi, yavaş çekim yumruk (Wikimedia Commons CC videosu; yavaş çekim canlandırma AI üretim, "canlandırma" ibareli); çatlayan cam efekti.
-- 🎙️ ANLATIM: Küçük, rengârenk, bir el boyunda bir yaratık. Akvaryumun en gösterişli sakini. Ama akvaryum meraklıları onu tek bir sebepten tanır: yumruğunun akvaryum camını çatlatabildiği bildirilir. Bu yumruk saniyenin binde birkaçı kadar bir sürede suyun içinden geçiyor ve arkasında, kısa süreliğine, buhar dolu bir baloncuk bırakıyor. Peki bu hayvan nasıl bir canlı? Bir karides mi, bir boksör mü, yoksa gizli bir ajan mı? Merhaba, ben Anlatıcı. Doğa adil değildir, ama komiktir. Bugün doğanın gerçekten haksızlık yaptığı bir konuya geliyoruz: süper güçler. Bazı hayvanlar kâğıt üzerinde hiçbir şey vaat etmiyor ama sahada kahraman. Bu bölümde altı hayvan göreceğiz ve hepsi, kendi küçük ölçeğinde, bir süper kahraman filminin kötü karakterinden daha tehlikeli ya da daha dirençli. Hazırsanız, gözünüzü kırpmayın. Zaten kırpsanız bir şey göremezsiniz.
+- 🎙️ ANLATIM: Küçük, rengârenk, bir el boyunda bir yaratık. Akvaryumun en gösterişli sakini. Ama akvaryum meraklıları onu tek bir sebepten tanır: yumruğunun akvaryum camını çatlatabildiği bildirilir. Bu yumruk saniyenin binde birkaçı kadar bir sürede suyun içinden geçiyor ve arkasında, kısa süreliğine, buhar dolu bir baloncuk bırakıyor. Peki bu hayvan nasıl bir canlı? Bir karides mi, bir boksör mü, yoksa gizli bir ajan mı? Kanalımıza hoş geldiniz. Doğa adil değildir, ama komiktir. Bugün doğanın gerçekten haksızlık yaptığı bir konuya geliyoruz: süper güçler. Bazı hayvanlar kâğıt üzerinde hiçbir şey vaat etmiyor ama sahada kahraman. Bu bölümde altı hayvan göreceğiz ve hepsi, kendi küçük ölçeğinde, bir süper kahraman filminin kötü karakterinden daha tehlikeli ya da daha dirençli. Hazırsanız, gözünüzü kırpmayın. Zaten kırpsanız bir şey göremezsiniz.
 - 🎵 MÜZİK/SFX: Sakin akvaryum ambiyansı, ardından ani "çat!" SFX ve süper kahraman tarzı jenerik stinger'ı.
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE", 0:45–1:05]**
@@ -63,7 +63,7 @@ Ortada, kaslı bir kol gibi uzanmış kırmızı-yeşil peygamberdevesi karidesi
 
 **[SAHNE 9 — KAPANIŞ CTA + CLIFFHANGER, 10:20–10:55]**
 - 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; abone ol/zil animasyonu; Bölüm 7 fragmanı: yeraltı tüneli ve kel fare kolonisi (AI üretim, "canlandırma" ibareli); "YARIN SABAH 10:00" büyük yazı.
-- 🎙️ ANLATIM: Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde Sosyal Hayat var: arıların dans dili, kel farelerin kraliçesi, karınca orduları ve bir de kurt sürüsünün gerçekte nasıl çalıştığı. Kaçırma! Yarın sabah saat 10:00'da yayında. Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey. Yarın sabah: bir kraliçe, yüzlerce işçi ve bir soru: memeliler arasında bile, neden bazıları bir kraliçeye hizmet ediyor? Yarın sabah 10:00.
+- 🎙️ ANLATIM: Hangi süper güç sana daha çok yarardı? Uzayda sağ kalan su ayısı mı, kendini yeniden başlatan denizanası mı? Yorumlara yaz, tartışalım. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü yarın sabahki bölüm bambaşka bir şeyi anlatıyor. Sıradaki bölüm yarın sabah saat 10:00'da: sosyal hayat. Arıların dans dili, kel farelerin kraliçesi, karınca orduları ve kurt sürüsünün gerçekte nasıl çalıştığı. Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey. Memeliler arasında bile bir kraliçeye hizmet eden hayvanlar var. Neden? Cevabı yarın sabah 10:00'da.
 - 🎵 MÜZİK/SFX: Enerjik outro müziği, sona doğru gerilim yükselişi, kesilme.
 
 ---

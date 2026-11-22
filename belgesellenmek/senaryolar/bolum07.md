@@ -1,6 +1,6 @@
 # BÖLÜM 7 — SOSYAL HAYAT: Kalabalığın Gücü (ve Gürültüsü)
 
-**Seri:** Belgesellenmek — "DOĞANIN GERÇEKLERİ: Vahşi Yaşamın Sarkastik Rehberi" (7/10)
+**Seri:** Belgesellenmek — "DOĞA ADİL DEĞİLDİR: Sarkastik Doğa Belgeseli" (7/10)
 **Yayın:** 26 Kasım 2026 Perşembe, 10:00 (TSİ)
 **Hedef süre:** 10:30–11:00 dk (~1600 kelime anlatım)
 
@@ -10,7 +10,7 @@
 3. Kraliçesi Kel Fare Olan İmparatorluk: Hayvanlarda Toplum Nasıl Kurulur?
 
 ## Açıklama metni
-Yirmi katrilyon karınca, dans ederek yön tarifi veren arılar, böceklerden farksız yaşayan bir memeli (kel fare), "alfa kurt" efsanesinin gerçek hikâyesi, nöbet tutan mirketler ve eksi kırk derecede birbirine sığınan imparator penguenler. Belgesellenmek'in "Doğanın Gerçekleri" serisinin 7. bölümünde kalabalığın neden güçlü olduğunu, bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Bu akşam 19:00'da 8. bölüm yayında: Tembeller, Hırsızlar ve Şeytani Zekâlar.
+Yirmi katrilyon karınca, dans ederek yön tarifi veren arılar, böceklerden farksız yaşayan bir memeli (kel fare), "alfa kurt" efsanesinin gerçek hikâyesi, nöbet tutan mirketler ve eksi kırk derecede birbirine sığınan imparator penguenler. Belgesellenmek'in "Doğa Adil Değildir" serisinin 7. bölümünde kalabalığın neden güçlü olduğunu, bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Bu akşam 19:00'da 8. bölüm yayında: Tembeller, Hırsızlar ve Şeytani Zekâlar.
 
 Bölümler: 0:00 Karınca ordusu | 1:05 Karıncalar | 3:10 Arılar | 5:00 Kel fareler | 6:50 Kurtlar | 8:10 Mirketler | 9:35 Penguenler
 
@@ -24,7 +24,7 @@ Ortada, yakın çekim, ciddi ifadeli bir mirket nöbetçi; arka planda soluk ren
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:45]**
 - 🎬 GÖRSEL: Makro karınca yolu (Wikimedia Commons, CC lisanslı karınca videoları/fotoğrafları), ardından hızlı geri çekilme ile ağaç gövdesini kaplayan karınca sıraları. Ekranda "20.000.000.000.000.000" sayacı. (Sayı grafiği: kendi üretimimiz.)
-- 🎙️ ANLATIM: Şu anda Dünya'da yaklaşık yirmi katrilyon karınca yaşıyor. Evet, katrilyon. Sıfırları saymayı bıraktım, çünkü karıncalar da sayılmaya pek izin vermiyor. 2022'de yayımlanan bir araştırmaya göre bu karıncaların toplam kuru karbon kütlesi, yabani kuşların ve yabani memelilerin toplamından daha fazla. Yani gezegenin gerçek sahibi ne bir aslan ne de bir kartal. Pazar sabahı mutfakta şekerin başına dizilen o sıra. Tek bir karınca, dürüst olalım, pek bir şey değil. Ama bir araya geldiklerinde işler değişiyor. Hoş geldiniz, ben Anlatıcı. Bugün kalabalığın neden güçlü olduğunu konuşacağız. Toplantılar hariç. Onlar hâlâ kötü. Bugünün programı: karıncalar, dans eden arılar, kraliçesi kel fare olan bir imparatorluk, yanlış anlaşılmış bir kurt sürüsü, nöbet tutan mirketler ve Antarktika'da eksi kırk derecede birbirine sığınan penguenler.
+- 🎙️ ANLATIM: Şu anda Dünya'da yaklaşık yirmi katrilyon karınca yaşıyor. Evet, katrilyon. Sıfırları saymayı bıraktım, çünkü karıncalar da sayılmaya pek izin vermiyor. 2022'de yayımlanan bir araştırmaya göre bu karıncaların toplam kuru karbon kütlesi, yabani kuşların ve yabani memelilerin toplamından daha fazla. Yani gezegenin gerçek sahibi ne bir aslan ne de bir kartal. Pazar sabahı mutfakta şekerin başına dizilen o sıra. Tek bir karınca, dürüst olalım, pek bir şey değil. Ama bir araya geldiklerinde işler değişiyor. Kanalımıza hoş geldiniz. Bugün kalabalığın neden güçlü olduğunu konuşacağız. Toplantılar hariç. Onlar hâlâ kötü. Bugünün programı: karıncalar, dans eden arılar, kraliçesi kel fare olan bir imparatorluk, yanlış anlaşılmış bir kurt sürüsü, nöbet tutan mirketler ve Antarktika'da eksi kırk derecede birbirine sığınan penguenler.
 - 🎵 MÜZİK/SFX: Hafif gerilimli, ritmik pizzicato; karınca adımı SFX; sayı sayacında "tik tik" sesi, sonda kısa bir "pop".
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE" — 0:45–1:05]**
@@ -64,7 +64,7 @@ Ortada, yakın çekim, ciddi ifadeli bir mirket nöbetçi; arka planda soluk ren
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:10–10:45]**
 - 🎬 GÖRSEL: Bölümün hayvanlarından hızlı bir montaj; ekranda "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 8. bölüm kartı: "TEMBELLER, HIRSIZLAR VE ŞEYTANİ ZEKÂLAR — BU AKŞAM 19:00" ve karanlıkta uyuyan bir sloth silüeti.
-- 🎙️ ANLATIM: Bu bölüm seni gülümsettiyse beğen, abone ol, zili aç ve yorumlara en sevdiğin hayvanı yaz. Mirket mi, kel fare mi, yoksa kümenin ortasında ısınan penguen mi? Merak ediyorum. Sıradaki bölümde tembeller, hırsızlar ve şeytani zekâlar var, kaçırma! Bu akşam saat 19:00'da yayında. Çünkü doğada herkes işbirliği yapmıyor. Bazıları sadece çalıyor. Bazıları ise günün yarısından fazlasını uyuyor ve yine de hayatta kalıyor. Küçük bir ipucu: biri okyanus üzerinde aylarca yere inmeden uçarken, hatta uçarken uyurken, başkasının balığını çalıyor. Hangisi mi? Bu akşam 19:00'da görüşürüz, aksi hâlde sloth'un ne zaman uyandığını bile bilemeyeceksin.
+- 🎙️ ANLATIM: Bu bölümde seni en çok hangisi şaşırttı? Karıncaların sayısı mı, arıların dansı mı, kel fare kraliçesi mi, yoksa kurt sürüsünün gerçek hikâyesi mi? Yorumlara yaz, hepsini merak ediyoruz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm bu akşam saat 19:00'da: tembeller, hırsızlar ve şeytani zekâlar. Çünkü doğada herkes işbirliği yapmıyor. Biri günün yarısından fazlasını uyuyor ve hâlâ hayatta. Bir başkası okyanus üzerinde aylarca yere inmeden uçuyor, hatta uçarken uyuyor, ve başkasının balığını çalıyor. Hangisi mi? Bu akşam 19:00'da görüşürüz.
 - 🎵 MÜZİK/SFX: Enerjik outro; son cümlede müzik kısılır, hafif "horlama" SFX'i ve kapanış.
 
 ---

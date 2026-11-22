@@ -1,11 +1,11 @@
 # BÖLÜM 4 — OKYANUSUN KARANLIK KÖŞELERİ
-### Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (4/10)
+### Doğa Adil Değildir: Sarkastik Doğa Belgeseli (4/10)
 
 **Yayın:** 24 Kasım 2026 Salı, 19:00 (TSİ)
 **Hedef süre:** ~10:45–11:15 dk (~1600 kelime anlatım)
 
 ## YOUTUBE BAŞLIK ALTERNATİFLERİ
-1. Işığın Hiç Ulaşmadığı Yerde Yaşayan Canlılar | Doğanın Gerçekleri 4
+1. Işığın Hiç Ulaşmadığı Yerde Yaşayan Canlılar | Doğa Adil Değildir 4
 2. Derin Deniz: Fener Balığı, Vampir Kalamar ve Balina Leşinin Gizli Hayatı
 3. Okyanusun Dibinde Güneşsiz Bir Dünya Var (Hem de Kalabalık)
 
@@ -18,7 +18,7 @@ Beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
 Kaynaklar: "Doğrulama Notları" bölümüne bakın.
 
 ## ETİKETLER (15)
-belgesellenmek, doğanın gerçekleri, derin deniz, okyanus belgeseli, fener balığı, vampir kalamar, dev kalamar, balina leşi, hidrotermal baca, biyolüminesans, Mariana Çukuru, deniz canlıları, Türkçe belgesel, komik belgesel, okyanus gizemleri
+belgesellenmek, doğa adil değildir, derin deniz, okyanus belgeseli, fener balığı, vampir kalamar, dev kalamar, balina leşi, hidrotermal baca, biyolüminesans, Mariana Çukuru, deniz canlıları, Türkçe belgesel, komik belgesel, okyanus gizemleri
 
 ## THUMBNAIL FİKRİ
 Tamamen siyah arka plan, ortada tek bir parlak mavi ışık noktası ve ışığın altında dişli bir ağız silueti (AI üretim illüstrasyon). Büyük beyaz yazı: "IŞIK YOK. HAYAT VAR." Köşede küçük "4/10" etiketi.
@@ -30,7 +30,7 @@ Tamamen siyah arka plan, ortada tek bir parlak mavi ışık noktası ve ışığ
 - 🎙️ ANLATIM:
   > Okyanus deyince çoğumuz plajı düşünürüz. Güneş, dalga, bir de fahiş fiyatlı dondurma. Ama plaj, okyanusun sadece çerçevesi. Asıl tablo aşağıda.
   > Okyanusun ortalama derinliği yaklaşık üç bin yedi yüz metre. Güneş ışığı en berrak suda bile ancak bin metreye kadar sızabiliyor ve ilk iki yüz metreden sonra zaten hızla sönüyor. O sınırın altında ışığın olmadığı, soğuk, yüksek basınçlı, sessiz bir dünya var. Üstelik bu dünya, gezegenimizin yaşanabilir hacminin yaklaşık yüzde doksanını oluşturuyor. Yani Dünya dediğimiz yer çoğunlukla, güneşin hiç uğramadığı bir yer.
-  > Ben Anlatıcı. Belgesellenmek'e hoş geldiniz. Fener getirdiniz mi? Getirmediyseniz sorun yok, orada herkes kendi feneriyle geliyor. Bugünün rotası: basınç, ışık satan balıklar, çöp yiyen bir vampir, yıllarca kameradan kaçan bir dev, bir balinanın ölümünden doğan bir şehir ve güneşsiz bir kasaba.
+  > Kanalımıza hoş geldiniz. Fener getirdiniz mi? Getirmediyseniz sorun yok, orada herkes kendi feneriyle geliyor. Bugünün rotası: basınç, ışık satan balıklar, çöp yiyen bir vampir, yıllarca kameradan kaçan bir dev, bir balinanın ölümünden doğan bir şehir ve güneşsiz bir kasaba.
   > Doğa adil değildir, ama komiktir. İnelim.
 - 🎵 MÜZİK/SFX: Plaj dalga sesi, su altına geçişte boğuk ses, derinlik arttıkça tiz seslerin sönmesi ve tek bir sonar "ping". Alçak, gizemli synth.
 
@@ -105,9 +105,7 @@ Tamamen siyah arka plan, ortada tek bir parlak mavi ışık noktası ve ışığ
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:25–10:52]**
 - 🎬 GÖRSEL: Bölüm 5 fragmanı: bir ahtapot kolu, kavanozun kapağını çeviriyor; arka planda karga. "YARIN SABAH 10:00" yazısı. Abone ol / zil ikonu animasyonu.
-- 🎙️ ANLATIM:
-  > Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde Akıllı Mı Dediniz? var. Kaçırma! Yarın sabah saat 10:00'da yayında.
-  > Derin denizin ışığı satan balığını, çöp yiyen vampirini ve balina leşinde kiracı olan solucanını gördük. Peki ya bir ahtapot, kendisini kapatılmış bir kavanozdan dışarı çıkarmayı öğrenirse? Bunun cevabı yarın sabah, 10:00'da. Puan Tablosu'nu da yeni bir adayla güncelleyeceğiz.
+- 🎙️ ANLATIM: Okyanusun karanlığında seni en çok hangisi ürküttü? Fener balığı mı, vampir kalamar mı, yoksa dev kalamar mı? Yorumlara yaz, hangisinin kazandığını görelim. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü bu dizi her gün iki yeni bölümle devam ediyor. Sıradaki bölüm yarın sabah saat 10:00'da: Akıllı mı dediniz? Soru basit: bir ahtapot, kapatılmış bir kavanozdan dışarı çıkmayı öğrenirse, bu tesadüf mü olur, zekâ mı? Cevabı yarın sabah 10:00'da.
 - 🎵 MÜZİK/SFX: Tema yükselir; son cümlede kavanoz kapağının "klik" sesi, ekran kararır.
 
 ---

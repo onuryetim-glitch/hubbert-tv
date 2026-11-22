@@ -1,5 +1,5 @@
 # BÖLÜM 1 — ALDATMACA USTALARI
-### Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (1/10)
+### Doğa Adil Değildir: Sarkastik Doğa Belgeseli (1/10)
 
 **Yayın:** 23 Kasım 2026 Pazartesi, 10:00 (TSİ)
 **Hedef süre:** ~10:35 (yaklaşık 1580 kelime anlatım)
@@ -10,14 +10,14 @@
 3. Opossum Gerçekten Ölü Taklidi mi Yapıyor? Doğanın Sarkastik Rehberi #1
 
 ## Açıklama Metni
-Bukalemun aslında kamuflaj için renk değiştirmiyor. Taklitçi ahtapot bir deniz yılanına dönüşebiliyor. Opossum ise ölü taklidi yapmıyor, vücudu onun yerine karar veriyor. "Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi" serisinin ilk bölümünde hayatta kalmanın en eski yöntemini, yani yalan söylemeyi inceliyoruz. Espriler anlatıcıdan, bilgiler bilimden.
+Bukalemun aslında kamuflaj için renk değiştirmiyor. Taklitçi ahtapot bir deniz yılanına dönüşebiliyor. Opossum ise ölü taklidi yapmıyor, vücudu onun yerine karar veriyor. "Doğa Adil Değildir: Sarkastik Doğa Belgeseli" serisinin ilk bölümünde hayatta kalmanın en eski yöntemini, yani yalan söylemeyi inceliyoruz. Espriler anlatıcıdan, bilgiler bilimden.
 
 Serinin yayın takvimi: günde iki bölüm, 10:00 ve 19:00. Bu akşam 19:00'da Bölüm 2: Aşk ve Savaş.
 
 Bölümler: 00:00 Soğuk açılış | 00:49 Bukalemun | 02:35 Taklitçi ahtapot | 04:24 Yaprak böceği ve kuru yaprak kelebeği | 05:57 Opossum | 07:30 Taklitçi böcekler | 09:13 Puan Tablosu | 10:06 Kapanış
 
 ## Etiketler (15)
-belgesellenmek, doğa belgeseli, kamuflaj, bukalemun, taklitçi ahtapot, yaprak böceği, kuru yaprak kelebeği, opossum, mimikri, hayvanlar alemi, vahşi yaşam, komik belgesel, doğanın gerçekleri, ilginç hayvan bilgileri, Türkçe belgesel
+belgesellenmek, doğa belgeseli, kamuflaj, bukalemun, taklitçi ahtapot, yaprak böceği, kuru yaprak kelebeği, opossum, mimikri, hayvanlar alemi, vahşi yaşam, komik belgesel, doğa adil değildir, ilginç hayvan bilgileri, Türkçe belgesel
 
 ## Thumbnail Fikri
 Yaprak gibi görünen bir böceğin yakın çekimi; yaprağın üzerinde iki küçük göz ve sarı büyük yazı: "BU BİR YAPRAK DEĞİL". Sağ altta küçük bir bukalemun yüzü ve ahtapot kolu. (Görseller Wikimedia Commons ya da AI üretimi; AI ise belirtilecek.)
@@ -26,7 +26,7 @@ Yaprak gibi görünen bir böceğin yakın çekimi; yaprağın üzerinde iki kü
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:49]**
 - 🎬 GÖRSEL: Orman zemininde kuru yaprak görüntüsü, ardından yaprağın "yürümeye" başladığı yaprak böceği çekimi (Wikimedia Commons CC lisanslı video; yoksa AI üretimi, belirtilecek). Sonda seri logosu.
-- 🎙️ ANLATIM: Şu görüntüye bakın. Bir yaprak. Çok sıradan, çok kuru, çok yaprak gibi. Bir saniye… yaprak yürüdü. Yaprak yürüdü ve şu an sizi, evet sizi, doğanın en eski oyununa davet ediyor. Merhaba, ben Anlatıcı. Yıllardır vahşi yaşamı izliyorum, o yüzden size baştan söyleyeyim: doğa adil değildir, ama komiktir. Bu dizide on bölüm boyunca hayvanlar âleminin en zeki, en tuhaf ve en hesapsız hallerine bakacağız. Bugünün konusu, hayatta kalmanın en eski yöntemi: yalan söylemek. Renk değiştirmek, başkası gibi davranmak, hatta ölü numarası yapmak. Üstelik anlatacaklarımın hepsi bilimsel olarak belgelenmiş gerçekler. Espriler benden, bilgiler bilimden. Ve evet, bu bölümde bir yaprak, bir ahtapot, bir sinek ve rahatsız edici derecede kötü kokan bir keseli hayvan var. Kemerlerinizi bağlayın, çünkü doğada hiçbir şey göründüğü gibi değil. Başlıyoruz.
+- 🎙️ ANLATIM: Şu görüntüye bakın. Bir yaprak. Çok sıradan, çok kuru, çok yaprak gibi. Bir saniye… yaprak yürüdü. Yaprak yürüdü ve şu an sizi, evet sizi, doğanın en eski oyununa davet ediyor. Kanalımıza hoş geldiniz. Bu dizi boyunca vahşi yaşamı yakından izleyeceğiz, o yüzden size baştan söyleyeyim: doğa adil değildir, ama komiktir. Bu dizide on bölüm boyunca hayvanlar âleminin en zeki, en tuhaf ve en hesapsız hallerine bakacağız. Bugünün konusu, hayatta kalmanın en eski yöntemi: yalan söylemek. Renk değiştirmek, başkası gibi davranmak, hatta ölü numarası yapmak. Üstelik anlatacaklarımın hepsi bilimsel olarak belgelenmiş gerçekler. Espriler benden, bilgiler bilimden. Ve evet, bu bölümde bir yaprak, bir ahtapot, bir sinek ve rahatsız edici derecede kötü kokan bir keseli hayvan var. Kemerlerinizi bağlayın, çünkü doğada hiçbir şey göründüğü gibi değil. Başlıyoruz.
 - 🎵 MÜZİK/SFX: Gizemli, düşük tempolu orman ambiyansı; yaprak "yürüdüğünde" kısa bir "pıt" SFX; ardından hafif cıvıl cıvıl, entrikalı ana tema.
 
 **[SAHNE 2 — BUKALEMUN — 0:49–2:35]**
@@ -61,7 +61,7 @@ Yaprak gibi görünen bir böceğin yakın çekimi; yaprağın üzerinde iki kü
 
 **[SAHNE 8 — KAPANIŞ CTA — 10:06–10:36]**
 - 🎬 GÖRSEL: Bölüm 2 fragmanı: tavus kuşu kuyruğu açıyor, bower kuşunun mavi yuvası, ışıkböceği; ekranda "Bu akşam 19:00 — Bölüm 2".
-- 🎙️ ANLATIM: Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde aşk ve savaş var, yani tavus kuşları, çiftleşme dekoratörleri ve hiç de masum olmayan ışıkböcekleri. Kaçırma! Bu akşam saat 19:00'da yayında. Dizinin tamamı için de abone olmanı öneririm, çünkü günde iki bölüm yayınlıyoruz ve doğa kendini tekrar etmiyor. Ah, bir şey daha: bazı hayvanlar öyle umutsuz ki aşk uğruna ölü taklidi yapıyor. Bir örümcek bunu bilerek yapıyor. Neden mi? Bu akşam 19:00'da öğreneceksin.
+- 🎙️ ANLATIM: Videoyu sonuna kadar izlediysen sana bir sorum var: bu hayvanlardan hangisi seni en çok şaşırttı? Bukalemun mu, taklitçi ahtapot mu, yoksa ölü numarası yapan opossum mu? Cevabını yorumlara yaz, tartışmayı orada sürdürelim. Bu bölüm sana bir şey kattıysa beğen butonuna bas, çünkü videonun başka insanlara ulaşmasının en kolay yolu bu. Henüz abone değilsen abone ol ve zili aç, çünkü günde iki bölüm yayınlıyoruz ve bildirimi kaçıran, sonraki bölümü kaçırır. Sıradaki bölüm bu akşam saat 19:00'da: aşk ve savaş. Tavus kuşunun kuyruğu, çiftleşme dekoratörleri, ışıkböcekleri ve aşk uğruna ölü numarası yapan bir örümcek. Bu örümcek bunu bilerek yapıyor. Neden mi? Bu akşam 19:00'da öğreneceksin.
 - 🎵 MÜZİK/SFX: Ana tema yükselir; "kaçırma!" anında vurgu; final cümlede müzik kesilir, kısa gerilim notası.
 
 ---

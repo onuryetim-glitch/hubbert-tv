@@ -1,4 +1,4 @@
-# Yayın Planı — Doğanın Gerçekleri (YouTube Studio > Zamanla, TSİ)
+# Yayın Planı — Doğa Adil Değildir (YouTube Studio > Zamanla, TSİ)
 | Tarih | 10:00 | 19:00 |
 |---|---|---|
 | 23 Kasım Pzt | B1 Aldatmaca Ustaları | B2 Aşk ve Savaş |

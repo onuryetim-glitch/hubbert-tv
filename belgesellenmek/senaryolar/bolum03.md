@@ -1,11 +1,11 @@
 # BÖLÜM 3 — KÖTÜ VE HARİKA EBEVEYNLER
-### Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi (3/10)
+### Doğa Adil Değildir: Sarkastik Doğa Belgeseli (3/10)
 
 **Yayın:** 24 Kasım 2026 Salı, 10:00 (TSİ)
 **Hedef süre:** ~10:45–11:15 dk (~1600 kelime anlatım)
 
 ## YOUTUBE BAŞLIK ALTERNATİFLERİ
-1. Çocuğunu Başkasına Baktıran Kuş ve Kışı Aç Geçiren Baba | Doğanın Gerçekleri 3
+1. Çocuğunu Başkasına Baktıran Kuş ve Kışı Aç Geçiren Baba | Doğa Adil Değildir 3
 2. Hayvanlar Aleminin En Kötü ve En Harika Ebeveynleri (Hamile Erkek, Sırtında Çocuk Taşıyan Kurbağa)
 3. Guguk Kuşu Yuvanıza Yumurta Bıraktığında Ne Olur? Ebeveynliğin Karanlık Yüzü
 
@@ -18,7 +18,7 @@ Beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
 Kaynaklar: açıklamanın sonundaki "Doğrulama Notları" bölümüne bakın.
 
 ## ETİKETLER (15)
-belgesellenmek, doğanın gerçekleri, hayvan belgeseli, guguk kuşu, imparator penguen, deniz atı, erkek deniz atı gebelik, Surinam kurbağası, Nil timsahı, yuva asalaklığı, hayvan ebeveynliği, Türkçe belgesel, komik belgesel, vahşi yaşam, ilginç hayvan gerçekleri
+belgesellenmek, doğa adil değildir, hayvan belgeseli, guguk kuşu, imparator penguen, deniz atı, erkek deniz atı gebelik, Surinam kurbağası, Nil timsahı, yuva asalaklığı, hayvan ebeveynliği, Türkçe belgesel, komik belgesel, vahşi yaşam, ilginç hayvan gerçekleri
 
 ## THUMBNAIL FİKRİ
 Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besliyor (AI üretim illüstrasyon, abartılı oranlar). Sağ yarıda, buzda ayakta duran bir imparator penguen. Büyük sarı yazı: "EN KÖTÜ EBEVEYN?" Kırmızı ok guguk yavrusunu gösteriyor.
@@ -30,7 +30,7 @@ Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besl
 - 🎙️ ANLATIM:
   > Önünüzde bir kamışçın. Ağırlığı yaklaşık on iki gram; yani aşağı yukarı bir tutam çay. Ve şu anda kendisinden birkaç kat büyük bir yavruyu besliyor.
   > Yavru, bu kuşun değil. Yavru, yumurtasını bu yuvaya bırakıp giden bir komşunun. Hatta kamışçının kendi yumurtalarını da yuvadan dışarı atmış. Kamışçın bunların hiçbirini fark etmiyor. Çünkü karşısında kocaman açılmış bir gaga var ve doğa ona tek bir talimat vermiş: bunu doyur.
-  > Ben Anlatıcı. Belgesellenmek'e hoş geldiniz. Bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor.
+  > Kanalımıza hoş geldiniz. Bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor.
   > Bugünün programında beş vaka var: bir yuva hırsızı, bir buz kahramanı, hamile bir erkek, yavrularını ağzında taşıyan bir timsah ve sırtını doğumhaneye çevirmiş bir kurbağa. Bir de finalde, hiçbirimizin sabrının yetmeyeceği bir anne.
   > Doğa adil değildir, ama komiktir. Başlıyoruz.
 - 🎵 MÜZİK/SFX: Sakin, hafif gizemli açılış; yuva ortamı sesleri (kuş cıvıltısı, kamış hışırtısı). "Başlıyoruz" cümlesinde kısa jenerik vuruşu.
@@ -98,10 +98,7 @@ Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besl
 
 **[SAHNE 8 — KAPANIŞ, CTA VE CLIFFHANGER — 10:32–11:01]**
 - 🎬 GÖRSEL: Ekranda Bölüm 4 fragmanı: karanlık okyanus, uzaktan tek bir ışık noktası. "BU AKŞAM 19:00" yazısı. Abone ol/zil ikonu animasyonu.
-- 🎙️ ANLATIM:
-  > Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz. Sıradaki bölümde Okyanusun Karanlık Köşeleri var. Kaçırma! Bu akşam saat 19:00'da yayında.
-  > Puan Tablosu'nda bu bölümün lideri guguk yavrusu oldu. Ama ahtapot anne tabloya sığmadı. Bazı şeyler puanlanmaz.
-  > Ahtapot anne dört buçuk yıl bekledi. Nerede mi? Güneşin hiç ulaşmadığı bir yerde. Orada başka biri ise ışık satıyor, elinde de fener var. Bu akşam, 19:00.
+- 🎙️ ANLATIM: Sence bu bölümün gerçek kahramanı kim? Erkek deniz atı mı, kışın aç kalan imparator penguen mi, yoksa dört buçuk yıl yumurtalarının başında bekleyen ahtapot anne mi? Yorumlara yaz, kazananı birlikte seçelim. Videoyu beğendiysen beğen butonuna bas. Abone olmadıysan abone ol ve zili aç, çünkü bir sonraki bölüm çok yakın. Sıradaki bölüm bu akşam saat 19:00'da: okyanusun karanlık köşeleri. Güneşin hiç ulaşmadığı yerde ışık satan biri var, üstelik elinde fener var. Kim olduğunu bu akşam 19:00'da göreceksin. Sakın kaçırma.
 - 🎵 MÜZİK/SFX: Tema yükselir, son cümlede sessizlik, uzaktan tek bir "ping" sonar sesi, ekran kararır.
 
 ---

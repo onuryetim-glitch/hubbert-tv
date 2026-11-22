@@ -1,6 +1,6 @@
 # BÖLÜM 8 — TEMBELLER, HIRSIZLAR VE ŞEYTANİ ZEKÂLAR
 
-**Seri:** Belgesellenmek — "DOĞANIN GERÇEKLERİ: Vahşi Yaşamın Sarkastik Rehberi" (8/10)
+**Seri:** Belgesellenmek — "DOĞA ADİL DEĞİLDİR: Sarkastik Doğa Belgeseli" (8/10)
 **Yayın:** 26 Kasım 2026 Perşembe, 19:00 (TSİ)
 **Hedef süre:** 10:30–11:15 dk (~1600 kelime anlatım)
 
@@ -10,7 +10,7 @@
 3. Doğada Çalmak ve Tembellik Bir Strateji mi? Sloth, Koala, Korsan Kuşu, Fregat ve Martılar
 
 ## Açıklama metni
-Sloth gerçekten tembel mi? Koala günün kaç saatini uyuyor? Karıncaların bir kısmı neden çalışmıyor? Korsan kuşu (skua) ve fregat kuşu başkasının balığını nasıl çalıyor? Martılar sizi izliyor mu? Ve çalı alakargası, kendisi hırsız olduğu için neden herkesten şüpheleniyor? Belgesellenmek'in "Doğanın Gerçekleri" serisinin 8. bölümünde tembellik, hırsızlık ve zekânın karanlık tarafını, yalnızca bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Yarın sabah 10:00'da 9. bölüm yayında: Avcı mı Av Mı?
+Sloth gerçekten tembel mi? Koala günün kaç saatini uyuyor? Karıncaların bir kısmı neden çalışmıyor? Korsan kuşu (skua) ve fregat kuşu başkasının balığını nasıl çalıyor? Martılar sizi izliyor mu? Ve çalı alakargası, kendisi hırsız olduğu için neden herkesten şüpheleniyor? Belgesellenmek'in "Doğa Adil Değildir" serisinin 8. bölümünde tembellik, hırsızlık ve zekânın karanlık tarafını, yalnızca bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Yarın sabah 10:00'da 9. bölüm yayında: Avcı mı Av Mı?
 
 Bölümler: 0:00 Sloth | 1:05 Sloth'un gerçekleri | 3:00 Koala, aslan ve tembel karıncalar | 4:40 Korsan kuşu | 6:10 Fregat kuşu | 8:00 Martılar | 9:15 Çalı alakargası
 
@@ -24,7 +24,7 @@ Sol yarıda uykulu bir sloth yüzü yakın çekim (yarı kapalı gözler), sağ 
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:45]**
 - 🎬 GÖRSEL: Orta Amerika yağmur ormanında dalda bir sloth (Wikimedia Commons / CC), kolunu yavaşça uzatışı; ekranda dijital saat "06:40", saat atlayarak "09:15", "13:30" gösteriyor ve kol hâlâ havada (zaman atlaması, kendi montajımız).
-- 🎙️ ANLATIM: Sabaha karşı altı kırk. Orta Amerika yağmur ormanında, bir ağacın dalında, bir sloth karar verdi: bugün bir kolumu uzatacağım. Kolunu uzattı. Biz bu arada üç ayrı bölüm çekebilirdik. Bu bölümde işi yavaş yapanları, işi başkasına yaptıranları ve doğrudan başkasının işini çalanları tanıyacağız. Bir koala günün yirmi saatine yakınını uyuyarak geçiriyor. Bir kuş iki ay boyunca yere inmeden uçuyor ve arada uyuyor. Bir başkası da çalmadan önce sizin gözlerinizin nereye baktığını izliyor. Hepsi hayatta, hem de gayet iyi. Hoş geldiniz, ben Anlatıcı. Doğa adil değildir, ama komiktir. Bu bölümde özellikle komik.
+- 🎙️ ANLATIM: Sabaha karşı altı kırk. Orta Amerika yağmur ormanında, bir ağacın dalında, bir sloth karar verdi: bugün bir kolumu uzatacağım. Kolunu uzattı. Biz bu arada üç ayrı bölüm çekebilirdik. Bu bölümde işi yavaş yapanları, işi başkasına yaptıranları ve doğrudan başkasının işini çalanları tanıyacağız. Bir koala günün yirmi saatine yakınını uyuyarak geçiriyor. Bir kuş iki ay boyunca yere inmeden uçuyor ve arada uyuyor. Bir başkası da çalmadan önce sizin gözlerinizin nereye baktığını izliyor. Hepsi hayatta, hem de gayet iyi. Kanalımıza hoş geldiniz. Doğa adil değildir, ama komiktir. Bu bölümde özellikle komik.
 - 🎵 MÜZİK/SFX: Ağır, yavaş çekim ritminde komik bir bas; saat "tik tak" SFX'i hızlanıp bir anda duruyor; yağmur ormanı ambiyansı.
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE" — 0:45–1:05]**
@@ -64,7 +64,7 @@ Sol yarıda uykulu bir sloth yüzü yakın çekim (yarı kapalı gözler), sağ 
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:20–10:55]**
 - 🎬 GÖRSEL: Bölümün hayvanlarından hızlı montaj (sloth, koala, skua, fregat, martı, alakarga); "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 9. bölüm kartı: "AVCI MI AV MI? — YARIN SABAH 10:00", gölgede hazır bekleyen bir çita silüeti.
-- 🎙️ ANLATIM: Bu bölümü beğendiysen beğen, abone ol, zili aç ve yorumlara en sevdiğin hayvanı yaz. En iyi hırsız hangisiydi, uçarken uyuyan fregat mı, yoksa gözlerinize bakan martı mı? Sıradaki bölümde avcılar ve avlar var: çitanın hızı, orkaların av teknikleri, aslanların av başarısı ve Yellowstone'a dönen kurtlar. Kaçırma! Yarın sabah saat 10:00'da yayında. Çünkü şimdiye kadar hep tembelleri ve hırsızları anlattık, ama asıl soru şu: bir avcı olmak, sandığımız kadar kolay mı? Aslan ava çıktığında kaçta kaçını kazanıyor? Cevap yarın sabah 10:00'da. Sakın kaçırma.
+- 🎙️ ANLATIM: En iyi hırsız hangisiydi? Uçarken uyuyan fregat mı, yoksa gözlerinize bakan martı mı? Oyunu yorumlara yaz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü yarınki bölümde işler ciddileşiyor. Sıradaki bölüm yarın sabah saat 10:00'da: avcı mı av mı? Çitanın gerçek hızı, orkaların av teknikleri, aslanın av başarısı ve Yellowstone'a dönen kurtlar. Asıl soru şu: aslan ava çıktığında kaçta kaçını kazanıyor? Cevap seni şaşırtabilir. Yarın sabah 10:00'da.
 - 🎵 MÜZİK/SFX: Enerjik outro; son cümlede müzik kısılıyor, uzaktan bir aslan kükremesi ve kapanış.
 
 ---

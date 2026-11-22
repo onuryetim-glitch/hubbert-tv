@@ -1,25 +1,25 @@
 # BÖLÜM 10 — GEZEGENİN MİRASI (SERİ FİNALİ)
 
-**Seri:** Belgesellenmek — "Doğanın Gerçekleri: Vahşi Yaşamın Sarkastik Rehberi" (10/10, FİNAL)
+**Seri:** Belgesellenmek — "Doğa Adil Değildir: Sarkastik Doğa Belgeseli" (10/10, FİNAL)
 **Yayın:** 27 Kasım 2026 Cuma, 19:00 (TSİ)
 **Hedef süre:** ~11:00 (10:30–11:30 aralığı) | **Anlatım:** ~1600–1700 kelime
 
 ## 3 ALTERNATİF YOUTUBE BAŞLIĞI
 1. SERİ FİNALİ: Şehirdeki Tilkilerden Geri Dönen Kondorlara | Gezegenin Mirası
-2. Hayvanlar Şehirlere Taşındı! Nesli Tükenmekten Dönen Hayvanlar ve Seri Puan Tablosu | Doğanın Gerçekleri 10
+2. Hayvanlar Şehirlere Taşındı! Nesli Tükenmekten Dönen Hayvanlar ve Seri Puan Tablosu | Doğa Adil Değildir 10
 3. 10 Bölümün Sonu: Büyük Puan Tablosu, Umut Veren Gerçekler ve Yeni Sezon Sinyali | Sarkastik Belgesel Finali
 
 ## AÇIKLAMA METNİ
-Doğanın Gerçekleri serisinin FİNALİ! Bu bölümde şehirlerde yaşamayı öğrenen hayvanları (Londra tilkileri, Japonya'nın cevizi arabalarla kıran kargaları, gökdelenlere yuva yapan şahinler), nesli tükenmenin eşiğinden dönen türleri (kambur balina, kel kartal, Kaliforniya kondoru, kaplan), insanın gezegene etkisini ve bütün serinin Puan Tablosu özetini topluyoruz. Sonunda yeni sezon için küçük bir ipucu var.
+Doğa Adil Değildir serisinin FİNALİ! Bu bölümde şehirlerde yaşamayı öğrenen hayvanları (Londra tilkileri, Japonya'nın cevizi arabalarla kıran kargaları, gökdelenlere yuva yapan şahinler), nesli tükenmenin eşiğinden dönen türleri (kambur balina, kel kartal, Kaliforniya kondoru, kaplan), insanın gezegene etkisini ve bütün serinin Puan Tablosu özetini topluyoruz. Sonunda yeni sezon için küçük bir ipucu var.
 
 Tüm bilgiler bilimsel olarak belgelenmiş gerçeklere dayanır; kaynak türleri bu açıklamanın ve videonun sonundaki "Doğrulama Notları"nda listelenmiştir.
 
-Seriyi baştan izlemek için oynatma listesi: Doğanın Gerçekleri (10 Bölüm). Beğen, abone ol, zili aç ve yorumlarda sezon şampiyonuna oy ver!
+Seriyi baştan izlemek için oynatma listesi: Doğa Adil Değildir (10 Bölüm). Beğen, abone ol, zili aç ve yorumlarda sezon şampiyonuna oy ver!
 
 ⏱️ Bölüm işaretleri (chapters): 0:00 Soğuk açılış · 0:55 Önceki bölümde · 1:15 Şehirdeki hayvanlar · 3:15 Geri dönüş hikâyeleri · 5:30 İnsan etkisi · 6:50 Büyük Puan Tablosu · 9:20 Veda ve CTA · 10:20 Yeni sezon
 
 ## 15 ETİKET
-belgesellenmek, doğanın gerçekleri, seri finali, şehirdeki hayvanlar, nesli tükenmekten dönen hayvanlar, kambur balina, kaplan sayısı, kaliforniya kondoru, kel kartal, londra tilkileri, kargalar, sarkastik belgesel, türkçe belgesel, vahşi yaşam, doğa koruma
+belgesellenmek, doğa adil değildir, seri finali, şehirdeki hayvanlar, nesli tükenmekten dönen hayvanlar, kambur balina, kaplan sayısı, kaliforniya kondoru, kel kartal, londra tilkileri, kargalar, sarkastik belgesel, türkçe belgesel, vahşi yaşam, doğa koruma
 
 ## THUMBNAIL FİKRİ
 Gökdelenlerin önünde duran bir şahin silueti ve onun yanında bir şehir tilkisi (yan yana). Büyük sarı yazı: "SERİ FİNALİ". Altında küçük puan kartı simgesi: "10/10?" Köşede kırmızı bant: "YENİ SEZON GELİYOR". (AI üretimi ise açıklamada belirtilecek.)
@@ -28,7 +28,7 @@ Gökdelenlerin önünde duran bir şahin silueti ve onun yanında bir şehir til
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:55]**
 - 🎬 GÖRSEL: Gece, ıslak bir şehir caddesi, sokak lambası ışığında bir tilki (Wikimedia Commons / telifsiz belgesel görüntüsü; olmazsa AI üretimi, belirtilecek). Ardından gökdelenin tepesinde bir şahin. Sonunda ekranda "SERİ FİNALİ".
-- 🎙️ ANLATIM: Gece saat iki. Bir şehir. Sokak lambaları yanıyor, taksiler geçiyor, kimse hayvanlardan söz etmiyor. Ama kaldırımın kenarında, çöp kutusunun yanında, bir tilki oturuyor ve çevresini inceliyor. Aklı karışık görünmüyor. Bu kişi, bu mahalleyi tanıyor. Yukarıda, yüzlerce metre yükseklikteki bir binanın saçağında bir şahin yuvasını koruyor. Aşağıda bir karga, trafik ışığının yeşil olmasını bekliyor. Evet, bekliyor, kısa sonra anlatacağım. Çünkü bu, doğa belgeselinin en beklenmedik bölümü: vahşi yaşam artık sadece ormanlarda, okyanuslarda ve savanlarda değil. Aramızda. Tam olarak sokağınızda. Bu, Doğanın Gerçekleri'nin son bölümü. Kameralar kapanmadan önce söylemem gereken bir şey var: Bu seride anlattığım her sayıyı, her davranışı, bilim insanlarının ölçtüğü veya gözlemlediği şeylere dayandırmaya çalıştım. Emin olmadığım yerde "araştırmalara göre" dedim, çünkü dürüst belgesel, yorgun belgeselden daha değerli. Dokuz bölüm boyunca hayvanlara dalga geçtim, onlardan öğrendim, bazılarına hayran kaldım, bazılarından özür dilemem gerekti. Şimdi finalde, hepsinin ortak sahnesine geliyoruz: gezegenin kendisi. Doğa adil değildir, ama komiktir. Bu bölümde bir kez daha bunu hatırlayacağız. Ve belki, bir parça umut bile bulacağız. Evet, bu sarkastik kanalda umut yok diyen kim?
+- 🎙️ ANLATIM: Gece saat iki. Bir şehir. Sokak lambaları yanıyor, taksiler geçiyor, kimse hayvanlardan söz etmiyor. Ama kaldırımın kenarında, çöp kutusunun yanında, bir tilki oturuyor ve çevresini inceliyor. Aklı karışık görünmüyor. Bu kişi, bu mahalleyi tanıyor. Yukarıda, yüzlerce metre yükseklikteki bir binanın saçağında bir şahin yuvasını koruyor. Aşağıda bir karga, trafik ışığının yeşil olmasını bekliyor. Evet, bekliyor, kısa sonra anlatacağım. Çünkü bu, doğa belgeselinin en beklenmedik bölümü: vahşi yaşam artık sadece ormanlarda, okyanuslarda ve savanlarda değil. Aramızda. Tam olarak sokağınızda. Bu, Doğa Adil Değildir dizisinin son bölümü. Kameralar kapanmadan önce söylemem gereken bir şey var: Bu seride anlattığım her sayıyı, her davranışı, bilim insanlarının ölçtüğü veya gözlemlediği şeylere dayandırmaya çalıştım. Emin olmadığım yerde "araştırmalara göre" dedim, çünkü dürüst belgesel, yorgun belgeselden daha değerli. Dokuz bölüm boyunca hayvanlara dalga geçtim, onlardan öğrendim, bazılarına hayran kaldım, bazılarından özür dilemem gerekti. Şimdi finalde, hepsinin ortak sahnesine geliyoruz: gezegenin kendisi. Doğa adil değildir, ama komiktir. Bu bölümde bir kez daha bunu hatırlayacağız. Ve belki, bir parça umut bile bulacağız. Evet, bu sarkastik kanalda umut yok diyen kim?
 - 🎵 MÜZİK/SFX: Gece şehir ambiyansı, uzaktan siren, yumuşak piyano motifi; "FİNAL" yazısında düşük, sinematik bir vuruş.
 
 ---
@@ -76,7 +76,7 @@ Gökdelenlerin önünde duran bir şahin silueti ve onun yanında bir şehir til
 ---
 
 **[SAHNE 8 — YENİ SEZON TEASER'I / CLIFFHANGER — 10:20–11:00]**
-- 🎬 GÖRSEL: Siyah ekran, ardından yavaşça yakınlaşan bir karınca (makro görüntü), ardından "DOĞANIN GERÇEKLERİ — 2. SEZON: YAKINDA" yazısı. Kısa, gizemli kesitler: böcek, örümcek, mantar (makro stok görüntü / AI).
+- 🎬 GÖRSEL: Siyah ekran, ardından yavaşça yakınlaşan bir karınca (makro görüntü), ardından "DOĞA ADİL DEĞİLDİR — 2. SEZON: YAKINDA" yazısı. Kısa, gizemli kesitler: böcek, örümcek, mantar (makro stok görüntü / AI).
 - 🎙️ ANLATIM: Bir şey daha var. Bu sezon boyunca büyük hayvanlara baktık: orkalara, kurtlara, kartallara. Ama bilim insanlarına göre bu gezegenin gerçek kalabalığı küçük. 2022'de yayımlanan bir çalışma, Dünya'daki karınca sayısını yaklaşık yirmi katrilyon olarak tahmin etti. Yirmi katrilyon. Her insan başına milyonlarca. Bu sezon, ayaklarımızın altındakileri görmezden geldik. Yer altında ve yaprakların arasında, bizim görmediğimiz kolonilerin ve ağların hayatı sürüyor. Bu küçük hayvanların kimisi arılar gibi dans ediyor, kimisi ağ örüyor, kimisi mantar yetiştiriyor. Yeni sezonda onları görmezden gelmeyeceğiz. Çok yakında. Hazırlıklı olun, çünkü küçük olan, sandığınızdan çok daha organize. Ve çok daha huysuz. Doğa adil değildir, ama komiktir. Sonra görüşürüz.
 - 🎵 MÜZİK/SFX: Gizemli, hafif elektronik; karınca adım sesleri (SFX); son cümlede "tık" ve ekranın kararması.
 

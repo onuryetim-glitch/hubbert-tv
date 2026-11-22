@@ -1,4 +1,4 @@
-# BELGESELLENMEK — "DOĞANIN GERÇEKLERİ: Vahşi Yaşamın Sarkastik Rehberi" (10 Bölüm)
+# BELGESELLENMEK — "DOĞA ADİL DEĞİLDİR: Sarkastik Doğa Belgeseli" (10 Bölüm)
 
 Format: her bölüm 10:30–11:30 dk, ~1550–1700 kelime anlatım (Türkçe, ~150 kelime/dk).
 KURAL 1: Tüm bilgiler gerçek, bilimsel olarak belgelenmiş olmalı. Uydurma sayı/olay yok. Emin olmadığın şeyi yazma, "yaklaşık/araştırmalara göre" de ya da çıkar.
