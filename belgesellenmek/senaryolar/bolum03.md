@@ -29,16 +29,16 @@ Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besl
 - 🎬 GÖRSEL: Kamışçın yuvasında dev bir guguk yavrusunu besliyor (Wikimedia Commons, CC lisanslı guguk/kamışçın fotoğraf ve videoları; yoksa AI üretim yakın plan, "AI üretim" etiketiyle). Yakın plan: açık gaga, yaklaşan minik kuş.
 - 🎙️ ANLATIM:
   > Önünüzde bir kamışçın. Ağırlığı yaklaşık on iki gram; yani aşağı yukarı bir tutam çay. Ve şu anda kendisinden birkaç kat büyük bir yavruyu besliyor.
-  > Yavru, bu kuşun değil. Yavru, yumurtasını bu yuvaya bırakıp giden bir komşunun. Hatta kamışçının kendi yumurtalarını da yuvadan dışarı atmış. Kamışçın bunların hiçbirini fark etmiyor. Çünkü karşısında kocaman açılmış bir gaga var ve doğa ona tek bir talimat vermiş: bunu doyur.
-  > Hoş geldiniz, bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor.
-  > Bugünün programında beş vaka var: bir yuva hırsızı, bir buz kahramanı, hamile bir erkek, yavrularını ağzında taşıyan bir timsah ve sırtını doğumhaneye çevirmiş bir kurbağa. Bir de finalde, hiçbirimizin sabrının yetmeyeceği bir anne.
+  > Yavru, bu kuşun değil. Yavru, yumurtasını bu yuvaya bırakıp giden bir komşunun. Hatta kamışçının kendi yumurtalarını da yuvadan dışarı atmış. Kamışçın bunların hiçbirini fark etmiyor. Çünkü karşısında kocaman açılmış bir gaga var ve doğa ona tek bir talimat vermiş: bunu doyur. İkinci bir talimat yok. Soru sorma, kimlik isteme, sadece doyur. Kendi boyunun üç katı bir müşteriye yemek yetiştiren bir garson gibi.
+  > Hoş geldiniz, bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor. Karne günü yok, mezuniyet yok, "ne zaman evleniyorsun" sorusu hiç yok.
+  > Bugünün programında beş vaka var: bir yuva hırsızı, bir buz kahramanı, hamile bir erkek, yavrularını ağzında taşıyan bir timsah ve sırtını doğumhaneye çevirmiş bir kurbağa. Bir de finalde, hiçbirimizin sabrının yetmeyeceği bir anne. Spoiler vermeyeceğim, ama o annenin mutfağı kapalı.
   > Doğa adil değildir, ama komiktir. Başlıyoruz.
 - 🎵 MÜZİK/SFX: Sakin, hafif gizemli açılış; yuva ortamı sesleri (kuş cıvıltısı, kamış hışırtısı). "Başlıyoruz" cümlesinde kısa jenerik vuruşu.
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE" — 1:03–1:30]**
 - 🎬 GÖRSEL: Bölüm 2'den hızlı kesitler (tavus kuşu kuyruğu, bower kuşu yuvası, ışıkböceği, sepya). AI üretim ya da Wikimedia arşivi.
 - 🎙️ ANLATIM:
-  > Önceki bölümde aşkın doğada hiç de romantik olmadığını gördük. Tavus kuşu kuyruğuyla, bower kuşu iç mimarlık zevkiyle, ışıkböceği el fenerini yakıp söndürerek kendini kanıtlamaya çalışıyordu. Aşk bitti. Sepya ise renk değiştiren desenleriyle hem rakiplerini hem dişiyi aynı anda ikna etmeye uğraşıyordu. Hepsinin tek bir gerekçesi vardı: genleri bir sonraki kuşağa taşımak. İşte o kuşak bugünün konusu. Şimdi sonuçlarıyla yüzleşme zamanı: çocuklar.
+  > Önceki bölümde aşkın doğada hiç de romantik olmadığını gördük. Tavus kuşu kuyruğuyla, bower kuşu iç mimarlık zevkiyle, ışıkböceği el fenerini yakıp söndürerek kendini kanıtlamaya çalışıyordu. Üçü de aynı soruyu soruyordu: beni beğendin mi? Aşk bitti. Sepya ise renk değiştiren desenleriyle hem rakiplerini hem dişiyi aynı anda ikna etmeye uğraşıyordu. Kolu renkli, cebi boş bir hokkabaz gibi. Hepsinin tek bir gerekçesi vardı: genleri bir sonraki kuşağa taşımak. İşte o kuşak bugünün konusu. Şimdi sonuçlarıyla yüzleşme zamanı: çocuklar.
 - 🎵 MÜZİK/SFX: Hızlı "geri sarma" SFX, ardından ana tema.
 
 **[SAHNE 3 — GUGUK KUŞU: YUVA ASALAĞI — 1:30–3:49]**
