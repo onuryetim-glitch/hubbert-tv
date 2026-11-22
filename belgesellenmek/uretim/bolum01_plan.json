@@ -8,6 +8,7 @@
    {
     "s": 1,
     "tags": [
+     "leaf",
      "leafinsect"
     ]
    },
@@ -170,7 +171,8 @@
    {
     "s": 1,
     "tags": [
-     "leafinsect"
+     "leafinsect",
+     "leaf"
     ]
    },
    {
@@ -188,7 +190,8 @@
    {
     "s": 12,
     "tags": [
-     "leafinsect"
+     "leafinsect",
+     "leaf"
     ]
    },
    {
