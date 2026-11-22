@@ -1,0 +1,177 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Karşısında bir dişi var ve görüyorsunuz:",
+  "text": "Dişi izliyor mu,\nyoksa yem mi arıyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "1860'ta Charles Darwin bir arkadaşına yazdığı mektupta,",
+  "text": "Darwin tüyden hasta\nhissettiğini yazdı",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Önceki bölümde bukalemunun kamuflaj için değil,",
+  "text": "Bukalemun renk değiştirir\nduygu belli etmek için",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Ayrıca Puan Tablosu'nun lideri hâlâ bir",
+  "text": "Ahtapotun tahtını\nkim sallayacak?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Önce bir terminoloji düzeltmesi: o gösterişli",
+  "text": "Gösterişli kısım aslında\nüst kuyruk örtü tüyleri",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Peki buna değer mi?",
+  "text": "Buna değer mi?\nBilim hâlâ tartışıyor",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Darwin sonunda bu bulmacaya bir ad verdi:",
+  "text": "Eşeysel seçilim\nİnsanın Türeyişi, 1871",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Bir saten bower kuşu erkeği, çalı çırpıdan",
+  "text": "Bower: çalı çırpıdan\niki duvarlı geçit",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Dişi geliyor, birkaç bower'a bakıyor, hangisinin",
+  "text": "Dişi birkaç bower'a bakıp\nen iyisine karar veriyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Büyük bower kuşu ise daha da ileri gidiyor.",
+  "text": "Küçükten büyüğe taşlar:\nneden böyle diziyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Adélie penguenleri Antarktika'da çakıl taşlarıyla yuva",
+  "text": "Adélie penguenleri\nçakıl taşıyla yuva yapar",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Bu arada Adélie adı, 1840'ta Fransız kaşif",
+  "text": "Adélie adı 1840'ta\nDumont d'Urville'in eşinden",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Taşlar, yumurtaları kardan ve erimiş sudan yukarıda",
+  "text": "Bir taş için\nneden savaşıyorlar?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Efsane herkesin bildiği: çiftleşme sırasında dişi erkeği",
+  "text": "Dişi peygamberdevesi\nerkeği hep yer mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Pisaura mirabilis, yani nursery web spider denen",
+  "text": "Pisaura mirabilis: erkek\nipekli hediye sunar",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Ama bazı erkekler bir adım ileri gidiyor:",
+  "text": "2008 çalışması: dişi yerken\nerkek ölü taklidi yapıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Lampyridae ailesinde iki bini aşkın tür",
+  "text": "Lampyridae ailesinde\niki binden fazla tür var",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Yetişkinlerde ise ışık, luciferin ve luciferaz",
+  "text": "Soğuk ışık: enerjinin\nçoğu ışığa dönüşür",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Ama sahnede bir kötü karakter var:",
+  "text": "Işığa yaklaşan erkeğe\nne oluyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Dev Avustralya sepyası, bilinen en büyük sepya",
+  "text": "Dev Avustralya sepyası\nen büyük sepya türü",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Büyük erkekler dişileri koruyor, küçük erkekler ise",
+  "text": "Küçük erkekler korumalı\ndişilere nasıl yaklaşır?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Daha da ilginç olan Sepia plangon türü.",
+  "text": "Bir yanı erkek, diğer yanı\ndişi deseni gösteriyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 9,
+  "anchor": "Dişilerin başında, içinde ışık yayan bakteriler barındıran",
+  "text": "Yem organında ışık yayan\nbakteriler yaşıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 9,
+  "anchor": "Bu bir aşk hikâyesi mi?",
+  "text": "Aşk mı, cinsel\nparazitlik mi?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 9,
+  "anchor": "2020'de Science dergisinde yayımlanan bir çalışma,",
+  "text": "Bağışıklık sisteminin\nbazı bileşenleri kayıp",
+  "kind": "fact",
+  "side": "left"
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Şu görüntüye bakın. Bir yaprak.",
+  "text": "Yaprak mı, böcek mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Bugünün konusu, hayatta kalmanın en eski yöntemi",
+  "text": "Bugünün konusu:\nyalan söylemek",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bilim insanlarının vardığı sonuca göre renk",
+  "text": "Renk değişimi: iletişim\nve vücut ısısı ayarı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "2015'te Cenevre Üniversitesi'nden Michel Milinkovitch ve ekibi,",
+  "text": "Guanin nanokristalleri\nışığı yansıtıyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Peki bukalemun hiç mi saklanmıyor?",
+  "text": "Bukalemun hiç mi\nsaklanmıyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Bilimsel adı Thaumoctopus mimicus.",
+  "text": "Thaumoctopus mimicus\n1998'de bulundu",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Araştırmacılar bu ahtapotun en az üç",
+  "text": "Bu ahtapot kaç hayvanı\ntaklit ediyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Ahtapotlarda yaklaşık 500 milyon nöron olduğu",
+  "text": "Yaklaşık 500 milyon nöron\nçoğu kollarda",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Hatta kimi türlerin yumurtaları bitki tohumlarına",
+  "text": "Yumurtaları bitki\ntohumuna benziyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Almanya'daki Messel fosil yatağından çıkan, yaklaşık 47 milyon",
+  "text": "Eophyllium messelensis\n47 milyon yıllık fosil",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Kanatlarını kapattığında alt yüzeyi gerçekten kuru",
+  "text": "Kanat kapanınca\nkelebek nereye gitti?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Dördüncü sanığımız, ölü taklidi denince herkesin aklına",
+  "text": "Kuzey Amerika'nın\ntek keseli türü",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Şimdi sürpriz: bu bir oyunculuk değil.",
+  "text": "Ölü numarası\ngerçekten oyun mu?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Bu davranışın bilimsel adı tanatozis",
+  "text": "Ölü taklidinin adı:\ntanatozis",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "1850'lerde Amazon'da yaklaşık on bir yıl geçiren",
+  "text": "Henry Walter Bates\n1862'de yayımladı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Syrphidae ailesinden bu sineklerin iğnesi",
+  "text": "Sinek mi,\neşek arısı mı?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Myrmarachne cinsi atlayıcı örümcekler karıncaya benzeyen",
+  "text": "Myrmarachne örümceği\nkarınca gibi görünür",
+  "kind": "fact",
+  "side": "left"
+ }
+]
