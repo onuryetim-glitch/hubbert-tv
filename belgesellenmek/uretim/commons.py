@@ -2,19 +2,25 @@ import time, requests, re, os, json, hashlib, html
 API="https://commons.wikimedia.org/w/api.php"
 S=requests.Session(); S.headers["User-Agent"]="belgesellenmek-pipeline/1.0 (educational documentary; contact via channel)"
 OK_LIC=re.compile(r"^(cc0|cc[- ]by(?!-nc)|cc[- ]by[- ]sa|public domain|pd|attribution|gfdl)",re.I)
+def req(url,params=None,timeout=120):
+    for t in range(8):
+        time.sleep(2.5)
+        try: r=S.get(url,params=params,timeout=timeout)
+        except Exception: time.sleep(10); continue
+        if r.status_code==429:
+            w=min(int(r.headers.get("retry-after","60"))+5,700); print("429 bekle",w,"sn",flush=True); time.sleep(w); continue
+        return r
+    return None
 def clean(s): return html.unescape(re.sub(r"<[^>]+>","",s or "")).strip()
 def search(q, kind="image", limit=12):
     """kind: image|video"""
     ft = "video" if kind=="video" else "bitmap"
     p=dict(action="query",format="json",generator="search",gsrnamespace=6,gsrsearch=f"{q} filetype:{ft}",gsrlimit=limit,
-           prop="imageinfo",iiprop="url|size|mime|extmetadata|mediatype",iiurlwidth=1600)
-    r=None
-    for t in range(5):
-        time.sleep(1.2)
-        try:
-            r=S.get(API,params=p,timeout=30).json(); break
-        except Exception: time.sleep(4*(t+1))
-    if r is None: return []
+           prop="imageinfo",iiprop="url|size|mime|extmetadata|mediatype",iiurlwidth=1280)
+    rr=req(API,p,30)
+    if rr is None or rr.status_code!=200: return []
+    try: r=rr.json()
+    except Exception: return []
     out=[]
     for pg in (r.get("query",{}).get("pages",{}) or {}).values():
         ii=(pg.get("imageinfo") or [None])[0]
@@ -34,11 +40,8 @@ def fetch(item, kind, outdir, maxmb=40):
     if os.path.exists(fn): return fn
     u=item["url"] if kind=="video" else item["thumb"]
     if kind=="video" and item["size"]>maxmb*1e6: return None
-    for t in range(4):
-        time.sleep(1); r=S.get(u,timeout=180)
-        if r.status_code==200: break
-        time.sleep(5*(t+1))
-    else: return None
+    r=req(u,None,180)
+    if r is None or r.status_code!=200: return None
     open(fn,"wb").write(r.content); return fn
 if __name__=="__main__":
     import sys

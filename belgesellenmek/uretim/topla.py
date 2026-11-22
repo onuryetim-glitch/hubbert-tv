@@ -5,13 +5,13 @@ out=f"medya/b{ep}"; os.makedirs(out,exist_ok=True)
 manifest=[]
 for sc,d in q.items():
     got={"video":[],"image":[]}
-    for kind,maxn,qs in (("video",2,d["video"]),("image",4,d["image"])):
+    for kind,maxn,qs in (("video",1,d["video"]),("image",3,d["image"])):
         seen=set()
         for qq in qs:
             if len(got[kind])>=maxn: break
             for it in commons.search(qq,kind,10):
                 if it["url"] in seen: continue
-                if kind=="video" and (it["w"]<640 or it["size"]>30e6): continue
+                if kind=="video" and (it["w"]<640 or it["size"]>15e6): continue
                 if kind=="image" and (it["w"]<1000):  continue
                 f=commons.fetch(it,kind,out)
                 if not f: continue
