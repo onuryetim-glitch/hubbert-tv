@@ -34,7 +34,7 @@ def seg_image(img,out,secs,k):
     fr=int(secs*FPS); z0,z1=(1.0,1.18) if k%2==0 else (1.18,1.0)
     expr=f"{z0}+({z1}-{z0})*on/{fr}"
     run("ffmpeg","-y","-loglevel","error","-i",img,"-vf",
-        f"scale=1920:-2:force_original_aspect_ratio=increase,crop=1920:1080,zoompan=z='{expr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s={W}x{H}:fps={FPS},format=yuv420p",
+        f"scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,zoompan=z='{expr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s={W}x{H}:fps={FPS},format=yuv420p",
         "-t",str(secs),"-an","-c:v","libx264","-preset","veryfast","-crf","23",out)
 def seg_video(src,out,secs,k):
     d=dur(src); ss=min(1.0,max(0,d-secs-0.1)) if d>secs+1.5 else 0
