@@ -12,7 +12,7 @@
 ## Açıklama Metni
 Tavus kuşu kuyruğu, bower kuşunun mavi koleksiyonu, ölü taklidi yapan örümcek ve derin denizdeki anglerfish: eş bulmak için doğadaki en tuhaf, en komik ve bazen en tehlikeli yöntemler. "Doğa Adil Değildir: Sarkastik Doğa Belgeseli" serisinin 2. bölümünde aşk ve savaşın hayvanlar âlemindeki hâllerine bakıyoruz. Espriler anlatıcıdan, bilgiler bilimden.
 
-Serinin yayın takvimi: günde iki bölüm, 10:00 ve 19:00. Bir sonraki bölüm yarın sabah 10:00'da: Kötü ve Harika Ebeveynler.
+Sıradaki bölüm: Kötü ve Harika Ebeveynler.
 
 Bölümler: 00:00 Soğuk açılış | 00:45 Önceki bölümde | 01:05 Tavus kuşu | 02:29 Bower kuşu | 03:44 Penguen ve pelikan | 04:38 Peygamberdevesi ve ölü taklidi yapan örümcek | 05:57 Işıkböceği | 07:12 Sepya | 08:20 Anglerfish | 09:33 Puan Tablosu | 10:12 Kapanış
 
@@ -75,8 +75,8 @@ Solda kuyruğunu açmış, "Tavus kuşu" yazısı ışıltılı; sağda mavi eş
 - 🎵 MÜZİK/SFX: Quiz show skor müziği; her puan için "ding".
 
 **[SAHNE 11 — KAPANIŞ CTA — 10:12–10:40]**
-- 🎬 GÖRSEL: Bölüm 3 fragmanı: guguk kuşu yavrusu, imparator penguen, erkek deniz atı; ekranda "Yarın sabah 10:00 — Bölüm 3".
-- 🎙️ ANLATIM: Bu bölümde en etkili aşk taktiği sence hangisiydi? Dekoratör bower kuşu mu, ışık gösterisi yapan ışıkböceği mi, yoksa renk değiştiren sepya mı? Oyunu yorumlara yaz, en çok oy alanı bir sonraki videolarda anarız. Videoyu beğendiysen beğen butonuna basarak destek ol. Henüz abone değilsen abone ol ve zili aç, çünkü yarınki bölümü kaçırmak istemezsin. Sıradaki bölüm yarın sabah saat 10:00'da: kötü ve harika ebeveynler. Öyle bir yuva hırsızı var ki, yumurtadan çıktıktan kısa süre sonra yuvadaki diğer yumurtaları dışarı itiyor. Üstelik onu büyüten ebeveyn hiçbir şeyin farkında değil. Bu nasıl mümkün? Cevabı yarın sabah 10:00'da.
+- 🎬 GÖRSEL: Bölüm 3 fragmanı: guguk kuşu yavrusu, imparator penguen, erkek deniz atı; ekranda "Sıradaki bölüm".
+- 🎙️ ANLATIM: Bu bölümde en etkili aşk taktiği sence hangisiydi? Dekoratör bower kuşu mu, ışık gösterisi yapan ışıkböceği mi, yoksa renk değiştiren sepya mı? Oyunu yorumlara yaz, en çok oy alanı bir sonraki videolarda anarız. Videoyu beğendiysen beğen butonuna basarak destek ol. Henüz abone değilsen abone ol ve zili aç, çünkü sıradaki bölümü kaçırmak istemezsin. Sıradaki bölüm: kötü ve harika ebeveynler. Öyle bir yuva hırsızı var ki, yumurtadan çıktıktan kısa süre sonra yuvadaki diğer yumurtaları dışarı itiyor. Üstelik onu büyüten ebeveyn hiçbir şeyin farkında değil. Bu nasıl mümkün? Cevabı sıradaki bölümde.
 - 🎵 MÜZİK/SFX: Ana tema yükselir; "kaçırma!" vurgusu; son cümlede müzik kesilir, kısa gerilim notası.
 
 ---

@@ -11,7 +11,7 @@
 
 ## Açıklama Metni
 Hayvanlar gerçekten akıllı mı? Bu bölümde alet yapan kargalar, kavanoz açan ahtapotlar, sayıları insandan iyi hatırlayan bir şempanze, birbirini isimle çağıran yunuslar, aynada kendini tanıyan filler ve konuşan bir papağan var. Tüm bilgiler hakemli dergilerde ve üniversite araştırmalarında belgelenmiş gerçeklerdir; anlatıcı sadece biraz iğneleyici.
-Doğa Adil Değildir serisinin 5. bölümü. Sonraki bölüm bu akşam 19:00'da: Süper Güçler!
+Doğa Adil Değildir serisinin 5. bölümü. Sıradaki bölüm: Süper Güçler!
 Bölümler: 00:00 Soğuk açılış | Karga ve Betty | Yüz tanıyan kargalar | Ahtapot | Şempanze | Yunus, fil, saksağan | Papağan Alex | Puan Tablosu
 
 ## Etiketler (15)
@@ -63,8 +63,8 @@ Sol tarafta şaşkın bir ifadeyle gözlüklü (AI üretimi) bir karga, elinde (
 - 🎵 MÜZİK/SFX: Duygusal piyano; Alex'in son sözleri sırasında sessizlik; Puan Tablosu için retro oyun makinesi jingle'ı ve "ding" SFX.
 
 **[SAHNE 9 — KAPANIŞ CTA + CLIFFHANGER, 10:15–10:55]**
-- 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; ekranda abone ol/zil animasyonu; Bölüm 6 fragmanı: suyun altında bir karides yumruğu ve baloncuk (AI üretim, "canlandırma" ibaresi); "BU AKŞAM 19:00" büyük yazı.
-- 🎙️ ANLATIM: Sence en zeki hayvan hangisiydi? Karga mı, ahtapot mu, şempanze mi, yoksa Alex adlı papağan mı? İtirazlarını yorumlara yaz, hepsini okuyacağız. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm bu akşam saat 19:00'da: süper güçler. Yumruğunu saniyenin binde birkaçında vuran bir karides, kendini yeniden başlatan ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı. Zekâ güzel, ama bazı hayvanlarda zekâ yok, yumruk var. Ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor. Bu akşam 19:00'da görüşürüz.
+- 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; ekranda abone ol/zil animasyonu; Bölüm 6 fragmanı: suyun altında bir karides yumruğu ve baloncuk (AI üretim, "canlandırma" ibaresi); "SIRADAKİ BÖLÜM" büyük yazı.
+- 🎙️ ANLATIM: Sence en zeki hayvan hangisiydi? Karga mı, ahtapot mu, şempanze mi, yoksa Alex adlı papağan mı? İtirazlarını yorumlara yaz, hepsini okuyacağız. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm: süper güçler. Yumruğunu saniyenin binde birkaçında vuran bir karides, kendini yeniden başlatan ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı. Zekâ güzel, ama bazı hayvanlarda zekâ yok, yumruk var. Ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor. Sıradaki bölümde görüşürüz.
 - 🎵 MÜZİK/SFX: Enerjik outro müziği, sona doğru gerilim yükselişi, baloncuk "pop" SFX ve kesilme.
 
 ---

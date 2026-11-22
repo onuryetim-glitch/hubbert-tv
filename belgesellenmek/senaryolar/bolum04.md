@@ -12,7 +12,7 @@
 ## AÇIKLAMA METNİ
 Okyanusun ortalama derinliği yaklaşık 3.700 metre ve bu derinliklerin büyük bölümü hiç ışık görmüyor. Bu bölümde derin denizin basıncını, kendi ışığını üreten hayvanları, fener balığını, vampir kalamarı, nadiren görüntülenen dev kalamarı, bir balina leşinin yıllarca süren ekosistemini ve güneşe ihtiyaç duymayan hidrotermal baca topluluklarını inceliyoruz. Tüm bilgiler bilimsel olarak belgelenmiş gerçeklerdir, Anlatıcı'nın sarkastik süzgecinden geçmiştir.
 
-Bölüm 5 yarın sabah 10:00'da: Akıllı Mı Dediniz?
+Sıradaki bölüm, Bölüm 5: Akıllı Mı Dediniz?
 Beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
 
 Kaynaklar: "Doğrulama Notları" bölümüne bakın.
@@ -104,8 +104,8 @@ Tamamen siyah arka plan, ortada tek bir parlak mavi ışık noktası ve ışığ
 - 🎵 MÜZİK/SFX: Metalik gerilim, sıcak su kabarcığı SFX, sonra sürekli bir "hum" ambiyansı.
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:25–10:52]**
-- 🎬 GÖRSEL: Bölüm 5 fragmanı: bir ahtapot kolu, kavanozun kapağını çeviriyor; arka planda karga. "YARIN SABAH 10:00" yazısı. Abone ol / zil ikonu animasyonu.
-- 🎙️ ANLATIM: Okyanusun karanlığında seni en çok hangisi ürküttü? Fener balığı mı, vampir kalamar mı, yoksa dev kalamar mı? Yorumlara yaz, hangisinin kazandığını görelim. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü bu dizi her gün iki yeni bölümle devam ediyor. Sıradaki bölüm yarın sabah saat 10:00'da: Akıllı mı dediniz? Soru basit: bir ahtapot, kapatılmış bir kavanozdan dışarı çıkmayı öğrenirse, bu tesadüf mü olur, zekâ mı? Cevabı yarın sabah 10:00'da.
+- 🎬 GÖRSEL: Bölüm 5 fragmanı: bir ahtapot kolu, kavanozun kapağını çeviriyor; arka planda karga. "SIRADAKİ BÖLÜM" yazısı. Abone ol / zil ikonu animasyonu.
+- 🎙️ ANLATIM: Okyanusun karanlığında seni en çok hangisi ürküttü? Fener balığı mı, vampir kalamar mı, yoksa dev kalamar mı? Yorumlara yaz, hangisinin kazandığını görelim. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü bu dizi hız kesmeden devam ediyor. Sıradaki bölüm: Akıllı mı dediniz? Soru basit: bir ahtapot, kapatılmış bir kavanozdan dışarı çıkmayı öğrenirse, bu tesadüf mü olur, zekâ mı? Cevabı sıradaki bölümde.
 - 🎵 MÜZİK/SFX: Tema yükselir; son cümlede kavanoz kapağının "klik" sesi, ekran kararır.
 
 ---

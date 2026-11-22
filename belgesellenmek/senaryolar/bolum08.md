@@ -10,7 +10,7 @@
 3. Doğada Çalmak ve Tembellik Bir Strateji mi? Sloth, Koala, Korsan Kuşu, Fregat ve Martılar
 
 ## Açıklama metni
-Sloth gerçekten tembel mi? Koala günün kaç saatini uyuyor? Karıncaların bir kısmı neden çalışmıyor? Korsan kuşu (skua) ve fregat kuşu başkasının balığını nasıl çalıyor? Martılar sizi izliyor mu? Ve çalı alakargası, kendisi hırsız olduğu için neden herkesten şüpheleniyor? Belgesellenmek'in "Doğa Adil Değildir" serisinin 8. bölümünde tembellik, hırsızlık ve zekânın karanlık tarafını, yalnızca bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Yarın sabah 10:00'da 9. bölüm yayında: Avcı mı Av Mı?
+Sloth gerçekten tembel mi? Koala günün kaç saatini uyuyor? Karıncaların bir kısmı neden çalışmıyor? Korsan kuşu (skua) ve fregat kuşu başkasının balığını nasıl çalıyor? Martılar sizi izliyor mu? Ve çalı alakargası, kendisi hırsız olduğu için neden herkesten şüpheleniyor? Belgesellenmek'in "Doğa Adil Değildir" serisinin 8. bölümünde tembellik, hırsızlık ve zekânın karanlık tarafını, yalnızca bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Sıradaki bölüm'da 9. bölüm yayında: Avcı mı Av Mı?
 
 Bölümler: 0:00 Sloth | 1:05 Sloth'un gerçekleri | 3:00 Koala, aslan ve tembel karıncalar | 4:40 Korsan kuşu | 6:10 Fregat kuşu | 8:00 Martılar | 9:15 Çalı alakargası
 
@@ -63,8 +63,8 @@ Sol yarıda uykulu bir sloth yüzü yakın çekim (yarı kapalı gözler), sağ 
 - 🎵 MÜZİK/SFX: Gizemli, hafif casus filmi müziği (pizzicato bas); iki kuşun hareketinde "göz" SFX'i; son cümlede müzik kısılıyor.
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:20–10:55]**
-- 🎬 GÖRSEL: Bölümün hayvanlarından hızlı montaj (sloth, koala, skua, fregat, martı, alakarga); "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 9. bölüm kartı: "AVCI MI AV MI? — YARIN SABAH 10:00", gölgede hazır bekleyen bir çita silüeti.
-- 🎙️ ANLATIM: En iyi hırsız hangisiydi? Uçarken uyuyan fregat mı, yoksa gözlerinize bakan martı mı? Oyunu yorumlara yaz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü yarınki bölümde işler ciddileşiyor. Sıradaki bölüm yarın sabah saat 10:00'da: avcı mı av mı? Çitanın gerçek hızı, orkaların av teknikleri, aslanın av başarısı ve Yellowstone'a dönen kurtlar. Asıl soru şu: aslan ava çıktığında kaçta kaçını kazanıyor? Cevap seni şaşırtabilir. Yarın sabah 10:00'da.
+- 🎬 GÖRSEL: Bölümün hayvanlarından hızlı montaj (sloth, koala, skua, fregat, martı, alakarga); "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 9. bölüm kartı: "AVCI MI AV MI? — SIRADAKİ BÖLÜM", gölgede hazır bekleyen bir çita silüeti.
+- 🎙️ ANLATIM: En iyi hırsız hangisiydi? Uçarken uyuyan fregat mı, yoksa gözlerinize bakan martı mı? Oyunu yorumlara yaz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü sıradaki bölümde işler ciddileşiyor. Sıradaki bölüm: avcı mı av mı? Çitanın gerçek hızı, orkaların av teknikleri, aslanın av başarısı ve Yellowstone'a dönen kurtlar. Asıl soru şu: aslan ava çıktığında kaçta kaçını kazanıyor? Cevap seni şaşırtabilir. Sıradaki bölümde.
 - 🎵 MÜZİK/SFX: Enerjik outro; son cümlede müzik kısılıyor, uzaktan bir aslan kükremesi ve kapanış.
 
 ---

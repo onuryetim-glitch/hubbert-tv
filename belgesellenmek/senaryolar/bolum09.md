@@ -12,7 +12,7 @@
 ## AÇIKLAMA METNİ
 Avcı mı daha akıllı, av mı? Bu bölümde çitanın gerçek hızını (GPS ile ölçülmüş!), aslanların şaşırtıcı derecede kötü av başarı oranını, orkaların nesilden nesile aktardığı av kültürünü, Yellowstone'a dönen kurtların hikâyesini (ve internetteki o meşhur videonun neden biraz abartılı olduğunu) ve gökyüzünün en hızlı avcısını inceliyoruz. Hepsi bilimsel olarak belgelenmiş gerçekler, hepsi Anlatıcı'nın yorgun sarkazmıyla.
 
-Seri finali bu akşam 19:00'da: Bölüm 10 — Gezegenin Mirası. Kaçırma!
+Seri finali bir sonraki bölümde: Bölüm 10 — Gezegenin Mirası. Kaçırma!
 
 Kaynak türleri: Nature, Science, Marine Mammal Science, Yellowstone Ulusal Parkı (NPS), IUCN, Cincinnati Hayvanat Bahçesi kayıtları. Ayrıntılar videonun sonunda ve bu açıklamada "Doğrulama Notları" bölümünde.
 
@@ -22,7 +22,7 @@ Kaynak türleri: Nature, Science, Marine Mammal Science, Yellowstone Ulusal Park
 belgesellenmek, doğa adil değildir, avcı mı av mı, çita hızı, orka av teknikleri, yellowstone kurtlar, aslan av başarısı, yusufçuk, şahin dalış hızı, sarkastik belgesel, hayvanlar belgesel türkçe, vahşi yaşam, doğa belgeseli, hayvan davranışları, kurtlar geri döndü
 
 ## THUMBNAIL FİKRİ
-Sol yarıda şaşkın ifadeli bir çita yüzü (yakın plan, ağzı hafif açık, "hız 93 km/h" yazısı üstü çizili ve altında küçük "ama?" yazısı). Sağ yarıda sahte "puan kartı" tarzında bir orka silueti ve büyük sarı yazı: "EN ZEKİ AVCI KİM?" Köşede kırmızı bant: "BU AKŞAM 19:00 FİNAL". (Görsel AI üretimi veya telifsiz fotoğraf kolajı olabilir; AI ise açıklamada belirtilmeli.)
+Sol yarıda şaşkın ifadeli bir çita yüzü (yakın plan, ağzı hafif açık, "hız 93 km/h" yazısı üstü çizili ve altında küçük "ama?" yazısı). Sağ yarıda sahte "puan kartı" tarzında bir orka silueti ve büyük sarı yazı: "EN ZEKİ AVCI KİM?" Köşede kırmızı bant: "SIRADAKİ BÖLÜM FİNAL". (Görsel AI üretimi veya telifsiz fotoğraf kolajı olabilir; AI ise açıklamada belirtilmeli.)
 
 ---
 
@@ -83,8 +83,8 @@ Sol yarıda şaşkın ifadeli bir çita yüzü (yakın plan, ağzı hafif açık
 ---
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:35–11:10]**
-- 🎬 GÖRSEL: Anlatıcı karakter animasyonu/logo; ekranda "BU AKŞAM 19:00 — FİNAL" büyük yazısı; abone ol ve zil ikonu animasyonu; Bölüm 10 için kısa teaser kesitleri (şehir tilkisi, kambur balina, kondor).
-- 🎙️ ANLATIM: Sence en iyi avcı kim? Çita mı, orka mı, yaban köpeği mi, yoksa yusufçuk mu? Yusufçuğa itiraz eden varsa yorumlara yazsın. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü final bu akşam. Sıradaki bölüm bu akşam saat 19:00'da, serinin finali: gezegenin mirası. Bu kez avcıyı da avı da bırakıp hepsinin ortak sorununa bakıyoruz: biz. Ve Puan Tablosu'nun şampiyonu da belirleniyor. Tahminini şimdiden yorumlara yaz. Bu akşam 19:00'da görüşürüz.
+- 🎬 GÖRSEL: Anlatıcı karakter animasyonu/logo; ekranda "SIRADAKİ BÖLÜM" büyük yazısı; abone ol ve zil ikonu animasyonu; Bölüm 10 için kısa teaser kesitleri (şehir tilkisi, kambur balina, kondor).
+- 🎙️ ANLATIM: Sence en iyi avcı kim? Çita mı, orka mı, yaban köpeği mi, yoksa yusufçuk mu? Yusufçuğa itiraz eden varsa yorumlara yazsın. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü final çok yakın. Sıradaki bölüm, serinin finali: gezegenin mirası. Bu kez avcıyı da avı da bırakıp hepsinin ortak sorununa bakıyoruz: biz. Ve Puan Tablosu'nun şampiyonu da belirleniyor. Tahminini şimdiden yorumlara yaz. Sıradaki bölümde görüşürüz.
 - 🎵 MÜZİK/SFX: Enerjik outro müziği; "bildirim zili" SFX'i; "FİNAL" yazısında dramatik vuruş.
 
 ---

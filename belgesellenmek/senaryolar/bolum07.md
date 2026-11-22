@@ -10,7 +10,7 @@
 3. Kraliçesi Kel Fare Olan İmparatorluk: Hayvanlarda Toplum Nasıl Kurulur?
 
 ## Açıklama metni
-Yirmi katrilyon karınca, dans ederek yön tarifi veren arılar, böceklerden farksız yaşayan bir memeli (kel fare), "alfa kurt" efsanesinin gerçek hikâyesi, nöbet tutan mirketler ve eksi kırk derecede birbirine sığınan imparator penguenler. Belgesellenmek'in "Doğa Adil Değildir" serisinin 7. bölümünde kalabalığın neden güçlü olduğunu, bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Bu akşam 19:00'da 8. bölüm yayında: Tembeller, Hırsızlar ve Şeytani Zekâlar.
+Yirmi katrilyon karınca, dans ederek yön tarifi veren arılar, böceklerden farksız yaşayan bir memeli (kel fare), "alfa kurt" efsanesinin gerçek hikâyesi, nöbet tutan mirketler ve eksi kırk derecede birbirine sığınan imparator penguenler. Belgesellenmek'in "Doğa Adil Değildir" serisinin 7. bölümünde kalabalığın neden güçlü olduğunu, bilimsel olarak belgelenmiş gerçeklerle ve bol sarkazmla anlatıyoruz. Sıradaki bölüm'da 8. bölüm yayında: Tembeller, Hırsızlar ve Şeytani Zekâlar.
 
 Bölümler: 0:00 Karınca ordusu | 1:05 Karıncalar | 3:10 Arılar | 5:00 Kel fareler | 6:50 Kurtlar | 8:10 Mirketler | 9:35 Penguenler
 
@@ -63,8 +63,8 @@ Ortada, yakın çekim, ciddi ifadeli bir mirket nöbetçi; arka planda soluk ren
 - 🎵 MÜZİK/SFX: Rüzgâr ve buz SFX; yumuşak, ısınan piyano; penguen nidası.
 
 **[SAHNE 9 — KAPANIŞ, CTA VE CLIFFHANGER — 10:10–10:45]**
-- 🎬 GÖRSEL: Bölümün hayvanlarından hızlı bir montaj; ekranda "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 8. bölüm kartı: "TEMBELLER, HIRSIZLAR VE ŞEYTANİ ZEKÂLAR — BU AKŞAM 19:00" ve karanlıkta uyuyan bir sloth silüeti.
-- 🎙️ ANLATIM: Bu bölümde seni en çok hangisi şaşırttı? Karıncaların sayısı mı, arıların dansı mı, kel fare kraliçesi mi, yoksa kurt sürüsünün gerçek hikâyesi mi? Yorumlara yaz, hepsini merak ediyoruz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm bu akşam saat 19:00'da: tembeller, hırsızlar ve şeytani zekâlar. Çünkü doğada herkes işbirliği yapmıyor. Biri günün yarısından fazlasını uyuyor ve hâlâ hayatta. Bir başkası okyanus üzerinde aylarca yere inmeden uçuyor, hatta uçarken uyuyor, ve başkasının balığını çalıyor. Hangisi mi? Bu akşam 19:00'da görüşürüz.
+- 🎬 GÖRSEL: Bölümün hayvanlarından hızlı bir montaj; ekranda "BEĞEN – ABONE OL – ZİLİ AÇ" animasyonu; son karede 8. bölüm kartı: "TEMBELLER, HIRSIZLAR VE ŞEYTANİ ZEKÂLAR — SIRADAKİ BÖLÜM" ve karanlıkta uyuyan bir sloth silüeti.
+- 🎙️ ANLATIM: Bu bölümde seni en çok hangisi şaşırttı? Karıncaların sayısı mı, arıların dansı mı, kel fare kraliçesi mi, yoksa kurt sürüsünün gerçek hikâyesi mi? Yorumlara yaz, hepsini merak ediyoruz. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç. Sıradaki bölüm: tembeller, hırsızlar ve şeytani zekâlar. Çünkü doğada herkes işbirliği yapmıyor. Biri günün yarısından fazlasını uyuyor ve hâlâ hayatta. Bir başkası okyanus üzerinde aylarca yere inmeden uçuyor, hatta uçarken uyuyor, ve başkasının balığını çalıyor. Hangisi mi? Sıradaki bölümde görüşürüz.
 - 🎵 MÜZİK/SFX: Enerjik outro; son cümlede müzik kısılır, hafif "horlama" SFX'i ve kapanış.
 
 ---

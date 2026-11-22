@@ -11,7 +11,7 @@
 
 ## Açıklama Metni
 Hayvanlar alemindeki gerçek süper güçler: peygamberdevesi karidesinin yumruğu, tabanca karidesinin baloncuk silahı, bombardıman böceğinin kaynar spreyi, uzay boşluğunda hayatta kalan su ayısı (tardigrad), yaşam döngüsünü geri saran Turritopsis dohrnii denizanası ve 860 volt üreten elektrikli yılan balığı. Tüm bilgiler hakemli dergilerde yayımlanmış bilimsel gerçeklerdir; anlatıcı sadece biraz iğneleyici.
-Doğa Adil Değildir serisinin 6. bölümü. Sonraki bölüm yarın sabah 10:00'da: Sosyal Hayat!
+Doğa Adil Değildir serisinin 6. bölümü. Sıradaki bölüm: Sosyal Hayat!
 
 ## Etiketler (15)
 belgesellenmek, süper güçler, peygamberdevesi karidesi, mantis shrimp, tabanca karidesi, bombardıman böceği, tardigrad, su ayısı, ölümsüz denizanası, elektrikli yılan balığı, hayvan yetenekleri, belgesel, doğa belgeseli, komik belgesel, doğa adil değildir
@@ -62,8 +62,8 @@ Ortada, kaslı bir kol gibi uzanmış kırmızı-yeşil peygamberdevesi karidesi
 - 🎵 MÜZİK/SFX: Elektrik çıtırtısı; Humboldt anlatımında sakin yaylılar; Puan Tablosu için retro oyun jingle'ı ve "ding" SFX'i.
 
 **[SAHNE 9 — KAPANIŞ CTA + CLIFFHANGER, 10:20–10:55]**
-- 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; abone ol/zil animasyonu; Bölüm 7 fragmanı: yeraltı tüneli ve kel fare kolonisi (AI üretim, "canlandırma" ibareli); "YARIN SABAH 10:00" büyük yazı.
-- 🎙️ ANLATIM: Hangi süper güç sana daha çok yarardı? Uzayda sağ kalan su ayısı mı, kendini yeniden başlatan denizanası mı? Yorumlara yaz, tartışalım. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü yarın sabahki bölüm bambaşka bir şeyi anlatıyor. Sıradaki bölüm yarın sabah saat 10:00'da: sosyal hayat. Arıların dans dili, kel farelerin kraliçesi, karınca orduları ve kurt sürüsünün gerçekte nasıl çalıştığı. Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey. Memeliler arasında bile bir kraliçeye hizmet eden hayvanlar var. Neden? Cevabı yarın sabah 10:00'da.
+- 🎬 GÖRSEL: Anlatıcı kamerasına bakan AI karakter; abone ol/zil animasyonu; Bölüm 7 fragmanı: yeraltı tüneli ve kel fare kolonisi (AI üretim, "canlandırma" ibareli); "SIRADAKİ BÖLÜM" büyük yazı.
+- 🎙️ ANLATIM: Hangi süper güç sana daha çok yarardı? Uzayda sağ kalan su ayısı mı, kendini yeniden başlatan denizanası mı? Yorumlara yaz, tartışalım. Videoyu beğendiysen beğen butonuna bas. Henüz abone değilsen abone ol ve zili aç, çünkü sıradaki bölüm bambaşka bir şeyi anlatıyor. Sıradaki bölüm: sosyal hayat. Arıların dans dili, kel farelerin kraliçesi, karınca orduları ve kurt sürüsünün gerçekte nasıl çalıştığı. Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey. Memeliler arasında bile bir kraliçeye hizmet eden hayvanlar var. Neden? Cevabı sıradaki bölümde.
 - 🎵 MÜZİK/SFX: Enerjik outro müziği, sona doğru gerilim yükselişi, kesilme.
 
 ---

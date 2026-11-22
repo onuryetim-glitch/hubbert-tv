@@ -12,7 +12,7 @@
 ## Açıklama Metni
 Bukalemun aslında kamuflaj için renk değiştirmiyor. Taklitçi ahtapot bir deniz yılanına dönüşebiliyor. Opossum ise ölü taklidi yapmıyor, vücudu onun yerine karar veriyor. "Doğa Adil Değildir: Sarkastik Doğa Belgeseli" serisinin ilk bölümünde hayatta kalmanın en eski yöntemini, yani yalan söylemeyi inceliyoruz. Espriler anlatıcıdan, bilgiler bilimden.
 
-Serinin yayın takvimi: günde iki bölüm, 10:00 ve 19:00. Bu akşam 19:00'da Bölüm 2: Aşk ve Savaş.
+Sıradaki bölüm, Bölüm 2: Aşk ve Savaş.
 
 Bölümler: 00:00 Soğuk açılış | 00:49 Bukalemun | 02:35 Taklitçi ahtapot | 04:24 Yaprak böceği ve kuru yaprak kelebeği | 05:57 Opossum | 07:30 Taklitçi böcekler | 09:13 Puan Tablosu | 10:06 Kapanış
 
@@ -60,8 +60,8 @@ Yaprak gibi görünen bir böceğin yakın çekimi; yaprağın üzerinde iki kü
 - 🎵 MÜZİK/SFX: Quiz show benzeri skor müziği; her puan için "ding".
 
 **[SAHNE 8 — KAPANIŞ CTA — 10:06–10:36]**
-- 🎬 GÖRSEL: Bölüm 2 fragmanı: tavus kuşu kuyruğu açıyor, bower kuşunun mavi yuvası, ışıkböceği; ekranda "Bu akşam 19:00 — Bölüm 2".
-- 🎙️ ANLATIM: Videoyu sonuna kadar izlediysen sana bir sorum var: bu hayvanlardan hangisi seni en çok şaşırttı? Bukalemun mu, taklitçi ahtapot mu, yoksa ölü numarası yapan opossum mu? Cevabını yorumlara yaz, tartışmayı orada sürdürelim. Bu bölüm sana bir şey kattıysa beğen butonuna bas, çünkü videonun başka insanlara ulaşmasının en kolay yolu bu. Henüz abone değilsen abone ol ve zili aç, çünkü günde iki bölüm yayınlıyoruz ve bildirimi kaçıran, sonraki bölümü kaçırır. Sıradaki bölüm bu akşam saat 19:00'da: aşk ve savaş. Tavus kuşunun kuyruğu, çiftleşme dekoratörleri, ışıkböcekleri ve aşk uğruna ölü numarası yapan bir örümcek. Bu örümcek bunu bilerek yapıyor. Neden mi? Bu akşam 19:00'da öğreneceksin.
+- 🎬 GÖRSEL: Bölüm 2 fragmanı: tavus kuşu kuyruğu açıyor, bower kuşunun mavi yuvası, ışıkböceği; ekranda "Sıradaki bölüm".
+- 🎙️ ANLATIM: Videoyu sonuna kadar izlediysen sana bir sorum var: bu hayvanlardan hangisi seni en çok şaşırttı? Bukalemun mu, taklitçi ahtapot mu, yoksa ölü numarası yapan opossum mu? Cevabını yorumlara yaz, tartışmayı orada sürdürelim. Bu bölüm sana bir şey kattıysa beğen butonuna bas, çünkü videonun başka insanlara ulaşmasının en kolay yolu bu. Henüz abone değilsen abone ol ve zili aç, çünkü bu dizi hız kesmeden devam ediyor ve bildirimi kaçıran, sonraki bölümü kaçırır. Sıradaki bölüm: aşk ve savaş. Tavus kuşunun kuyruğu, çiftleşme dekoratörleri, ışıkböcekleri ve aşk uğruna ölü numarası yapan bir örümcek. Bu örümcek bunu bilerek yapıyor. Neden mi? Cevabı sıradaki bölümde.
 - 🎵 MÜZİK/SFX: Ana tema yükselir; "kaçırma!" anında vurgu; final cümlede müzik kesilir, kısa gerilim notası.
 
 ---

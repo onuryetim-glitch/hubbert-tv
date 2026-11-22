@@ -83,6 +83,6 @@ def anim(ep,text_,L,sp,next_title,next_when,final=False,ayrac=""):
             if final:
                 text(cv,(100,y+12),"SERİ FİNALİ",24,GOLD); text(cv,(100,y+42),"İzlediğin için teşekkürler!",38,(255,255,255)); text(cv,(1180,y+52),"2. Sezon yakında",40,GOLD,anchor="rm")
             else:
-                text(cv,(100,y+12),"SIRADAKİ BÖLÜM",24,GOLD); text(cv,(100,y+42),next_title[:40],38,(255,255,255)); text(cv,(1180,y+52),next_when,40,GOLD,anchor="rm")
+                text(cv,(100,y+12),"SIRADAKİ BÖLÜM",24,GOLD); text(cv,(100,y+42),next_title[:40],38,(255,255,255)); text(cv,(1180,y+52),next_when,32,GOLD,anchor="rm")
         cv.save(f"{d}/f_{i:04d}.png")
     return f"{d}/f_%04d.png",t_start,ev

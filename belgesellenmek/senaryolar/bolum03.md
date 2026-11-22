@@ -12,7 +12,7 @@
 ## AÇIKLAMA METNİ
 Bazı hayvanlar yavruları için kışı aç geçirir, bazıları yumurtasını bir başkasının yuvasına bırakıp kaçar. Bu bölümde guguk kuşunun yuva asalaklığını, imparator penguen babalarının Antarktika kışını, erkek deniz atının "gebeliğini", Nil timsahı annenin yavrularını ağzında taşımasını, Surinam kurbağasının sırtındaki yumurtaları ve okyanusun en sabırlı annesini inceliyoruz. Hepsi bilimsel olarak belgelenmiş gerçekler, hepsi Anlatıcı'nın sarkastik süzgecinden.
 
-Bölüm 4 bu akşam 19:00'da: Okyanusun Karanlık Köşeleri.
+Sıradaki bölüm, Bölüm 4: Okyanusun Karanlık Köşeleri.
 Beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
 
 Kaynaklar: açıklamanın sonundaki "Doğrulama Notları" bölümüne bakın.
@@ -97,8 +97,8 @@ Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besl
 - 🎵 MÜZİK/SFX: Kaplumbağa için hafif neşeli tema; ahtapot bölümünde müzik yavaşça sönüp tek piyano notasına iner, derin su ambiyansı.
 
 **[SAHNE 8 — KAPANIŞ, CTA VE CLIFFHANGER — 10:32–11:01]**
-- 🎬 GÖRSEL: Ekranda Bölüm 4 fragmanı: karanlık okyanus, uzaktan tek bir ışık noktası. "BU AKŞAM 19:00" yazısı. Abone ol/zil ikonu animasyonu.
-- 🎙️ ANLATIM: Sence bu bölümün gerçek kahramanı kim? Erkek deniz atı mı, kışın aç kalan imparator penguen mi, yoksa dört buçuk yıl yumurtalarının başında bekleyen ahtapot anne mi? Yorumlara yaz, kazananı birlikte seçelim. Videoyu beğendiysen beğen butonuna bas. Abone olmadıysan abone ol ve zili aç, çünkü bir sonraki bölüm çok yakın. Sıradaki bölüm bu akşam saat 19:00'da: okyanusun karanlık köşeleri. Güneşin hiç ulaşmadığı yerde ışık satan biri var, üstelik elinde fener var. Kim olduğunu bu akşam 19:00'da göreceksin. Sakın kaçırma.
+- 🎬 GÖRSEL: Ekranda Bölüm 4 fragmanı: karanlık okyanus, uzaktan tek bir ışık noktası. "SIRADAKİ BÖLÜM" yazısı. Abone ol/zil ikonu animasyonu.
+- 🎙️ ANLATIM: Sence bu bölümün gerçek kahramanı kim? Erkek deniz atı mı, kışın aç kalan imparator penguen mi, yoksa dört buçuk yıl yumurtalarının başında bekleyen ahtapot anne mi? Yorumlara yaz, kazananı birlikte seçelim. Videoyu beğendiysen beğen butonuna bas. Abone olmadıysan abone ol ve zili aç, çünkü bir sonraki bölüm çok yakın. Sıradaki bölüm: okyanusun karanlık köşeleri. Güneşin hiç ulaşmadığı yerde ışık satan biri var, üstelik elinde fener var. Kim olduğunu sıradaki bölümde göreceksin. Sakın kaçırma.
 - 🎵 MÜZİK/SFX: Tema yükselir, son cümlede sessizlik, uzaktan tek bir "ping" sonar sesi, ekran kararır.
 
 ---

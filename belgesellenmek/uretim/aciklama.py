@@ -20,7 +20,7 @@ for e in range(int(sys.argv[1]),int(sys.argv[2])+1):
     for m in man:
         if m["page"] in seen: continue
         seen.add(m["page"]); cred.append(f"- {m['title']} — {m['artist'] or 'iNaturalist kullanıcısı'} — {m['lic']} — {m['page']}")
-    nxt=(f"Serinin sıradaki bölümü: Bölüm {e+1} — {NEXT[e]} ({'bu akşam 19:00' if e%2==1 else 'yarın sabah 10:00'})." if e<10 else "Seri finali. 2. Sezon yakında!")
-    out=f"BAŞLIK (öneri): {(tt[0] if tt else '').split(' | ')[0]} | Doğa Adil Değildir #{e}\nAlternatifler: {' | '.join(tt[1:])}\n\nAÇIKLAMA\n{desc}\n\n{nxt}\nGünde iki bölüm: 10:00 ve 19:00.\n\n▶ Tüm seri (Doğa Adil Değildir oynatma listesi): [PLAYLIST_LINKI]\n\nBÖLÜMLER\n"+"\n".join(ch)+f"\n\nETİKETLER\n{tags}\n\nGÖRSEL KAYNAKLARI (iNaturalist, Creative Commons — atıf zorunlu)\n"+"\n".join(cred)+"\n\nSeslendirme: yapay zekâ sesi (Piper TTS). Videodaki fotoğraflar yukarıdaki lisanslarla kullanılmıştır.\n"
+    nxt=(f"Serinin sıradaki bölümü: Bölüm {e+1} — {NEXT[e]}." if e<10 else "Seri finali. 2. Sezon yakında!")
+    out=f"BAŞLIK (öneri): {(tt[0] if tt else '').split(' | ')[0]} | Doğa Adil Değildir #{e}\nAlternatifler: {' | '.join(tt[1:])}\n\nAÇIKLAMA\n{desc}\n\n{nxt}\n\n▶ Tüm seri (Doğa Adil Değildir oynatma listesi): [PLAYLIST_LINKI]\n\nBÖLÜMLER\n"+"\n".join(ch)+f"\n\nETİKETLER\n{tags}\n\nGÖRSEL KAYNAKLARI (iNaturalist, Creative Commons — atıf zorunlu)\n"+"\n".join(cred)+"\n\nSeslendirme: yapay zekâ sesi (Piper TTS). Videodaki fotoğraflar yukarıdaki lisanslarla kullanılmıştır.\n"
     open(f"../yayin/bolum{ep}_youtube.txt","w",encoding="utf-8").write(out); shutil.copy(f"cikti/bolum{ep}.srt",f"../yayin/bolum{ep}.srt")
     print(ep,"başlık:",(tt[0] if tt else "YOK")[:60],"| açıklama",len(desc),"| etiket",len(tags.split(",")),"| atıf",len(cred))
