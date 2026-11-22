@@ -4,3 +4,4 @@ klipler/
 cikti/
 __pycache__/
 *.log
+medya_kullanici/**/*.mp4
