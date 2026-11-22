@@ -52,6 +52,26 @@ def tabledraw(path,rows,n):
         d.rounded_rectangle((520,y+6,520+60*pt,y+40),8,fill=(255,200,40) if pt>=8 else (120,200,140))
         d.text((1160,y),f"{pt}",font=font(34),fill=(255,255,255)); y+=step
     im.save(path)
+
+def yazilar(ep,n,text,L,sp):
+    """bolumNN_yazilar.json: sağdan/soldan kayan ekran yazıları -> drawtext filtreleri"""
+    f=f"bolum{ep}_yazilar.json"
+    if not os.path.exists(f): return []
+    out=[]; tot=max(1,len(text))
+    for j,c in enumerate([c for c in json.load(open(f)) if c["scene"]==n]):
+        i=text.find(c["anchor"])
+        if i<0: continue
+        t0=0.3+(L-0.8)*i/tot; t1=min(t0+5.2,L-0.3)
+        if t1-t0<2.0: t0=max(0.3,t1-2.0)
+        tf=f"{sp}_yz{j}.txt"; open(tf,"w",encoding="utf-8").write(c["text"])
+        col="0xFFC828" if c.get("kind")=="hook" else "white"
+        a,b=0.45,0.35
+        if c.get("side")=="left":
+            xt="40"; x=f"if(lt(t,{t0}+{a}),-text_w+(40+text_w)*(1-pow(1-(t-{t0})/{a},3)),if(gt(t,{t1}-{b}),40-(40+text_w)*(t-({t1}-{b}))/{b},40))"
+        else:
+            x=f"if(lt(t,{t0}+{a}),w-(text_w+40)*(1-pow(1-(t-{t0})/{a},3)),if(gt(t,{t1}-{b}),w-text_w-40+(text_w+40)*(t-({t1}-{b}))/{b},w-text_w-40))"
+        out.append(f"drawtext=fontfile={BOLD}:textfile={tf}:fontsize=34:fontcolor={col}:line_spacing=10:box=1:boxcolor=black@0.68:boxborderw=16:x='{x}':y=120:enable='between(t,{t0},{t1})'")
+    return out
 scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
 for s in scenes:
@@ -95,7 +115,8 @@ for s in scenes:
         for j,(txt,sz,col,y) in enumerate(c):
             fn=f"{sp}_cta{j}.txt"; open(fn,"w",encoding="utf-8").write(txt); fs.append(f"drawtext=fontfile={BOLD}:textfile={fn}:fontsize={sz}:fontcolor={col}:x=(w-text_w)/2:y={y}:enable='gte(t,3)'")
         ov="drawbox=x=140:y=170:w=1000:h=380:color=black@0.62:t=fill:enable='gte(t,3)',"+",".join(fs)
-    ov=ov+f",drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1" if ov!="null" else f"drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1"
+    bug=f"drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1"
+    ov=",".join(p for p in ([ov] if ov!="null" else [])+yazilar(ep,n,s["text"],L,sp)+[bug])
     out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error","-i",raw,"-i",a,"-vf",ov,"-af","apad=pad_dur=1,aresample=44100","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
     parts.append(out)
     # altyazı: cümleleri karakter oranıyla dağıt
