@@ -8,43 +8,43 @@ Bir yaprak.
 
 3
 00:00:03,633 --> 00:00:06,415
-Çok sıradan, çok kuru, çok yaprak gibi.
+Çok sıradan, çok kuru, tam bir yaprak.
 
 4
 00:00:06,515 --> 00:00:08,063
-Bir saniye… yaprak yürüdü.
+Bir saniye… Yaprak yürüdü.
 
 5
 00:00:08,163 --> 00:00:15,232
-Yaprak yürüdü ve şu an sizi, evet sizi, doğanın en eski oyununa davet ediyor.
+Evet, yaprak yürüdü ve şu an sizi, bizzat sizi doğanın en eski oyununa davet ediyor.
 
 6
 00:00:15,332 --> 00:00:18,005
-Doğa Adil Değildir'e hoş geldiniz.
+"Doğa Adil Değildir"e hoş geldiniz.
 
 7
 00:00:18,105 --> 00:00:25,745
-On bölüm sürecek bu yolculukta vahşi yaşamı yakından izleyeceğiz, o yüzden size baştan söyleyeyim: doğa adil değildir, ama komiktir.
+On bölüm sürecek bu yolculukta vahşi yaşamı mercek altına alacağız. Peşinen söyleyeyim: Doğa adil değildir, ama kesinlikle çok komiktir.
 
 8
 00:00:25,845 --> 00:00:34,331
-Bu dizide on bölüm boyunca hayvanlar âleminin en zeki, en tuhaf ve en hesapsız hallerine bakacağız.
+Bu seride hayvanlar âleminin en zeki, en tuhaf ve en hesapçı hallerine tanık olacağız.
 
 9
 00:00:34,431 --> 00:00:39,003
-Bugünün konusu, hayatta kalmanın en eski yöntemi: yalan söylemek.
+Bugünün konusu, hayatta kalmanın en kadim yöntemi: Yalan söylemek.
 
 10
 00:00:39,103 --> 00:00:44,056
-Renk değiştirmek, başkası gibi davranmak, hatta ölü numarası yapmak.
+Renk değiştirmek, başkası gibi davranmak, hatta ölü numarası yapmak…
 
 11
 00:00:44,156 --> 00:00:46,604
-Yani herhangi bir bayram yemeği.
+Yani bildiğiniz plazadaki ilk yılım.
 
 12
 00:00:46,704 --> 00:00:51,532
-Üstelik anlatacaklarımın hepsi bilimsel olarak belgelenmiş gerçekler.
+Üstelik anlatacaklarımın hepsi bilimsel olarak kanıtlanmış gerçekler.
 
 13
 00:00:51,632 --> 00:00:54,169
@@ -52,15 +52,15 @@ Espriler benden, bilgiler bilimden.
 
 14
 00:00:54,269 --> 00:00:57,161
-Tutmayan espriler için şikâyet hattı yok.
+Tutmayan espriler için şikâyet hattımız ne yazık ki mevcut değil.
 
 15
 00:00:57,261 --> 00:01:04,925
-Ve evet, bu bölümde bir yaprak, bir ahtapot, bir sinek ve rahatsız edici derecede kötü kokan bir keseli hayvan var.
+Ve evet, bu bölümde bir yaprak, bir ahtapot, bir sinek ve aşırı derecede kötü kokan bir keseli hayvan var.
 
 16
 00:01:05,025 --> 00:01:09,829
-Kemerlerinizi bağlayın, çünkü doğada hiçbir şey göründüğü gibi değil.
+Kemerlerinizi bağlayın, doğada hiçbir şey göründüğü gibi değildir.
 
 17
 00:01:09,929 --> 00:01:11,711
@@ -68,11 +68,11 @@ Başlıyoruz.
 
 18
 00:01:12,411 --> 00:01:15,927
-İlk sanığımız, kamuflajın simgesi bukalemun.
+İlk sanığımız, kamuflajın süperstarı: Bukalemun.
 
 19
 00:01:16,027 --> 00:01:21,728
-Hepimizin öğrendiği şey şu: bukalemun bulunduğu yüzeye uysun diye renk değiştirir.
+Hepimizin bildiği o meşhur hikâye şudur: Bukalemun, bulunduğu zemine uyum sağlamak için renk değiştirir.
 
 20
 00:01:21,828 --> 00:01:23,498
@@ -80,87 +80,87 @@ Güzel hikâye.
 
 21
 00:01:23,598 --> 00:01:26,051
-Maalesef büyük ölçüde yanlış.
+Maalesef kuyruklu bir yalan.
 
 22
 00:01:26,151 --> 00:01:29,311
-Okulda öğrendiğimiz diğer birçok şey gibi.
+Tıpkı ilkokulda bize öğretilen "ineklerin dört midesi olduğu" bilgisi gibi.
 
 23
 00:01:29,411 --> 00:01:33,695
-Bukalemun bir ekran değil; arkasında ne varsa onu yansıtmıyor.
+Bukalemun bir canlı ekran değil; arkasına geçince duvarın desenini yansıtmaz.
 
 24
 00:01:33,795 --> 00:01:37,636
-Onu damalı masa örtüsüne koyup gösteri beklemeyin.
+Onu alıp damalı masa örtüsünün üzerine koyarak sihirli bir gösteri beklemeyin.
 
 25
 00:01:37,736 --> 00:01:45,509
-Bilim insanlarının vardığı sonuca göre renk değişiminin başlıca sebepleri iletişim ve vücut ısısının ayarlanması.
+Bilimsel araştırmalara göre renk değişiminin temel sebepleri iletişim ve vücut ısısının kontrol edilmesidir.
 
 26
 00:01:45,609 --> 00:01:59,408
-Güney Afrika'daki cüce bukalemunlar üzerine 2008'de yayımlanan bir çalışma, rengini en çok değiştirebilen türlerin, ortama uyum sağlayanlar değil, sosyal sinyalleri en dikkat çekici olanlar olduğunu gösterdi.
+Güney Afrika'daki cüce bukalemunlar üzerine 2008'de yapılan bir çalışma, rengini en çok değiştirebilenlerin ortama en iyi uyum sağlayanlar değil, sosyal sinyalleri en güçlü olanlar olduğunu ortaya koydu.
 
 27
 00:01:59,508 --> 00:02:06,165
-Yani bukalemun çoğu zaman saklanmak için değil, tam tersine kendini göstermek için renk değiştiriyor.
+Yani bukalemun çoğu zaman saklanmak için değil, tam tersine şov yapmak için renk değiştiriyor.
 
 28
 00:02:06,265 --> 00:02:13,124
-Yani renk değişimi bir saklanma planı değil, bir ruh hali paylaşımı; hayvanlar âleminin hikâye özelliği.
+Bu bir kamuflaj değil, düpedüz ruh hali paylaşımı; hayvanlar âleminin Instagram hikâyesi gibi.
 
 29
 00:02:13,224 --> 00:02:19,319
-Erkekler rakibe gözdağı verirken ya da dişiye gösteriş yaparken parlak renklere bürünüyor.
+Erkekler rakibe gözdağı verirken ya da dişiye kur yaparken cıvıl cıvıl renklere bürünüyor.
 
 30
 00:02:19,419 --> 00:02:23,662
-Spor salonuna parlak tişörtle giden herkes bu hissi bilir.
+Spor salonuna neon renkli tişörtle giden abilerimiz de aynı hissi yaşıyordur eminim.
 
 31
 00:02:23,762 --> 00:02:28,654
-Soğuk bir sabahta koyulaşmak da güneş ısısını daha iyi emmeye yarıyor.
+Soğuk sabahlarda koyu renge bürünmek ise güneş ışığını daha iyi emmelerini sağlıyor.
 
 32
 00:02:28,754 --> 00:02:31,323
-Mekanizma ise ayrıca etkileyici.
+Bunun arkasındaki mekanizma ise büyüleyici.
 
 33
 00:02:31,423 --> 00:02:42,336
-2015'te Cenevre Üniversitesi'nden Michel Milinkovitch ve ekibi, panter bukalemununun derisinde guanin nanokristalleri taşıyan özel hücreler olduğunu gösterdi.
+2015'te Cenevre Üniversitesi'nden Michel Milinkovitch ve ekibi, panter bukalemunlarının derisinde "guanin nanokristalleri" barındıran özel hücreler olduğunu kanıtladı.
 
 34
 00:02:42,436 --> 00:02:48,440
-Hayvan sakinken kristaller sık dizili ve kısa dalga boylu, yani mavi ışığı yansıtıyor.
+Hayvan sakinken bu kristaller sıkı diziliyor ve kısa dalga boylu ışığı, yani maviyi yansıtıyor.
 
 35
 00:02:48,540 --> 00:02:56,740
-Heyecanlanınca kristaller arasındaki aralık açılıyor ve daha uzun dalga boyları, yani sarı ve kırmızı tonlar öne çıkıyor.
+Heyecanlandıklarında ise kristallerin arası açılıyor ve sarı-kırmızı gibi daha uzun dalga boyları devreye giriyor.
 
 36
 00:02:56,840 --> 00:03:00,071
-Yani boya değil, mikroskobik bir ışık oyunu.
+Yani boya değil, tamamen mikroskobik bir ışık oyunu.
 
 37
 00:03:00,171 --> 00:03:02,751
-Peki bukalemun hiç mi saklanmıyor?
+Peki, bukalemun hiç mi saklanmıyor?
 
 38
 00:03:02,851 --> 00:03:09,031
-Saklanıyor, ama bunu çoğunlukla hareketsizliği ve yavaş, sallanan yürüyüşüyle yapıyor.
+Elbette saklanıyor, ama bunu daha çok hareketsiz kalarak ve o yavaş, sallantılı yürüyüşüyle yapıyor.
 
 39
 00:03:09,131 --> 00:03:16,283
-Üstelik gözlerini birbirinden bağımsız çevirebiliyor; bir gözü size bakarken diğeri akşam yemeğini arıyor.
+Üstelik gözlerini birbirinden bağımsız hareket ettirebiliyor; biriyle size bakarken diğeriyle akşam yemeğini kestiriyor.
 
 40
 00:03:16,383 --> 00:03:21,146
-Dilini ise saniyenin onda birinden bile kısa sürede fırlatabiliyor.
+Dilini ise saniyenin onda birinden daha kısa sürede fırlatıyor.
 
 41
 00:03:21,246 --> 00:03:25,570
-Bizim “yarın başlıyorum” deme hızımız bile buna yaklaşamaz.
+Bizim "diyete pazartesi başlıyorum" deme hızımız bile buna yetişemez.
 
 42
 00:03:25,670 --> 00:03:28,716
@@ -168,155 +168,155 @@ Yine de kamuflajı tamamen çöpe atmayalım.
 
 43
 00:03:28,816 --> 00:03:41,374
-Aynı araştırmacıların 2008'deki bir başka çalışması, cüce bukalemunların karşılarındaki yırtıcının kuş mu yoksa yılan mı olduğuna göre renk ve duruşlarını farklı ayarladığını gösterdi.
+Aynı araştırmacıların 2008'deki başka bir çalışması, cüce bukalemunların yırtıcının kuş mu yoksa yılan mı olduğuna göre renk ve duruşlarını farklı ayarladığını gösterdi.
 
 44
 00:03:41,474 --> 00:03:44,631
-Yani kamuflajı biliyor, ama tek işi o değil.
+Yani kamuflajı biliyorlar ama tek numaraları bu değil.
 
 45
 00:03:44,731 --> 00:03:51,745
-Özetle bukalemun yalancı değil; yüzüne bütün duygularını yazan, tam anlamıyla ifşa olmuş bir karakter.
+Özetle bukalemun yalancı değil; tüm duygularını suratına yansıtan, tabiri caizse fena ifşa olmuş bir karakter.
 
 46
 00:03:51,845 --> 00:03:57,341
-Toplantıda kamerasını kapatıp bir daha ses vermeyen o arkadaşınızın aksine.
+Online toplantılarda kamerasını kapatıp bir daha ses vermeyen o iş arkadaşınızın tam tersi yani.
 
 47
 00:03:58,041 --> 00:04:02,620
-İkinci sanığımız, bu işi sanata dönüştüren taklitçi ahtapot.
+İkinci sanığımız, bu işi sanata dönüştüren Taklitçi Ahtapot.
 
 48
 00:04:02,720 --> 00:04:05,473
-Bilimsel adı Thaumoctopus mimicus.
+Bilimsel adıyla Thaumoctopus mimicus.
 
 49
 00:04:05,573 --> 00:04:19,784
-Hayvan 1998'de Endonezya'da, Sulawesi açıklarında, nehir ağızlarının çamurlu dibinde bulundu ve 2001'de Mark Norman liderliğindeki ekip gözlemlerini Royal Society'nin dergisi Proceedings B'de yayımladı.
+1998'de Endonezya'nın çamurlu nehir yataklarında keşfedilen bu hayvan, 2001 yılında Mark Norman liderliğindeki ekiple bilim dünyasına tanıtıldı.
 
 50
 00:04:19,884 --> 00:04:23,634
-Normalde ahtapot kayaların arasına girip saklanır.
+Normalde bir ahtapot kayaların arasına saklanarak korunur.
 
 51
 00:04:23,734 --> 00:04:25,530
-Makul bir plan.
+Mantıklı bir plan.
 
 52
 00:04:25,630 --> 00:04:30,688
-Bu hayvan ise saklanacak kaya olmayan, çıplak, çamurlu bir zeminde yaşıyor.
+Ama bu ahtapot, saklanacak tek bir kayanın bile olmadığı çıplak, çamurlu bir zeminde yaşıyor.
 
 53
 00:04:30,788 --> 00:04:34,551
-Yani çözüm şu: saklanacak yer yoksa, başka biri ol.
+Yani çözümleri şu: Saklanacak yerin yoksa, başkası ol.
 
 54
 00:04:34,651 --> 00:04:45,022
-Üstelik bu, birden fazla hayvanı canlandırdığı bilinen ilk deniz canlısı olarak anıldı; makalenin başlığındaki “dinamik mimikri” ifadesi de bundan geliyor.
+Üstelik birden fazla hayvanı taklit edebildiği bilinen ilk deniz canlısı olarak kayıtlara geçti. Bilimsel makaledeki "dinamik mimikri" ifadesi de tam olarak bunu anlatıyor.
 
 55
 00:04:45,122 --> 00:04:56,135
-Bunun arkasında ahtapotların derisindeki kromatofor adı verilen renk keseciklerinin sinirler ve kaslarla kontrolü var; desen ve renk saniyeler içinde değişebiliyor.
+Bu yeteneğin arkasında, derilerindeki "kromatofor" adı verilen renk keseciklerinin sinirler ve kaslar tarafından kontrol edilmesi yatıyor; desen ve renk saniyeler içinde değişebiliyor.
 
 56
 00:04:56,235 --> 00:05:01,452
-Araştırmacılar bu ahtapotun en az üç farklı hayvanı andırdığını bildirdi.
+Araştırmalar, bu ahtapotun en az üç farklı hayvanı andırabildiğini gösterdi.
 
 57
 00:05:01,552 --> 00:05:04,363
-Yassı balık gibi dipte süzülüyor.
+Bazen bir pisi balığı gibi düzleşip dipte süzülüyor.
 
 58
 00:05:04,463 --> 00:05:07,907
-Aslan balığı gibi kollarını uzatıp kıvırıyor.
+Bazen bir aslan balığı gibi kollarını açıp kıvırıyor.
 
 59
 00:05:08,007 --> 00:05:12,901
-Ve en çok konuşulanı: zehirli bir deniz yılanı gibi davranıyor.
+Ve en meşhuru: Zehirli bir deniz yılanı gibi davranıyor.
 
 60
 00:05:13,001 --> 00:05:20,357
-Bunun için altı kolunu deliğe saklıyor, iki kolunu zıt yönlere uzatıp çizgili görünümüyle dalgalandırıyor.
+Bu taktik için kollarının altısını deliğe saklıyor, ikisini ise zıt yönlere uzatıp çizgili görünümüyle dalgalandırıyor.
 
 61
 00:05:20,457 --> 00:05:27,159
-Üstelik bu taklidi özellikle saldırgan balıklar tarafından rahatsız edildiğinde yaptığı gözlenmiş.
+Üstelik bu taklidi, özellikle saldırgan balıklar tarafından rahatsız edildiğinde yaptığı gözlemlenmiş.
 
 62
 00:05:27,259 --> 00:05:35,799
-Yani yırtıcı balık bir ahtapot görmeyi bekliyor, karşısında bir deniz yılanı buluyor ve “bugün hafif bir şey yiyeyim” diyerek vazgeçiyor.
+Yani avcı balık bir ahtapot yemeyi umarken karşısında zehirli bir yılan buluyor ve "ben bugünlük hafif bir şeyler takılayım" diyerek vazgeçiyor.
 
 63
 00:05:35,899 --> 00:05:38,078
-Tarihin en etkili diyeti.
+Tarihin en etkili ve korkutucu diyeti.
 
 64
 00:05:38,178 --> 00:05:41,835
-Bu işi kaldırabilmesinin bir sebebi sinir sistemi.
+Bu işi kıvırmalarının sebeplerinden biri de eşsiz sinir sistemleri.
 
 65
 00:05:41,935 --> 00:05:50,058
-Ahtapotlarda yaklaşık 500 milyon nöron olduğu tahmin ediliyor ve bunların büyük bölümü beyinde değil, kollarda.
+Ahtapotların yaklaşık 500 milyon nöronu olduğu tahmin ediliyor ve bunların büyük bir kısmı beyinlerinde değil, kollarında.
 
 66
 00:05:50,158 --> 00:05:53,773
-Yani kollar bir yandan kendi kararlarını veriyor.
+Yani kollar kendi kararlarını verebiliyor.
 
 67
 00:05:53,873 --> 00:05:59,676
-Ofis toplantılarına benziyor: herkes konuşuyor, ama sonuç yine de ortaya çıkıyor.
+Tıpkı ofis toplantıları gibi: Herkes aynı anda konuşuyor ama bir şekilde sonuç alınıyor.
 
 68
 00:05:59,776 --> 00:06:07,101
-Dürüst olalım: bilim dünyasında bu davranışın ne kadar bilinçli ve seçici olduğu hâlâ tartışılıyor.
+Dürüst olmak gerekirse bilim dünyasında bu davranışın ne kadar bilinçli ve seçici olduğu hâlâ tartışılıyor.
 
 69
 00:06:07,201 --> 00:06:14,905
-Bazı araştırmacılar, hayvanın yalnızca tehlikeli görünen genel bir davranış repertuvarı kullandığını düşünüyor.
+Bazı araştırmacılar hayvanın, tehlikeli görünen genel bir davranış repertuvarını kullandığını düşünüyor.
 
 70
 00:06:15,005 --> 00:06:22,183
-Ama gözlem net: kemiği olmayan, kolları esneyen bu hayvan, kendi vücudunu bir kostüm dolabına çevirmiş.
+Ama gözlem net: Kemiksiz ve esnek kollara sahip bu canlı, kendi vücudunu bir kostüm mağazasına çevirmiş durumda.
 
 71
 00:06:22,283 --> 00:06:28,635
-İş yerinde bir günde bu kadar farklı kişiliğe bürünen birini görseniz terfi ettirirdiniz.
+İş yerinde bir günde bu kadar farklı kişiliğe bürünen birini görseniz, çoktan terfi ettirirdiniz.
 
 72
 00:06:29,335 --> 00:06:33,845
-Üçüncü sanıklarımız, yaprak böcekleri, yani Phylliidae ailesi.
+Üçüncü sanıklarımız: Yaprak Böcekleri (Phylliidae ailesi).
 
 73
 00:06:33,945 --> 00:06:46,695
-Bu hayvanlar yaprağı taklit etmekle yetinmiyor; vücutları yaprak gibi yassı, kanatlarında damar desenleri var, kimi türlerde kenarlarda kemirilmiş yaprak izlerine benzeyen oyuklar bile bulunuyor.
+Bu hayvanlar yaprağı taklit etmekle yetinmiyor; vücutları adeta bir yaprak gibi yassı, kanatlarında damar desenleri var, hatta bazılarının kenarlarında, böcekler tarafından yenmiş yaprak izlerine benzeyen çentikler bile bulunuyor.
 
 74
 00:06:46,795 --> 00:06:53,860
-Hatta kimi türlerin yumurtaları bitki tohumlarına benziyor.
+Hatta kimi türlerin yumurtaları bile bitki tohumlarına benziyor.
 
 75
 00:06:53,960 --> 00:06:58,474
-Yani daha doğmadan kostümü hazır.
+Yani daha doğmadan kostümleri hazır.
 
 76
 00:06:58,574 --> 00:07:01,241
-Rüzgâr esince de sağa sola sallanıp yaprak gibi davranıyorlar.
+Rüzgâr esince de sağa sola sallanıp tıpkı bir yaprak gibi davranıyorlar.
 
 77
 00:07:01,341 --> 00:07:05,024
-Rolüne gerçekten giren bir oyuncu.
+Oscar'lık bir performans.
 
 78
 00:07:05,124 --> 00:07:11,594
-Bu işin ne kadar eski olduğunu bir fosil gösteriyor.
+Bu kamuflajın ne kadar kadim olduğunu bir fosil kanıtlıyor.
 
 79
 00:07:11,694 --> 00:07:17,591
-Almanya'daki Messel fosil yatağından çıkan, yaklaşık 47 milyon yıllık Eophyllium messelensis, bilinen en eski yaprak böceği fosili ve 2007'de PNAS dergisinde tanıtıldı.
+Almanya'daki Messel fosil yatağından çıkan, yaklaşık 47 milyon yıllık "Eophyllium messelensis", bilinen en eski yaprak böceği fosili ve 2007 yılında PNAS dergisinde tanıtıldı.
 
 80
 00:07:17,691 --> 00:07:20,454
-O zaman bile yaprak gibi görünüyordu.
+O zaman bile tıpkı bugünki gibi görünüyordu.
 
 81
 00:07:20,554 --> 00:07:23,777
@@ -324,15 +324,15 @@ Yani 47 milyon yıldır aynı kostüm.
 
 82
 00:07:23,877 --> 00:07:28,784
-Tek kıyafetle bu kadar yaşayan biri, gardırop sorununu çözmüş sayılır.
+Tek bir kıyafetle bu kadar uzun süre yaşayabilen biri, gardırop sorununu ebediyen çözmüş sayılır.
 
 83
 00:07:28,884 --> 00:07:34,017
-İngilizcede bu böceklere zaten “walking leaf”, yani yürüyen yaprak deniyor.
+İngilizcede bu böceklere zaten "walking leaf", yani yürüyen yaprak deniyor.
 
 84
 00:07:34,117 --> 00:07:36,091
-Açılışta abartmadım.
+Açılışta hiç abartmamışım.
 
 85
 00:07:36,191 --> 00:07:40,919
@@ -340,7 +340,7 @@ Moda akımlarına bu kadar meydan okuyan bir sadakat takdire şayan.
 
 86
 00:07:41,019 --> 00:07:47,904
-Yaprak böcekleri çoğunlukla Güneydoğu Asya'dan Avustralya'ya uzanan bölgede yaşıyor ve bitkilerle besleniyor.
+Yaprak böcekleri genellikle Güneydoğu Asya'dan Avustralya'ya kadar olan bölgede yaşıyor ve bitkilerle besleniyor.
 
 87
 00:07:48,004 --> 00:07:50,688
@@ -348,43 +348,43 @@ Yani vejetaryen bir kamuflaj uzmanı.
 
 88
 00:07:50,788 --> 00:07:52,974
-Yaprak yiyen bir yaprak, yani.
+Yaprak yiyen bir yaprak, ilginç.
 
 89
 00:07:53,074 --> 00:07:56,499
-Kuru yaprak kelebeği Kallima ise Asya'da yaşıyor.
+"Kuru yaprak kelebeği" Kallima ise Asya'da yaşıyor.
 
 90
 00:07:56,599 --> 00:08:09,593
-Kanatlarını kapattığında alt yüzeyi gerçekten kuru bir yaprağa dönüşüyor: ortadan geçen damar, yan damarlar, hatta yaprak sapına benzeyen bir çıkıntı ve yaprak lekelerini andıran işaretler.
+Kanatlarını kapattığında alt yüzeyi gerçekten de kurumuş bir yaprağa dönüşüyor: ortadan geçen damar, yan damarlar, hatta yaprak sapına benzeyen bir çıkıntı ve yaprak lekelerini andıran işaretler…
 
 91
 00:08:09,693 --> 00:08:15,224
-Kısacası ayrıntıya o kadar önem veriyor ki, yaprağın hastalıklı hali bile var.
+Kısacası ayrıntıya o kadar takıntılılar ki, yaprağın çürümeye başlamış halini bile taklit ediyorlar.
 
 92
 00:08:15,324 --> 00:08:26,008
-Alfred Russel Wallace bu kelebeği, 1889 tarihli Darwinism kitabında koruyucu benzerliğin çarpıcı örneklerinden biri olarak ele aldı.
+Ünlü doğa bilimci Alfred Russel Wallace, bu kelebeği 1889 tarihli "Darwinism" kitabında, koruyucu benzerliğin en çarpıcı örneklerinden biri olarak ele almıştır.
 
 93
 00:08:26,108 --> 00:08:31,364
-Kanatlarını açtığında ise üst yüzeyi parlak mavi ve turuncu renklerle dolu.
+Ancak kanatlarını açtığında üst yüzeyi parlak mavi ve turuncu renklerle ışıldar.
 
 94
 00:08:31,464 --> 00:08:41,175
-Bilim insanları, uçarken görünen bu parlak renklerin, kondukları anda tamamen kaybolan görünümle birleştiğinde yırtıcıyı şaşırttığını düşünüyor.
+Bilim insanları, uçarken görünen bu parlak renklerin, kondukları anda aniden yok olmasının avcıyı şaşırttığını düşünüyor.
 
 95
 00:08:41,275 --> 00:08:43,836
-Önce görünür ol, sonra yok ol.
+Önce görün, sonra kaybol.
 
 96
 00:08:43,936 --> 00:08:47,600
-Hayatta kalmanın dijital pazarlama versiyonu.
+Hayatta kalmanın dijital pazarlamadaki karşılığı gibi.
 
 97
 00:08:48,300 --> 00:08:56,764
-Dördüncü sanığımız, ölü taklidi denince herkesin aklına gelen hayvan: Virginia opossumu, yani Didelphis virginiana.
+Dördüncü sanığımız, ölü taklidi denince akla gelen ilk hayvan: Virginia Opossumu (Didelphis virginiana).
 
 98
 00:08:56,864 --> 00:08:59,315
@@ -392,83 +392,83 @@ Kuzey Amerika'nın tek keseli türü.
 
 99
 00:08:59,415 --> 00:09:02,911
-Tehdit altında önce dişlerini gösterip tıslıyor.
+Tehdit altında kaldığında önce dişlerini gösterip tıslıyor.
 
 100
 00:09:03,011 --> 00:09:10,385
-İşe yaramazsa asıl numara geliyor: yan yatıyor, ağzı hafif açık, dili dışarıda, gözleri yarı kapalı.
+Eğer bu işe yaramazsa asıl numarasını devreye sokuyor: Yana devriliyor, ağzı hafifçe açık, dili dışarıda ve gözleri yarı kapalı bir hale bürünüyor.
 
 101
 00:09:10,485 --> 00:09:13,645
-Tiyatro okullarında bu sahne ödül alırdı.
+Tiyatro okullarında olsa bu sahneyle ödül alırdı.
 
 102
 00:09:13,745 --> 00:09:15,560
-Bununla da bitmiyor.
+Ve bununla da kalmıyor.
 
 103
 00:09:15,660 --> 00:09:20,232
-Anal bezlerinden çürüyen et kokusunu andıran bir sıvı salgılıyor.
+Anal bezlerinden, çürüyen et kokusunu andıran iğrenç bir sıvı salgılıyor.
 
 104
 00:09:20,332 --> 00:09:24,053
-Yani sadece ölü gibi görünmüyor, ölü gibi kokuyor.
+Yani sadece ölü gibi görünmüyor, leş gibi de kokuyor.
 
 105
 00:09:24,153 --> 00:09:26,067
-Detaylara bayılıyor.
+Detaylara bayılıyorlar.
 
 106
 00:09:26,167 --> 00:09:29,224
-Şimdi sürpriz: bu bir oyunculuk değil.
+Şimdi sıkı durun: Bu bir oyunculuk değil.
 
 107
 00:09:29,324 --> 00:09:36,606
-Araştırmacılara göre tepki istemsiz; hayvan adeta korkudan donup kalıyor, kalp atışı ve solunum yavaşlıyor.
+Araştırmacılara göre bu tepki istemsiz; hayvan adeta korkudan donup kalıyor, kalp atışı ve solunumu ciddi oranda yavaşlıyor.
 
 108
 00:09:36,706 --> 00:09:42,176
-Bu hal birkaç dakika sürebileceği gibi, bazı gözlemlerde saatlerce de sürmüş.
+Bu baygınlık hali birkaç dakika sürebildiği gibi, bazı gözlemlerde saatlerce devam ettiği de görülmüş.
 
 109
 00:09:42,276 --> 00:09:47,686
-Yani opossum “ölü taklidi yapayım” demiyor; vücudu onun adına karar veriyor.
+Yani opossum "hadi şimdi ölü taklidi yapayım" diye düşünmüyor; vücudu onun yerine bu kararı veriyor.
 
 110
 00:09:47,786 --> 00:09:58,181
-Dolayısıyla buna gülerken bile bir şeyi unutmamak lazım: bu, korkunun en uç noktasında devreye giren bir hayatta kalma refleksi, kimsenin keyfi değil.
+Bu yüzden buna gülerken şunu unutmamak lazım: Bu, korkunun en uç noktasında devreye giren bir hayatta kalma refleksi, kimsenin keyfi bir tercihi değil.
 
 111
 00:09:58,281 --> 00:10:06,560
-Mantık basit: birçok yırtıcı hareket eden ava ilgi duyar, kıpırdamayan ve kötü kokan ava ise isteksiz davranır.
+Mantık basit: Birçok yırtıcı hareket eden avla ilgilenir; kıpırdamayan ve pis kokan bir şeye ise iştahla yaklaşmaz.
 
 112
 00:10:06,660 --> 00:10:11,752
-Bu davranışın bilimsel adı tanatozis ve yalnızca opossuma özgü değil.
+Bu davranışın bilimsel adı "tanatozis" ve sadece opossuma özgü değil.
 
 113
 00:10:11,852 --> 00:10:17,265
-Köpekbalıkları ters çevrilince tonik hareketsizlik denilen bir hale girebiliyor.
+Köpekbalıkları ters çevrildiklerinde "tonik hareketsizlik" denilen benzer bir duruma girebiliyor.
 
 114
 00:10:17,365 --> 00:10:21,065
-Bazı kuşlar ve böcekler de benzer şekilde donuyor.
+Bazı kuşlar ve böcekler de benzer şekilde donup kalıyor.
 
 115
 00:10:21,165 --> 00:10:24,641
-Doğada bazen en iyi savunma, hiçbir şey yapmamak.
+Doğada bazen en iyi savunma, hiçbir şey yapmamaktır.
 
 116
 00:10:24,741 --> 00:10:28,272
-Pazartesi sabahı hepimizin denediği strateji.
+Pazartesi sabahı hepimizin denediği o stratejik savunma.
 
 117
 00:10:28,372 --> 00:10:36,068
-İngilizcede “playing possum”, yani opossum numarası yapmak, ölü taklidi anlamına gelen bir deyim bile oldu.
+İngilizcede "playing possum", yani opossumculuk oynamak, ölü taklidi yapmak anlamına gelen bir deyim bile olmuştur.
 
 118
 00:10:36,168 --> 00:10:42,349
-Mantık şu: yırtıcı ilgisini kaybedip dikkatini dağıtırsa, hayvanın kaçma şansı doğuyor.
+Amaç şu: Yırtıcı ilgisini kaybederse veya dikkati dağılırsa, hayvanın kaçma şansı doğar.
 
 119
 00:10:42,449 --> 00:10:45,388
@@ -476,31 +476,31 @@ Yani yavaş ama sabırlı bir kaçış planı.
 
 120
 00:10:45,488 --> 00:10:49,954
-İş hayatındaki bazı arkadaşlarımız bunu yıllardır biliyor.
+İş hayatındaki bazı uyanık arkadaşlarımız bunu yıllardır biliyor.
 
 121
 00:10:50,654 --> 00:10:54,056
-Son olarak kıyafet değil, kimlik taklit edenler.
+Son olarak, kostüm değil de kimlik taklit edenlere geliyoruz.
 
 122
 00:10:54,156 --> 00:10:56,035
-Bunun adı mimikri.
+Bunun adı "mimikri".
 
 123
 00:10:56,135 --> 00:11:10,592
-1850'lerde Amazon'da yaklaşık on bir yıl geçiren İngiliz doğa bilimci Henry Walter Bates, bazı zararsız kelebeklerin zehirli kelebeklere çok benzediğini fark etti ve 1862'de bunu yayımladı.
+1850'lerde Amazon'da yaklaşık on bir yıl geçiren İngiliz doğa bilimci Henry Walter Bates, bazı zararsız kelebeklerin zehirli türlere inanılmaz derecede benzediğini fark etti ve bu gözlemini 1862'de yayımladı.
 
 124
 00:11:10,692 --> 00:11:17,167
-Bugün buna Batesian mimikri diyoruz: zararsız olan, zararlı olanın kılığına giriyor.
+Bugün buna "Batesian mimikri" diyoruz: Zararsız olan, tehlikeli olanın kılığına girer.
 
 125
 00:11:17,267 --> 00:11:19,542
-Klasik örnek çiçek sineği.
+Bunun klasik örneği Çiçek Sineği.
 
 126
 00:11:19,642 --> 00:11:27,401
-Syrphidae ailesinden bu sineklerin iğnesi yok, ama sarı siyah çizgileriyle arı ve eşek arısı gibi görünüyorlar.
+Syrphidae ailesinden olan bu sineklerin iğnesi yoktur ama sarı-siyah çizgileriyle arı veya eşek arısı gibi görünürler.
 
 127
 00:11:27,501 --> 00:11:31,374
@@ -508,47 +508,47 @@ Yani bir sinek, kendini eşek arısı olarak pazarlıyor.
 
 128
 00:11:31,474 --> 00:11:34,365
-Sahte profil fotoğrafının doğal hali.
+Sahte profil fotoğrafının doğadaki hali.
 
 129
 00:11:34,465 --> 00:11:41,734
-Bates'in çalışması Linnean Society'nin dergisinde yayımlandı ve doğal seçilim kuramına güçlü destek olarak görüldü.
+Bates'in bu çalışması Linnean Society dergisinde yayımlandığında, doğal seçilim kuramına güçlü bir destek olarak görülmüştür.
 
 130
 00:11:41,834 --> 00:11:44,558
-Bir başka örnek yılanlardan geliyor.
+Bir başka örnek de yılanlardan geliyor.
 
 131
 00:11:44,658 --> 00:11:51,567
-Kuzey Amerika'da zararsız kral yılanları, zehirli mercan yılanlarını andıran renk halkalarına sahip.
+Kuzey Amerika'da yaşayan zehirsiz "kral yılanları", zehirli "mercan yılanlarını" andıran renk halkalarına sahiptir.
 
 132
 00:11:51,667 --> 00:12:01,526
-2001'de Nature'da yayımlanan bir çalışma, mercan yılanlarının yaşadığı bölgelerde taklitçilerin saldırıya uğramasının daha az olduğunu gösterdi.
+2001'de Nature dergisinde yayımlanan bir araştırma, mercan yılanlarının yaşadığı bölgelerde bu taklitçi yılanların daha az saldırıya uğradığını gösterdi.
 
 133
 00:12:01,626 --> 00:12:05,287
-Yani kılık, ancak orijinal piyasadaysa işe yarıyor.
+Yani kılık değiştirmek, ancak orijinali piyasadaysa işe yarıyor.
 
 134
 00:12:05,387 --> 00:12:09,361
-Sahte çanta da gerçek markası olmayan yerde satılmaz.
+Sahte çantayı, markanın orijinal mağazası olmayan yerde satamazsınız.
 
 135
 00:12:09,461 --> 00:12:21,109
-Sonra Fritz Müller, 1870'lerde Brezilya'da başka bir şey anladı: birbirine benzeyen iki zehirli tür, yırtıcıya ortak bir uyarı sinyali öğretebilir.
+Sonra, 1870'lerde Brezilya'da Fritz Müller başka bir şeyi fark etti: Birbirine benzeyen iki zehirli tür, yırtıcıya ortak bir uyarı sinyali öğretebilirdi.
 
 136
 00:12:21,209 --> 00:12:23,298
-Bu da Müllerian mimikri.
+Buna da "Müllerian mimikri" deniyor.
 
 137
 00:12:23,398 --> 00:12:27,186
-Bilimin kendini düzeltmesine de güzel bir örnek var.
+Bilimin kendini nasıl düzelttiğine dair güzel bir örnek de var.
 
 138
 00:12:27,286 --> 00:12:32,918
-Viceroy kelebeği uzun yıllar monark kelebeğinin zararsız taklitçisi sanıldı.
+Viceroy kelebeği uzun yıllar boyunca, zehirli olan Monark kelebeğinin zararsız bir taklitçisi sanıldı.
 
 139
 00:12:33,018 --> 00:12:35,547
@@ -556,19 +556,19 @@ Yıllarca yanlış etiketle yaşadı.
 
 140
 00:12:35,647 --> 00:12:44,753
-Ama 1991'de Ritland ve Brower'ın Nature dergisinde yayımlanan çalışması, viceroy'un da kuşlar için tatsız olduğunu gösterdi.
+Ancak 1991'de Ritland ve Brower'ın Nature dergisinde yayımlanan çalışması, Viceroy'un da kuşlar için en az Monark kadar tatsız olduğunu gösterdi.
 
 141
 00:12:44,853 --> 00:12:48,203
-Yani aslında ortak uyarı veriyor olabilirler.
+Yani aslında ortak bir uyarı sistemi kullanıyor olabilirler.
 
 142
 00:12:48,303 --> 00:12:51,577
-Bir de karıncayı taklit eden örümcekler var.
+Bir de karıncaları taklit eden örümcekler var.
 
 143
 00:12:51,677 --> 00:13:00,184
-Myrmarachne cinsi atlayıcı örümcekler karıncaya benzeyen bir vücut yapısına sahip ve ön bacaklarını anten gibi kaldırıyorlar.
+Myrmarachne cinsine mensup atlayıcı örümcekler, karıncaya benzeyen bir vücut yapısına sahiptir ve ön bacaklarını anten gibi havaya kaldırırlar.
 
 144
 00:13:00,284 --> 00:13:04,506
@@ -576,15 +576,15 @@ Sekiz bacaklı bir hayvan, altı bacaklı görünmeye çalışıyor.
 
 145
 00:13:04,606 --> 00:13:07,521
-Fazla çaba ama bence takdire değer.
+Biraz fazla çaba ama bence takdire şayan.
 
 146
 00:13:07,621 --> 00:13:17,476
-Orta ve Güney Amerika'da yaşayan Hemeroplanes triptolemus güvesinin tırtılı ise tehdit edildiğinde vücudunun ön kısmını şişirip yılan başına benzetiyor.
+Orta ve Güney Amerika'da yaşayan Hemeroplanes triptolemus güvesinin tırtılı ise tehdit edildiğinde vücudunun ön kısmını şişirerek bir yılan başına benzetir.
 
 147
 00:13:17,576 --> 00:13:20,126
-Tırtıl bile pazarlama yapıyor.
+Tırtıl bile olsa pazarlama şart.
 
 148
 00:13:20,826 --> 00:13:22,735
@@ -592,11 +592,11 @@ Puan Tablosu zamanı.
 
 149
 00:13:22,835 --> 00:13:28,690
-Her bölümde hayvanlara, hayatta kalma becerilerine göre on üzerinden puan veriyorum.
+Her bölümde olduğu gibi hayvanlara hayatta kalma becerilerine göre on üzerinden puan veriyorum.
 
 150
 00:13:28,790 --> 00:13:32,258
-İtiraz edenler yorumlara yazsın, okumayacağım.
+İtirazı olanlar yorumlara yazabilir, okumayacağım.
 
 151
 00:13:32,358 --> 00:13:34,470
@@ -612,7 +612,7 @@ Taklitçi ahtapot, 9 puan.
 
 154
 00:13:41,717 --> 00:13:46,509
-Bir hayvan bir günde üç kimliğe bürünüyorsa, puan kesmek bana düşmez.
+Bir hayvan günde üç farklı kimliğe bürünebiliyorsa, puan kırmak bana düşmez.
 
 155
 00:13:46,609 --> 00:13:48,933
@@ -620,7 +620,7 @@ Yaprak böceği, 8 puan.
 
 156
 00:13:49,033 --> 00:13:53,438
-Kırk yedi milyon yıl boyunca bir kostümü korumak kolay iş değil.
+Kırk yedi milyon yıl boyunca aynı kostümü korumak kolay iş değil.
 
 157
 00:13:53,538 --> 00:13:55,650
@@ -628,7 +628,7 @@ Opossum, 5 puan.
 
 158
 00:13:55,750 --> 00:14:01,484
-Stratejisi kendi iradesinde değil ve bu insanı hafif hayal kırıklığına uğratıyor.
+Stratejisi kendi iradesine bağlı değil ve bu durum insanı biraz hayal kırıklığına uğratıyor.
 
 159
 00:14:01,584 --> 00:14:03,795
@@ -636,7 +636,7 @@ Stratejisi kendi iradesinde değil ve bu insanı hafif hayal kırıklığına u�
 
 160
 00:14:03,895 --> 00:14:06,460
-İğnesiz ama pozu kusursuz.
+İğnesi yok ama pozu kusursuz.
 
 161
 00:14:06,560 --> 00:14:09,729
@@ -644,7 +644,7 @@ Karınca taklidi yapan örümcek, 7 puan.
 
 162
 00:14:09,829 --> 00:14:12,401
-Çaba var, bacak sayısı tutmuyor.
+Çaba var ama bacak sayısı tutmuyor.
 
 163
 00:14:12,501 --> 00:14:14,690
@@ -652,11 +652,11 @@ Kral yılanı, 7 puan.
 
 164
 00:14:14,790 --> 00:14:19,599
-Zehri yok, ama renk paleti kesinlikle mercan yılanından esinlenmiş.
+Zehri yok ama renk paleti kesinlikle mercan yılanından esinlenmiş.
 
 165
 00:14:19,699 --> 00:14:28,235
-Ve şimdilik en yüksek puanı bir ahtapot aldı; bir yere not edin, ileride bu ahtapotun akrabaları bizi çok daha fazla şaşırtacak.
+Ve şimdilik en yüksek puanı ahtapot aldı; bir yere not edin, ileride bu ahtapotun akrabaları bizi çok daha fazla şaşırtacak.
 
 166
 00:14:28,335 --> 00:14:31,195
@@ -664,7 +664,7 @@ Doğa adil değildir, ama komiktir.
 
 167
 00:14:31,895 --> 00:14:39,313
-Videoyu sonuna kadar izlediysen sana bir sorum var: bu hayvanlardan hangisi seni en çok şaşırttı?
+Videoyu sonuna kadar izlediysen sana bir sorum var: Bu hayvanlardan hangisi seni en çok şaşırttı?
 
 168
 00:14:39,413 --> 00:14:44,556
@@ -672,23 +672,23 @@ Bukalemun mu, taklitçi ahtapot mu, yoksa ölü numarası yapan opossum mu?
 
 169
 00:14:44,656 --> 00:14:48,706
-Cevabını yorumlara yaz, tartışmayı orada sürdürelim.
+Cevabını yorumlara yaz, tartışmayı oradan sürdürelim.
 
 170
 00:14:48,806 --> 00:14:56,202
-Bu bölüm sana bir şey kattıysa beğen butonuna bas, çünkü videonun başka insanlara ulaşmasının en kolay yolu bu.
+Bu bölüm sana bir şeyler kattıysa beğen butonuna basmayı unutma, çünkü bu, videonun başka insanlara ulaşmasının en kolay yolu.
 
 171
 00:14:56,302 --> 00:15:07,749
-Henüz abone değilsen abone ol ve zili aç, çünkü bu dizi hız kesmeden devam ediyor ve bildirimi kaçıran, sonraki bölümü kaçırır.
+Henüz abone değilsen abone ol ve bildirimleri aç, çünkü bu dizi hız kesmeden devam ediyor ve bildirimi kaçıran, sonraki bölümü kaçırır.
 
 172
 00:15:07,849 --> 00:15:08,841
-Sıradaki bölüm: aşk ve savaş.
+Sıradaki bölüm: Aşk ve Savaş.
 
 173
 00:15:08,941 --> 00:15:17,813
-Tavus kuşunun kuyruğu, çiftleşme dekoratörleri, ışıkböcekleri ve aşk uğruna ölü numarası yapan bir örümcek.
+Tavus kuşunun kuyruğu, çiftleşme dekoratörleri, ışıkböcekleri ve aşk uğruna ölü numarası yapan bir örümcek…
 
 174
 00:15:17,913 --> 00:15:19,359
@@ -701,4 +701,3 @@ Neden mi?
 176
 00:15:20,199 --> 00:15:21,925
 Cevabı sıradaki bölümde.
-
