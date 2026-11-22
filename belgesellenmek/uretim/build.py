@@ -139,5 +139,5 @@ lst=f"{D}/final_list.txt"; open(lst,"w").write("".join(f"file '{os.path.abspath(
 # fon müziği (geçici, sentezlenmiş) + birleştirme
 total=sum(dur(p) for p in parts)
 run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-f","lavfi","-i",f"sine=f=110:d={total},sine=f=165:d={total}"[:0] or f"aevalsrc=0.5*sin(2*PI*110*t)+0.35*sin(2*PI*165*t)+0.25*sin(2*PI*220.5*t):s=44100:d={total}",
-    "-filter_complex","[1:a]lowpass=f=400,tremolo=f=0.18:d=0.4,volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:normalize=0[a]","-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","160k",f"cikti/bolum{ep}.mp4")
+    "-filter_complex","[1:a]lowpass=f=400,tremolo=f=0.18:d=0.4,volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.89:attack=5:release=60[a]","-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","160k",f"cikti/bolum{ep}.mp4")
 print("TAMAM",round(total/60,2),"dk")
