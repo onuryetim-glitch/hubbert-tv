@@ -171,7 +171,7 @@ for s in scenes:
         nt=c[2][0].replace("Sıradaki: ","") if not final else ""; nw=c[3][0] if not final else ""
         pat,ts_,ev=endcard.anim(ep,s["text"],L,sp,nt,nw,final=final,tfun=lambda w,dflt: (lambda i: dflt if i<0 else sync.time_at(s['text'],i,si[0],si[1]))(s['text'].lower().find(w)))
         ins+=["-framerate","30","-itsoffset",f"{ts_:.3f}","-i",pat]; vf+=f";[v1][{idx}:v]overlay=0:0:eof_action=pass[v2]"; vlast="v2"; idx+=1; sfx+=ev
-    af="[1:a]apad=pad_dur=1,aresample=44100,volume=0.78[n]"; names=["[n]"]
+    af="[1:a]apad=pad_dur=1,aresample=44100,volume=0.62[n]"; names=["[n]"]
     for k,(t_,f_,vol) in enumerate(sfx):
         ins+=["-i",f"assets/{f_}"]; ms=max(0,int(t_*1000)); af+=f";[{idx}:a]aresample=44100,adelay={ms}|{ms},volume={vol}[s{k}]"; names.append(f"[s{k}]"); idx+=1
     af+=f";{''.join(names)}amix=inputs={len(names)}:duration=first:normalize=0[aout]"

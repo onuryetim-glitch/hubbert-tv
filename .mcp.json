@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "coverr": {
+      "type": "http",
+      "url": "https://mcp.coverr.co/mcp"
+    }
+  }
+}
