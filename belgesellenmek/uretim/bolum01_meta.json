@@ -1,0 +1,47 @@
+{
+ "scoreboard_scene": 7,
+ "scores": [
+  [
+   "Bukalemun",
+   6
+  ],
+  [
+   "Taklitçi ahtapot",
+   9
+  ],
+  [
+   "Yaprak böceği",
+   8
+  ],
+  [
+   "Opossum",
+   5
+  ],
+  [
+   "Çiçek sineği",
+   8
+  ],
+  [
+   "Karınca örümceği",
+   7
+  ],
+  [
+   "Kral yılanı",
+   7
+  ]
+ ],
+ "no_title": [
+  7,
+  8
+ ],
+ "titles": {
+  "1": "Soğuk Açılış: Bu Bir Yaprak Değil",
+  "2": "1. Sanık: Bukalemun",
+  "3": "2. Sanık: Taklitçi Ahtapot",
+  "4": "Yaprak Böceği ve Kuru Yaprak Kelebeği",
+  "5": "Opossum: Ölü Taklidi mi?",
+  "6": "Taklitçi Böcekler",
+  "7": "",
+  "8": ""
+ }
+}

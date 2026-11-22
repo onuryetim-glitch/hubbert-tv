@@ -1,0 +1,10 @@
+{
+ "1": {"video": ["leaf insect walking", "Phyllium leaf insect"], "image": ["dead leaf forest floor", "leaf insect Phyllium"]},
+ "2": {"video": ["chameleon color change", "Furcifer pardalis"], "image": ["panther chameleon", "veiled chameleon"]},
+ "3": {"video": ["mimic octopus", "Thaumoctopus mimicus"], "image": ["mimic octopus Thaumoctopus mimicus", "lionfish", "sea snake banded"]},
+ "4": {"video": ["leaf insect", "Kallima butterfly"], "image": ["Eophyllium messelensis fossil", "Kallima inachus dead leaf butterfly", "Phylliidae leaf insect"]},
+ "5": {"video": ["opossum playing dead", "Virginia opossum"], "image": ["Virginia opossum Didelphis virginiana", "opossum playing dead"]},
+ "6": {"video": ["hoverfly", "Myrmarachne ant mimic spider"], "image": ["hoverfly wasp mimicry", "viceroy butterfly monarch", "Myrmarachne jumping spider", "Henry Walter Bates"]},
+ "7": {"video": [], "image": []},
+ "8": {"video": ["peacock tail display", "bowerbird"], "image": ["peacock", "satin bowerbird bower blue", "firefly"]}
+}
