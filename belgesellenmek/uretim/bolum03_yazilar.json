@@ -1,0 +1,135 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Ağırlığı yaklaşık on iki gram;",
+  "text": "Kamışçın\nyaklaşık 12 gram",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Kamışçın bunların hiçbirini fark etmiyor.",
+  "text": "Neden fark etmiyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Tavus kuşu kuyruğuyla, bower kuşu",
+  "text": "Aşkın ardından\nsıra çocuklarda",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "İşte o kuşak bugünün konusu.",
+  "text": "Aşktan sonra ne gelir?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Tüm işlem yaklaşık on saniye sürer.",
+  "text": "Yumurta takası\nyaklaşık 10 saniye",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Bu davranışı 1788'de ilk yazıya döken",
+  "text": "İlk kayıt: 1788\nEdward Jenner",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Peki konak neden hâlâ besliyor?",
+  "text": "Konak neden\nhâlâ besliyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Dişi tek bir yumurta bırakıyor;",
+  "text": "Tek yumurta\nyaklaşık 450 gram",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Erkek ise yerinde kalıyor.",
+  "text": "Erkek yaklaşık 65 gün\nayakta bekliyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Peki ya gecikirse? Erkek, yemek",
+  "text": "Dişi gecikirse\nyavru ne yer?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "\"Erkek hamile kalıyor\" cümlesi büyük oranda",
+  "text": "Erkek gerçekten\nhamile mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Süre türe göre yaklaşık iki",
+  "text": "Gebelik: 2-4 hafta\n(türe göre)",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Bazı türlerde erkek, doğumdan sonraki saatler",
+  "text": "Bazı türlerde: doğumdan\nsaatler sonra yeni yumurta",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Nehir kenarında kuma bir yuva kazıp",
+  "text": "Nil timsahı\n25-80 yumurta gömer",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Sonra yavruları ağzında, dil ve damak",
+  "text": "Yavruları ağzında\nnasıl taşıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Yaklaşık üç, dört ay sonra, kurbağacık evresini",
+  "text": "Surinam kurbağası\nceplerde 3-4 ay gelişir",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Sık verilen tahminlere göre, yumurtadan çıkanların",
+  "text": "Tahmine göre yavruların\nbinde biri erişkin olur",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Bir dişinin yumurtalığında yaklaşık üç yüz milyon",
+  "text": "Ay balığı\n300 milyon yumurta",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Ama yatırımın uç noktasını görmek ister misiniz?",
+  "text": "Yumurtasını kaç yıl\nbekler bir anne?",
+  "kind": "hook",
+  "side": "left"
+ }
+]

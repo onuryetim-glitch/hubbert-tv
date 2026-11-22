@@ -1,0 +1,156 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Okyanusun ortalama derinliği yaklaşık üç bin",
+  "text": "Ortalama okyanus derinliği\nyaklaşık 3.700 metre",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Üstelik bu dünya, gezegenimizin yaşanabilir hacminin",
+  "text": "Yaşanabilir alanın\nne kadarı karanlık?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "bir ahtapot anne, yaklaşık bin dört yüz",
+  "text": "Ahtapot anne\n1.400 m derinlikte",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bugün o adrese gidiyoruz.",
+  "text": "Derinlere iniyoruz.\nHazır mısınız?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Her on metre derinlikte yaklaşık bir atmosfer",
+  "text": "Her 10 metrede\n+1 atmosfer basınç",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Dünyanın bilinen en derin noktası, Pasifik'teki",
+  "text": "Challenger Deep\nyaklaşık 10.900 metre",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Peki oradaki hayvanlar neden ezilmiyor?",
+  "text": "Hayvanlar neden\nezilmiyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Bu bezde yaşayan biyolüminesan bakteriler",
+  "text": "Fener balığının ışığını\nbakteriler üretir",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Monterey Körfezi'nde yapılan bir çalışma,",
+  "text": "Hayvanların yaklaşık %76'sı\nbiyolüminesans yapıyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Bazı balık ve kalamarlar karınlarından, üstten",
+  "text": "Işıkla görünmez\nolmak mümkün mü?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Adını 1903'te Alman zoolog Carl Chun koydu.",
+  "text": "Vampyroteuthis infernalis\n1903'te adlandırıldı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Kan emiyor mu? Hayır. Araştırmacıların gözlemine göre",
+  "text": "Gerçekten kan\nemiyor mu?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "İkincisi, mürekkep yerine kol uçlarından parlayan",
+  "text": "Mürekkep yerine\nparlayan mavi mukus",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Sırada bir efsane: dev kalamar, Architeuthis.",
+  "text": "Efsane gerçekten\nvar mıydı?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Doğal ortamında ilk fotoğrafları 2004'te,",
+  "text": "Doğal ortamda ilk fotoğraf\n2004'te çekildi",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Göz çapı ise yaklaşık yirmi yedi santimetreyle",
+  "text": "Göz çapı yaklaşık\n27 santimetre",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "1987'de Craig Smith ve ekibi Kaliforniya açıklarında,",
+  "text": "İlk balina leşi\n1987'de incelendi",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Bir tahmine göre, kırk tonluk bir balina leşi,",
+  "text": "Tahmine göre 40 tonluk leş\n2.000 yıllık karbon getirir",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Bu şölenin en tuhaf konuğu Osedax, yani",
+  "text": "En tuhaf konuk kim?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "1977'de, Galápagos Fayı'nın yaklaşık iki bin",
+  "text": "1977, Galápagos Fayı\nBacalarda canlı topluluğu",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Dev tüp solucan, Riftia pachyptila, iki metreye",
+  "text": "Riftia pachyptila\n2 metreye kadar uzar",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Hepsi güneşten bağımsız bir yaşam gibi görünüyor,",
+  "text": "Gerçekten güneşsiz mi?",
+  "kind": "hook",
+  "side": "left"
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Aşağıda bir karga, trafik ışığının yeşil olmasını bekliyor.",
+  "text": "Karga trafik ışığını\nneden bekliyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Aramızda. Tam olarak sokağınızda.",
+  "text": "Vahşi yaşam artık\nsokağımızda",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "ve bir doğan şahininin saatte üç yüzü",
+  "text": "Doğan şahini: saatte\n300 km üstü dalış",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Ve evet, kurtların puanını vermiştim,",
+  "text": "Yusufçuğun 10'una\nitiraz var mı?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Londra'da tilkiler, 1930'lardan itibaren şehirli hayatı",
+  "text": "Londra tilkileri\n1930'lardan beri şehirli",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Cevizi yola bırakıyorlar, arabaların üstünden geçip",
+  "text": "Karga cevizi neden\nyola bırakıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Chicago'da ise kojotlar var.",
+  "text": "Chicago kojotları\ngeceleri daha aktif",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "1963'te alt kırk sekiz eyalette sadece yaklaşık",
+  "text": "Kel kartal: 1963'te\n417 yuvalama çifti",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Bugün sayısı beş yüzü aşıyor",
+  "text": "Kaliforniya kondoru:\n27 kuştan 500'ün üzerine",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Elbette bunlar cilalı bir mutlu son değil.",
+  "text": "Koruma gerçekten\nişe yarıyor mu?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "2024'te WWF'nin yayımladığı Yaşayan Gezegen Raporu'na göre,",
+  "text": "WWF 2024: 1970-2020 arası\nortalama yüzde 73 düşüş",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Üstelik düşüş her yerde aynı değil:",
+  "text": "Düşüş her yerde\naynı mı?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Son bireyi, Martha adındaki dişi, 1914'te",
+  "text": "Son yolcu güvercini\nMartha, 1914'te öldü",
+  "kind": "fact",
+  "side": "left"
+ }
+]

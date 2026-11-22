@@ -1,0 +1,135 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Peki ne yapıyor? Kaçıyor mu? Hayır.",
+  "text": "Ceylan neden zıplıyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Adı \"stotting\". Araştırmalar, bunun yırtıcıya",
+  "text": "Bu zıplamanın adı\nstotting",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "koala günün büyük kısmını, yaklaşık yirmi saate",
+  "text": "Koala günün yaklaşık\n20 saatini uyuyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bu bölümde de hırsızlıkla karşılaşacağız.",
+  "text": "Hırsızlık yine\nsahnede mi?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Çitanın 100 metreyi 5,95 saniyede koştuğu",
+  "text": "100 metre: 5,95 saniye\nCincinnati, 2012",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Sonuç? Kaydedilen en yüksek hız saatte",
+  "text": "Vahşi doğada en yüksek hız\nsaatte yaklaşık 93 km",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Peki av yakalandıktan sonra?",
+  "text": "Av yakalandıktan sonra\nne oluyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Ve araştırmalara göre aslanların avlanma başarısı",
+  "text": "Aslanın av başarısı\nkabaca dörtte bir",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Ama doğanın bütün avcıları arasında bir hayvan",
+  "text": "Avcıların şampiyonu\nbir böcek mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Araştırmalara göre yusufçuklar, kovaladıkları avların yüzde",
+  "text": "Yusufçuk: yüzde 90'dan\nfazla başarı",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "İlk önemli gerçek: orka bir balina değil,",
+  "text": "Orka balina değil\nYunus ailesinin en büyüğü",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Yani orkalarda av becerisi öğretiliyor.",
+  "text": "Orkalar avlanmayı\nokulda mı öğreniyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Orkalar beyaz köpekbalıklarını avladı ve karaciğerlerini yedi.",
+  "text": "Güney Afrika: orkalar\nbeyaz köpekbalığı avladı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Altmış yıldan uzun süre, Yellowstone kurtsuz yaşadı.",
+  "text": "Yellowstone 60 yıldan\nuzun süre kurtsuz kaldı",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Sonra, 1995 ve 1996'da, Kanada'dan toplam 31",
+  "text": "1995-96: Kanada'dan\n31 kurt getirildi",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "İşte burada bir itiraf yapmam gerek.",
+  "text": "Kurtlar nehri\ngerçekten değiştirdi mi?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Avını yakalamak için yüksekten dalışa geçiyor",
+  "text": "Doğan şahini dalışta\n320 km/sa'yı aşıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Akdeniz'deki Eleonora doğanı, yavrularını yazın",
+  "text": "Üremeyi göç zamanına mı\nayarlıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Moğolistan'da ise Kazak avcılar, eğitimli dişi altın",
+  "text": "Kazak şahinciliği:\nUNESCO kültürel mirası",
+  "kind": "fact",
+  "side": "left"
+ }
+]
