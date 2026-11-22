@@ -76,13 +76,13 @@ def anim(ep,text_,L,sp,next_title,next_when,final=False,ayrac=""):
                     for k in (1,2): 
                         a=int(200*max(0,math.sin(v*9+k))*(1-v/2.6)); 
                         if a>0: dd.arc((930-62-k*14,441-62-k*14,930+62+k*14,441+62+k*14),200,250,fill=(255,200,40,a),width=4); dd.arc((930-62-k*14,441-62-k*14,930+62+k*14,441+62+k*14),290,340,fill=(255,200,40,a),width=4)
-        # alt kart: sıradaki bölüm
+        # alt kart: sıradaki bölüm (iki satır: başlık + teaser)
         if t>=tn:
-            u=t-tn; y=int(595+(130)*(1-eo(u/0.5))); pill(cv,(60,y,1220,y+100),(18,16,14,215),r=26)
-            dd.rounded_rectangle((60,y,1220,y+100),26,outline=(201,150,62,255),width=3)
+            u=t-tn; y=int(572+170*(1-eo(u/0.5))); pill(cv,(60,y,1220,y+132),(18,16,14,222),r=26)
+            dd.rounded_rectangle((60,y,1220,y+132),26,outline=(201,150,62,255),width=3)
             if final:
-                text(cv,(100,y+12),"SERİ FİNALİ",24,GOLD); text(cv,(100,y+42),"İzlediğin için teşekkürler!",38,(255,255,255)); text(cv,(1180,y+52),"2. Sezon yakında",40,GOLD,anchor="rm")
+                text(cv,(100,y+12),"SERİ FİNALİ",22,GOLD); text(cv,(100,y+40),"İzlediğin için teşekkürler!",38,(255,255,255)); text(cv,(100,y+86),"2. Sezon yakında",32,GOLD)
             else:
-                text(cv,(100,y+12),"SIRADAKİ BÖLÜM",24,GOLD); text(cv,(100,y+42),next_title[:40],38,(255,255,255)); text(cv,(1180,y+52),next_when,32,GOLD,anchor="rm")
+                text(cv,(100,y+12),"SIRADAKİ BÖLÜM",22,GOLD); text(cv,(100,y+40),next_title[:46],38,(255,255,255)); text(cv,(100,y+86),next_when[:60],32,GOLD)
         cv.save(f"{d}/f_{i:04d}.png")
     return f"{d}/f_%04d.png",t_start,ev
