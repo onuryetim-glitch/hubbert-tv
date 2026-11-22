@@ -3,3 +3,4 @@ medya/
 klipler/
 cikti/
 __pycache__/
+*.log
