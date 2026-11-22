@@ -1,4 +1,4 @@
-import sys,os,re,json,wave,subprocess,random
+import shutil,sys,os,re,json,wave,subprocess,random
 from PIL import Image,ImageDraw,ImageFont
 from sahneler import parse
 ep=sys.argv[1]; W,H,FPS=1280,720,30
@@ -56,8 +56,8 @@ def tabledraw(path,rows,n):
 def yazilar(ep,n,text,L,sp):
     """bolumNN_yazilar.json: sağdan/soldan kayan ekran yazıları -> drawtext filtreleri"""
     f=f"bolum{ep}_yazilar.json"
-    if not os.path.exists(f): return []
-    out=[]; tot=max(1,len(text))
+    if not os.path.exists(f): return [],[]
+    out=[]; sfx=[]; tot=max(1,len(text))
     for j,c in enumerate([c for c in json.load(open(f)) if c["scene"]==n]):
         i=text.find(c["anchor"])
         if i<0: continue
@@ -70,12 +70,13 @@ def yazilar(ep,n,text,L,sp):
             xt="40"; x=f"if(lt(t,{t0}+{a}),-text_w+(40+text_w)*(1-pow(1-(t-{t0})/{a},3)),if(gt(t,{t1}-{b}),40-(40+text_w)*(t-({t1}-{b}))/{b},40))"
         else:
             x=f"if(lt(t,{t0}+{a}),w-(text_w+40)*(1-pow(1-(t-{t0})/{a},3)),if(gt(t,{t1}-{b}),w-text_w-40+(text_w+40)*(t-({t1}-{b}))/{b},w-text_w-40))"
-        out.append(f"drawtext=fontfile={BOLD}:textfile={tf}:fontsize=34:fontcolor={col}:line_spacing=10:box=1:boxcolor=black@0.68:boxborderw=16:x='{x}':y=120:enable='between(t,{t0},{t1})'")
-    return out
+        sfx+=[(t0,"sfx_whoosh_in.wav",0.45),(t0+0.32,"sfx_soru.wav" if c.get("kind")=="hook" else "sfx_ding.wav",0.5),(t1-0.35,"sfx_whoosh_out.wav",0.35)]
+        out.append(f"drawtext=fontfile={BOLD}:textfile={tf}:fontsize=34:fontcolor={col}:line_spacing=10:box=1:boxcolor=black@0.68:boxborderw=16:x='{x}':y=190:enable='between(t,{t0},{t1})'")
+    return out,sfx
 scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
 for s in scenes:
-    n=s["n"]; a=f"ses/b{ep}/s{n}.wav"; L=dur(a)+0.6
+    n=s["n"]; a=f"ses2/b{ep}/s{n}.wav" if os.path.exists(f"ses2/b{ep}/s{n}.wav") else f"ses/b{ep}/s{n}.wav"; L=dur(a)+0.6
     sp=f"{D}/s{n}"
     if os.path.exists(f"{sp}.mp4") and str(n) not in os.environ.get("FORCE","").split(","):
         parts.append(f"{sp}.mp4")
@@ -110,14 +111,23 @@ for s in scenes:
     raw=f"{sp}_raw.mp4"; run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-c","copy",raw)
     ttl=META["titles"].get(str(n),s["title"]); tf=f"{sp}_title.txt"; open(tf,"w",encoding="utf-8").write(ttl)
     ov=f"drawbox=x=0:y=ih-150:w=iw:h=80:color=black@0.55:t=fill:enable='between(t,0.5,4.5)',drawtext=fontfile={BOLD}:textfile={tf}:fontsize=40:fontcolor=white:x=60:y=h-130:enable='between(t,0.5,4.5)'" if n not in META["no_title"] else "null"
+    caps,sfx=yazilar(ep,n,s["text"],L,sp)
+    base=([ov] if ov!="null" else [])+caps
+    vchain=",".join(base) if base else "null"
+    ins=["-i",raw,"-i",a,"-i","assets/kanal_logo_130.png"]; idx=3
+    vf=f"[0:v]{vchain}[v0];[v0][2:v]overlay=W-w-22:14[v1]"; vlast="v1"
     if n==META.get("cta_scene"):
-        c=META["cta"]; fs=[]
-        for j,(txt,sz,col,y) in enumerate(c):
-            fn=f"{sp}_cta{j}.txt"; open(fn,"w",encoding="utf-8").write(txt); fs.append(f"drawtext=fontfile={BOLD}:textfile={fn}:fontsize={sz}:fontcolor={col}:x=(w-text_w)/2:y={y}:enable='gte(t,3)'")
-        ov="drawbox=x=140:y=170:w=1000:h=380:color=black@0.62:t=fill:enable='gte(t,3)',"+",".join(fs)
-    bug=f"drawtext=fontfile={BOLD}:text='DOĞA ADİL DEĞİLDİR  •  {int(ep)}/10':fontsize=22:fontcolor=white@0.75:x=w-text_w-28:y=22:shadowcolor=black@0.6:shadowx=1:shadowy=1"
-    ov=",".join(p for p in ([ov] if ov!="null" else [])+yazilar(ep,n,s["text"],L,sp)+[bug])
-    out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error","-i",raw,"-i",a,"-vf",ov,"-af","apad=pad_dur=1,aresample=44100","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
+        import endcard
+        c=META["cta"]; final=(int(ep)==10)
+        nt=c[2][0].replace("Sıradaki: ","") if not final else ""; nw=c[3][0] if not final else ""
+        pat,ts_,ev=endcard.anim(ep,s["text"],L,sp,nt,nw,final=final)
+        ins+=["-framerate","30","-itsoffset",f"{ts_:.3f}","-i",pat]; vf+=f";[v1][{idx}:v]overlay=0:0:eof_action=pass[v2]"; vlast="v2"; idx+=1; sfx+=ev
+    af="[1:a]apad=pad_dur=1,aresample=44100[n]"; names=["[n]"]
+    for k,(t_,f_,vol) in enumerate(sfx):
+        ins+=["-i",f"assets/{f_}"]; ms=max(0,int(t_*1000)); af+=f";[{idx}:a]aresample=44100,adelay={ms}|{ms},volume={vol}[s{k}]"; names.append(f"[s{k}]"); idx+=1
+    af+=f";{''.join(names)}amix=inputs={len(names)}:duration=first:normalize=0[aout]"
+    out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error",*ins,"-filter_complex",vf+";"+af,"-map",f"[{vlast}]","-map","[aout]","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
+    if n==META.get("cta_scene"): shutil.rmtree(f"{sp}_end",ignore_errors=True)
     parts.append(out)
     # altyazı: cümleleri karakter oranıyla dağıt
     sents=[x.strip() for x in re.split(r"(?<=[.!?…])\s+",s["text"]) if x.strip()]; tc=sum(len(x) for x in sents); tt=t0+0.1; span=L-0.8
