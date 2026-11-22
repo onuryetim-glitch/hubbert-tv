@@ -53,7 +53,7 @@ def tabledraw(path,rows,n):
         d.text((1160,y),f"{pt}",font=font(34),fill=(255,255,255)); y+=step
     im.save(path)
 
-def yazilar(ep,n,text,L,sp):
+def yazilar(ep,n,text,L,sp,si=None):
     """bolumNN_yazilar.json: sağdan/soldan kayan ekran yazıları -> drawtext filtreleri"""
     f=f"bolum{ep}_yazilar.json"
     if not os.path.exists(f): return [],[]
@@ -61,7 +61,7 @@ def yazilar(ep,n,text,L,sp):
     for j,c in enumerate([c for c in json.load(open(f)) if c["scene"]==n]):
         i=text.find(c["anchor"])
         if i<0: continue
-        t0=0.3+(L-0.8)*i/tot; t1=min(t0+5.2,L-0.3)
+        t0=(sync.time_at(text,i,si[0],si[1]) if si else 0.3+(L-0.8)*i/tot); t1=min(t0+5.2,L-0.3)
         if t1-t0<2.0: t0=max(0.3,t1-2.0)
         tf=f"{sp}_yz{j}.txt"; open(tf,"w",encoding="utf-8").write(c["text"])
         col="0xFFC828" if c.get("kind")=="hook" else "white"
@@ -73,16 +73,63 @@ def yazilar(ep,n,text,L,sp):
         sfx+=[(t0,"sfx_whoosh_in.wav",0.45),(t0+0.32,"sfx_soru.wav" if c.get("kind")=="hook" else "sfx_ding.wav",0.5),(t1-0.35,"sfx_whoosh_out.wav",0.35)]
         out.append(f"drawtext=fontfile={BOLD}:textfile={tf}:fontsize=34:fontcolor={col}:line_spacing=10:box=1:boxcolor=black@0.68:boxborderw=16:x='{x}':y=190:enable='between(t,{t0},{t1})'")
     return out,sfx
+import sync
+PLAN=json.load(open(f"bolum{ep}_plan.json")) if os.path.exists(f"bolum{ep}_plan.json") else None
+SP2TAG={"Phyllium":"leafinsect","Phyllium giganteum":"leafinsect","Kallima inachus":"kallima","Furcifer pardalis":"chameleon","Chamaeleo calyptratus":"chameleon","Trioceros jacksonii":"chameleon","Thaumoctopus mimicus":"octopus","Pterois volitans":"lionfish","Laticauda colubrina":"seasnake","Didelphis virginiana":"opossum","Didelphis marsupialis":"opossum","Eristalis tenax":"hoverfly","Vespula vulgaris":"wasp","Limenitis archippus":"viceroy","Danaus plexippus":"monarch","Myrmarachne":"spider","Lampropeltis triangulum":"snake","Pavo cristatus":"peacock","Ptilonorhynchus violaceus":"bowerbird","Photinus pyralis":"fireflies","Hemeroplanes":"caterpillar"}
+def tag_of(m):
+    if m.get("kaynak")=="kullanici":
+        mm=re.match(r"s\d+_([a-zA-Z]+)\d*\.mp4",os.path.basename(m["file"])); return mm.group(1).lower() if mm else None
+    return SP2TAG.get(m.get("query",""))
+BLOCK=set(PLAN.get("engelle",[])) if PLAN else set()
+POOL=[dict(m,_tag=tag_of(m)) for m in man if os.path.basename(m["file"]) not in BLOCK]
+USE={}
+SPANS={}
+def spans_for(n,text,a,adur):
+    if n not in SPANS: SPANS[n]=sync.sentence_spans(text,a,adur)
+    return SPANS[n]
+def plan_segments(n,s,L,a,adur,sp):
+    shots=PLAN["scenes"][str(n)]; sents,spans=spans_for(n,s["text"],a,adur)
+    def tp(x): i=min(len(spans)-1,int(x)-1); fr=x-int(x); p,q=spans[i]; return p+(q-p)*fr
+    starts=[0.0]+[tp(sh["s"]) for sh in shots[1:]]; ends=starts[1:]+[L]
+    segs=[]; gaps=[]
+    for k,(sh,a0,b0) in enumerate(zip(shots,starts,ends)):
+        Dsh=max(0.5,b0-a0)
+        if sh.get("kart"):
+            p=f"{sp}_k{k}.png"; sync.card(p,sh["kart"]["baslik"],sh["kart"].get("satirlar",[]),sh["kart"].get("etiket","BİLGİ"),logo=sh["kart"].get("logo",False))
+            o=f"{sp}_p{k}.mp4"; seg_image(p,o,Dsh,k); segs.append(o); continue
+        tags=sh["tags"]
+        vids=[m for t in tags for m in POOL if m["kind"]=="video" and m["_tag"]==t]
+        imgs=[m for t in tags for m in POOL if m["kind"]=="image" and m["_tag"]==t]
+        pieces=[]
+        if not vids and not imgs:
+            gaps.append((n,k,tags)); p=f"{sp}_k{k}.png"
+            yk=sh.get("yedek_kart")
+            if yk: sync.card(p,yk["baslik"],yk.get("satirlar",[]),yk.get("etiket","BİLGİ"))
+            else: sync.card(p,"DOĞA ADİL DEĞİLDİR",[],"",logo=True)
+            o=f"{sp}_p{k}.mp4"; seg_image(p,o,Dsh,k); segs.append(o); continue
+        rem=Dsh; j=0
+        order=vids+imgs if vids else imgs
+        while rem>0.04:
+            m=order[j%len(order)]; j+=1
+            full=6.0 if m["kind"]=="video" else 3.6
+            secs=min(full,rem)
+            if rem-secs<1.3: secs=rem
+            secs=max(0.1,round(secs*30)/30)
+            o=f"{sp}_p{k}_{j}.mp4"; u=USE.get(m["file"],0); USE[m["file"]]=u+1
+            if m["kind"]=="video": seg_video(m["file"],o,secs,j,u)
+            else: seg_image(m["file"],o,secs,j+u)
+            segs.append(o); rem-=secs
+    return segs,gaps
+GAPS=[]
 scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
 for s in scenes:
-    n=s["n"]; a=f"ses2/b{ep}/s{n}.wav" if os.path.exists(f"ses2/b{ep}/s{n}.wav") else f"ses/b{ep}/s{n}.wav"; L=dur(a)+0.6
+    n=s["n"]; a=(f"ses2/b{ep}/s{n}.wav" if os.environ.get("SES2") and os.path.exists(f"ses2/b{ep}/s{n}.wav") else f"ses/b{ep}/s{n}.wav"); adur=dur(a); L=adur+0.6
     sp=f"{D}/s{n}"
     if os.path.exists(f"{sp}.mp4") and str(n) not in os.environ.get("FORCE","").split(","):
         parts.append(f"{sp}.mp4")
-        sents=[x.strip() for x in re.split(r"(?<=[.!?…])\s+",s["text"]) if x.strip()]; tc=sum(len(x) for x in sents); tt=t0+0.1; span=L-0.8
-        for x in sents:
-            d_=span*len(x)/tc; srt.append((tt,tt+d_,x)); tt+=d_
+        ss_,sp_=spans_for(n,s["text"],a,adur)
+        for x,(p_,q_) in zip(ss_,sp_): srt.append((t0+p_+0.05,t0+q_-0.05,x))
         t0+=L; print("sahne",n,"önbellekten",flush=True); continue
     segs=[]; media=[m for m in man if m["scene"]==n]
     vids=[m for m in media if m["kind"]=="video"]; imgs=[m for m in media if m["kind"]=="image"]
@@ -98,6 +145,8 @@ for s in scenes:
         rows=META["scores"]; k=len(rows); per=L/(k+1)
         for i in range(k+1):
             p=f"{sp}_t{i}.png"; tabledraw(p,rows,i); run("ffmpeg","-y","-loglevel","error","-loop","1","-i",p,"-t",f"{per:.3f}","-vf","fps=30,format=yuv420p","-c:v","libx264","-preset","veryfast",f"{sp}_t{i}.mp4"); segs.append(f"{sp}_t{i}.mp4")
+    elif PLAN and str(n) in PLAN["scenes"]:
+        segs,gp=plan_segments(n,s,L,a,adur,sp); GAPS.extend(gp)
     elif not order:
         p=f"{sp}_c.png"; card(p,[s["title"]]); seg_image(p,f"{sp}_c.mp4",L,0); segs=[f"{sp}_c.mp4"]
     else:
@@ -111,7 +160,7 @@ for s in scenes:
     raw=f"{sp}_raw.mp4"; run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-c","copy",raw)
     ttl=META["titles"].get(str(n),s["title"]); tf=f"{sp}_title.txt"; open(tf,"w",encoding="utf-8").write(ttl)
     ov=f"drawbox=x=0:y=ih-150:w=iw:h=80:color=black@0.55:t=fill:enable='between(t,0.5,4.5)',drawtext=fontfile={BOLD}:textfile={tf}:fontsize=40:fontcolor=white:x=60:y=h-130:enable='between(t,0.5,4.5)'" if n not in META["no_title"] else "null"
-    caps,sfx=yazilar(ep,n,s["text"],L,sp)
+    si=spans_for(n,s["text"],a,adur); caps,sfx=yazilar(ep,n,s["text"],L,sp,si)
     base=([ov] if ov!="null" else [])+caps
     vchain=",".join(base) if base else "null"
     ins=["-i",raw,"-i",a,"-i","assets/kanal_logo_130.png"]; idx=3
@@ -120,19 +169,17 @@ for s in scenes:
         import endcard
         c=META["cta"]; final=(int(ep)==10)
         nt=c[2][0].replace("Sıradaki: ","") if not final else ""; nw=c[3][0] if not final else ""
-        pat,ts_,ev=endcard.anim(ep,s["text"],L,sp,nt,nw,final=final)
+        pat,ts_,ev=endcard.anim(ep,s["text"],L,sp,nt,nw,final=final,tfun=lambda w,dflt: (lambda i: dflt if i<0 else sync.time_at(s['text'],i,si[0],si[1]))(s['text'].lower().find(w)))
         ins+=["-framerate","30","-itsoffset",f"{ts_:.3f}","-i",pat]; vf+=f";[v1][{idx}:v]overlay=0:0:eof_action=pass[v2]"; vlast="v2"; idx+=1; sfx+=ev
-    af="[1:a]apad=pad_dur=1,aresample=44100[n]"; names=["[n]"]
+    af="[1:a]apad=pad_dur=1,aresample=44100,volume=0.78[n]"; names=["[n]"]
     for k,(t_,f_,vol) in enumerate(sfx):
         ins+=["-i",f"assets/{f_}"]; ms=max(0,int(t_*1000)); af+=f";[{idx}:a]aresample=44100,adelay={ms}|{ms},volume={vol}[s{k}]"; names.append(f"[s{k}]"); idx+=1
     af+=f";{''.join(names)}amix=inputs={len(names)}:duration=first:normalize=0[aout]"
     out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error",*ins,"-filter_complex",vf+";"+af,"-map",f"[{vlast}]","-map","[aout]","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
     if n==META.get("cta_scene"): shutil.rmtree(f"{sp}_end",ignore_errors=True)
     parts.append(out)
-    # altyazı: cümleleri karakter oranıyla dağıt
-    sents=[x.strip() for x in re.split(r"(?<=[.!?…])\s+",s["text"]) if x.strip()]; tc=sum(len(x) for x in sents); tt=t0+0.1; span=L-0.8
-    for x in sents:
-        d_=span*len(x)/tc; srt.append((tt,tt+d_,x)); tt+=d_
+    # altyazı: gerçek cümle zamanları
+    for x,(p_,q_) in zip(si[0],si[1]): srt.append((t0+p_+0.05,t0+q_-0.05,x))
     t0+=L; print("sahne",n,round(L,1),"sn",len(segs),"klip",flush=True)
 open(f"cikti/bolum{ep}.srt","w",encoding="utf-8").write("".join(f"{i+1}\n{hms(a)} --> {hms(b)}\n{x}\n\n" for i,(a,b,x) in enumerate(srt)))
 lst=f"{D}/final_list.txt"; open(lst,"w").write("".join(f"file '{os.path.abspath(x)}'\n" for x in parts))
@@ -141,3 +188,4 @@ total=sum(dur(p) for p in parts)
 run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-f","lavfi","-i",f"sine=f=110:d={total},sine=f=165:d={total}"[:0] or f"aevalsrc=0.5*sin(2*PI*110*t)+0.35*sin(2*PI*165*t)+0.25*sin(2*PI*220.5*t):s=44100:d={total}",
     "-filter_complex","[1:a]lowpass=f=400,tremolo=f=0.18:d=0.4,volume=0.045[m];[0:a][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.8:attack=5:release=60:level=0[a]","-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","160k",f"cikti/bolum{ep}.mp4")
 print("TAMAM",round(total/60,2),"dk")
+if GAPS: print("MEDYA YOK (boşluk kartı):",GAPS)

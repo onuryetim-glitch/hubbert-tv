@@ -1,0 +1,330 @@
+{
+ "engelle": [
+  "s02_chameleon3.mp4",
+  "s03_octopus3.mp4"
+ ],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "leafinsect"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 1: Aldatmaca Ustaları"
+     ],
+     "etiket": "KANALIMIZA HOŞ GELDİNİZ",
+     "logo": true
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "octopus",
+     "chameleon"
+    ]
+   },
+   {
+    "s": 10.0,
+    "tags": [
+     "chameleon"
+    ]
+   },
+   {
+    "s": 10.35,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 10.7,
+    "tags": [
+     "opossum"
+    ]
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Anlatılanların hepsi bilimsel olarak belgelenmiş gerçekler",
+     "satirlar": [
+      "Espriler benden, bilgiler bilimden."
+     ],
+     "etiket": "SÖZ"
+    }
+   },
+   {
+    "s": 13.0,
+    "tags": [
+     "leafinsect"
+    ]
+   },
+   {
+    "s": 13.25,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 13.5,
+    "tags": [
+     "hoverfly"
+    ]
+   },
+   {
+    "s": 13.78,
+    "tags": [
+     "opossum"
+    ]
+   },
+   {
+    "s": 14,
+    "tags": [
+     "leafinsect",
+     "chameleon",
+     "octopus"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "chameleon"
+    ]
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Panter bukalemunu",
+     "satirlar": [
+      "Derisinde guanin nanokristalleri taşıyan hücreler",
+      "Sakin: sık dizili kristaller → mavi",
+      "Heyecanlı: aralık açılır → sarı / kırmızı"
+     ],
+     "etiket": "MEKANİZMA"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "chameleon"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "lionfish"
+    ]
+   },
+   {
+    "s": 12,
+    "tags": [
+     "seasnake"
+    ]
+   },
+   {
+    "s": 14,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Ahtapotun sinir sistemi",
+     "satirlar": [
+      "Yaklaşık 500 milyon nöron (tahmin)",
+      "Büyük bölümü beyinde değil, kollarda"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "octopus"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "leafinsect"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Eophyllium messelensis",
+     "satirlar": [
+      "Bilinen en eski yaprak böceği fosili",
+      "Yaklaşık 47 milyon yıllık • Messel, Almanya",
+      "PNAS, 2007"
+     ],
+     "etiket": "FOSİL"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "leafinsect"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "kallima"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "Alfred Russel Wallace",
+     "satirlar": [
+      "Darwinism, 1889",
+      "Kuru yaprak kelebeği: koruyucu benzerlik örneği"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "kallima"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "opossum"
+    ]
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "Tanatozis",
+     "satirlar": [
+      "Ölü taklidinin bilimsel adı",
+      "Köpekbalıklarında: tonik hareketsizlik",
+      "Bazı kuşlarda ve böceklerde de görülür"
+     ],
+     "etiket": "KAVRAM"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "opossum"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "monarch"
+    ]
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Henry Walter Bates",
+     "satirlar": [
+      "1850'ler, Amazon: yaklaşık 11 yıl",
+      "Batesian mimikri: zararsız olan, zararlıyı taklit eder"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "hoverfly"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "wasp",
+     "hoverfly"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "snake"
+    ]
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Fritz Müller",
+     "satirlar": [
+      "1870'ler, Brezilya",
+      "Müllerian mimikri: iki zehirli tür ortak uyarı verir"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "monarch",
+     "viceroy"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "spider"
+    ]
+   },
+   {
+    "s": 24,
+    "tags": [
+     "caterpillar"
+    ],
+    "yedek_kart": {
+     "baslik": "Hemeroplanes triptolemus tırtılı",
+     "satirlar": [
+      "Tehdit edilince ön kısmını şişirir",
+      "Yılan başına benzetir"
+     ],
+     "etiket": "TIRTIL"
+    }
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "peacock",
+     "fireflies"
+    ]
+   }
+  ]
+ }
+}
