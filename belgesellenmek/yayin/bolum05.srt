@@ -1,564 +1,572 @@
 1
-00:00:00,100 --> 00:00:01,509
+00:00:00,100 --> 00:00:01,493
 Japonya, Sendai kenti.
 
 2
-00:00:01,509 --> 00:00:04,391
+00:00:01,493 --> 00:00:04,341
 Kırmızı ışık yanıyor, arabalar sıraya girmiş.
 
 3
-00:00:04,391 --> 00:00:07,402
+00:00:04,341 --> 00:00:07,316
 Kaldırımdaki bir karga gagasında ceviz taşıyor.
 
 4
-00:00:07,402 --> 00:00:13,038
+00:00:07,316 --> 00:00:12,887
 Sakin sakin yola iniyor, cevizi tekerleklerin geçeceği yere bırakıyor ve geri çekiliyor.
 
 5
-00:00:13,038 --> 00:00:16,817
+00:00:12,887 --> 00:00:16,622
 Işık yeşile dönüyor, araçlar cevizin üstünden geçiyor, çıt.
 
 6
-00:00:16,817 --> 00:00:17,778
+00:00:16,622 --> 00:00:17,571
 Karga bekliyor.
 
 7
-00:00:17,778 --> 00:00:23,414
+00:00:17,571 --> 00:00:23,142
 Yayalara yeşil yandığı an yola dönüyor, kırılmış cevizi topluyor ve kaldırıma çekiliyor.
 
 8
-00:00:23,414 --> 00:00:29,242
+00:00:23,142 --> 00:00:28,903
 Bu bir internet efsanesi değil; Japon araştırmacılar bu davranışı bilimsel olarak kaydetti.
 
 9
-00:00:29,242 --> 00:00:34,879
+00:00:28,903 --> 00:00:34,473
 Yani bir kuş, trafik ışıklarını ve araba trafiğini kendi ceviz kırma makinesine çevirdi.
 
 10
-00:00:34,879 --> 00:00:39,298
+00:00:34,473 --> 00:00:38,841
 Siz en son kırmızı ışıkta bekleyip bundan ne kazandınız, bir düşünün.
 
 11
-00:00:39,298 --> 00:00:43,974
-Ben Anlatıcı: yorgun, her şeyi görmüş, artık hiçbir şeye şaşırmayan biri.
+00:00:38,841 --> 00:00:40,360
+Kanalımıza hoş geldiniz.
 
 12
-00:00:43,974 --> 00:00:46,087
+00:00:40,360 --> 00:00:42,449
 Doğa adil değildir, ama komiktir.
 
 13
-00:00:46,087 --> 00:00:49,418
-Hoş geldiniz, Doğanın Gerçekleri'nin beşinci bölümü.
+00:00:42,449 --> 00:00:45,488
+Bu, Doğa Adil Değildir dizisinin beşinci bölümü.
 
 14
-00:00:49,418 --> 00:00:50,699
+00:00:45,488 --> 00:00:46,754
 Bugünün konusu zekâ.
 
 15
-00:00:50,699 --> 00:00:55,887
+00:00:46,754 --> 00:00:51,881
 Ve şimdiden uyarayım: bu bölümün sonunda kendinizi biraz küçük hissedebilirsiniz.
 
 16
-00:00:56,687 --> 00:01:01,539
+00:00:52,681 --> 00:00:57,533
 Önceki bölümde okyanusun güneş ışığının hiç uğramadığı karanlık köşelerine indik.
 
 17
-00:01:01,539 --> 00:01:10,225
+00:00:57,533 --> 00:01:06,220
 Işıklı oltasıyla av bekleyen fener balığını, vampir kalamarı ve bir balina leşinin uzun yıllar boyunca koca bir ekosisteme sofra olduğunu gördük.
 
 18
-00:01:10,225 --> 00:01:12,202
+00:01:06,220 --> 00:01:08,196
 Karanlıkta hayatta kalmak zor iş.
 
 19
-00:01:12,202 --> 00:01:15,257
+00:01:08,196 --> 00:01:11,252
 Hatırlayın, karanlıkta görünmek bile bir beceriydi.
 
 20
-00:01:15,257 --> 00:01:22,026
+00:01:11,252 --> 00:01:18,021
 Bugün yüzeye çıkıyoruz, çünkü bu kez soru şu: hayatta kalmak için beyin gerekir mi, yoksa sadece iyi bir şans mı?
 
 21
-00:01:22,826 --> 00:01:26,559
+00:01:18,821 --> 00:01:22,553
 İlk konuğumuz, Pasifik'teki Yeni Kaledonya adasının kargası.
 
 22
-00:01:26,559 --> 00:01:30,105
+00:01:22,553 --> 00:01:26,099
 Bu kuş dallardan ve pandanus yapraklarından alet yapıyor.
 
 23
-00:01:30,105 --> 00:01:35,579
+00:01:26,099 --> 00:01:31,574
 Dalın ucunu kancaya çeviriyor, ağaç çatlaklarına sokup böcek larvalarını dışarı çekiyor.
 
 24
-00:01:35,579 --> 00:01:45,035
+00:01:31,574 --> 00:01:41,029
 Araştırmacılar, farklı bölgelerdeki kargaların alet tasarımlarının birbirinden farklı olduğunu da kaydetti; yani ortada bir tür kültürel çeşitlilik var.
 
 25
-00:01:45,035 --> 00:01:53,557
+00:01:41,029 --> 00:01:49,552
 Üstelik aletini işi bitince çöpe atmıyor, çoğu zaman yanında taşıyıp sonra yeniden kullanıyor; kısacası kargaların alet çantası bile var.
 
 26
-00:01:53,557 --> 00:02:04,319
+00:01:49,552 --> 00:02:00,314
 Yetişkin kargalar olmadan, insan eliyle büyütülen genç kargaların bile alet yapımına yöneldiği 2005'te Nature dergisinde bildirildi; yani bu yetenek kısmen doğuştan geliyor.
 
 27
-00:02:04,319 --> 00:02:05,999
+00:02:00,314 --> 00:02:01,994
 Şimdi laboratuvara geçelim.
 
 28
-00:02:05,999 --> 00:02:07,616
+00:02:01,994 --> 00:02:03,611
 Oxford Üniversitesi, 2002.
 
 29
-00:02:07,616 --> 00:02:09,732
+00:02:03,611 --> 00:02:05,726
 Karşımızda Betty adında bir karga.
 
 30
-00:02:09,732 --> 00:02:14,273
+00:02:05,726 --> 00:02:10,267
 Dikey bir tüpün dibinde, küçük bir kovanın içinde bir et parçası duruyor.
 
 31
-00:02:14,273 --> 00:02:17,508
+00:02:10,267 --> 00:02:13,502
 Kovayı yukarı çekmek için kancalı bir tel gerekiyor.
 
 32
-00:02:17,508 --> 00:02:21,178
+00:02:13,502 --> 00:02:17,172
 Sorun şu: arkadaşı Abel kancalı teli çoktan kapıp götürmüş.
 
 33
-00:02:21,178 --> 00:02:24,039
+00:02:17,172 --> 00:02:20,034
 Evet, kuşlar arasında alet hırsızlığı yaşandı.
 
 34
-00:02:24,039 --> 00:02:26,777
+00:02:20,034 --> 00:02:22,771
 Betty'nin elinde yalnızca düz bir tel kaldı.
 
 35
-00:02:26,777 --> 00:02:27,896
+00:02:22,771 --> 00:02:23,891
 Ne yaptı dersiniz?
 
 36
-00:02:27,896 --> 00:02:34,366
+00:02:23,891 --> 00:02:30,361
 Teli bir çıkıntıya sıkıştırdı, gagasıyla büküp kendi kancasını yaptı, kovayı çekti ve et parçasını yedi.
 
 37
-00:02:34,366 --> 00:02:36,792
+00:02:30,361 --> 00:02:32,787
 Bu sonuç Science dergisinde yayımlandı.
 
 38
-00:02:36,792 --> 00:02:41,271
+00:02:32,787 --> 00:02:37,266
 Bir de Ezop'un masalı var: susamış karga, testiye taş atar, su yükselir.
 
 39
-00:02:41,271 --> 00:02:43,635
+00:02:37,266 --> 00:02:39,630
 Bilim insanları bunu gerçekten denedi.
 
 40
-00:02:43,635 --> 00:02:50,851
+00:02:39,630 --> 00:02:46,846
 Ekin kargası denen bir tür, suyun üstünde yüzen bir solucana ulaşmak için taşları tüpe attı ve su seviyesi yükseldi.
 
 41
-00:02:50,851 --> 00:02:59,561
+00:02:46,846 --> 00:02:55,555
 Daha sonraki çalışmalarda Yeni Kaledonya kargaları, benzer su problemlerinde beş ila yedi yaş çocukların başardığı düzeye yakın sonuç verdi.
 
 42
-00:02:59,561 --> 00:03:14,366
+00:02:55,555 --> 00:03:10,361
 "Kuş beyinli" lafı uzun zamandır hakaret sayılırdı, ama 2016'da PNAS dergisinde yayımlanan bir çalışma, kargagillerin ve papağanların ön beyinlerinde, aynı büyüklükteki birçok memeli beynine göre çok daha fazla nöron bulunduğunu gösterdi.
 
 43
-00:03:14,366 --> 00:03:16,668
+00:03:10,361 --> 00:03:12,662
 Yani "kuş beyinli" artık bir iltifat.
 
 44
-00:03:16,668 --> 00:03:22,764
+00:03:12,662 --> 00:03:18,759
 Karşınızda bir ilkokul öğrencisi var; tek farkı tüylü olması ve ödevi hâlâ kimseye kopyalatmaması.
 
 45
-00:03:23,564 --> 00:03:27,821
+00:03:19,559 --> 00:03:23,816
 Şimdi kargaların daha ürkütücü bir yeteneğine geliyoruz: yüz hafızası.
 
 46
-00:03:27,821 --> 00:03:38,950
+00:03:23,816 --> 00:03:34,944
 Seattle'daki Washington Üniversitesi'nde ornitolog John Marzluff ve ekibi, 2006'dan itibaren yabani Amerikan kargalarını yakalayıp halkalarken tehlikeli diye seçilmiş bir maske taktı.
 
 47
-00:03:38,950 --> 00:03:42,173
+00:03:34,944 --> 00:03:38,167
 Başka bir maske ise masumdu ve kimseyi yakalamıyordu.
 
 48
-00:03:42,173 --> 00:03:42,537
+00:03:38,167 --> 00:03:38,532
 Sonuç?
 
 49
-00:03:42,537 --> 00:03:49,105
+00:03:38,532 --> 00:03:45,100
 Yıllar boyunca, tehlikeli maskeyi gören kargalar bağırdı, havadan dalış yaptı, maskeyi takanı rahatsız etti.
 
 50
-00:03:49,105 --> 00:03:52,328
+00:03:45,100 --> 00:03:48,323
 Masum maskeyi takanlara ise tek bir çıkış yapmadılar.
 
 51
-00:03:52,328 --> 00:04:01,511
+00:03:48,323 --> 00:03:57,505
 Sonraki bir çalışmada kargaların beyin aktivitesi görüntülendi ve tehlikeli yüzü görünce korku ve öğrenmeyle ilgili bölgelerin devreye girdiği görüldü.
 
 52
-00:04:01,511 --> 00:04:08,078
+00:03:57,505 --> 00:04:04,073
 İşin en ilginç kısmı şu: o maskeyle hiç yakalanmamış kargalar da zamanla aynı maskeye tepki vermeye başladı.
 
 53
-00:04:08,078 --> 00:04:11,909
+00:04:04,073 --> 00:04:07,904
 Araştırmacılar bilginin diğer kargalara aktarıldığını bildirdi.
 
 54
-00:04:11,909 --> 00:04:19,328
+00:04:07,904 --> 00:04:15,323
 Araştırmacılar, yakalanmanın birkaç dakikalık bir olay olduğunu, kargaların tepkisinin ise yıllarca sürdüğünü de not etti.
 
 55
-00:04:19,328 --> 00:04:22,491
+00:04:15,323 --> 00:04:18,485
 Yani kargalar sadece unutmuyor, dedikodu da yapıyor.
 
 56
-00:04:22,491 --> 00:04:27,234
+00:04:18,485 --> 00:04:23,228
 Bir kargayı kızdırırsanız mahalledeki bütün kargalar sizin yüzünüzü öğreniyor.
 
 57
-00:04:27,234 --> 00:04:35,443
+00:04:23,228 --> 00:04:31,438
 Üstelik olaydan sonra doğan kargaların da aynı maskeye tepki verdiği bildirildi; yani kuşun kızgınlığı bir tür aile mirasına dönüşüyor.
 
 58
-00:04:35,443 --> 00:04:38,910
+00:04:31,438 --> 00:04:34,904
 Siz en son bir kuşa ne yaptınız, bir hatırlamaya çalışın.
 
 59
-00:04:38,910 --> 00:04:39,274
+00:04:34,904 --> 00:04:35,269
 Neyse.
 
 60
-00:04:39,274 --> 00:04:43,592
+00:04:35,269 --> 00:04:39,587
 Bir sonraki durağımız, beynini kollarına dağıtmış sekiz kollu bir dahi.
 
 61
-00:04:44,392 --> 00:04:46,984
+00:04:40,387 --> 00:04:42,978
 Gelelim omurgasızların gururuna: ahtapot.
 
 62
-00:04:46,984 --> 00:04:55,137
+00:04:42,978 --> 00:04:51,132
 Ortak ahtapotun yaklaşık 500 milyon nöronu olduğu aktarılır ve bu nöronların yaklaşık üçte ikisi beyinde değil, kollarda bulunur.
 
 63
-00:04:55,137 --> 00:04:59,562
+00:04:51,132 --> 00:04:55,556
 Yani kolların önemli bir kısmı, her kararı merkeze sormadan verebilir.
 
 64
-00:04:59,562 --> 00:05:02,848
+00:04:55,556 --> 00:04:58,843
 Siz bir kolunuzu bile uykuda ezmeden yatamıyorsunuz.
 
 65
-00:05:02,848 --> 00:05:10,244
+00:04:58,843 --> 00:05:06,238
 Üstelik ahtapotun üç kalbi var ve kanı mavi; bunun nedeni, oksijeni demir yerine bakır içeren bir proteinle taşıması.
 
 66
-00:05:10,244 --> 00:05:16,248
+00:05:06,238 --> 00:05:12,243
 İlk bölümde taklitçi ahtapotla tanışmıştık; kamuflaj ustası, aynı zamanda problem çözücü çıktı.
 
 67
-00:05:16,248 --> 00:05:19,409
+00:05:12,243 --> 00:05:15,403
 Zaten bu kadar yetenek tek kişide toplanmamalıydı.
 
 68
-00:05:19,409 --> 00:05:27,057
+00:05:15,403 --> 00:05:23,051
 Bir de iskelet meselesi var: ahtapotun sert tek parçası gagası ve gagasının geçtiği her boşluktan bütün vücudu geçebilir.
 
 69
-00:05:27,057 --> 00:05:36,727
+00:05:23,051 --> 00:05:32,722
 Laboratuvar deneylerinde ahtapotlar, içinde yengeç bulunan vidalı bir kavanozun kapağını açmayı öğrendi; bu, 1990'da yayımlanan bir çalışmada kaydedildi.
 
 70
-00:05:36,727 --> 00:05:48,041
+00:05:32,722 --> 00:05:44,036
 Daha da iyisi: Endonezya sularında yaşayan benekli ahtapot, hindistancevizi kabuğu bulduğunda onu yarıya bölüp parçaları yanında taşıyor ve tehlike gelince içine girip saklanıyor.
 
 71
-00:05:48,041 --> 00:05:55,184
+00:05:44,036 --> 00:05:51,178
 Araştırmacılar bunu 2009'da Current Biology dergisinde, omurgasızlarda alet kullanımının örneği olarak yayımladı.
 
 72
-00:05:55,184 --> 00:05:57,017
+00:05:51,178 --> 00:05:53,011
 Bir de Inky'nin hikâyesi var.
 
 73
-00:05:57,017 --> 00:06:07,066
+00:05:53,011 --> 00:06:03,061
 2016'da Yeni Zelanda'daki bir akvaryumda Inky adlı ahtapot, tankın kapağındaki bir boşluktan çıktı, yerde ilerledi, bir drenaj borusuna girdi ve denize ulaştı.
 
 74
-00:06:07,066 --> 00:06:09,342
+00:06:03,061 --> 00:06:05,336
 Akvaryum yetkilileri bunu doğruladı.
 
 75
-00:06:09,342 --> 00:06:13,956
+00:06:05,336 --> 00:06:09,951
 Yani ahtapot hapisten kaçtı, güvenlik müdürü hâlâ nasıl olduğunu soruyor.
 
 76
-00:06:13,956 --> 00:06:19,897
+00:06:09,951 --> 00:06:15,892
 Ama işin kötü tarafı şu: bu kadar zekâya rağmen ortak ahtapotun ömrü yaklaşık bir ila iki yıl.
 
 77
-00:06:19,897 --> 00:06:21,983
+00:06:15,892 --> 00:06:17,978
 Doğa adil değildir, ama komiktir.
 
 78
-00:06:21,983 --> 00:06:23,563
+00:06:17,978 --> 00:06:19,558
 Bu sefer pek komik değil.
 
 79
-00:06:24,363 --> 00:06:28,620
+00:06:20,358 --> 00:06:24,615
 Şempanzelere gelince, hikâye 1960'ta Tanzanya'daki Gombe'de başladı.
 
 80
-00:06:28,620 --> 00:06:36,883
+00:06:24,615 --> 00:06:32,877
 Jane Goodall, David Greybeard adlı bir erkek şempanzenin bir ot sapını termit yuvasına sokup yapışan termitleri yediğini gözlemledi.
 
 81
-00:06:36,883 --> 00:06:39,825
+00:06:32,877 --> 00:06:35,819
 Bu hem alet kullanımı hem de alet hazırlamaktı.
 
 82
-00:06:39,825 --> 00:06:51,092
+00:06:35,819 --> 00:06:47,086
 Anlatılana göre hocası Louis Leakey bu habere şöyle yanıt verdi: ya aleti yeniden tanımlamalıyız, ya insanı yeniden tanımlamalıyız, ya da şempanzeleri insan olarak kabul etmeliyiz.
 
 83
-00:06:51,092 --> 00:06:55,786
+00:06:47,086 --> 00:06:51,781
 Bilim dünyası ilk ikisinden birini seçti ve şempanzeler hâlâ maaş alamıyor.
 
 84
-00:06:55,786 --> 00:07:02,922
+00:06:51,781 --> 00:06:58,917
 Genetik tarafı da hatırlayalım: şempanze ile insan, tek harflik DNA farkları düzeyinde yaklaşık yüzde 98,8 benzer.
 
 85
-00:07:02,922 --> 00:07:06,553
+00:06:58,917 --> 00:07:02,547
 Yani aynı ailedeniz, sadece biz biraz fazla mobilya aldık.
 
 86
-00:07:06,553 --> 00:07:07,617
+00:07:02,547 --> 00:07:03,612
 Bir de Ayumu var.
 
 87
-00:07:07,617 --> 00:07:10,684
+00:07:03,612 --> 00:07:06,679
 Kyoto Üniversitesi'nde yaşayan genç bir şempanze.
 
 88
-00:07:10,684 --> 00:07:24,706
+00:07:06,679 --> 00:07:20,700
 Araştırmacılar ekranda bir ile dokuz arası sayıları saniyenin kabaca beşte biri kadar bir sürede gösterdi, sayılar sonra beyaz karelerle kapandı ve katılımcılardan sayıların yerlerini sırayla dokunarak hatırlamaları istendi.
 
 89
-00:07:24,706 --> 00:07:28,774
+00:07:20,700 --> 00:07:24,769
 Ayumu, aynı testi yapan insan yetişkinlerden daha iyi sonuç aldı.
 
 90
-00:07:28,774 --> 00:07:31,842
+00:07:24,769 --> 00:07:27,836
 Bu çalışma 2007'de Current Biology'de yayımlandı.
 
 91
-00:07:31,842 --> 00:07:45,300
+00:07:27,836 --> 00:07:41,294
 Bir de kültür var: 1999'da Nature dergisinde yayımlanan bir çalışma, farklı şempanze toplulukları arasında en az 39 davranış kalıbının değiştiğini, yani her topluluğun kendi alışkanlıklarını geliştirdiğini bildirdi.
 
 92
-00:07:45,300 --> 00:07:55,315
+00:07:41,294 --> 00:07:51,309
 Fildişi Sahili'ndeki Taï Ormanı'nda ise şempanzeler taşla fındık kırıyor ve arkeolojik kanıtlar bu alışkanlığın yaklaşık 4.300 yıl öncesine uzandığını gösterdi.
 
 93
-00:07:55,315 --> 00:08:01,136
+00:07:51,309 --> 00:07:57,131
 Dürüst olalım: bu kısa süreli görsel hafıza testiydi, her konuda insandan akıllı demek değil.
 
 94
-00:08:01,136 --> 00:08:12,278
+00:07:57,131 --> 00:08:08,273
 Ama özetleyelim: bir şempanze, ekranda saniyenin beşte biri kadar parlayan rakamların yerlerini hatırlıyor, siz ise elinizdeki telefonu aramak için başka bir telefon arıyorsunuz.
 
 95
-00:08:13,078 --> 00:08:14,074
+00:08:09,073 --> 00:08:10,069
 Sıra yunuslarda.
 
 96
-00:08:14,074 --> 00:08:21,047
+00:08:10,069 --> 00:08:17,042
 Şişe burunlu yunuslar, yavruluğundan itibaren kendilerine özgü bir ıslık geliştiriyor; buna imza ıslığı deniyor.
 
 97
-00:08:21,047 --> 00:08:23,102
+00:08:17,042 --> 00:08:19,096
 Bu ıslık bir isim gibi çalışıyor.
 
 98
-00:08:23,102 --> 00:08:30,946
+00:08:19,096 --> 00:08:26,941
 2013'te PNAS dergisinde yayımlanan bir çalışmada, yabani yunuslara bir yunusun imza ıslığının sentetik bir kopyası dinletildi.
 
 99
-00:08:30,946 --> 00:08:37,047
+00:08:26,941 --> 00:08:33,042
 Hayvanlar kendi ıslıklarının kopyasına yanıt verdi, başkalarının ıslığına aynı tepkiyi göstermedi.
 
 100
-00:08:37,047 --> 00:08:44,020
+00:08:33,042 --> 00:08:40,015
 Bu çalışmalar, Florida'daki Sarasota Körfezi'nde onlarca yıldır izlenen yunus topluluğunun verilerine dayanıyor.
 
 101
-00:08:44,020 --> 00:08:46,573
+00:08:40,015 --> 00:08:42,567
 Yani yunuslar birbirini isimle çağırıyor.
 
 102
-00:08:46,573 --> 00:08:51,055
+00:08:42,567 --> 00:08:47,050
 Siz ise ofiste yeni biriyle tanışıp adını üç saniye sonra unutuyorsunuz.
 
 103
-00:08:51,055 --> 00:08:52,425
+00:08:47,050 --> 00:08:48,419
 Filler de bu işte iyi.
 
 104
-00:08:52,425 --> 00:09:00,394
+00:08:48,419 --> 00:08:56,388
 Afrika filinin beyni yaklaşık beş kilo; nöron sayısının yaklaşık 257 milyar olduğu hesaplandı, ama bunun büyük kısmı beyincikte.
 
 105
-00:09:00,394 --> 00:09:03,320
+00:08:56,388 --> 00:08:59,315
 Yani sayı büyük, ama zekâ sayıdan ibaret değil.
 
 106
-00:09:03,320 --> 00:09:10,293
+00:08:59,315 --> 00:09:06,287
 2006'da Bronx Hayvanat Bahçesi'nde Happy adlı dişi Asya filinin başına, aynada görülebilecek bir işaret konuldu.
 
 107
-00:09:10,293 --> 00:09:13,157
+00:09:06,287 --> 00:09:09,151
 Happy aynaya bakıp işarete hortumuyla dokundu.
 
 108
-00:09:13,157 --> 00:09:19,133
+00:09:09,151 --> 00:09:15,128
 Bu, aynada kendini tanıma testi ve geçen hayvan sayısı çok az: büyük maymunlar, yunuslar ve fil.
 
 109
-00:09:19,133 --> 00:09:29,717
+00:09:15,128 --> 00:09:25,712
 Fillerle ilgili ciddi bir konu da var: araştırmalar, Afrika fillerinin ölmüş fillerin kafatasına ve fildişine başka nesnelere göre daha fazla ilgi gösterdiğini belgeledi.
 
 110
-00:09:29,717 --> 00:09:34,884
+00:09:25,712 --> 00:09:30,879
 Bu, ölümü bir şekilde fark ettiklerini düşündürüyor ve bu konuda şaka yapmayacağım.
 
 111
-00:09:34,884 --> 00:09:40,176
+00:09:30,879 --> 00:09:36,171
 Son olarak saksağan: Avrasya saksağanı da aynada kendi vücudundaki işareti fark etti.
 
 112
-00:09:40,176 --> 00:09:46,900
+00:09:36,171 --> 00:09:42,895
 Bu çalışma 2008'de PLoS Biology'de yayımlandı ve yazarlarından biri Türk kökenli nörobilimci Onur Güntürkün.
 
 113
-00:09:46,900 --> 00:09:52,254
+00:09:42,895 --> 00:09:48,249
 Kuşların beyni memelilerinkinden farklı kurulmuş, ama bu bile sonuçları değiştirmemiş.
 
 114
-00:09:52,254 --> 00:09:58,355
+00:09:48,249 --> 00:09:54,350
 Yani bir kuş, aynada kendini tanıyor; bazı insanlar ise sabah aynada kendini tanımakta zorlanıyor.
 
 115
-00:09:59,155 --> 00:10:02,013
+00:09:55,150 --> 00:09:58,007
 Son konuğumuz: Alex, bir Afrika gri papağanı.
 
 116
-00:10:02,013 --> 00:10:08,553
+00:09:58,007 --> 00:10:04,548
 Bilim insanı Irene Pepperberg onu 1977'de bir evcil hayvan dükkânından aldı ve yıllarca onunla çalıştı.
 
 117
-00:10:08,553 --> 00:10:20,047
+00:10:04,548 --> 00:10:16,041
 Alex yaklaşık yüz kelime biliyordu, onlarca nesneyi, yedi rengi ve beş şekli tanıyordu, nesneleri renk, şekil ve malzemeye göre adlandırabiliyor, altıya kadar nesneyi sayabiliyordu.
 
 118
-00:10:20,047 --> 00:10:25,381
+00:10:16,041 --> 00:10:21,375
 Bir keresinde aynada kendine bakıp hangi renk olduğunu sordu ve cevabı öğrendi: gri.
 
 119
-00:10:25,381 --> 00:10:38,398
+00:10:21,375 --> 00:10:34,393
 Pepperberg'in çalışması, papağanların yalnızca taklit etmediğini, kelimeleri anlamlarıyla ilişkilendirebildiğini gösterdi; kuşlar kontrollü testlerde daha önce görmediği nesnelerle de doğru yanıtlar verdi.
 
 120
-00:10:38,398 --> 00:10:40,303
+00:10:34,393 --> 00:10:36,298
 Alex 2007'de, 31 yaşında öldü.
 
 121
-00:10:40,303 --> 00:10:46,653
+00:10:36,298 --> 00:10:42,648
 Pepperberg'e söylediği son sözlerin, "Sen iyi ol, yarın görüşürüz, seni seviyorum" olduğu aktarılır.
 
 122
-00:10:46,653 --> 00:10:48,241
+00:10:42,648 --> 00:10:44,235
 Burada şaka yapmayacağım.
 
 123
-00:10:48,241 --> 00:10:49,574
+00:10:44,235 --> 00:10:45,569
 Zekâyı ölçmek zor iş.
 
 124
-00:10:49,574 --> 00:11:01,195
+00:10:45,569 --> 00:10:57,189
 Bilim insanları, bir hayvanın zekâsını insana benzeyip benzemediğine göre değil, kendi yaşam şartlarında neyi ne kadar iyi yaptığına göre değerlendirmenin daha adil olduğunu söylüyor.
 
 125
-00:11:01,195 --> 00:11:07,608
+00:10:57,189 --> 00:11:03,603
 Yani balığa ağaca tırmanma testi yapıp budala demek, sınav sorusundan çok sınavı hazırlayanın sorunu.
 
 126
-00:11:07,608 --> 00:11:09,323
+00:11:03,603 --> 00:11:05,317
 Şimdi, Puan Tablosu zamanı.
 
 127
-00:11:09,323 --> 00:11:12,180
+00:11:05,317 --> 00:11:08,175
 Bu bölümün kahramanı: Yeni Kaledonya kargası.
 
 128
-00:11:12,180 --> 00:11:14,403
+00:11:08,175 --> 00:11:10,397
 Hayatta kalma puanı 10 üzerinden 9.
 
 129
-00:11:14,403 --> 00:11:14,784
+00:11:10,397 --> 00:11:10,778
 Neden?
 
 130
-00:11:14,784 --> 00:11:19,927
+00:11:10,778 --> 00:11:15,922
 Alet yapıyor, yüz hatırlıyor, dedikodu yapıyor, trafiği ceviz kırıcıya çeviriyor.
 
 131
-00:11:19,927 --> 00:11:23,483
+00:11:15,922 --> 00:11:19,478
 Ekranda yazıyor: Alet yapımı 10, hafıza 10, dedikodu 10.
 
 132
-00:11:23,483 --> 00:11:27,674
+00:11:19,478 --> 00:11:23,669
 Bir puan kırıyoruz, çünkü hâlâ cevizi arabaların altına bırakıyor.
 
 133
-00:11:27,674 --> 00:11:29,770
+00:11:23,669 --> 00:11:25,764
 Doğa adil değildir, ama komiktir.
 
 134
-00:11:30,570 --> 00:11:35,363
-Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
+00:11:26,564 --> 00:11:28,724
+Sence en zeki hayvan hangisiydi?
 
 135
-00:11:35,363 --> 00:11:43,374
-Sıradaki bölümde Süper Güçler var: yumruğuyla suyu kaynatan karides, ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı.
+00:11:28,724 --> 00:11:32,907
+Karga mı, ahtapot mu, şempanze mi, yoksa Alex adlı papağan mı?
 
 136
-00:11:43,374 --> 00:11:43,899
-Kaçırma!
+00:11:32,907 --> 00:11:36,079
+İtirazlarını yorumlara yaz, hepsini okuyacağız.
 
 137
-00:11:43,899 --> 00:11:45,935
-Bu akşam saat 19:00'da yayında.
+00:11:36,079 --> 00:11:38,710
+Videoyu beğendiysen beğen butonuna bas.
 
 138
-00:11:45,935 --> 00:11:53,880
-Bu arada yorumlarda hangi hayvanın sizce en zeki olduğunu yazın; karga yazarsanız, kargalar bunu kesinlikle hatırlayacak.
+00:11:38,710 --> 00:11:41,477
+Henüz abone değilsen abone ol ve zili aç.
 
 139
-00:11:53,880 --> 00:11:57,754
-Zekâ güzel, ama bazı hayvanlar zekâya hiç ihtiyaç duymuyor.
+00:11:41,477 --> 00:11:44,986
+Sıradaki bölüm bu akşam saat 19:00'da: süper güçler.
 
 140
-00:11:57,754 --> 00:12:04,977
-Onların elinde bir yumruk var, ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor.
+00:11:44,986 --> 00:11:54,028
+Yumruğunu saniyenin binde birkaçında vuran bir karides, kendini yeniden başlatan ölümsüz denizanası ve uzaya çıkıp sağ dönen su ayısı.
 
 141
-00:12:04,977 --> 00:12:05,962
-Bu akşam 19:00.
+00:11:54,028 --> 00:11:57,672
+Zekâ güzel, ama bazı hayvanlarda zekâ yok, yumruk var.
+
+142
+00:11:57,672 --> 00:12:03,003
+Ve o yumruk, suyun içinde patlayan baloncuklarla ikinci bir darbe daha vuruyor.
+
+143
+00:12:03,003 --> 00:12:04,892
+Bu akşam 19:00'da görüşürüz.
 

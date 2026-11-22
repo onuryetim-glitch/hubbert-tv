@@ -1,53 +1,53 @@
 1
-00:00:00,100 --> 00:00:03,762
+00:00:00,100 --> 00:00:03,775
 Şu anda Dünya'da yaklaşık yirmi katrilyon karınca yaşıyor.
 
 2
-00:00:03,762 --> 00:00:04,772
+00:00:03,775 --> 00:00:04,789
 Evet, katrilyon.
 
 3
-00:00:04,772 --> 00:00:09,571
+00:00:04,789 --> 00:00:09,605
 Sıfırları saymayı bıraktım, çünkü karıncalar da sayılmaya pek izin vermiyor.
 
 4
-00:00:09,571 --> 00:00:18,726
+00:00:09,605 --> 00:00:18,794
 2022'de yayımlanan bir araştırmaya göre bu karıncaların toplam kuru karbon kütlesi, yabani kuşların ve yabani memelilerin toplamından daha fazla.
 
 5
-00:00:18,726 --> 00:00:22,451
+00:00:18,794 --> 00:00:22,533
 Yani gezegenin gerçek sahibi ne bir aslan ne de bir kartal.
 
 6
-00:00:22,451 --> 00:00:25,734
+00:00:22,533 --> 00:00:25,828
 Pazar sabahı mutfakta şekerin başına dizilen o sıra.
 
 7
-00:00:25,734 --> 00:00:28,891
+00:00:25,828 --> 00:00:28,996
 Tek bir karınca, dürüst olalım, pek bir şey değil.
 
 8
-00:00:28,891 --> 00:00:31,669
+00:00:28,996 --> 00:00:31,785
 Ama bir araya geldiklerinde işler değişiyor.
 
 9
-00:00:31,669 --> 00:00:33,374
-Hoş geldiniz, ben Anlatıcı.
+00:00:31,785 --> 00:00:33,306
+Kanalımıza hoş geldiniz.
 
 10
-00:00:33,374 --> 00:00:36,594
+00:00:33,306 --> 00:00:36,537
 Bugün kalabalığın neden güçlü olduğunu konuşacağız.
 
 11
-00:00:36,594 --> 00:00:37,731
+00:00:36,537 --> 00:00:37,678
 Toplantılar hariç.
 
 12
-00:00:37,731 --> 00:00:38,741
+00:00:37,678 --> 00:00:38,692
 Onlar hâlâ kötü.
 
 13
-00:00:38,741 --> 00:00:52,126
+00:00:38,692 --> 00:00:52,126
 Bugünün programı: karıncalar, dans eden arılar, kraliçesi kel fare olan bir imparatorluk, yanlış anlaşılmış bir kurt sürüsü, nöbet tutan mirketler ve Antarktika'da eksi kırk derecede birbirine sığınan penguenler.
 
 14
@@ -547,46 +547,46 @@ Karıncadan pengene formül aynı: iş bölümü, iletişim, fedakârlık.
 İnsanlar bunu uzun toplantılarla yapmaya çalışıyor.
 
 138
-00:11:13,512 --> 00:11:19,483
-Bu bölüm seni gülümsettiyse beğen, abone ol, zili aç ve yorumlara en sevdiğin hayvanı yaz.
+00:11:13,512 --> 00:11:16,280
+Bu bölümde seni en çok hangisi şaşırttı?
 
 139
-00:11:19,483 --> 00:11:23,862
-Mirket mi, kel fare mi, yoksa kümenin ortasında ısınan penguen mi?
+00:11:16,280 --> 00:11:23,614
+Karıncaların sayısı mı, arıların dansı mı, kel fare kraliçesi mi, yoksa kurt sürüsünün gerçek hikâyesi mi?
 
 140
-00:11:23,862 --> 00:11:24,857
-Merak ediyorum.
+00:11:23,614 --> 00:11:26,243
+Yorumlara yaz, hepsini merak ediyoruz.
 
 141
-00:11:24,857 --> 00:11:29,501
-Sıradaki bölümde tembeller, hırsızlar ve şeytani zekâlar var, kaçırma!
+00:11:26,243 --> 00:11:28,942
+Videoyu beğendiysen beğen butonuna bas.
 
 142
-00:11:29,501 --> 00:11:31,557
-Bu akşam saat 19:00'da yayında.
+00:11:28,942 --> 00:11:31,778
+Henüz abone değilsen abone ol ve zili aç.
 
 143
-00:11:31,557 --> 00:11:34,145
-Çünkü doğada herkes işbirliği yapmıyor.
+00:11:31,778 --> 00:11:37,245
+Sıradaki bölüm bu akşam saat 19:00'da: tembeller, hırsızlar ve şeytani zekâlar.
 
 144
-00:11:34,145 --> 00:11:35,737
-Bazıları sadece çalıyor.
+00:11:37,245 --> 00:11:39,943
+Çünkü doğada herkes işbirliği yapmıyor.
 
 145
-00:11:35,737 --> 00:11:40,646
-Bazıları ise günün yarısından fazlasını uyuyor ve yine de hayatta kalıyor.
+00:11:39,943 --> 00:11:43,748
+Biri günün yarısından fazlasını uyuyor ve hâlâ hayatta.
 
 146
-00:11:40,646 --> 00:11:48,607
-Küçük bir ipucu: biri okyanus üzerinde aylarca yere inmeden uçarken, hatta uçarken uyurken, başkasının balığını çalıyor.
+00:11:43,748 --> 00:11:51,429
+Bir başkası okyanus üzerinde aylarca yere inmeden uçuyor, hatta uçarken uyuyor, ve başkasının balığını çalıyor.
 
 147
-00:11:48,607 --> 00:11:49,337
+00:11:51,429 --> 00:11:52,190
 Hangisi mi?
 
 148
-00:11:49,337 --> 00:11:55,242
-Bu akşam 19:00'da görüşürüz, aksi hâlde sloth'un ne zaman uyandığını bile bilemeyeceksin.
+00:11:52,190 --> 00:11:54,127
+Bu akşam 19:00'da görüşürüz.
 

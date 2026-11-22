@@ -1,528 +1,544 @@
 1
-00:00:00,100 --> 00:00:02,920
+00:00:00,100 --> 00:00:02,898
 Küçük, rengârenk, bir el boyunda bir yaratık.
 
 2
-00:00:02,920 --> 00:00:04,926
+00:00:02,898 --> 00:00:04,888
 Akvaryumun en gösterişli sakini.
 
 3
-00:00:04,926 --> 00:00:11,569
+00:00:04,888 --> 00:00:11,480
 Ama akvaryum meraklıları onu tek bir sebepten tanır: yumruğunun akvaryum camını çatlatabildiği bildirilir.
 
 4
-00:00:11,569 --> 00:00:20,218
+00:00:11,480 --> 00:00:20,062
 Bu yumruk saniyenin binde birkaçı kadar bir sürede suyun içinden geçiyor ve arkasında, kısa süreliğine, buhar dolu bir baloncuk bırakıyor.
 
 5
-00:00:20,218 --> 00:00:22,161
+00:00:20,062 --> 00:00:21,990
 Peki bu hayvan nasıl bir canlı?
 
 6
-00:00:22,161 --> 00:00:25,608
+00:00:21,990 --> 00:00:25,410
 Bir karides mi, bir boksör mü, yoksa gizli bir ajan mı?
 
 7
-00:00:25,608 --> 00:00:26,987
-Merhaba, ben Anlatıcı.
+00:00:25,410 --> 00:00:26,903
+Kanalımıza hoş geldiniz.
 
 8
-00:00:26,987 --> 00:00:29,055
+00:00:26,903 --> 00:00:28,955
 Doğa adil değildir, ama komiktir.
 
 9
-00:00:29,055 --> 00:00:33,881
+00:00:28,955 --> 00:00:33,744
 Bugün doğanın gerçekten haksızlık yaptığı bir konuya geliyoruz: süper güçler.
 
 10
-00:00:33,881 --> 00:00:38,519
+00:00:33,744 --> 00:00:38,345
 Bazı hayvanlar kâğıt üzerinde hiçbir şey vaat etmiyor ama sahada kahraman.
 
 11
-00:00:38,519 --> 00:00:47,795
+00:00:38,345 --> 00:00:47,549
 Bu bölümde altı hayvan göreceğiz ve hepsi, kendi küçük ölçeğinde, bir süper kahraman filminin kötü karakterinden daha tehlikeli ya da daha dirençli.
 
 12
-00:00:47,795 --> 00:00:49,738
+00:00:47,549 --> 00:00:49,477
 Hazırsanız, gözünüzü kırpmayın.
 
 13
-00:00:49,738 --> 00:00:52,057
+00:00:49,477 --> 00:00:51,778
 Zaten kırpsanız bir şey göremezsiniz.
 
 14
-00:00:52,857 --> 00:00:55,515
+00:00:52,578 --> 00:00:55,236
 Önceki bölümde hayvanların zekâsına baktık.
 
 15
-00:00:55,515 --> 00:01:06,087
+00:00:55,236 --> 00:01:05,808
 Betty adlı bir karga teli bükerek kendi kancasını yaptı, kargalar yüzünüzü hatırladı, ahtapot hapisten kaçtı ve Alex adlı papağan aynada kendine hangi renk olduğunu sordu.
 
 16
-00:01:06,087 --> 00:01:10,167
+00:01:05,808 --> 00:01:09,889
 Hepsini aynı bölümde izlediğimiz için biraz kıskançlık oluşabilir.
 
 17
-00:01:10,167 --> 00:01:11,095
+00:01:09,889 --> 00:01:10,816
 Zekâ güzel şey.
 
 18
-00:01:11,095 --> 00:01:13,073
+00:01:10,816 --> 00:01:12,794
 Ama bugün zekâ yok, ham güç var.
 
 19
-00:01:13,073 --> 00:01:18,822
+00:01:12,794 --> 00:01:18,544
 Bu hayvanların birçoğunun beyni minicik, ama yetenekleri bilim kurgu senaryolarını utandırır.
 
 20
-00:01:19,622 --> 00:01:22,021
+00:01:19,344 --> 00:01:21,742
 Başlıyoruz peygamberdevesi karidesiyle.
 
 21
-00:01:22,021 --> 00:01:28,847
+00:01:21,742 --> 00:01:28,569
 Okyanusun sığ, sıcak sularında, özellikle mercan kayalıklarında yaşıyorlar ve aralarında 400'den fazla tür var.
 
 22
-00:01:28,847 --> 00:01:34,997
+00:01:28,569 --> 00:01:34,719
 Bilimde bu hayvanlara stomatopod deniyor ve aslında gerçek karides bile değiller, uzaktan akrabalar.
 
 23
-00:01:34,997 --> 00:01:39,548
+00:01:34,719 --> 00:01:39,270
 Mızrakçı türler akvaryumculardan "başparmak yaran" lakabını almış durumda.
 
 24
-00:01:39,548 --> 00:01:43,238
+00:01:39,270 --> 00:01:42,960
 Bazı türleri mızrakla avlanır, bazı türleri ise yumruk atar.
 
 25
-00:01:43,238 --> 00:01:50,188
+00:01:42,960 --> 00:01:49,909
 Yumrukçu türler, yani ezici olanlar, yırtıcı ayaklarının ucundaki bir tokmakla kabuklu deniz canlılarını kırıyor.
 
 26
-00:01:50,188 --> 00:02:00,581
+00:01:49,909 --> 00:02:00,303
 2004'te Nature dergisinde yayımlanan bir çalışmada, bu tokmağın durağan halden saniyede yaklaşık 23 metre hıza, yani saatte 80 kilometreyi aşan bir hıza çıktığı ölçüldü.
 
 27
-00:02:00,581 --> 00:02:03,287
+00:02:00,303 --> 00:02:03,009
 İvmelenme ise yaklaşık on bin kat yerçekimi.
 
 28
-00:02:03,287 --> 00:02:04,825
+00:02:03,009 --> 00:02:04,546
 Peki bu hız nasıl mümkün?
 
 29
-00:02:04,825 --> 00:02:17,986
+00:02:04,546 --> 00:02:17,707
 Cevap bir yay mekanizması: hayvan, kaslarının enerjisini bir mandalla kilitlenen yay benzeri bir yapıda depoluyor ve mandal açılınca hepsini bir anda bırakıyor; kasın tek başına yapamayacağı hızı böyle elde ediyor.
 
 30
-00:02:17,986 --> 00:02:23,951
+00:02:17,707 --> 00:02:23,672
 Sonraki ölçümlerde tokmağın uyguladığı kuvvet, hayvanın kendi ağırlığının binlerce katına ulaştı.
 
 31
-00:02:23,951 --> 00:02:29,794
+00:02:23,672 --> 00:02:29,515
 Ama asıl şaka şu: tokmak o kadar hızlı ki, suyun içinde kavitasyon dediğimiz bir olay oluşuyor.
 
 32
-00:02:29,794 --> 00:02:34,283
+00:02:29,515 --> 00:02:34,004
 Buhar dolu baloncuklar doğuyor ve çökerken ikinci bir darbe daha vuruyor.
 
 33
-00:02:34,283 --> 00:02:38,280
+00:02:34,004 --> 00:02:38,002
 Yani karides yumruğu attıktan sonra bir tane daha atıyor, bedava.
 
 34
-00:02:38,280 --> 00:02:39,264
+00:02:38,002 --> 00:02:38,986
 Peki ya gözleri?
 
 35
-00:02:39,264 --> 00:02:41,909
+00:02:38,986 --> 00:02:41,630
 İnsan gözünde üç tür renk algılayıcısı var.
 
 36
-00:02:41,909 --> 00:02:47,013
+00:02:41,630 --> 00:02:46,735
 Peygamberdevesi karidesinde 12 ile 16 arası görsel pigment türü olduğu aktarılıyor.
 
 37
-00:02:47,013 --> 00:02:52,302
+00:02:46,735 --> 00:02:52,024
 Her gözü bağımsız hareket edebiliyor ve her göz kendi başına derinlik algılayabiliyor.
 
 38
-00:02:52,302 --> 00:02:57,345
+00:02:52,024 --> 00:02:57,067
 Üstelik kutuplanmış ışığı, hatta dairesel kutuplanmış ışığı bile ayırt edebiliyor.
 
 39
-00:02:57,345 --> 00:03:06,939
+00:02:57,067 --> 00:03:06,661
 Ama 2014'te Science dergisinde yayımlanan bir çalışma, bu kadar kanala rağmen renkleri ayırt etmede insandan daha kötü performans gösterdiğini ortaya koydu.
 
 40
-00:03:06,939 --> 00:03:10,691
+00:03:06,661 --> 00:03:10,412
 Yani televizyonun on altı kanalı var, ama hepsinde aynı dizi.
 
 41
-00:03:10,691 --> 00:03:20,900
+00:03:10,412 --> 00:03:20,621
 Son olarak tokmağın yapısı: 2012'de Science'ta yayımlanan bir çalışma, tokmağın sarmal bir lif düzeniyle tekrar eden darbelere dayanacak şekilde yapıldığını gösterdi.
 
 42
-00:03:20,900 --> 00:03:24,959
+00:03:20,621 --> 00:03:24,680
 Mühendisler bunu zırh ve koruyucu malzeme tasarımı için inceliyor.
 
 43
-00:03:24,959 --> 00:03:28,280
+00:03:24,680 --> 00:03:28,001
 Yani bir karides, ordunun bütçesinden pay almak üzere.
 
 44
-00:03:29,080 --> 00:03:35,131
+00:03:28,801 --> 00:03:34,852
 Sıra tabanca karidesinde, İngilizcesiyle "şaklayan karides"; adını çıkardığı tabanca sesine borçlu.
 
 45
-00:03:35,131 --> 00:03:38,676
+00:03:34,852 --> 00:03:38,397
 Bu da bir parmak boyunda, ama bir kıskacı orantısız büyük.
 
 46
-00:03:38,676 --> 00:03:47,417
+00:03:38,397 --> 00:03:47,138
 Bu kıskaç kapanırken, 2000'de Science dergisinde yayımlanan bir çalışmaya göre, iki parçası birbirine değmeden önce hızlı bir su jeti fırlıyor.
 
 47
-00:03:47,417 --> 00:03:52,673
+00:03:47,138 --> 00:03:52,395
 Jet yaklaşık 25 metre hızla çıkıyor ve suyun içinde bir kavitasyon baloncuğu oluşuyor.
 
 48
-00:03:52,673 --> 00:04:02,636
+00:03:52,395 --> 00:04:02,358
 Baloncuk çöktüğünde ortaya çıkan ses, yaklaşık 218 desibel seviyesinde ölçüldü; bu, suyun içindeki ses ölçeği ve havadaki desibelle birebir kıyaslamak doğru olmaz.
 
 49
-00:04:02,636 --> 00:04:05,448
+00:04:02,358 --> 00:04:05,169
 Ama sonuç ortada: sualtında çok güçlü bir şok.
 
 50
-00:04:05,448 --> 00:04:09,665
+00:04:05,169 --> 00:04:09,387
 Üstelik baloncuk çökerken kısa süreli bir ışık çakması bile oluşuyor.
 
 51
-00:04:09,665 --> 00:04:19,995
+00:04:09,387 --> 00:04:19,716
 2001'de Nature dergisinde yayımlanan bir çalışma bunu gözlemledi ve baloncuğun içindeki sıcaklığın, tahminlere göre, yaklaşık beş bin kelvine yaklaşabileceğini bildirdi.
 
 52
-00:04:19,995 --> 00:04:24,335
+00:04:19,716 --> 00:04:24,056
 Evet, bir karides, çok kısa süreliğine mikro bir Güneş yüzeyi üretiyor.
 
 53
-00:04:24,335 --> 00:04:31,181
+00:04:24,056 --> 00:04:30,902
 Mühendisler kavitasyondan pervane aşınması yüzünden nefret eder; karides ise aynı olayı silah olarak kullanıyor.
 
 54
-00:04:31,181 --> 00:04:33,442
+00:04:30,902 --> 00:04:33,164
 Av bu şokla sersemliyor ya da ölüyor.
 
 55
-00:04:33,442 --> 00:04:46,339
+00:04:33,164 --> 00:04:46,061
 Bir de sonar meselesi var: sığ ve sıcak denizlerde bu karideslerin koloni sesi sürekli bir çıtırtı gibi duyuluyor ve sualtı dinleme çalışmalarını zorlaştırıyor; bu konu İkinci Dünya Savaşı döneminde araştırıldı.
 
 56
-00:04:46,339 --> 00:04:50,984
+00:04:46,061 --> 00:04:50,706
 Son olarak ortaklık: tabanca karidesi ve gobi balığı aynı yuvayı paylaşıyor.
 
 57
-00:04:50,984 --> 00:04:58,319
+00:04:50,706 --> 00:04:58,041
 Karides yuvayı kazıyor, balık nöbet tutuyor ve tehlike görünce kuyruğuyla karidesin antenlerine dokunarak haber veriyor.
 
 58
-00:04:58,319 --> 00:05:04,248
+00:04:58,041 --> 00:05:03,970
 Yani zayıf görüşlü ama güçlü bir inşaat işçisi ve gören ama kazı yapmayan bir güvenlik görevlisi.
 
 59
-00:05:04,248 --> 00:05:12,072
+00:05:03,970 --> 00:05:11,793
 Aralarındaki anlaşma yıllardır çalışıyor; hiçbirinin diğerinden şikâyeti yok, ki bu, çoğu ev arkadaşlığından daha iyi bir sicil.
 
 60
-00:05:12,872 --> 00:05:19,435
+00:05:12,593 --> 00:05:19,156
 Bombardıman böceği, Brachinini grubundan küçük bir böcek ve karnının içinde bir kimya laboratuvarı taşıyor.
 
 61
-00:05:19,435 --> 00:05:24,772
+00:05:19,156 --> 00:05:24,493
 İçinde iki ayrı bölme var: birinde hidrokinon ve hidrojen peroksit, diğerinde enzimler.
 
 62
-00:05:24,772 --> 00:05:28,697
+00:05:24,493 --> 00:05:28,419
 Tehdit hissedince böcek ikisini bir reaksiyon odasına bırakıyor.
 
 63
-00:05:28,697 --> 00:05:40,536
+00:05:28,419 --> 00:05:40,257
 Karışım şiddetli bir kimyasal tepkimeye giriyor, sıcaklık yaklaşık 100 dereceye, yani kaynama noktasına çıkıyor ve ortaya çıkan zehirli benzokinonlar, buhar halinde karnın ucundan fırlatılıyor.
 
 64
-00:05:40,536 --> 00:05:49,798
+00:05:40,257 --> 00:05:49,519
 2015'te Science dergisinde yayımlanan bir çalışma, bu püskürtmenin sürekli değil, saniyede yüzlerce kez tekrar eden darbeler halinde olduğunu gösterdi.
 
 65
-00:05:49,798 --> 00:05:53,294
+00:05:49,519 --> 00:05:53,015
 Yani böcek karnında bir tür darbeli jet motoru işletiyor.
 
 66
-00:05:53,294 --> 00:05:55,073
+00:05:53,015 --> 00:05:54,794
 Peki böcek yutulursa ne olur?
 
 67
-00:05:55,073 --> 00:06:06,727
+00:05:54,794 --> 00:06:06,448
 2018'de Biology Letters'ta yayımlanan bir çalışma, Japon toprak kurbağası türlerinin yuttuğu bombardıman böceklerinin yaklaşık yüzde 43'ünün, kurbağa onları kusunca canlı çıktığını bildirdi.
 
 68
-00:06:06,727 --> 00:06:10,162
+00:06:06,448 --> 00:06:09,883
 Yani yenilmek bile onun planında: önce yutul, sonra kus.
 
 69
-00:06:10,162 --> 00:06:13,413
+00:06:09,883 --> 00:06:13,134
 Peki böcek bu sıcak karışımdan kendini nasıl koruyor?
 
 70
-00:06:13,413 --> 00:06:20,344
+00:06:13,134 --> 00:06:20,066
 Tepkime, karnındaki reaksiyon odasında gerçekleşiyor; hayvan kendi dokusunda değil, ayrı bir odada kimya yapıyor.
 
 71
-00:06:20,344 --> 00:06:27,091
+00:06:20,066 --> 00:06:26,813
 Üstelik karnının ucu hareketli bir nozül gibi çalışıyor ve böcek, sprey yönünü saldırgana doğru çevirebiliyor.
 
 72
-00:06:27,091 --> 00:06:28,932
+00:06:26,813 --> 00:06:28,653
 Yani hem kimyager hem nişancı.
 
 73
-00:06:28,932 --> 00:06:36,231
+00:06:28,653 --> 00:06:35,952
 Eisner ve çalışma arkadaşlarının deneyleri, bu spreyin karıncalar ve kurbağalar gibi yırtıcıları caydırdığını gösterdi.
 
 74
-00:06:36,231 --> 00:06:40,156
+00:06:35,952 --> 00:06:39,878
 Yani bu hayvan için cevap hep aynı: önce kimya, sonra diplomasi.
 
 75
-00:06:40,956 --> 00:06:43,799
+00:06:40,678 --> 00:06:43,520
 Şimdi bir kahraman: su ayısı, yani tardigrad.
 
 76
-00:06:43,799 --> 00:06:53,274
+00:06:43,520 --> 00:06:52,996
 Yosunlarda, likenlerde, hatta şehirde ağaç gövdelerindeki yosun yastıklarında bile yaşıyor; yani evinizin yakınında muhtemelen bir su ayısı bulunuyor.
 
 77
-00:06:53,274 --> 00:07:01,107
+00:06:52,996 --> 00:07:00,829
 Boyu yaklaşık yarım milimetre, sekiz bacağı var ve 1773'te Alman zoolog Goeze tarafından "küçük su ayısı" diye adlandırıldı.
 
 78
-00:07:01,107 --> 00:07:03,950
+00:07:00,829 --> 00:07:03,671
 Bugüne kadar 1.300'den fazla türü tanımlandı.
 
 79
-00:07:03,950 --> 00:07:04,834
+00:07:03,671 --> 00:07:04,556
 Süper gücü ne?
 
 80
-00:07:04,834 --> 00:07:05,971
+00:07:04,556 --> 00:07:05,693
 Kuruyunca ölmüyor.
 
 81
-00:07:05,971 --> 00:07:17,279
+00:07:05,693 --> 00:07:17,000
 Ortam kuruduğunda vücudundaki suyun büyük kısmını kaybedip "tun" denen bir hâle geçiyor, metabolizması neredeyse duruyor, yıllarca bekleyebiliyor ve su bulunca yeniden canlanıyor.
 
 82
-00:07:17,279 --> 00:07:29,597
+00:07:17,000 --> 00:07:29,318
 Laboratuvar deneylerinde kuru haldeki tardigradlar neredeyse mutlak sıfıra yakın sıcaklıklara, 100 derecenin üstüne ve bazı türlerde insan için ölümcül dozun yaklaşık bin katı radyasyona dayandı.
 
 83
-00:07:29,597 --> 00:07:37,051
+00:07:29,318 --> 00:07:36,772
 2007'de FOTON-M3 görevi, tardigradları 10 gün boyunca alçak Dünya yörüngesinde, doğrudan uzay boşluğuna maruz bıraktı.
 
 84
-00:07:37,051 --> 00:07:44,884
+00:07:36,772 --> 00:07:44,605
 2008'de Current Biology'de yayımlanan sonuç: bir kısmı hayatta kaldı, hatta Dünya'ya dönünce yumurtlayıp yavru bile çıkardı.
 
 85
-00:07:44,884 --> 00:07:53,727
+00:07:44,605 --> 00:07:53,449
 Bir de 2016'da, Antarktika'dan alınan ve yaklaşık 30 yıl dondurulmuş bir yosun örneğinde bir tardigradın canlandığı ve çoğaldığı bildirildi.
 
 86
-00:07:53,727 --> 00:07:58,844
+00:07:53,449 --> 00:07:58,565
 Yani otuz yıl buzdolabında bekleyip sonra işine devam eden birinden bahsediyoruz.
 
 87
-00:07:58,844 --> 00:08:08,572
+00:07:58,565 --> 00:08:08,293
 Ve 2016'da Japon araştırmacılar Dsup adlı bir protein buldu; insan hücrelerine eklendiğinde röntgenin neden olduğu DNA hasarını yaklaşık yüzde 40 azalttı.
 
 88
-00:08:08,572 --> 00:08:12,868
+00:08:08,293 --> 00:08:12,589
 Ama dürüst olalım: tardigrad ölümsüz değil ve yok edilemez de değil.
 
 89
-00:08:12,868 --> 00:08:15,647
+00:08:12,589 --> 00:08:15,368
 Uzun süre aşırı sıcağa maruz kalırsa ölüyor.
 
 90
-00:08:15,647 --> 00:08:22,027
+00:08:15,368 --> 00:08:21,749
 Ayrıca tun halindeyken yaşıyor demek biraz tartışmalı; o sırada yaşam bir tür bekleme moduna geçiyor.
 
 91
-00:08:22,027 --> 00:08:25,817
+00:08:21,749 --> 00:08:25,539
 Yani süper güç gerçek, ama süper kahramanlık biraz abartılı.
 
 92
-00:08:26,617 --> 00:08:27,299
+00:08:26,339 --> 00:08:27,020
 Ölümsüzlük.
 
 93
-00:08:27,299 --> 00:08:31,823
+00:08:27,020 --> 00:08:31,545
 Evet, hayvanlar âleminde bir tür bu şöhreti taşıyor: Turritopsis dohrnii.
 
 94
-00:08:31,823 --> 00:08:36,348
+00:08:31,545 --> 00:08:36,069
 Çan çapı yaklaşık 4,5 milimetre, yani bir iğne başı kadar bir denizanası.
 
 95
-00:08:36,348 --> 00:08:41,554
+00:08:36,069 --> 00:08:41,275
 Denizanalarının yaşam döngüsü normalde şöyledir: larva, polip, yetişkin medüz, ölüm.
 
 96
-00:08:41,554 --> 00:08:50,231
+00:08:41,275 --> 00:08:49,952
 Turritopsis'te ise stres, açlık, yaralanma gibi durumlarda yetişkin medüz hücrelerini yeniden programlayıp polip aşamasına geri dönebiliyor.
 
 97
-00:08:50,231 --> 00:08:52,338
+00:08:49,952 --> 00:08:52,059
 Buna transdiferansiyasyon deniyor.
 
 98
-00:08:52,338 --> 00:08:54,507
+00:08:52,059 --> 00:08:54,228
 Yani yetişkin, çocukluğuna dönüyor.
 
 99
-00:08:54,507 --> 00:08:59,155
+00:08:54,228 --> 00:08:58,877
 1990'lı yıllarda İtalyan araştırmacılar bu durumu laboratuvarda gözlemledi.
 
 100
-00:08:59,155 --> 00:09:08,018
+00:08:58,877 --> 00:09:07,739
 2022'de PNAS dergisinde yayımlanan bir genom çalışması, bu türün DNA onarımı ve telomer bakımıyla ilgili genlerini akrabalarıyla karşılaştırdı.
 
 101
-00:09:08,018 --> 00:09:12,480
+00:09:07,739 --> 00:09:12,202
 Gemilerin balast suyuyla dünyanın birçok denizine yayıldığı düşünülüyor.
 
 102
-00:09:12,480 --> 00:09:16,943
+00:09:12,202 --> 00:09:16,664
 Ama bir kez daha dürüst olalım: doğada onlar da yutuluyor, hastalanıyor.
 
 103
-00:09:16,943 --> 00:09:26,487
+00:09:16,664 --> 00:09:26,209
 Bu yüzden bilim insanları yaşlanma araştırmalarında bu hayvana özel ilgi gösteriyor, çünkü hücrelerini yeniden programlama yeteneği ender görülen bir şey.
 
 104
-00:09:26,487 --> 00:09:30,640
+00:09:26,209 --> 00:09:30,361
 Bu yeteneğin insanlara uygulanıp uygulanamayacağı henüz bilinmiyor.
 
 105
-00:09:30,640 --> 00:09:35,536
+00:09:30,361 --> 00:09:35,257
 Yani biyolojik olarak ölümsüz olma potansiyeli var, ama pratikte ölümsüz değil.
 
 106
-00:09:35,536 --> 00:09:42,849
+00:09:35,257 --> 00:09:42,571
 Siz pazartesi sabahına bile hazırlıksız yakalanıyorsunuz, o ise bütün yaşam döngüsünü geri alıp baştan başlatabiliyor.
 
 107
-00:09:43,649 --> 00:09:46,737
+00:09:43,371 --> 00:09:46,458
 Son süper kahramanımız: elektrikli yılan balığı.
 
 108
-00:09:46,737 --> 00:09:50,339
+00:09:46,458 --> 00:09:50,061
 Önce bir düzeltme: bu hayvan aslında yılan balığı değil.
 
 109
-00:09:50,339 --> 00:09:56,965
+00:09:50,061 --> 00:09:56,686
 Yılan balığına benziyor, ama Güney Amerika'da yaşayan bir tatlı su balığı, bıçak balıklarının akrabası.
 
 110
-00:09:56,965 --> 00:10:11,696
+00:09:56,686 --> 00:10:11,418
 2019'da Nature Communications dergisinde yayımlanan bir çalışma, tek tür sandığımız bu hayvanı üç türe böldü ve bunlardan Electrophorus voltai, yaklaşık 860 volta kadar elektrik üretti, hayvanlar âleminde bilinen en yüksek ölçüm.
 
 111
-00:10:11,696 --> 00:10:20,123
+00:10:11,418 --> 00:10:19,845
 Vücudunun büyük kısmı elektrik organı; bu organ, elektrosit denen çok sayıda hücrenin üst üste dizilmesiyle bir pil gibi çalışıyor.
 
 112
-00:10:20,123 --> 00:10:31,188
+00:10:19,845 --> 00:10:30,909
 2015'te PNAS dergisinde yayımlanan bir çalışma, yılan balığının yüksek voltajlı darbelerle avının kaslarını istemsizce kasıp saklanan hayvanı yerinden oynattığını gösterdi.
 
 113
-00:10:31,188 --> 00:10:33,246
+00:10:30,909 --> 00:10:32,967
 Yani uzaktan kumandalı bir avcı.
 
 114
-00:10:33,246 --> 00:10:41,544
+00:10:32,967 --> 00:10:41,266
 Bir de ilginç ayrıntı: elektrikli yılan balığı solungaçlarıyla yetinmiyor, düzenli aralıklarla yüzeye çıkıp havadan nefes alıyor.
 
 115
-00:10:41,544 --> 00:10:45,854
+00:10:41,266 --> 00:10:45,576
 Yani akıntıya karşı 860 volt, ama nefes için yüzeye çıkmak zorunda.
 
 116
-00:10:45,854 --> 00:10:55,954
+00:10:45,576 --> 00:10:55,675
 1800'de Alexander von Humboldt, Venezuela'da yerel balıkçıların atları gölete sürerek bu balıkları yorduğunu anlattı; balıklar defalarca deşarj olup yoruldu.
 
 117
-00:10:55,954 --> 00:11:06,053
+00:10:55,675 --> 00:11:05,775
 2014'te Science dergisinde yayımlanan bir çalışma ise bu hayvanın suyun dışına sıçrayıp çenesini hedefe bastırarak elektriği daha etkili ilettiğini gösterdi.
 
 118
-00:11:06,053 --> 00:11:07,018
+00:11:05,775 --> 00:11:06,740
 Evet, sıçrıyor.
 
 119
-00:11:07,018 --> 00:11:08,691
+00:11:06,740 --> 00:11:08,412
 Şimdi Puan Tablosu zamanı.
 
 120
-00:11:08,691 --> 00:11:10,685
+00:11:08,412 --> 00:11:10,406
 Bu bölümün kahramanı: su ayısı.
 
 121
-00:11:10,685 --> 00:11:13,001
+00:11:10,406 --> 00:11:12,722
 Hayatta kalma puanı 10 üzerinden 10.
 
 122
-00:11:13,001 --> 00:11:16,153
+00:11:12,722 --> 00:11:15,874
 Kuruyabiliyor, donabiliyor, uzayda hayatta kaldı.
 
 123
-00:11:16,153 --> 00:11:18,983
+00:11:15,874 --> 00:11:18,705
 Tek eksik: yaşamak için hiçbir şey yapmıyor.
 
 124
-00:11:18,983 --> 00:11:23,100
+00:11:18,705 --> 00:11:22,822
 Ama biz hayatta kalma puanı veriyoruz, hayatta olma puanı değil.
 
 125
-00:11:23,100 --> 00:11:25,223
+00:11:22,822 --> 00:11:24,945
 Doğa adil değildir, ama komiktir.
 
 126
-00:11:26,023 --> 00:11:30,852
-Beğendiysen beğen, abone ol, zili aç, yorumlarda en sevdiğin hayvanı yaz.
+00:11:25,745 --> 00:11:28,200
+Hangi süper güç sana daha çok yarardı?
 
 127
-00:11:30,852 --> 00:11:40,575
-Sıradaki bölümde Sosyal Hayat var: arıların dans dili, kel farelerin kraliçesi, karınca orduları ve bir de kurt sürüsünün gerçekte nasıl çalıştığı.
+00:11:28,200 --> 00:11:32,660
+Uzayda sağ kalan su ayısı mı, kendini yeniden başlatan denizanası mı?
 
 128
-00:11:40,575 --> 00:11:41,104
-Kaçırma!
+00:11:32,660 --> 00:11:34,340
+Yorumlara yaz, tartışalım.
 
 129
-00:11:41,104 --> 00:11:43,353
-Yarın sabah saat 10:00'da yayında.
+00:11:34,340 --> 00:11:36,860
+Videoyu beğendiysen beğen butonuna bas.
 
 130
-00:11:43,353 --> 00:11:48,182
-Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey.
+00:11:36,860 --> 00:11:43,064
+Henüz abone değilsen abone ol ve zili aç, çünkü yarın sabahki bölüm bambaşka bir şeyi anlatıyor.
 
 131
-00:11:48,182 --> 00:11:56,185
-Yarın sabah: bir kraliçe, yüzlerce işçi ve bir soru: memeliler arasında bile, neden bazıları bir kraliçeye hizmet ediyor?
+00:11:43,064 --> 00:11:46,619
+Sıradaki bölüm yarın sabah saat 10:00'da: sosyal hayat.
 
 132
-00:11:56,185 --> 00:11:57,376
-Yarın sabah 10:00.
+00:11:46,619 --> 00:11:53,404
+Arıların dans dili, kel farelerin kraliçesi, karınca orduları ve kurt sürüsünün gerçekte nasıl çalıştığı.
+
+133
+00:11:53,404 --> 00:11:58,122
+Tek başına süper güçlü olmak etkileyici, ama bir koloni bambaşka bir şey.
+
+134
+00:11:58,122 --> 00:12:02,258
+Memeliler arasında bile bir kraliçeye hizmet eden hayvanlar var.
+
+135
+00:12:02,258 --> 00:12:02,646
+Neden?
+
+136
+00:12:02,646 --> 00:12:04,455
+Cevabı yarın sabah 10:00'da.
 
