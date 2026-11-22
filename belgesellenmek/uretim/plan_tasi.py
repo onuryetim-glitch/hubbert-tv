@@ -15,7 +15,9 @@ def mp(n,i):
     if t in nw: return nw.index(t)+1
     for j,x in enumerate(nw):
         if x.startswith(t[:25]): return j+1
-    print("EŞLEŞMEDİ",n,i,t[:40]); return int(i)
+    import difflib
+    sk=[difflib.SequenceMatcher(None,t.lower(),x.lower()).ratio() for x in nw]; j=max(range(len(nw)),key=lambda q:sk[q])
+    print("BENZER",n,i,"->",j+1,round(sk[j],2),t[:40],"|",nw[j][:40]); return j+1
 for k,sh in P["scenes"].items():
     n=int(k)
     for x in sh:
