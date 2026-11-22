@@ -42,7 +42,7 @@ def card(path,title,lines=(),tag="BİLGİ",logo=False):
     f=font(66); y=232
     words=title.split(); line=""; out=[]
     for w in words:
-        if d.textlength((line+" "+w).strip(),font=f)<=1000: line=(line+" "+w).strip()
+        if d.textlength((line+" "+w).strip(),font=f)<=(700 if logo else 1000): line=(line+" "+w).strip()
         else: out.append(line); line=w
     out.append(line)
     for l in out[:3]: d.text((130,y),l,font=f,fill=(255,255,255)); y+=82
