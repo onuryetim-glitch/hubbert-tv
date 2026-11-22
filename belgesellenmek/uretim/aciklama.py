@@ -3,10 +3,12 @@ from sahneler import parse
 NEXT={1:"Aşk ve Savaş",2:"Kötü ve Harika Ebeveynler",3:"Okyanusun Karanlık Köşeleri",4:"Akıllı Mı Dediniz?",5:"Süper Güçler",6:"Sosyal Hayat",7:"Tembeller, Hırsızlar ve Şeytani Zekâlar",8:"Avcı mı Av Mı?",9:"Gezegenin Mirası"}
 for e in range(int(sys.argv[1]),int(sys.argv[2])+1):
     ep=f"{e:02d}"; src=open(f"../senaryolar/bolum{ep}.md",encoding="utf-8").read(); meta=json.load(open(f"bolum{ep}_meta.json")); man=json.load(open(f"medya/b{ep}/manifest.json"))
-    tt=re.findall(r"^\d\.\s+(.+)$",src.split("## Alternatif YouTube Başlıkları")[1].split("\n## ")[0],re.M)
-    d=re.search(r"## Açıklama Metni\s*\n(.*?)(?=\n## |\n---)",src,re.S); desc=d.group(1).strip() if d else ""
-    desc=re.split(r"\n\s*Bölümler:|\n\s*Serinin yayın",desc)[0].strip()
-    tg=re.search(r"## Etiketler[^\n]*\n+(.*?)(?=\n\s*\n|\n## )",src,re.S); tags=tg.group(1).strip() if tg else ""
+    def sec(pat):
+        m=re.search(r"^##\s+[^\n]*(?:"+pat+r")[^\n]*\n(.*?)(?=^##\s|^---)",src,re.S|re.M|re.I); return m.group(1) if m else ""
+    tt=re.findall(r"^\d\.\s+(.+)$",sec("başlı"),re.M)
+    desc=sec("açıklama").strip()
+    desc=re.split(r"\n\s*(?:Bölümler:|Serinin yayın|Seri finali|Kaynak türleri|⏱️|Bölüm işaretleri|Sıradaki bölüm|Serinin sıradaki)",desc)[0].strip()
+    tags=sec("etiket").strip()
     t=0; ch=[]
     for s in parse(ep):
         w=wave.open(f"ses/b{ep}/s{s['n']}.wav"); L=w.getnframes()/w.getframerate()+0.6

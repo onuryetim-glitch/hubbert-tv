@@ -5,7 +5,7 @@
 **Hedef süre:** ~10:45–11:15 dk (~1600 kelime anlatım)
 
 ## YOUTUBE BAŞLIK ALTERNATİFLERİ
-1. Çocuğunu Başkasına Bakıtıran Kuş ve Kışı Aç Geçiren Baba | Doğanın Gerçekleri 3
+1. Çocuğunu Başkasına Baktıran Kuş ve Kışı Aç Geçiren Baba | Doğanın Gerçekleri 3
 2. Hayvanlar Aleminin En Kötü ve En Harika Ebeveynleri (Hamile Erkek, Sırtında Çocuk Taşıyan Kurbağa)
 3. Guguk Kuşu Yuvanıza Yumurta Bıraktığında Ne Olur? Ebeveynliğin Karanlık Yüzü
 
