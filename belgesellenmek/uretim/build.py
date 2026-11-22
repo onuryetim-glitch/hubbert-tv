@@ -124,7 +124,7 @@ GAPS=[]
 scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
 for s in scenes:
-    n=s["n"]; a=(f"ses2/b{ep}/s{n}.wav" if os.environ.get("SES2") and os.path.exists(f"ses2/b{ep}/s{n}.wav") else f"ses/b{ep}/s{n}.wav"); adur=dur(a); L=adur+0.6
+    n=s["n"]; a=(f"ses_tm/b{ep}/s{n}.mp3" if os.path.exists(f"ses_tm/b{ep}/s{n}.mp3") else (f"ses2/b{ep}/s{n}.wav" if os.environ.get("SES2") and os.path.exists(f"ses2/b{ep}/s{n}.wav") else f"ses/b{ep}/s{n}.wav")); adur=dur(a); L=adur+0.6
     sp=f"{D}/s{n}"
     if os.path.exists(f"{sp}.mp4") and str(n) not in os.environ.get("FORCE","").split(","):
         parts.append(f"{sp}.mp4")
