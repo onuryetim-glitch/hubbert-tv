@@ -1,0 +1,360 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "peahen",
+     "peacock"
+    ]
+   },
+   {
+    "s": 4,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 2: Aşk ve Savaş"
+     ],
+     "etiket": "KANALIMIZA HOŞ GELDİNİZ",
+     "logo": true
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Charles Darwin, 1860",
+     "satirlar": [
+      "Tavus kuşu kuyruğundaki tüye her baktığında",
+      "kendini hasta hissettiğini yazdı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "peacock",
+     "bowerbird",
+     "fireflies"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "chameleon"
+    ]
+   },
+   {
+    "s": 2.0,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 2.45,
+    "tags": [
+     "opossum"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "spider"
+    ]
+   },
+   {
+    "s": 5,
+    "tags": [
+     "octopus"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Gösterişli kısım kuyruk değil",
+     "satirlar": [
+      "Üst kuyruk örtü tüyleri",
+      "Yaklaşık 1,5 metre • onlarca göz benzeri desen"
+     ],
+     "etiket": "TÜY"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Mary Petrie ve ekibi",
+     "satirlar": [
+      "1990'lar: göz deseni çok olan erkekler daha çok çiftleşti",
+      "Desenler kesilince çiftleşme başarısı düştü"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Bilim hâlâ tartışıyor",
+     "satirlar": [
+      "2008, Japonya: başka bir popülasyonda ilişki bulunamadı",
+      "Göz izleme çalışması: dişiler kuyruk üstüne pek bakmıyor"
+     ],
+     "etiket": "TARTIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "peahen",
+     "peacock"
+    ]
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Darwin: eşeysel seçilim",
+     "satirlar": [
+      "1871, İnsanın Türeyişi",
+      "Eş bulmayı kolaylaştıran özellikler"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "Amotz Zahavi, 1975",
+     "satirlar": [
+      "Handikap ilkesi",
+      "Kuyruk bir hata değil, bir referans mektubu olabilir"
+     ],
+     "etiket": "KURAM"
+    }
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "bowerbird"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "bowerbird"
+    ]
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Büyük bower kuşu, 2010",
+     "satirlar": [
+      "Taşları küçükten büyüğe dizer",
+      "Zorlamalı perspektif: zemin küçük görünür, kuş büyük"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "bowerbird"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Adélie penguenleri",
+     "satirlar": [
+      "Adını 1840'ta Dumont d'Urville'in eşi Adèle'den aldı",
+      "Erkek, dişiye çakıl taşı sunar"
+     ],
+     "etiket": "PENGUEN"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "pelican"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "mantis"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "spider"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "fireflies"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Photuris dişileri: femme fatale",
+     "satirlar": [
+      "Başka cinsin dişilerinin ışık yanıtını taklit eder",
+      "Avladığı Photinus'lardan savunma maddeleri alır"
+     ],
+     "etiket": "ÖLÜMCÜL FLÖRT"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "fireflies"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "cuttlefish"
+    ]
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Spencer Körfezi, Güney Avustralya",
+     "satirlar": [
+      "Her kış binlerce dev sepya bir araya gelir"
+     ],
+     "etiket": "ÜREME"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "cuttlefish"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Sepia plangon, 2012",
+     "satirlar": [
+      "Erkek bir yanıyla dişiye, diğer yanıyla rakibe",
+      "farklı mesaj verir"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "cuttlefish"
+    ]
+   }
+  ],
+  "9": [
+   {
+    "s": 1,
+    "tags": [
+     "anglerfish",
+     "deepsea"
+    ]
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Charles Tate Regan, 1925",
+     "satirlar": [
+      "Bazı türlerde küçük erkekler dişiye bağlı yaşar"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "anglerfish",
+     "deepsea"
+    ]
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Science, 2020",
+     "satirlar": [
+      "Bağlanan erkeklerde bağışıklık sisteminin",
+      "bazı bileşenleri farklılaşmış"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "anglerfish",
+     "deepsea"
+    ]
+   }
+  ],
+  "11": [
+   {
+    "s": 1,
+    "tags": [
+     "penguin",
+     "peacock"
+    ]
+   }
+  ]
+ }
+}
