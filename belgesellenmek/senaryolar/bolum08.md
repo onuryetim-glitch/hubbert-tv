@@ -24,7 +24,7 @@ Sol yarıda uykulu bir sloth yüzü yakın çekim (yarı kapalı gözler), sağ 
 
 **[SAHNE 1 — SOĞUK AÇILIŞ — 0:00–0:45]**
 - 🎬 GÖRSEL: Orta Amerika yağmur ormanında dalda bir sloth (Wikimedia Commons / CC), kolunu yavaşça uzatışı; ekranda dijital saat "06:40", saat atlayarak "09:15", "13:30" gösteriyor ve kol hâlâ havada (zaman atlaması, kendi montajımız).
-- 🎙️ ANLATIM: Sabaha karşı altı kırk. Orta Amerika yağmur ormanında, bir ağacın dalında, bir sloth karar verdi: bugün bir kolumu uzatacağım. Kolunu uzattı. Biz bu arada üç ayrı bölüm çekebilirdik. Bu bölümde işi yavaş yapanları, işi başkasına yaptıranları ve doğrudan başkasının işini çalanları tanıyacağız. Bir koala günün yirmi saatine yakınını uyuyarak geçiriyor. Bir kuş iki ay boyunca yere inmeden uçuyor ve arada uyuyor. Bir başkası da çalmadan önce sizin gözlerinizin nereye baktığını izliyor. Hepsi hayatta, hem de gayet iyi. Kanalımıza hoş geldiniz. Doğa adil değildir, ama komiktir. Bu bölümde özellikle komik.
+- 🎙️ ANLATIM: Sabaha karşı altı kırk. Orta Amerika yağmur ormanında, bir ağacın dalında, bir sloth karar verdi: bugün bir kolumu uzatacağım. Kolunu uzattı. Biz bu arada üç ayrı bölüm çekebilirdik. Bu bölümde işi yavaş yapanları, işi başkasına yaptıranları ve doğrudan başkasının işini çalanları tanıyacağız. Bir koala günün yirmi saatine yakınını uyuyarak geçiriyor. Bir kuş iki ay boyunca yere inmeden uçuyor ve arada uyuyor. Bir başkası da çalmadan önce sizin gözlerinizin nereye baktığını izliyor. Hepsi hayatta, hem de gayet iyi. Hoş geldiniz. Bu bölüm, dizinin en komik bölümü olabilir.
 - 🎵 MÜZİK/SFX: Ağır, yavaş çekim ritminde komik bir bas; saat "tik tak" SFX'i hızlanıp bir anda duruyor; yağmur ormanı ambiyansı.
 
 **[SAHNE 2 — "ÖNCEKİ BÖLÜMDE" — 0:45–1:05]**

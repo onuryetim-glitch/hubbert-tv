@@ -30,7 +30,7 @@ Tamamen siyah arka plan, ortada tek bir parlak mavi ışık noktası ve ışığ
 - 🎙️ ANLATIM:
   > Okyanus deyince çoğumuz plajı düşünürüz. Güneş, dalga, bir de fahiş fiyatlı dondurma. Ama plaj, okyanusun sadece çerçevesi. Asıl tablo aşağıda.
   > Okyanusun ortalama derinliği yaklaşık üç bin yedi yüz metre. Güneş ışığı en berrak suda bile ancak bin metreye kadar sızabiliyor ve ilk iki yüz metreden sonra zaten hızla sönüyor. O sınırın altında ışığın olmadığı, soğuk, yüksek basınçlı, sessiz bir dünya var. Üstelik bu dünya, gezegenimizin yaşanabilir hacminin yaklaşık yüzde doksanını oluşturuyor. Yani Dünya dediğimiz yer çoğunlukla, güneşin hiç uğramadığı bir yer.
-  > Kanalımıza hoş geldiniz. Fener getirdiniz mi? Getirmediyseniz sorun yok, orada herkes kendi feneriyle geliyor. Bugünün rotası: basınç, ışık satan balıklar, çöp yiyen bir vampir, yıllarca kameradan kaçan bir dev, bir balinanın ölümünden doğan bir şehir ve güneşsiz bir kasaba.
+  > Aşağıya hoş geldiniz. Fener getirdiniz mi? Getirmediyseniz sorun yok, orada herkes kendi feneriyle geliyor. Bugünün rotası: basınç, ışık satan balıklar, çöp yiyen bir vampir, yıllarca kameradan kaçan bir dev, bir balinanın ölümünden doğan bir şehir ve güneşsiz bir kasaba.
   > Doğa adil değildir, ama komiktir. İnelim.
 - 🎵 MÜZİK/SFX: Plaj dalga sesi, su altına geçişte boğuk ses, derinlik arttıkça tiz seslerin sönmesi ve tek bir sonar "ping". Alçak, gizemli synth.
 

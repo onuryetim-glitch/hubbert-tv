@@ -30,7 +30,7 @@ Sol yarıda minicik bir kamışçın, ağzı açık dev bir guguk yavrusunu besl
 - 🎙️ ANLATIM:
   > Önünüzde bir kamışçın. Ağırlığı yaklaşık on iki gram; yani aşağı yukarı bir tutam çay. Ve şu anda kendisinden birkaç kat büyük bir yavruyu besliyor.
   > Yavru, bu kuşun değil. Yavru, yumurtasını bu yuvaya bırakıp giden bir komşunun. Hatta kamışçının kendi yumurtalarını da yuvadan dışarı atmış. Kamışçın bunların hiçbirini fark etmiyor. Çünkü karşısında kocaman açılmış bir gaga var ve doğa ona tek bir talimat vermiş: bunu doyur.
-  > Kanalımıza hoş geldiniz. Bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor.
+  > Hoş geldiniz, bugün ebeveynliği konuşuyoruz. Hani şu "çocuğum için her şeyi yaparım" cümlesinin hayvanlar âleminde kaç farklı anlama gelebildiğini. Kimi baba kışın ortasında aç kalıyor, kimi kurbağa yumurtalarını sırtına gömüyor, kimi timsah yavrularını dişlerinin arasında taşıyor. Ve evet, bazıları yumurtayı bırakıp arkasına bile bakmıyor.
   > Bugünün programında beş vaka var: bir yuva hırsızı, bir buz kahramanı, hamile bir erkek, yavrularını ağzında taşıyan bir timsah ve sırtını doğumhaneye çevirmiş bir kurbağa. Bir de finalde, hiçbirimizin sabrının yetmeyeceği bir anne.
   > Doğa adil değildir, ama komiktir. Başlıyoruz.
 - 🎵 MÜZİK/SFX: Sakin, hafif gizemli açılış; yuva ortamı sesleri (kuş cıvıltısı, kamış hışırtısı). "Başlıyoruz" cümlesinde kısa jenerik vuruşu.
