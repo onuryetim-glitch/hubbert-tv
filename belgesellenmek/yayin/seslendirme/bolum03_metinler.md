@@ -1,6 +1,6 @@
 # Bölüm 3 — Seslendirme Metinleri (TTSMaker için)
 
-**Nasıl kullanılır:** ttsmaker.com → dil **Türkçe** → ses seç → aşağıdaki metni **tek parça** yapıştır → hız 1.0 → **Dönüştür** → **MP3 indir**.
+**Nasıl kullanılır:** subtitlekit.com/tr/text-to-speech → dil **Türkçe** → ses seç (Erkek 1–5 / Kadın 1–5) → metni yapıştır → hız 1× → **Konuşma oluştur** → **MP3 (ya da WAV) indir**.
 Dosyayı **`s1.mp3`, `s2.mp3` …** diye (sahne numarasıyla) adlandır ve Drive klasörüne koy. Her sahne ayrı dosya olmalı.
 
 Toplam: 8 sahne, 11454 karakter.
