@@ -4,6 +4,7 @@ ep=sys.argv[1]; mf=f"medya/b{ep}/manifest.json"
 man=[m for m in json.load(open(mf)) if m.get("kaynak")!="kullanici"]
 n=0
 for f in sorted(glob.glob(f"medya_kullanici/b{ep}/s*_*.mp4")):
+    if f.endswith(".mp4.mp4"): continue  # GitHub yüklemesinden gelen çift uzantılı kopyaları atla
     m=re.match(r"s(\d+)_",os.path.basename(f))
     if not m: continue
     man.append(dict(file=f,kind="video",scene=int(m.group(1)),query="kullanici",title="Stok video",lic="Pexels/Pixabay License",artist="",page="medya_kullanici/kaynaklar.txt",w=1280,h=720,kaynak="kullanici")); n+=1
