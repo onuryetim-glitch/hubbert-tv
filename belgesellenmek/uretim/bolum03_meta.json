@@ -1,0 +1,46 @@
+{
+ "scoreboard_scene": -1,
+ "scores": [],
+ "no_title": [
+  1,
+  2,
+  8
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Guguk Kuşu: Yuva Asalağı",
+  "4": "İmparator Penguen: Kışın Kahramanı",
+  "5": "Deniz Atı: Erkek Hamile (bile)liği",
+  "6": "Timsah Anne Ve Surinam Kurbağası",
+  "7": "İlgisiz Ebeveynler Ve En Sabırlı Anne",
+  "8": ""
+ },
+ "cta_scene": 8,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 4 — Okyanusun Karanlık Köşeler",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Bu akşam 19:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "scoreboard_scene": 6,
+ "scores": [
+  [
+   "Taklitçi ahtapot",
+   9
+  ],
+  [
+   "Bower kuşu",
+   9
+  ],
+  [
+   "Guguk yavrusu",
+   10
+  ],
+  [
+   "Vampir kalamar",
+   9
+  ],
+  [
+   "Karga",
+   9
+  ],
+  [
+   "Su ayısı",
+   10
+  ],
+  [
+   "Mirket",
+   8
+  ],
+  [
+   "Tembel hayvan",
+   7
+  ],
+  [
+   "Orka",
+   9
+  ],
+  [
+   "Yusufçuk",
+   10
+  ]
+ ],
+ "no_title": [
+  1,
+  2,
+  6,
+  7,
+  8
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Şehirde Yaşamayı Öğrenenler",
+  "4": "Eşikten Dönenler",
+  "5": "İnsan Etkisi: Çubuğun Diğer Tarafı",
+  "6": "",
+  "7": "",
+  "8": ""
+ },
+ "cta_scene": 7,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Seri finali — izlediğin için teşekkürler!",
+   34,
+   "white",
+   285
+  ],
+  [
+   "Favori hayvanını yorumlara yaz",
+   38,
+   "white",
+   380
+  ],
+  [
+   "2. Sezon yakında",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

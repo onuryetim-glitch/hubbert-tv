@@ -1,0 +1,47 @@
+{
+ "scoreboard_scene": -1,
+ "scores": [],
+ "no_title": [
+  1,
+  2,
+  9
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Karıncalar",
+  "4": "Arılar",
+  "5": "Kel Fareler",
+  "6": "Kurt Sürüleri",
+  "7": "Mirketler + Puan Tablosu",
+  "8": "İmparator Penguenler",
+  "9": ""
+ },
+ "cta_scene": 9,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 8 — Tembeller, Hırsızlar ve Şe",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Bu akşam 19:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

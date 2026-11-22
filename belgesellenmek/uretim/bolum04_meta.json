@@ -1,0 +1,47 @@
+{
+ "scoreboard_scene": -1,
+ "scores": [],
+ "no_title": [
+  1,
+  2,
+  9
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Basınç Ve Karanlık: Kurallar",
+  "4": "Fener Balığı Ve Kendi Işığını Üretenler",
+  "5": "Vampir Kalamar: Çöp Yiyen Vampir",
+  "6": "Dev Kalamar: Efsane Kameraya Yakalandı",
+  "7": "Balina Leşi: Okyanusun Yavaş Şöleni",
+  "8": "Hidrotermal Baca: Güneşsiz Kent",
+  "9": ""
+ },
+ "cta_scene": 9,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 5 — Akıllı Mı Dediniz?",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Yarın sabah 10:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "scoreboard_scene": -1,
+ "scores": [],
+ "no_title": [
+  1,
+  2,
+  9
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Kargalar Ve Alet Yapımı",
+  "4": "Kargalar Yüzünüzü Unutmaz",
+  "5": "Ahtapot: Omurgasızların Gururu",
+  "6": "Şempanze: İnsanı Yeniden Tanımlamak",
+  "7": "Yunus, Fil Ve Saksağan",
+  "8": "Papağan Alex Ve Puan Tablosu",
+  "9": ""
+ },
+ "cta_scene": 9,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 6 — Süper Güçler",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Bu akşam 19:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

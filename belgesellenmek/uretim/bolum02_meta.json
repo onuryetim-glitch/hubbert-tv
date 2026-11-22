@@ -1,0 +1,83 @@
+{
+ "scoreboard_scene": 10,
+ "scores": [
+  [
+   "Tavus kuşu",
+   6
+  ],
+  [
+   "Bower kuşu",
+   9
+  ],
+  [
+   "Penguen",
+   6
+  ],
+  [
+   "Peygamberdevesi",
+   5
+  ],
+  [
+   "Nursery web örümceği",
+   7
+  ],
+  [
+   "Işıkböceği",
+   7
+  ],
+  [
+   "Sepya",
+   9
+  ],
+  [
+   "Anglerfish",
+   8
+  ]
+ ],
+ "no_title": [
+  1,
+  2,
+  10,
+  11
+ ],
+ "titles": {
+  "1": "",
+  "2": "",
+  "3": "Tavus Kuşu",
+  "4": "Bower Kuşu",
+  "5": "Penguen Ve Pelikan",
+  "6": "Peygamberdevesi Ve Ölü Taklidi Yapan Örümcek",
+  "7": "Işıkböceği",
+  "8": "Sepya",
+  "9": "Anglerfish",
+  "10": "",
+  "11": ""
+ },
+ "cta_scene": 11,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 3 — Kötü ve Harika Ebeveynler",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Yarın sabah 10:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
+}

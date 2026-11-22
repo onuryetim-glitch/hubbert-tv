@@ -44,13 +44,13 @@ def tabledraw(path,rows,n):
     im=Image.new("RGB",(W,H),(14,22,20)); d=ImageDraw.Draw(im)
     d.text((60,36),"PUAN TABLOSU",font=font(54),fill=(255,200,40))
     d.text((60,100),"Hayatta kalma puanı (10 üzerinden)",font=font(26,False),fill=(190,200,195))
-    y=170
+    y=170; step=min(72,(690-170)//max(1,len(rows)))
     for i,(name,pt) in enumerate(rows):
         if i>=n: break
         d.text((60,y),name,font=font(34),fill=(255,255,255))
         d.rounded_rectangle((520,y+6,520+60*10,y+40),8,outline=(90,110,100),width=2)
         d.rounded_rectangle((520,y+6,520+60*pt,y+40),8,fill=(255,200,40) if pt>=8 else (120,200,140))
-        d.text((1160,y),f"{pt}",font=font(34),fill=(255,255,255)); y+=72
+        d.text((1160,y),f"{pt}",font=font(34),fill=(255,255,255)); y+=step
     im.save(path)
 scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
