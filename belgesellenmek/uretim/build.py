@@ -56,6 +56,13 @@ scenes=parse(ep); parts=[]; srt=[]; t0=0.0; random.seed(7)
 def hms(t): h=int(t//3600);m=int(t%3600//60);s=t%60; return f"{h:02}:{m:02}:{s:06.3f}".replace(".",",")
 for s in scenes:
     n=s["n"]; a=f"ses/b{ep}/s{n}.wav"; L=dur(a)+0.6
+    sp=f"{D}/s{n}"
+    if os.path.exists(f"{sp}.mp4") and str(n) not in os.environ.get("FORCE","").split(","):
+        parts.append(f"{sp}.mp4")
+        sents=[x.strip() for x in re.split(r"(?<=[.!?…])\s+",s["text"]) if x.strip()]; tc=sum(len(x) for x in sents); tt=t0+0.1; span=L-0.8
+        for x in sents:
+            d_=span*len(x)/tc; srt.append((tt,tt+d_,x)); tt+=d_
+        t0+=L; print("sahne",n,"önbellekten",flush=True); continue
     segs=[]; media=[m for m in man if m["scene"]==n]
     vids=[m for m in media if m["kind"]=="video"]; imgs=[m for m in media if m["kind"]=="image"]
     order=[]; 
@@ -81,6 +88,11 @@ for s in scenes:
     raw=f"{sp}_raw.mp4"; run("ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",lst,"-c","copy",raw)
     ttl=META["titles"].get(str(n),s["title"]); tf=f"{sp}_title.txt"; open(tf,"w",encoding="utf-8").write(ttl)
     ov=f"drawbox=x=0:y=ih-150:w=iw:h=80:color=black@0.55:t=fill:enable='between(t,0.5,4.5)',drawtext=fontfile={BOLD}:textfile={tf}:fontsize=40:fontcolor=white:x=60:y=h-130:enable='between(t,0.5,4.5)'" if n not in META["no_title"] else "null"
+    if n==META.get("cta_scene"):
+        c=META["cta"]; fs=[]
+        for j,(txt,sz,col,y) in enumerate(c):
+            fn=f"{sp}_cta{j}.txt"; open(fn,"w",encoding="utf-8").write(txt); fs.append(f"drawtext=fontfile={BOLD}:textfile={fn}:fontsize={sz}:fontcolor={col}:x=(w-text_w)/2:y={y}:enable='gte(t,3)'")
+        ov="drawbox=x=140:y=170:w=1000:h=380:color=black@0.62:t=fill:enable='gte(t,3)',"+",".join(fs)
     out=f"{sp}.mp4"; run("ffmpeg","-y","-loglevel","error","-i",raw,"-i",a,"-vf",ov,"-af","apad=pad_dur=1,aresample=44100","-t",f"{L:.3f}","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","160k","-ar","44100",out)
     parts.append(out)
     # altyazı: cümleleri karakter oranıyla dağıt

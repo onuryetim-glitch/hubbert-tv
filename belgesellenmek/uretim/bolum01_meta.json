@@ -43,5 +43,32 @@
   "6": "Taklitçi Böcekler",
   "7": "",
   "8": ""
- }
+ },
+ "cta_scene": 8,
+ "cta": [
+  [
+   "ABONE OL  •  BEĞEN  •  YORUM YAP",
+   44,
+   "0xFFC828",
+   205
+  ],
+  [
+   "Zili açmayı unutma!",
+   32,
+   "white",
+   285
+  ],
+  [
+   "Sıradaki: Bölüm 2 — Aşk ve Savaş",
+   38,
+   "white",
+   380
+  ],
+  [
+   "Bu akşam 19:00",
+   52,
+   "0xFFC828",
+   445
+  ]
+ ]
 }
