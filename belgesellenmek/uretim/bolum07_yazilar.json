@@ -1,0 +1,156 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Şu anda Dünya'da yaklaşık yirmi katrilyon karınca yaşıyor",
+  "text": "Yaklaşık 20 katrilyon\nkarınca yaşıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Yani gezegenin gerçek sahibi ne bir aslan",
+  "text": "Gezegenin gerçek sahibi\nkim?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Önceki bölümde süper güçlü hayvanları",
+  "text": "Önceki bölüm:\nsüper güçlü hayvanlar",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bugün tam tersi: tek başına sıradan",
+  "text": "Tek başına sıradan,\nbirlikte?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Bilinen on dört binden fazla türü var",
+  "text": "14.000'den fazla tür\nhepsi koloni halinde",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Yaprak kesen karıncalar bir yaprak parçasını",
+  "text": "Yaprağı yemiyorlar.\nPeki ne yapıyorlar?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Avrupa'da Akdeniz kıyısı boyunca yaklaşık altı bin kilometre",
+  "text": "Tek süper koloni:\nyaklaşık 6.000 km",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Bir işçi arı yaz aylarında yalnızca beş altı hafta",
+  "text": "İşçi arı yazın\nyalnızca 5-6 hafta yaşıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Yiyecek bulan işçi arı kovana dönünce",
+  "text": "Arılar yön tarifini\nnasıl veriyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Doğu bal arıları ise eşek arısına özel bir yöntem",
+  "text": "Eşek arısı sarılıp\n46 dereceye ısıtılıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Ama asıl garipliği şu: bir memeli olarak",
+  "text": "Memeli mi, böcek mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Yaşam süresi otuz yılı aşıyor",
+  "text": "Ömrü 30 yılı aşıyor\nBenzer fare: 2-3 yıl",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Oksijensiz ortamda yaklaşık on sekiz dakika",
+  "text": "Oksijensiz ortamda\n18 dakika dayanıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Uzun yıllar boyunca bize",
+  "text": "Alfa kurt\ngerçek mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "ve gördü ki yabani bir sürü",
+  "text": "Yabani sürü bir aile:\nanne, baba ve yavrular",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Genç kurtlar bir ile üç yaş arasında",
+  "text": "Genç kurtlar genellikle\n1-3 yaşta ayrılıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Güney Afrika'nın Kalahari bölgesinde, 1993'ten beri",
+  "text": "Mirketler: 1993'ten beri\naraştırma projesi",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Nöbetçi, her şey yolundaysa alçak sesle",
+  "text": "Nöbet şarkısı\nkesilirse ne olur?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "2006'da Science dergisinde yayımlanan bir çalışmaya göre",
+  "text": "Önce ölü, sonra etkisiz,\nen sonunda canlı akrep",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Kışın hava eksi kırk derecenin altına inebiliyor",
+  "text": "Kış: -40 derecenin altı,\nrüzgâr 150 km/s üstü",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Ve bu, öylece duran donmuş bir kalabalık değil",
+  "text": "Kümenin içi gerçekten\nhareketsiz mi?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Araştırmalara göre kümenin iç kısmında ölçülen sıcaklıklar",
+  "text": "Kümenin içi\n30 dereceyi bulabiliyor",
+  "kind": "fact",
+  "side": "left"
+ }
+]

@@ -1,0 +1,156 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Ama akvaryum meraklıları onu tek bir sebepten tanır",
+  "text": "Akvaryum camını çatlattığı\nbildirilen yumruk",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Peki bu hayvan nasıl bir canlı?",
+  "text": "Karides mi, boksör mü?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Betty adlı bir karga teli bükerek",
+  "text": "Betty teli bükerek\nkendi kancasını yaptı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bu hayvanların birçoğunun beyni minicik,",
+  "text": "Beyni minik,\nyeteneği dev",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "2004'te Nature dergisinde yayımlanan bir çalışmada,",
+  "text": "Tokmak saniyede\nyaklaşık 23 metre hızda",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Ama asıl şaka şu: tokmak o kadar",
+  "text": "İkinci darbe\nbedava mı geliyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Peki ya gözleri? İnsan gözünde üç tür",
+  "text": "12-16 görsel pigment\ninsanda üç algılayıcı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Jet yaklaşık 25 metre hızla çıkıyor",
+  "text": "Su jeti yaklaşık\n25 metre hızla çıkıyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Üstelik baloncuk çökerken kısa süreli bir",
+  "text": "Baloncuk çökerken\nışık çakması oluşuyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Son olarak ortaklık: tabanca karidesi ve",
+  "text": "Karides ve gobi balığı:\nkim ne yapıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "İçinde iki ayrı bölme var:",
+  "text": "İki bölme: hidrokinon,\nhidrojen peroksit, enzim",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "2015'te Science dergisinde yayımlanan bir çalışma,",
+  "text": "Püskürtme saniyede\nyüzlerce darbe",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Peki böcek yutulursa ne olur?",
+  "text": "Yutulan böcek\nkurbağadan çıkar mı?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Boyu yaklaşık yarım milimetre, sekiz bacağı var",
+  "text": "Boyu yarım milimetre\nsekiz bacağı var",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "2007'de FOTON-M3 görevi, tardigradları 10 gün",
+  "text": "Uzay boşluğunda\nhayatta kalabilir mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Ve 2016'da Japon araştırmacılar Dsup adlı",
+  "text": "Dsup, X-ışını DNA hasarını\nyaklaşık %40 azalttı",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Çan çapı yaklaşık 4,5 milimetre,",
+  "text": "Turritopsis dohrnii\nçan çapı yaklaşık 4,5 mm",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Turritopsis'te ise stres, açlık, yaralanma",
+  "text": "Yetişkin çocukluğuna\ndönebilir mi?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Gemilerin balast suyuyla dünyanın birçok denizine",
+  "text": "Balast suyuyla dünyaya\nyayıldığı düşünülüyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Önce bir düzeltme: bu hayvan aslında",
+  "text": "Aslında yılan balığı değil\nbıçak balığı akrabası",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "2019'da Nature Communications dergisinde yayımlanan bir",
+  "text": "Electrophorus voltai\nyaklaşık 860 volt",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Bir de ilginç ayrıntı: elektrikli yılan balığı",
+  "text": "860 volt var,\nama nefes neden yüzeyde?",
+  "kind": "hook",
+  "side": "right"
+ }
+]

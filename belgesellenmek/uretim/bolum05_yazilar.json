@@ -1,0 +1,156 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Japonya, Sendai kenti. Kırmızı ışık yanıyor",
+  "text": "Sendai, Japonya\nKarga cevizi yola bıraktı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Işık yeşile dönüyor, araçlar cevizin üstünden",
+  "text": "Cevizi kim kıracak?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Işıklı oltasıyla av bekleyen fener balığını",
+  "text": "Fener balığı\nışıklı oltayla av bekler",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Bugün yüzeye çıkıyoruz, çünkü bu kez",
+  "text": "Hayatta kalmak için\nbeyin şart mı?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "İlk konuğumuz, Pasifik'teki Yeni Kaledonya adasının kargası",
+  "text": "Yeni Kaledonya kargası\ndallardan alet yapıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Betty'nin elinde yalnızca düz bir tel kaldı",
+  "text": "Düz telden kanca\nolur mu?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "\"Kuş beyinli\" lafı uzun zamandır hakaret",
+  "text": "Kargagil ön beyninde\nmemelilerden fazla nöron",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Seattle'daki Washington Üniversitesi'nde ornitolog John Marzluff",
+  "text": "Seattle, 2006\nMarzluff'un maske deneyi",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "İşin en ilginç kısmı şu: o maskeyle",
+  "text": "Hiç yakalanmamış kargalar\nneden tepki verdi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Üstelik olaydan sonra doğan kargaların da",
+  "text": "Sonradan doğan kargalar\nda maskeye tepki verdi",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Ortak ahtapotun yaklaşık 500 milyon nöronu",
+  "text": "Ahtapotta 500 milyon nöron\nüçte ikisi kollarda",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Üstelik ahtapotun üç kalbi var ve",
+  "text": "3 kalp, mavi kan\nbakırlı protein taşıyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Bir de Inky'nin hikâyesi var.",
+  "text": "Ahtapot hapisten\nnasıl kaçtı?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Şempanzelere gelince, hikâye 1960'ta Tanzanya'daki Gombe'de",
+  "text": "Gombe, Tanzanya, 1960\nAlet hazırlayan şempanze",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Genetik tarafı da hatırlayalım: şempanze ile",
+  "text": "İnsanla DNA benzerliği\nyaklaşık yüzde 98,8",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Bir de Ayumu var. Kyoto Üniversitesi'nde",
+  "text": "Şempanze mi, insan mı\ndaha iyi hatırlıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Şişe burunlu yunuslar, yavruluğundan itibaren kendilerine",
+  "text": "Yunusun imza ıslığı\nisim gibi çalışıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "2006'da Bronx Hayvanat Bahçesi'nde Happy adlı",
+  "text": "Happy, Bronx, 2006\nAynadaki işarete dokundu",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Son olarak saksağan: Avrasya saksağanı da",
+  "text": "Saksağan aynada\nkendini tanıdı mı?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Bilim insanı Irene Pepperberg onu 1977'de",
+  "text": "Afrika gri papağanı Alex\nyaklaşık 100 kelimesi vardı",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Bir keresinde aynada kendine bakıp hangi",
+  "text": "Aynaya bakıp\nne sordu?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Alex 2007'de, 31 yaşında öldü.",
+  "text": "Alex 31 yaşında öldü\n(2007)",
+  "kind": "fact",
+  "side": "right"
+ }
+]

@@ -1,0 +1,156 @@
+[
+ {
+  "scene": 1,
+  "anchor": "Bir koala günün yirmi saatine yakınını",
+  "text": "Koala günün yaklaşık\n20 saatini uyuyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 1,
+  "anchor": "Bir başkası da çalmadan önce sizin gözlerinizin",
+  "text": "Kim çalmadan önce\ngözlerinize bakıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 2,
+  "anchor": "Mirketler puan tablosunda sekiz almıştı",
+  "text": "Mirketler puan\ntablosunda 8 aldı",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 2,
+  "anchor": "Çünkü bazı hayvanlar ya hiçbir şey yapmamayı",
+  "text": "Hiçbir şey yapmamak\nişe yarar mı?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Sırları tembellik değil, enerji hesabı",
+  "text": "Sloth gerçekten\ntembel mi?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 3,
+  "anchor": "Üç parmaklı sloth'ların boynunda fazladan omurlar",
+  "text": "Üç parmaklı sloth'ların\nboynunda fazladan omur var",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 3,
+  "anchor": "Panama'da vahşi sloth'ların beyin aktivitesini ilk kez",
+  "text": "Doğada üç parmaklı sloth\ngünde ~10 saat uyuyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Günde on sekiz ila yirmi iki saat uyuyor",
+  "text": "Koala günde 18-22 saat\nuyuyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 4,
+  "anchor": "Okaliptüs yaprakları çoğu hayvan için",
+  "text": "Yaprak zehirli, besini az:\nkoala nasıl yaşıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 4,
+  "anchor": "Avustralya hükümeti 2022'de koalayı ülkenin doğusunda",
+  "text": "Koala 2022'de doğuda\nnesli tükenmekte listesinde",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Bilimdeki adı kleptoparazitizm",
+  "text": "Kleptoparazitizm:\nYunanca klepto, çalmak",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 5,
+  "anchor": "Kovalıyor, kanadından ya da kuyruğundan",
+  "text": "Büyük korsan kuşu\navını nasıl alıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 5,
+  "anchor": "Örümcek dünyasında da Argyrodes cinsi",
+  "text": "Argyrodes örümcekleri\nbaşkasının ağında yaşıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "Ama tüyleri su geçirmez değil",
+  "text": "Suya inemeyen kuş\nnasıl yaşıyor?",
+  "kind": "hook",
+  "side": "left"
+ },
+ {
+  "scene": 6,
+  "anchor": "2016'da Henri Weimerskirch ve arkadaşlarının",
+  "text": "Fregat kuşu 2 aya kadar\ninmeden uçabiliyor",
+  "kind": "fact",
+  "side": "right"
+ },
+ {
+  "scene": 6,
+  "anchor": "Aynı yıl Niels Rattenborg ve ekibinin Galapagos'ta",
+  "text": "Uçarken uyuyor:\nhavada günde ~40 dakika",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "2019'da Exeter Üniversitesi'nden araştırmacılar Biology Letters",
+  "text": "Ringa martıları insan\nbakışını takip ediyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 7,
+  "anchor": "Yani martı, patates cipsinizi çalmadan önce",
+  "text": "Martı cipsinizi çalmadan\nönce neye bakıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 7,
+  "anchor": "Benjamin Franklin 1784'te kızına yazdığı mektupta",
+  "text": "Franklin 1784'te kel\nkartalı mektupta eleştirdi",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Batı çalı alakargası yiyeceklerini toprağa",
+  "text": "Alakarga yüzlerce yere\nyiyecek saklıyor",
+  "kind": "fact",
+  "side": "left"
+ },
+ {
+  "scene": 8,
+  "anchor": "Alakargalar yiyeceklerini saklarken başka bir alakarga",
+  "text": "İzlenen alakarga\nyiyeceği ne yapıyor?",
+  "kind": "hook",
+  "side": "right"
+ },
+ {
+  "scene": 8,
+  "anchor": "Kuzgunlarda da benzer bir tablo var",
+  "text": "Kuzgunlar, yerini gören\nrakibe farklı davranıyor",
+  "kind": "fact",
+  "side": "left"
+ }
+]
