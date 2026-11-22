@@ -31,7 +31,7 @@
     ]
    },
    {
-    "s": 10.0,
+    "s": 10,
     "tags": [
      "chameleon"
     ]
@@ -59,31 +59,31 @@
     }
    },
    {
-    "s": 13.0,
+    "s": 14,
     "tags": [
      "leafinsect"
     ]
    },
    {
-    "s": 13.25,
+    "s": 14.25,
     "tags": [
      "octopus"
     ]
    },
    {
-    "s": 13.5,
+    "s": 14.5,
     "tags": [
      "hoverfly"
     ]
    },
    {
-    "s": 13.78,
+    "s": 14.78,
     "tags": [
      "opossum"
     ]
    },
    {
-    "s": 14,
+    "s": 16,
     "tags": [
      "leafinsect",
      "chameleon",
@@ -99,7 +99,7 @@
     ]
    },
    {
-    "s": 11,
+    "s": 15,
     "kart": {
      "baslik": "Panter bukalemunu",
      "satirlar": [
@@ -111,7 +111,7 @@
     }
    },
    {
-    "s": 16,
+    "s": 20,
     "tags": [
      "chameleon"
     ]
@@ -125,31 +125,31 @@
     ]
    },
    {
-    "s": 10,
-    "tags": [
-     "octopus"
-    ]
-   },
-   {
     "s": 11,
     "tags": [
-     "lionfish"
+     "octopus"
     ]
    },
    {
     "s": 12,
     "tags": [
+     "lionfish"
+    ]
+   },
+   {
+    "s": 13,
+    "tags": [
      "seasnake"
     ]
    },
    {
-    "s": 14,
+    "s": 15,
     "tags": [
      "octopus"
     ]
    },
    {
-    "s": 16,
+    "s": 18,
     "kart": {
      "baslik": "Ahtapotun sinir sistemi",
      "satirlar": [
@@ -160,7 +160,7 @@
     }
    },
    {
-    "s": 20,
+    "s": 22,
     "tags": [
      "octopus"
     ]
@@ -174,7 +174,7 @@
     ]
    },
    {
-    "s": 6,
+    "s": 7,
     "kart": {
      "baslik": "Eophyllium messelensis",
      "satirlar": [
@@ -186,19 +186,19 @@
     }
    },
    {
-    "s": 10,
+    "s": 12,
     "tags": [
      "leafinsect"
     ]
    },
    {
-    "s": 15,
+    "s": 18,
     "tags": [
      "kallima"
     ]
    },
    {
-    "s": 18,
+    "s": 21,
     "kart": {
      "baslik": "Alfred Russel Wallace",
      "satirlar": [
@@ -209,7 +209,7 @@
     }
    },
    {
-    "s": 19,
+    "s": 22,
     "tags": [
      "kallima"
     ]
@@ -223,7 +223,7 @@
     ]
    },
    {
-    "s": 15,
+    "s": 16,
     "kart": {
      "baslik": "Tanatozis",
      "satirlar": [
@@ -235,7 +235,7 @@
     }
    },
    {
-    "s": 18,
+    "s": 19,
     "tags": [
      "opossum"
     ]
@@ -279,7 +279,7 @@
     ]
    },
    {
-    "s": 14,
+    "s": 15,
     "kart": {
      "baslik": "Fritz Müller",
      "satirlar": [
@@ -290,20 +290,20 @@
     }
    },
    {
-    "s": 17,
+    "s": 18,
     "tags": [
      "monarch",
      "viceroy"
     ]
    },
    {
-    "s": 20,
+    "s": 22,
     "tags": [
      "spider"
     ]
    },
    {
-    "s": 24,
+    "s": 26,
     "tags": [
      "caterpillar"
     ],
