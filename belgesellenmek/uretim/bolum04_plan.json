@@ -1,0 +1,501 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "ocean"
+    ]
+   },
+   {
+    "s": 5,
+    "tags": [
+     "ocean",
+     "octopus"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Işık nereye kadar iner?",
+     "satirlar": [
+      "Berrak suda en fazla yaklaşık 1.000 m",
+      "İlk 200 metreden sonra hızla azalır"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "octopus",
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 13,
+    "tags": [
+     "anglerfish",
+     "lanternfish"
+    ]
+   },
+   {
+    "s": 16,
+    "tags": [
+     "anglerfish",
+     "vampirsquid",
+     "giantsquid",
+     "whalefall",
+     "tubeworm"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "penguin",
+     "seahorse"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 6,
+    "tags": [
+     "octopus"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "ocean"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Okyanus bölgeleri",
+     "satirlar": [
+      "0-200 m: güneşli bölge",
+      "200-1.000 m: alacakaranlık • 1.000 m altı: tam gece"
+     ],
+     "etiket": "BÖLGELER"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "ocean",
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "ocean"
+    ]
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Challenger Deep",
+     "satirlar": [
+      "Mariana Çukuru, yaklaşık 10.900 m",
+      "Basınç 1.000 atmosferin üzerinde"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Trieste, 1960",
+     "satirlar": [
+      "Jacques Piccard ve Don Walsh",
+      "Ay'a ayak basılmasından 9 yıl önce"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "James Cameron, 2012",
+     "satirlar": [
+      "Deepsea Challenger ile tek kişilik iniş"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "ocean",
+     "snailfish"
+    ]
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "TMAO molekülü",
+     "satirlar": [
+      "Balık hücrelerini basınca karşı korur",
+      "Derinlikle artar; sınır yaklaşık 8.200 m"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "Salyangoz balığı, 2023",
+     "satirlar": [
+      "Japonya açıkları, yaklaşık 8.300 m",
+      "Kayıtlı en derin balık görüntüsü"
+     ],
+     "etiket": "KAYIT"
+    }
+   },
+   {
+    "s": 31,
+    "kart": {
+     "baslik": "Seabed 2030",
+     "satirlar": [
+      "Deniz tabanının yalnızca yaklaşık dörtte biri",
+      "yüksek çözünürlükle haritalandı"
+     ],
+     "etiket": "HARİTA"
+    }
+   },
+   {
+    "s": 33,
+    "tags": [
+     "ocean"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 14,
+    "tags": [
+     "anglerfish"
+    ]
+   },
+   {
+    "s": 17,
+    "tags": [
+     "lanternfish",
+     "jellyfish"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "Monterey Körfezi çalışması",
+     "satirlar": [
+      "Yüzeyden 4.000 m'ye su sütunu",
+      "Hayvanların yaklaşık %76'sı biyolüminesans yapıyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "lanternfish",
+     "jellyfish"
+    ]
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Ters aydınlatma",
+     "satirlar": [
+      "Karından üstten gelen soluk ışığa uyan ışık",
+      "Aşağıdan bakan yırtıcı gölgeyi göremiyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "lanternfish"
+    ]
+   },
+   {
+    "s": 27,
+    "tags": [
+     "dragonfish"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "vampirsquid"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Carl Chun, 1903",
+     "satirlar": [
+      "Vampyroteuthis infernalis",
+      "Ne vampir, ne gerçek kalamar, ne ahtapot"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "vampirsquid"
+    ]
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Oksijen minimum bölgesi",
+     "satirlar": [
+      "Yaklaşık 600-1.200 m derinlik",
+      "Oksijen doygunluğu yaklaşık %3'e kadar iner"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "vampirsquid"
+    ]
+   },
+   {
+    "s": 16,
+    "tags": [
+     "vampirsquid"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "vampirsquid"
+    ]
+   },
+   {
+    "s": 26,
+    "tags": [
+     "vampirsquid"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "giantsquid"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Dev kalamarın ilk fotoğrafları",
+     "satirlar": [
+      "2004: yem ve kameralı olta, yaklaşık 900 m",
+      "2012: Tsunemi Kubodera ve ekibi, Ogasawara, ilk görüntü"
+     ],
+     "etiket": "KAYIT"
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Edith Widder, 2019",
+     "satirlar": [
+      "Medusa kameraları ile Meksika Körfezi",
+      "Bir dev kalamar daha filme alındı"
+     ],
+     "etiket": "KAYIT"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "giantsquid"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "Göz çapı: yaklaşık 27 cm",
+     "satirlar": [
+      "2012 çalışması: sperm balinasının biyolüminesansını",
+      "yaklaşık 120 m uzaktan fark etmeye yarayabilir"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "giantsquid"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "whalefall"
+    ]
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Craig Smith, 1987",
+     "satirlar": [
+      "Kaliforniya açıkları, yaklaşık 1.200 m",
+      "İlk kez bir balina iskeleti incelendi"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "whalefall",
+     "hagfish"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "whalefall"
+    ]
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Bir tahmine göre",
+     "satirlar": [
+      "40 tonluk balina leşi, yaklaşık 2.000 yıllık",
+      "organik karbonu bir seferde getiriyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "whalefall"
+    ]
+   },
+   {
+    "s": 16,
+    "tags": [
+     "osedax",
+     "whalefall"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "tubeworm"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Alvin, 1977",
+     "satirlar": [
+      "Galápagos Fayı, yaklaşık 2.500 m",
+      "Bilim insanları sıcak su akıntıları bekliyordu"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 3,
+    "tags": [
+     "tubeworm"
+    ]
+   },
+   {
+    "s": 6,
+    "tags": [
+     "tubeworm"
+    ]
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Kara duman bacaları, 1979",
+     "satirlar": [
+      "Doğu Pasifik Sırtı",
+      "Akışkan sıcaklığı yaklaşık 350 derece"
+     ],
+     "etiket": "KEŞİF"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "tubeworm"
+    ]
+   },
+   {
+    "s": 18,
+    "tags": [
+     "yetikrab",
+     "tubeworm"
+    ]
+   },
+   {
+    "s": 21,
+    "kart": {
+     "baslik": "Gerçekten güneşsiz mi?",
+     "satirlar": [
+      "Çoğu bacadaki canlı hâlâ yüzeyde fotosentezle",
+      "oluşan oksijene dayanıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "tubeworm"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,593 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 12,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 14,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 14.4,
+    "tags": [
+     "pipa"
+    ]
+   },
+   {
+    "s": 14.75,
+    "tags": [
+     "crocodile"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "turtle"
+    ]
+   },
+   {
+    "s": 17,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 17.25,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 17.45,
+    "tags": [
+     "seahorse"
+    ]
+   },
+   {
+    "s": 17.65,
+    "tags": [
+     "crocodile"
+    ]
+   },
+   {
+    "s": 17.85,
+    "tags": [
+     "pipa"
+    ]
+   },
+   {
+    "s": 18,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 3: Ebeveynlik"
+     ],
+     "etiket": "BÖLÜM 3",
+     "logo": true
+    }
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 2,
+    "tags": [
+     "peacock"
+    ]
+   },
+   {
+    "s": 2.4,
+    "tags": [
+     "bowerbird"
+    ]
+   },
+   {
+    "s": 2.7,
+    "tags": [
+     "fireflies"
+    ]
+   },
+   {
+    "s": 5,
+    "tags": [
+     "cuttlefish"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "warbler"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 4,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Konağa uzmanlaşmış dişi hatları",
+     "satirlar": [
+      "Belirli konak türlerine uzmanlaşmış guguk dişi hatları",
+      "Yumurtalar konağınkine renk ve desen olarak benziyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "Edward Jenner, 1788",
+     "satirlar": [
+      "Bu davranışı ilk yazıya döken kişi",
+      "Evet, aşıyı geliştiren Jenner"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 22,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 23,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 25,
+    "kart": {
+     "baslik": "Nick Davies ve ekibi, Cambridge",
+     "satirlar": [
+      "Deneyler: tek yavrunun hızlı çağrısı",
+      "Konağı yavru kalabalığı varmış gibi ikna ediyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 29,
+    "tags": [
+     "cuckoo"
+    ]
+   },
+   {
+    "s": 32,
+    "tags": [
+     "warbler"
+    ]
+   },
+   {
+    "s": 35,
+    "kart": {
+     "baslik": "Evrimsel silahlanma yarışı",
+     "satirlar": [
+      "Konaklar yabancı yumurtayı atıyor ya da yuvayı baştan kuruyor",
+      "Guguk daha iyi sahteciliğe zorlanıyor"
+     ],
+     "etiket": "KURAM"
+    }
+   },
+   {
+    "s": 37,
+    "tags": [
+     "cuckoo"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Erkeğin açlığı",
+     "satirlar": [
+      "Koloniye gelişinden itibaren yaklaşık 4 ay",
+      "Vücut kütlesinin yaklaşık %40'ını kaybedebiliyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Antarktika kışı",
+     "satirlar": [
+      "Hava sıcaklığı eksi 40 dereceye düşebiliyor",
+      "Rüzgâr saatte 100 kilometreyi aşabiliyor"
+     ],
+     "etiket": "KOŞULLAR"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Huddle ölçümleri",
+     "satirlar": [
+      "Kümenin içinde sıcaklık yaklaşık 37 dereceye çıkabiliyor",
+      "Enerji tüketimi belirgin biçimde azalıyor"
+     ],
+     "etiket": "ÖLÇÜM"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "penguin"
+    ]
+   },
+   {
+    "s": 26,
+    "kart": {
+     "baslik": "Bireye özgü çağrı",
+     "satirlar": [
+      "Çağrı iki ayrı frekans katmanından oluşuyor",
+      "Gürültülü kalabalıkta bile tanınmayı mümkün kılıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 27,
+    "tags": [
+     "penguin"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "seahorse"
+    ]
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Gebelik süresi",
+     "satirlar": [
+      "Türe göre yaklaşık 2-4 hafta"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "seahorse"
+    ]
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Doğumda yavru sayısı",
+     "satirlar": [
+      "Türe göre onlarca",
+      "Bazı türlerde bin ve üzeri"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "seahorse"
+    ]
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "Değişen cinsiyet rolleri",
+     "satirlar": [
+      "Erkek yatırımı üstlenince, bazı türlerde eş seçiminde dişilerin yarıştığı gözlemlendi"
+     ],
+     "etiket": "GÖZLEM"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "seahorse"
+    ]
+   },
+   {
+    "s": 21,
+    "kart": {
+     "baslik": "Kese dokusu",
+     "satirlar": [
+      "Gebelik boyunca özelleşiyor",
+      "Oksijen ve ortam sağlıyor; bağışıklık ayarları evrimleşmiş olabilir"
+     ],
+     "etiket": "ARAŞTIRMA"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "seahorse"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "crocodile"
+    ]
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Nil timsahı yuvası",
+     "satirlar": [
+      "Kuma gömülen yaklaşık 25-80 yumurta",
+      "Kuluçka yaklaşık 90 gün"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "crocodile"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "pipa"
+    ]
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Surinam kurbağası",
+     "satirlar": [
+      "Yaklaşık 3-4 ay sonra kurbağacık evresini ceplerde geçiren yavrular sırttan çıkıyor"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 23,
+    "tags": [
+     "pipa"
+    ]
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "Dil yok, diş yok",
+     "satirlar": [
+      "Yassı, yaprağa benzeyen vücut",
+      "Ön ayaklarda yıldız biçimli duyu uçları"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "pipa"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "turtle"
+    ]
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Hayatta kalma oranı",
+     "satirlar": [
+      "Sık verilen tahminlere göre yumurtadan çıkanların yaklaşık binde biri erişkin oluyor"
+     ],
+     "etiket": "TAHMİN"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "mola"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Ay balığı",
+     "satirlar": [
+      "Bir dişide yaklaşık 300 milyon yumurta sayıldığı bildiriliyor",
+      "Bilinen omurgalılar arasında en yüksek sayılardan biri"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "mola"
+    ]
+   },
+   {
+    "s": 13,
+    "tags": [
+     "turtle"
+    ]
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Isınan iklim",
+     "satirlar": [
+      "Sıcak yuvalar daha çok dişi üretiyor",
+      "Bazı popülasyonlarda dişi oranı çok yükselmiş"
+     ],
+     "etiket": "İKLİM"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "turtle"
+    ]
+   },
+   {
+    "s": 21,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Monterey Körfezi, 2014",
+     "satirlar": [
+      "Yaklaşık 1.400 metre derinlikte, yumurtalarının başında bekleyen dişi ahtapot",
+      "Graneledone boreopacifica"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Yaklaşık 4,5 yıl",
+     "satirlar": [
+      "53 ay boyunca izlendi",
+      "Bu sürede hiç beslenirken görülmedi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "Rekor",
+     "satirlar": [
+      "Bilinen hayvanlar arasında kaydedilmiş en uzun yumurta bakımı"
+     ],
+     "etiket": "REKOR"
+    }
+   },
+   {
+    "s": 29,
+    "tags": [
+     "octopus"
+    ]
+   }
+  ]
+ }
+}

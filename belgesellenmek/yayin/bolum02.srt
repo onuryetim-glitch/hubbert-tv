@@ -1,644 +1,876 @@
 1
-00:00:00,100 --> 00:00:01,466
+00:00:00,050 --> 00:00:01,901
 Bir erkek tavus kuşu.
 
 2
-00:00:01,466 --> 00:00:04,913
+00:00:02,001 --> 00:00:05,947
 Kuyruğunu açıyor, titriyor, dönüyor, tekrar titriyor.
 
 3
-00:00:04,913 --> 00:00:09,010
+00:00:06,047 --> 00:00:10,734
 Karşısında bir dişi var ve görüyorsunuz: dişi yerde yem arıyor.
 
 4
-00:00:09,010 --> 00:00:11,026
+00:00:10,834 --> 00:00:13,262
 Bu sahne doğanın en eski dramı.
 
 5
-00:00:11,026 --> 00:00:16,033
+00:00:13,362 --> 00:00:18,693
 Biri bütün enerjisiyle gösteriş yapıyor, diğeri hâlâ öğle yemeğini düşünüyor.
 
 6
-00:00:16,033 --> 00:00:19,545
-Kanalımıza hoş geldiniz, bugünkü konumuz aşk ve savaş.
+00:00:18,793 --> 00:00:24,657
+Eş bulmak size zor geliyorsa, bugünkü konumuza hazırlıklı olun: aşk ve savaş.
 
 7
-00:00:19,545 --> 00:00:22,927
+00:00:24,757 --> 00:00:28,482
 Çünkü doğada eş bulmak çoğu zaman ikisinin karışımı.
 
 8
-00:00:22,927 --> 00:00:31,967
+00:00:28,582 --> 00:00:39,029
 1860'ta Charles Darwin bir arkadaşına yazdığı mektupta, bir tavus kuşu kuyruğundaki tüye her baktığında kendini hasta hissettiğini söyledi.
 
 9
-00:00:31,967 --> 00:00:32,357
-Neden?
+00:00:39,128 --> 00:00:43,043
+Dünyayı gemiyle dolaşmış bir adam, bir tüye dayanamadı.
 
 10
-00:00:32,357 --> 00:00:36,454
-Çünkü bu kuyruk, doğal seçilim kuramına uymayan bir bulmacaydı.
+00:00:43,142 --> 00:00:44,609
+Neden?
 
 11
-00:00:36,454 --> 00:00:41,787
-Bu bölümde o bulmacanın en renkli, en tuhaf ve en tehlikeli sonuçlarını göreceğiz.
+00:00:44,709 --> 00:00:49,352
+Çünkü bu kuyruk, doğal seçilim kuramına uymayan bir bulmacaydı.
 
 12
-00:00:41,787 --> 00:00:44,258
-Baştan uyarayım: romantizm beklemeyin.
+00:00:49,452 --> 00:00:54,923
+Bu bölümde o bulmacanın en renkli, en tuhaf ve en tehlikeli sonuçlarını göreceğiz.
 
 13
-00:00:44,258 --> 00:00:47,900
-Doğa romantizmi pek sevmez, ölçülebilir sonuçları sever.
+00:00:55,023 --> 00:00:58,093
+Baştan uyarayım: romantizm beklemeyin.
 
 14
-00:00:48,700 --> 00:00:55,141
-Önceki bölümde bukalemunun kamuflaj için değil, duygularını belli etmek için renk değiştirdiğini öğrendik.
+00:00:58,193 --> 00:01:02,451
+Doğa romantizmi pek sevmez, ölçülebilir sonuçları sever.
 
 15
-00:00:55,141 --> 00:01:01,095
-Taklitçi ahtapot deniz yılanına dönüştü, opossum ise ölü taklidini bilerek değil, refleksle yaptı.
+00:01:02,551 --> 00:01:05,350
+Çiçek yok, mum yok, sadece sonuç var.
 
 16
-00:01:01,095 --> 00:01:05,045
-Ve bir örümceğin aşk uğruna ölü taklidi yapacağına söz vermiştim.
+00:01:06,050 --> 00:01:13,279
+Önceki bölümde bukalemunun kamuflaj için değil, duygularını belli etmek için renk değiştirdiğini öğrendik.
 
 17
-00:01:05,045 --> 00:01:06,078
-Sözümü tutuyorum.
+00:01:13,379 --> 00:01:20,153
+Taklitçi ahtapot deniz yılanına dönüştü, opossum ise ölü taklidini bilerek değil, refleksle yaptı.
 
 18
-00:01:06,078 --> 00:01:11,486
-Ayrıca Puan Tablosu'nun lideri hâlâ bir ahtapot; bakalım bu bölümde tahtı kim sallayacak.
+00:01:20,253 --> 00:01:23,258
+Yani sahneye çıkmadan bayılan bir oyuncu.
 
 19
-00:01:12,286 --> 00:01:14,443
-Sanık numara bir: Hint tavus kuşu.
+00:01:23,358 --> 00:01:27,126
+Çiçek sineği de arı kılığına girdi ama iğnesi yoktu.
 
 20
-00:01:14,443 --> 00:01:18,948
-Önce bir terminoloji düzeltmesi: o gösterişli şey aslında kuyruk değil.
+00:01:27,226 --> 00:01:29,407
+Cesaret bile sahteydi.
 
 21
-00:01:18,948 --> 00:01:20,471
-Üst kuyruk örtü tüyleri.
+00:01:29,507 --> 00:01:34,102
+Ve bir örümceğin aşk uğruna ölü taklidi yapacağına söz vermiştim.
 
 22
-00:01:20,471 --> 00:01:26,182
-Uzunluğu yaklaşık bir buçuk metreye varabiliyor ve üzerinde onlarca göz benzeri desen var.
+00:01:34,202 --> 00:01:36,150
+Sözümü tutuyorum.
 
 23
-00:01:26,182 --> 00:01:29,609
-Bu yapı uçmayı, kaçmayı, hatta yürümeyi zorlaştırıyor.
+00:01:36,250 --> 00:01:40,673
+Bu kanalda verilen sözler nadir tutulur, bu yüzden not düşün.
 
 24
-00:01:29,609 --> 00:01:36,081
-Üstelik her yıl, üreme mevsiminden sonra bu tüyler dökülüyor ve ertesi sezon için yeniden büyütülüyor.
+00:01:40,773 --> 00:01:46,712
+Ayrıca Puan Tablosu'nun lideri hâlâ bir ahtapot; bakalım bu bölümde tahtı kim sallayacak.
 
 25
-00:01:36,081 --> 00:01:39,634
-Yani yılda bir kez, bir tür mevsimlik hazırlık maratonu.
+00:01:47,412 --> 00:01:50,217
+Sanık numara bir: Hint tavus kuşu.
 
 26
-00:01:39,634 --> 00:01:40,840
-Peki buna değer mi?
+00:01:50,317 --> 00:01:55,473
+Önce bir terminoloji düzeltmesi: o gösterişli şey aslında kuyruk değil.
 
 27
-00:01:40,840 --> 00:01:47,312
-1990'larda yapılan çalışmalar, göz desenleri daha çok olan erkeklerin daha çok çiftleştiğini bildirdi.
+00:01:55,573 --> 00:01:57,909
+Üst kuyruk örtü tüyleri.
 
 28
-00:01:47,312 --> 00:01:54,165
-Mary Petrie ve ekibi, bazı erkeklerin göz desenlerini kesince, çiftleşme başarılarının düştüğünü gözlemledi.
+00:01:58,009 --> 00:02:00,220
+Kuş bunu duysa umursamaz.
 
 29
-00:01:54,165 --> 00:01:56,132
-Tabii bilimin bir inadı vardır.
+00:02:00,320 --> 00:02:06,289
+Uzunluğu yaklaşık bir buçuk metreye varabiliyor ve üzerinde onlarca göz benzeri desen var.
 
 30
-00:01:56,132 --> 00:02:01,463
-2008'de Japonya'da yapılan bir çalışma, başka bir popülasyonda bu ilişkiyi bulamadı.
+00:02:06,389 --> 00:02:10,490
+Bu yapı uçmayı, kaçmayı, hatta yürümeyi zorlaştırıyor.
 
 31
-00:02:01,463 --> 00:02:13,646
-Eye-tracking denilen göz izleme yöntemini kullanan bir araştırma da dişilerin kuyruğun üst kısmına pek bakmadığını, dikkatinin daha çok alt kısımda ve erkeğin kendisinde toplandığını gösterdi.
+00:02:10,590 --> 00:02:14,802
+Arkanızda bir buçuk metrelik düğün tüllü gezdiğinizi düşünün.
 
 32
-00:02:13,646 --> 00:02:14,851
-Yani tablo karışık.
+00:02:14,902 --> 00:02:17,482
+Her kapıdan zor geçersiniz.
 
 33
-00:02:14,851 --> 00:02:20,245
-Bilim insanları hâlâ tartışıyor ve ben de her şeyin kesin olduğunu iddia etmeyeceğim.
+00:02:17,582 --> 00:02:24,413
+Üstelik her yıl, üreme mevsiminden sonra bu tüyler dökülüyor ve ertesi sezon için yeniden büyütülüyor.
 
 34
-00:02:20,245 --> 00:02:23,545
-Dişi bu işte fazlasıyla seçici ve fazlasıyla sessiz.
+00:02:24,513 --> 00:02:28,240
+Yani yılda bir kez, bir tür mevsimlik hazırlık maratonu.
 
 35
-00:02:23,545 --> 00:02:27,225
-Darwin sonunda bu bulmacaya bir ad verdi: eşeysel seçilim.
+00:02:28,340 --> 00:02:31,894
+Dökülen tüyler yere düşüyor, kuş sıfırdan başlıyor.
 
 36
-00:02:27,225 --> 00:02:36,108
-1871 tarihli İnsanın Türeyişi kitabında, doğada bazı özelliklerin hayatta kalmayı değil, eş bulmayı kolaylaştırmak için evrildiğini savundu.
+00:02:31,994 --> 00:02:34,185
+Bu, en pahalı saç modeli.
 
 37
-00:02:36,108 --> 00:02:48,228
-Sonraki yıllarda İsrailli biyolog Amotz Zahavi'nin 1975'te ortaya attığı “handikap ilkesi” de şunu önerdi: pahalı ve hantal bir gösteriş, sahibinin güçlü olduğunun dürüst bir kanıtı olabilir.
+00:02:34,285 --> 00:02:36,057
+Peki buna değer mi?
 
 38
-00:02:48,228 --> 00:02:51,909
-Yani kuyruk bir hata değil, bir referans mektubu olabilir.
+00:02:36,157 --> 00:02:44,154
+1990'larda yapılan çalışmalar, göz desenleri daha çok olan erkeklerin daha çok çiftleştiğini bildirdi.
 
 39
-00:02:52,709 --> 00:02:54,709
-Sanık numara iki: bower kuşları.
+00:02:44,254 --> 00:02:51,653
+Mary Petrie ve ekibi, bazı erkeklerin göz desenlerini kesince, çiftleşme başarılarının düştüğünü gözlemledi.
 
 40
-00:02:54,709 --> 00:03:01,587
-Avustralya ve Yeni Gine ormanlarında yaşayan bu kuşlar, eş bulmak için kendilerini değil, bir yapıyı süslüyor.
+00:02:51,753 --> 00:02:54,187
+Tabii bilimin bir inadı vardır.
 
 41
-00:03:01,587 --> 00:03:07,215
-Bir saten bower kuşu erkeği, çalı çırpıdan iki duvarlı bir geçit, yani bower, inşa ediyor.
+00:02:54,287 --> 00:03:00,247
+2008'de Japonya'da yapılan bir çalışma, başka bir popülasyonda bu ilişkiyi bulamadı.
 
 42
-00:03:07,215 --> 00:03:11,091
-Sonra bu yapıyı süslüyor, hem de çok belirli bir renkle: mavi.
+00:03:00,347 --> 00:03:12,916
+Eye-tracking denilen göz izleme yöntemini kullanan bir araştırma da dişilerin kuyruğun üst kısmına pek bakmadığını, dikkatinin daha çok alt kısımda ve erkeğin kendisinde toplandığını gösterdi.
 
 43
-00:03:11,091 --> 00:03:15,718
-Mavi tüyler, mavi çiçekler ve insanlardan çaldığı mavi pet şişe kapakları.
+00:03:13,016 --> 00:03:14,962
+Yani tablo karışık.
 
 44
-00:03:15,718 --> 00:03:22,283
-Bazı gözlemlerde duvarları çiğnenmiş bitki ve tükürükten oluşan bir karışımla “boyadığı” bile kaydedildi.
+00:03:15,062 --> 00:03:19,632
+Erkek bütün gücüyle gösteri yapıyor, dişi belki başka yere bakıyor.
 
 45
-00:03:22,283 --> 00:03:27,223
-Dişi geliyor, birkaç bower'a bakıyor, hangisinin en iyi olduğuna karar veriyor.
+00:03:19,732 --> 00:03:22,914
+Bu, kuş dünyasının en yorucu ilk buluşması.
 
 46
-00:03:27,223 --> 00:03:34,101
-Erkek de bu sırada yuvanın önünde gösteri yapıyor: ses çıkarıyor, dans ediyor, bir nesneyi gagasında sallıyor.
+00:03:23,014 --> 00:03:28,624
+Bilim insanları hâlâ tartışıyor ve ben de her şeyin kesin olduğunu iddia etmeyeceğim.
 
 47
-00:03:34,101 --> 00:03:37,853
-Yani tek bir mekânda hem mimari hem tiyatro hem ev gezdirme.
+00:03:28,724 --> 00:03:32,770
+Dişi bu işte fazlasıyla seçici ve fazlasıyla sessiz.
 
 48
-00:03:37,853 --> 00:03:39,103
-Emlakçılar kıskanır.
+00:03:32,870 --> 00:03:37,048
+Darwin sonunda bu bulmacaya bir ad verdi: eşeysel seçilim.
 
 49
-00:03:39,103 --> 00:03:44,980
-Rakipler bu işi kolay bırakmıyor: erkekler komşunun süslerini çalıyor, hatta yuvasını yıkıyor.
+00:03:37,148 --> 00:03:48,605
+1871 tarihli İnsanın Türeyişi kitabında, doğada bazı özelliklerin hayatta kalmayı değil, eş bulmayı kolaylaştırmak için evrildiğini savundu.
 
 50
-00:03:44,980 --> 00:03:47,669
-Büyük bower kuşu ise daha da ileri gidiyor.
+00:03:48,705 --> 00:04:03,185
+Sonraki yıllarda İsrailli biyolog Amotz Zahavi'nin 1975'te ortaya attığı “handikap ilkesi” de şunu önerdi: pahalı ve hantal bir gösteriş, sahibinin güçlü olduğunun dürüst bir kanıtı olabilir.
 
 51
-00:03:47,669 --> 00:03:58,048
-2010'da yayımlanan bir çalışma, bu türün erkeğinin bower'ının önüne küçükten büyüğe taşlar dizdiğini ve bunun dişi açısından bir optik yanılsama yarattığını gösterdi.
+00:04:03,285 --> 00:04:07,332
+Yani kuyruk bir hata değil, bir referans mektubu olabilir.
 
 52
-00:03:58,048 --> 00:04:02,050
-Yani kuş, zemini küçük göstererek kendini daha büyük gösteriyor.
+00:04:07,432 --> 00:04:12,109
+Hem de renkli, göz alıcı, kimsenin gözünden kaçmayan bir mektup.
 
 53
-00:04:02,050 --> 00:04:05,864
-Bu gerçek bir zorlamalı perspektif, yani film dekoru tekniği.
+00:04:12,809 --> 00:04:15,542
+Sanık numara iki: bower kuşları.
 
 54
-00:04:05,864 --> 00:04:08,115
-Bir kuş, mimar, dekoratör ve hırsız.
+00:04:15,642 --> 00:04:22,947
+Avustralya ve Yeni Gine ormanlarında yaşayan bu kuşlar, eş bulmak için kendilerini değil, bir yapıyı süslüyor.
 
 55
-00:04:08,115 --> 00:04:11,679
-Üç mesleği bir arada yapıyor ve hepsi için sigortası yok.
+00:04:23,047 --> 00:04:26,837
+Kendi tüyleriyle yetinmeyen kuş, işi inşaata döküyor.
 
 56
-00:04:12,479 --> 00:04:14,245
-Sanık numara üç: penguenler.
+00:04:26,937 --> 00:04:33,133
+Bir saten bower kuşu erkeği, çalı çırpıdan iki duvarlı bir geçit, yani bower, inşa ediyor.
 
 57
-00:04:14,245 --> 00:04:18,091
-Adélie penguenleri Antarktika'da çakıl taşlarıyla yuva yapar.
+00:04:33,233 --> 00:04:37,726
+Sonra bu yapıyı süslüyor, hem de çok belirli bir renkle: mavi.
 
 58
-00:04:18,091 --> 00:04:20,046
-Erkek, dişiye çakıl taşı sunar.
+00:04:37,826 --> 00:04:43,329
+Mavi tüyler, mavi çiçekler ve insanlardan çaldığı mavi pet şişe kapakları.
 
 59
-00:04:20,046 --> 00:04:22,505
-Bu taş, bir yüzük değil ama niyet aynı.
+00:04:43,429 --> 00:04:46,647
+Kırmızı olsaydı kapak, belki bakmazdı bile.
 
 60
-00:04:22,505 --> 00:04:31,018
-Bu arada Adélie adı, 1840'ta Fransız kaşif Dumont d'Urville'in eşi Adèle'den geliyor; yani penguenlere bile romantik bir isim verilmiş.
+00:04:46,747 --> 00:04:50,014
+Bu kuşun tek bir zevki var ve o zevk çok net.
 
 61
-00:04:31,018 --> 00:04:36,314
-Cins olarak akrabaları cıvıl cıvıl gentoo penguenleri de benzer biçimde taş sunuyor.
+00:04:50,114 --> 00:04:57,422
+Bazı gözlemlerde duvarları çiğnenmiş bitki ve tükürükten oluşan bir karışımla “boyadığı” bile kaydedildi.
 
 62
-00:04:36,314 --> 00:04:41,674
-Antarktika'da hayat zor, ama bir taş için bile savaşmak, hayatın aşkla karışmış hali.
+00:04:57,522 --> 00:05:00,013
+Evet, tükürükle badana yapıyor.
 
 63
-00:04:41,674 --> 00:04:46,908
-Taşlar, yumurtaları kardan ve erimiş sudan yukarıda tutmak için değerli bir kaynak.
+00:05:00,113 --> 00:05:02,665
+Usta işi, ama yine de tükürük.
 
 64
-00:04:46,908 --> 00:04:53,213
-Bu yüzden taş hırsızlığı da belgelenmiş bir davranış: erkekler komşunun taşlarını çalmaya çalışıyor.
+00:05:02,765 --> 00:05:07,962
+Dişi geliyor, birkaç bower'a bakıyor, hangisinin en iyi olduğuna karar veriyor.
 
 65
-00:04:53,213 --> 00:04:55,735
-Kısacası penguenlerde de emlak bir dert.
+00:05:08,062 --> 00:05:16,007
+Erkek de bu sırada yuvanın önünde gösteri yapıyor: ses çıkarıyor, dans ediyor, bir nesneyi gagasında sallıyor.
 
 66
-00:04:55,735 --> 00:04:58,384
-Ak pelikanlarda ise farklı bir yöntem var.
+00:05:16,107 --> 00:05:20,153
+Yani tek bir mekânda hem mimari hem tiyatro hem ev gezdirme.
 
 67
-00:04:58,384 --> 00:05:05,320
-Üreme mevsiminde gagalarının üstünde bir çıkıntı gelişiyor ve yumurtlama başladıktan sonra bu çıkıntı düşüyor.
+00:05:20,253 --> 00:05:22,365
+Komşu da boş durmuyor.
 
 68
-00:05:05,320 --> 00:05:08,662
-Yani cinsel çekicilik tamamen mevsimlik bir aksesuar.
+00:05:22,465 --> 00:05:29,129
+Rakipler bu işi kolay bırakmıyor: erkekler komşunun süslerini çalıyor, hatta yuvasını yıkıyor.
 
 69
-00:05:09,462 --> 00:05:11,906
-Sanık numara dört: dişi peygamberdevesi.
+00:05:29,229 --> 00:05:32,391
+Büyük bower kuşu ise daha da ileri gidiyor.
 
 70
-00:05:11,906 --> 00:05:15,756
-Efsane herkesin bildiği: çiftleşme sırasında dişi erkeği yiyor.
+00:05:32,491 --> 00:05:43,609
+2010'da yayımlanan bir çalışma, bu türün erkeğinin bower'ının önüne küçükten büyüğe taşlar dizdiğini ve bunun dişi açısından bir optik yanılsama yarattığını gösterdi.
 
 71
-00:05:15,756 --> 00:05:17,406
-Gerçek biraz daha karmaşık.
+00:05:43,709 --> 00:05:48,020
+Yani kuş, zemini küçük göstererek kendini daha büyük gösteriyor.
 
 72
-00:05:17,406 --> 00:05:21,255
-Laboratuvar koşullarında bu davranış belgelenmiş ve görece sık.
+00:05:48,120 --> 00:05:50,924
+Küçük taşlar önde, büyükler arkada.
 
 73
-00:05:21,255 --> 00:05:28,833
-Ama araştırmalar, oranın türe ve koşula göre çok değiştiğini, sıkışık ortamın ve aç dişinin bunu artırabildiğini gösteriyor.
+00:05:51,024 --> 00:05:54,400
+Kuş burada bir sinema yönetmeni gibi çalışıyor.
 
 74
-00:05:28,833 --> 00:05:34,210
-Doğada her buluşma trajediyle bitmiyor ve bu, popüler hikâyelerin pek anlatmadığı kısmı.
+00:05:54,500 --> 00:05:58,782
+Bu gerçek bir zorlamalı perspektif, yani film dekoru tekniği.
 
 75
-00:05:34,210 --> 00:05:45,576
-Ve evet, bir erkeğin başı koparılsa bile çiftleşme hareketlerinin devam edebildiği 1930'larda gözlemlendi: baştaki bir inhibisyon merkezi ortadan kalkınca bu hareketler hatta güçleniyor.
+00:05:58,882 --> 00:06:01,783
+Bir kuş, mimar, dekoratör ve hırsız.
 
 76
-00:05:45,576 --> 00:05:46,859
-Şimdi sözümü tutalım.
+00:06:01,883 --> 00:06:06,174
+Üç mesleği bir arada yapıyor ve hepsi için sigortası yok.
 
 77
-00:05:46,859 --> 00:05:54,925
-Pisaura mirabilis, yani nursery web spider denen örümcekte erkek, dişiye ipek ile sarılmış bir hediye, genellikle bir böcek sunuyor.
+00:06:06,874 --> 00:06:09,248
+Sanık numara üç: penguenler.
 
 78
-00:05:54,925 --> 00:05:57,736
-Dişi hediyeyle ilgilenirken erkek çiftleşiyor.
+00:06:09,348 --> 00:06:13,895
+Adélie penguenleri Antarktika'da çakıl taşlarıyla yuva yapar.
 
 79
-00:05:57,736 --> 00:06:00,058
-Yani yemek dışarıdan, ilişki içeriden.
+00:06:13,995 --> 00:06:16,536
+Erkek, dişiye çakıl taşı sunar.
 
 80
-00:06:00,058 --> 00:06:06,841
-Bilim insanlarına göre hediye hem dişinin beslenmesine katkı sağlıyor hem de erkeğin yenmesi riskini düşürüyor.
+00:06:16,636 --> 00:06:19,395
+Bu taş, bir yüzük değil ama niyet aynı.
 
 81
-00:06:06,841 --> 00:06:18,513
-Ama bazı erkekler bir adım ileri gidiyor: 2008'de yayımlanan bir çalışma, erkeklerin dişi hediyeyi yerken ölü taklidi yaptığını ve dişi bu sırada yemekle meşgulken çiftleşebildiğini gösterdi.
+00:06:19,495 --> 00:06:21,602
+Pırlanta yok, çakıl var.
 
 82
-00:06:18,513 --> 00:06:25,479
-Hatta başka bir çalışmada kimi erkeklerin değersiz, yani yenmeyen şeylerle sarılı sahte hediyeler sunduğu bulundu.
+00:06:21,702 --> 00:06:23,482
+Bütçe de bu kadar.
 
 83
-00:06:25,479 --> 00:06:31,712
-Çalışma, bu stratejinin erkeğin çiftleşme şansını artırdığını ve yenilme riskini azalttığını bildirdi.
+00:06:23,582 --> 00:06:34,676
+Bu arada Adélie adı, 1840'ta Fransız kaşif Dumont d'Urville'in eşi Adèle'den geliyor; yani penguenlere bile romantik bir isim verilmiş.
 
 84
-00:06:31,712 --> 00:06:36,295
-Bu örümcek, aşk için ölü taklidi yapıyor ve gerekirse sahte hediye veriyor.
+00:06:34,776 --> 00:06:38,290
+Smokinli, yürüyüşü komik, adı şiir gibi.
 
 85
-00:06:36,295 --> 00:06:38,800
-İnsan ilişkileri açısından fazla tanıdık.
+00:06:38,390 --> 00:06:40,407
+Marka değeri yüksek.
 
 86
-00:06:39,600 --> 00:06:41,555
-Sanık numara beş: ışıkböcekleri.
+00:06:40,507 --> 00:06:46,225
+Cins olarak akrabaları cıvıl cıvıl gentoo penguenleri de benzer biçimde taş sunuyor.
 
 87
-00:06:41,555 --> 00:06:46,687
-Lampyridae ailesinde iki bini aşkın tür var ve çoğu karanlıkta ışık yaymayı başardı.
+00:06:46,325 --> 00:06:51,950
+Antarktika'da hayat zor, ama bir taş için bile savaşmak, hayatın aşkla karışmış hali.
 
 88
-00:06:46,687 --> 00:06:54,262
-Hatta larvalar da ışık yayar; bu yüzden onlara “ışıklı solucan” denir ve bu ışığın avcılara bir uyarı olabileceği düşünülür.
+00:06:52,050 --> 00:06:57,790
+Taşlar, yumurtaları kardan ve erimiş sudan yukarıda tutmak için değerli bir kaynak.
 
 89
-00:06:54,262 --> 00:06:56,706
-Yani çocukluk bile karanlıkta yapılıyor.
+00:06:57,890 --> 00:07:04,875
+Bu yüzden taş hırsızlığı da belgelenmiş bir davranış: erkekler komşunun taşlarını çalmaya çalışıyor.
 
 90
-00:06:56,706 --> 00:07:05,136
-Yetişkinlerde ise ışık, luciferin ve luciferaz denen kimyasal bir tepkimeyle oluşuyor ve enerjinin büyük kısmı ısı yerine ışığa dönüşüyor.
+00:07:04,975 --> 00:07:08,906
+Kısacası bir penguen için en büyük tehdit, yan komşudur.
 
 91
-00:07:05,136 --> 00:07:07,213
-Bu yüzden buna soğuk ışık deniyor.
+00:07:09,006 --> 00:07:11,407
+Dönüp bakmadan taşı yürütüyor.
 
 92
-00:07:07,213 --> 00:07:12,589
-Işık, flört dili olarak kullanılıyor: her türün kendine özgü bir yanıp sönme deseni var.
+00:07:11,507 --> 00:07:14,638
+Ak pelikanlarda ise farklı bir yöntem var.
 
 93
-00:07:12,589 --> 00:07:17,904
-Erkek belirli bir desenle sinyal veriyor, dişi de belirli bir gecikmeyle yanıt veriyor.
+00:07:14,738 --> 00:07:21,907
+Üreme mevsiminde gagalarının üstünde bir çıkıntı gelişiyor ve yumurtlama başladıktan sonra bu çıkıntı düşüyor.
 
 94
-00:07:17,904 --> 00:07:21,448
-Ama sahnede bir kötü karakter var: Photuris cinsi dişiler.
+00:07:22,007 --> 00:07:25,748
+Yani cinsel çekicilik tamamen mevsimlik bir aksesuar.
 
 95
-00:07:21,448 --> 00:07:31,039
-1960'larda yapılan araştırmalar, bu dişilerin başka bir cins olan Photinus dişilerinin ışık yanıtını taklit ettiğini ve yaklaşan erkekleri yediğini gösterdi.
+00:07:25,848 --> 00:07:28,394
+Sezon bitince gaga düzleşiyor.
 
 96
-00:07:31,039 --> 00:07:35,254
-Bilim insanları bunun adını “femme fatale”, yani ölümcül kadın koydu.
+00:07:28,494 --> 00:07:31,554
+Ne kadar pratik, ne kadar acımasız.
 
 97
-00:07:35,254 --> 00:07:44,357
-Üstelik sadece karnını doyurmakla kalmıyor: sonraki araştırmalar, avlanan Photinus'lardan savunma için kimyasal maddeler de aldıklarını ortaya koydu.
+00:07:32,254 --> 00:07:35,503
+Sanık numara dört: dişi peygamberdevesi.
 
 98
-00:07:44,357 --> 00:07:47,534
-Yani flört, yemek ve savunma, tek bir ışık oyununda.
+00:07:35,603 --> 00:07:40,142
+Efsane herkesin bildiği: çiftleşme sırasında dişi erkeği yiyor.
 
 99
-00:07:47,534 --> 00:07:56,881
-Güneydoğu Asya'da bazı ışıkböceği türleri ise mangrov ağaçlarında senkronize yanıp sönerek bütün bir ağacı yanıp sönen bir ışık gösterisine dönüştürüyor.
+00:07:40,242 --> 00:07:45,785
+Yani ilk buluşmada hesabı kim ödüyor sorusu burada çok farklı anlam kazanıyor.
 
 100
-00:07:56,881 --> 00:08:00,302
-Tek tek bakınca ufacık bir böcek, topluca bakınca disko.
+00:07:45,885 --> 00:07:48,322
+Gerçek biraz daha karmaşık.
 
 101
-00:08:01,102 --> 00:08:04,408
-Sanık numara altı: sepyalar, yani mürekkep balıkları.
+00:07:48,422 --> 00:07:53,044
+Laboratuvar koşullarında bu davranış belgelenmiş ve görece sık.
 
 102
-00:08:04,408 --> 00:08:12,518
-Dev Avustralya sepyası, bilinen en büyük sepya türü; mantosu yaklaşık elli santimetreye ve ağırlığı birkaç kilograma ulaşabiliyor.
+00:07:53,144 --> 00:08:01,564
+Ama araştırmalar, oranın türe ve koşula göre çok değiştiğini, sıkışık ortamın ve aç dişinin bunu artırabildiğini gösteriyor.
 
 103
-00:08:12,518 --> 00:08:20,316
-Güney Avustralya'daki Spencer Körfezi'nde her kış binlerce dev sepya bir araya geliyor ve erkekler dişilerden çok daha fazla.
+00:08:01,664 --> 00:08:07,603
+Doğada her buluşma trajediyle bitmiyor ve bu, popüler hikâyelerin pek anlatmadığı kısmı.
 
 104
-00:08:20,316 --> 00:08:21,127
-Rekabet sert.
+00:08:07,703 --> 00:08:20,747
+Ve evet, bir erkeğin başı koparılsa bile çiftleşme hareketlerinin devam edebildiği 1930'larda gözlemlendi: baştaki bir inhibisyon merkezi ortadan kalkınca bu hareketler hatta güçleniyor.
 
 105
-00:08:21,127 --> 00:08:28,239
-Büyük erkekler dişileri koruyor, küçük erkekler ise dikkat çekmek için başka bir yola sapıyor: dişi gibi görünmek.
+00:08:20,847 --> 00:08:23,659
+Yani kafa gidiyor, kararlılık kalıyor.
 
 106
-00:08:28,239 --> 00:08:36,972
-1999'da yayımlanan bir çalışma, küçük erkeklerin kollarını saklayıp dişi desenini taklit ederek korumalı dişilere yaklaşabildiğini gösterdi.
+00:08:23,759 --> 00:08:25,788
+Şimdi sözümü tutalım.
 
 107
-00:08:36,972 --> 00:08:40,778
-Yani kaçamak yapan erkek, kıyafet değiştirmiş bir gizli ajan.
+00:08:25,888 --> 00:08:34,636
+Pisaura mirabilis, yani nursery web spider denen örümcekte erkek, dişiye ipek ile sarılmış bir hediye, genellikle bir böcek sunuyor.
 
 108
-00:08:40,778 --> 00:08:43,211
-Daha da ilginç olan Sepia plangon türü.
+00:08:34,736 --> 00:08:37,877
+Dişi hediyeyle ilgilenirken erkek çiftleşiyor.
 
 109
-00:08:43,211 --> 00:08:52,755
-2012'de yayımlanan bir çalışmada erkeğin vücudunun bir yanıyla dişiye erkek çiftleşme desenini, diğer yanıyla rakibe dişi desenini gösterdiği belgelendi.
+00:08:37,977 --> 00:08:40,736
+Yani yemek dışarıdan, ilişki içeriden.
 
 110
-00:08:52,755 --> 00:08:55,999
-Yani aynı hayvan aynı anda iki farklı mesaj veriyor.
+00:08:40,836 --> 00:08:43,208
+Kurdele, ipek, süslü paket.
 
 111
-00:08:55,999 --> 00:09:02,612
-Üstelik sepyalar, tek tür ışık algılayıcı hücreye sahip oldukları için klasik anlamda renk körü sayılıyor.
+00:08:43,308 --> 00:08:45,974
+Ama içinden çıkan sadece bir böcek.
 
 112
-00:09:02,612 --> 00:09:05,981
-Yani renkli kıyafet giyiyorlar ama rengi göremiyorlar.
+00:08:46,074 --> 00:08:53,286
+Bilim insanlarına göre hediye hem dişinin beslenmesine katkı sağlıyor hem de erkeğin yenmesi riskini düşürüyor.
 
 113
-00:09:05,981 --> 00:09:08,164
-Moda dünyasından tanıdık bir durum.
+00:08:53,386 --> 00:09:06,577
+Ama bazı erkekler bir adım ileri gidiyor: 2008'de yayımlanan bir çalışma, erkeklerin dişi hediyeyi yerken ölü taklidi yaptığını ve dişi bu sırada yemekle meşgulken çiftleşebildiğini gösterdi.
 
 114
-00:09:08,164 --> 00:09:13,654
-Hem aşkta hem savaşta iki yüzlü olmak bu kadar teknik bir beceri olarak sergilenmemişti.
+00:09:06,677 --> 00:09:14,099
+Hatta başka bir çalışmada kimi erkeklerin değersiz, yani yenmeyen şeylerle sarılı sahte hediyeler sunduğu bulundu.
 
 115
-00:09:14,454 --> 00:09:19,659
-Sanık numara yedi, ve bu bölümün en rahatsız edici karakteri: derin deniz anglerfish.
+00:09:14,199 --> 00:09:21,160
+Çalışma, bu stratejinin erkeğin çiftleşme şansını artırdığını ve yenilme riskini azalttığını bildirdi.
 
 116
-00:09:19,659 --> 00:09:28,966
-Anglerfish dediğimiz grubun derin denizde yaşayan, yüzü aşkın türü var ve yüzlerce, hatta binlerce metre derinlikte, ışığın ulaşmadığı yerde yaşıyorlar.
+00:09:21,260 --> 00:09:26,380
+Bu örümcek, aşk için ölü taklidi yapıyor ve gerekirse sahte hediye veriyor.
 
 117
-00:09:28,966 --> 00:09:33,742
-Dişilerin başında, içinde ışık yayan bakteriler barındıran bir yem organı var.
+00:09:26,480 --> 00:09:32,881
+Önce yatıyor, sonra yemek yiyen dişiyi bekliyor, sonra kalkıyor.
 
 118
-00:09:33,742 --> 00:09:35,947
-Erkekler ise dişiden çok daha küçük.
+00:09:32,981 --> 00:09:33,432
+Planı var, planı net.
 
 119
-00:09:35,947 --> 00:09:42,927
-1925'te İngiliz ihtiyolog Charles Tate Regan, bazı türlerde küçük “erkeklerin” dişilere bağlı yaşadığını bildirdi.
+00:09:33,532 --> 00:09:36,385
+İnsan ilişkileri açısından fazla tanıdık.
 
 120
-00:09:42,927 --> 00:09:50,092
-Bazı anglerfish türlerinde erkek dişiyi bulunca ısırıyor, dokular birleşiyor ve kan dolaşımı bile ortak hale geliyor.
+00:09:37,085 --> 00:09:39,809
+Sanık numara beş: ışıkböcekleri.
 
 121
-00:09:50,092 --> 00:09:53,153
-Erkek, geriye sperm üreten bir parça gibi kalıyor.
+00:09:39,909 --> 00:09:45,764
+Lampyridae ailesinde iki bini aşkın tür var ve çoğu karanlıkta ışık yaymayı başardı.
 
 122
-00:09:53,153 --> 00:09:54,562
-Bu bir aşk hikâyesi mi?
+00:09:45,864 --> 00:09:54,293
+Hatta larvalar da ışık yayar; bu yüzden onlara “ışıklı solucan” denir ve bu ışığın avcılara bir uyarı olabileceği düşünülür.
 
 123
-00:09:54,562 --> 00:09:57,256
-Bilim buna daha çok cinsel parazitlik diyor.
+00:09:54,393 --> 00:09:57,228
+Yani çocukluk bile karanlıkta yapılıyor.
 
 124
-00:09:57,256 --> 00:10:00,195
-Peki bağışıklık sistemi bunu nasıl kabul ediyor?
+00:09:57,328 --> 00:10:00,790
+Küçücük bir solucan, kendi el fenerini taşıyor.
 
 125
-00:10:00,195 --> 00:10:08,523
-2020'de Science dergisinde yayımlanan bir çalışma, bu balıkların bağışıklık sisteminde alışılmış bazı bileşenleri kaybettiğini gösterdi.
+00:10:00,890 --> 00:10:09,691
+Yetişkinlerde ise ışık, luciferin ve luciferaz denen kimyasal bir tepkimeyle oluşuyor ve enerjinin büyük kısmı ısı yerine ışığa dönüşüyor.
 
 126
-00:10:08,523 --> 00:10:13,605
-Yani bir dişiye ömür boyu tutunmak için bağışıklık sisteminden vazgeçmek gerekiyor.
+00:10:09,791 --> 00:10:12,445
+Bu yüzden buna soğuk ışık deniyor.
 
 127
-00:10:13,605 --> 00:10:17,279
-Ama şunu da ekleyelim: tüm anglerfish türleri bunu yapmıyor.
+00:10:12,545 --> 00:10:15,181
+Eski tip ampul bunu görse utanır.
 
 128
-00:10:17,279 --> 00:10:19,361
-Bazılarında erkek serbest yaşıyor.
+00:10:15,281 --> 00:10:21,659
+Işık, flört dili olarak kullanılıyor: her türün kendine özgü bir yanıp sönme deseni var.
 
 129
-00:10:19,361 --> 00:10:22,423
-Derin denizde bile birbirini bulmak yeterince zor.
+00:10:21,759 --> 00:10:27,612
+Erkek belirli bir desenle sinyal veriyor, dişi de belirli bir gecikmeyle yanıt veriyor.
 
 130
-00:10:22,423 --> 00:10:27,383
-Bu balıklar için “ömür boyu bağlılık” ifadesi, bazen kelimesi kelimesine geçerli.
+00:10:27,712 --> 00:10:31,169
+Yani mesaja hemen cevap vermemek, bu işin kuralı.
 
 131
-00:10:27,383 --> 00:10:32,832
-Ama hayvan acısına gülmeyelim: bu, ışıksız bir ortamda eşe ulaşmanın evrimsel bir çözümü.
+00:10:31,269 --> 00:10:33,800
+Gecikme bile desenin parçası.
 
 132
-00:10:33,632 --> 00:10:35,105
-Puan Tablosu zamanı.
+00:10:33,900 --> 00:10:38,488
+Ama sahnede bir kötü karakter var: Photuris cinsi dişiler.
 
 133
-00:10:35,105 --> 00:10:36,505
-Tavus kuşu, 6 puan.
+00:10:38,588 --> 00:10:50,298
+1960'larda yapılan araştırmalar, bu dişilerin başka bir cins olan Photinus dişilerinin ışık yanıtını taklit ettiğini ve yaklaşan erkekleri yediğini gösterdi.
 
 134
-00:10:36,505 --> 00:10:40,924
-Görkemli ama dişiler onu sorgulamaya devam ediyor, bilim de.
+00:10:50,398 --> 00:10:55,317
+Bilim insanları bunun adını “femme fatale”, yani ölümcül kadın koydu.
 
 135
-00:10:40,924 --> 00:10:42,323
-Bower kuşu, 9 puan.
+00:10:55,417 --> 00:11:06,128
+Üstelik sadece karnını doyurmakla kalmıyor: sonraki araştırmalar, avlanan Photinus'lardan savunma için kimyasal maddeler de aldıklarını ortaya koydu.
 
 136
-00:10:42,323 --> 00:10:44,164
-Mimar, dekoratör, hırsız.
+00:11:06,228 --> 00:11:09,822
+Yani flört, yemek ve savunma, tek bir ışık oyununda.
 
 137
-00:10:44,164 --> 00:10:45,343
-Penguen, 6 puan.
+00:11:09,922 --> 00:11:12,782
+Kandırıyor, yiyor, üstüne zırh alıyor.
 
 138
-00:10:45,343 --> 00:10:47,626
-Taş hırsızlığı ve emlak stresi.
+00:11:12,882 --> 00:11:16,334
+Kötü karakterin bile kendi gelişim planı var.
 
 139
-00:10:47,626 --> 00:10:49,393
-Peygamberdevesi, 5 puan.
+00:11:16,434 --> 00:11:26,424
+Güneydoğu Asya'da bazı ışıkböceği türleri ise mangrov ağaçlarında senkronize yanıp sönerek bütün bir ağacı yanıp sönen bir ışık gösterisine dönüştürüyor.
 
 140
-00:10:49,393 --> 00:10:52,192
-İtibarı, gerçeklerinden daha dramatik.
+00:11:26,524 --> 00:11:30,775
+Tek tek bakınca ufacık bir böcek, topluca bakınca disko.
 
 141
-00:10:52,192 --> 00:10:54,328
-Nursery web örümceği, 7 puan.
+00:11:31,475 --> 00:11:35,787
+Sanık numara altı: sepyalar, yani mürekkep balıkları.
 
 142
-00:10:54,328 --> 00:10:56,758
-Ölü taklidi yapmak cesaret ister.
+00:11:35,887 --> 00:11:44,803
+Dev Avustralya sepyası, bilinen en büyük sepya türü; mantosu yaklaşık elli santimetreye ve ağırlığı birkaç kilograma ulaşabiliyor.
 
 143
-00:10:56,758 --> 00:10:58,158
-Işıkböceği, 7 puan.
+00:11:44,903 --> 00:11:54,345
+Güney Avustralya'daki Spencer Körfezi'nde her kış binlerce dev sepya bir araya geliyor ve erkekler dişilerden çok daha fazla.
 
 144
-00:10:58,158 --> 00:11:03,534
-Photuris dişisi ise kötü karakter kategorisinde ayrı bir ödül hak ediyor.
+00:11:54,445 --> 00:11:57,344
+Rekabet sert.
 
 145
-00:11:03,534 --> 00:11:04,565
-Sepya, 9 puan.
+00:11:57,444 --> 00:11:59,886
+Kalabalık, kıpırtı, renk renk dalgalar.
 
 146
-00:11:04,565 --> 00:11:07,290
-İki yüzlü ama teknik açıdan kusursuz.
+00:11:59,986 --> 00:12:02,362
+Su altında bir festival gibi.
 
 147
-00:11:07,290 --> 00:11:08,690
-Anglerfish, 8 puan.
+00:12:02,462 --> 00:12:07,905
+Büyük erkekler dişileri koruyor, küçük erkekler ise dikkat çekmek için başka bir yola sapıyor: dişi gibi görünmek.
 
 148
-00:11:08,690 --> 00:11:14,582
-Rahatsız edici, ama bağışıklık sistemini feda ederek hayatta kalan bir strateji.
+00:12:08,005 --> 00:12:19,025
+1999'da yayımlanan bir çalışma, küçük erkeklerin kollarını saklayıp dişi desenini taklit ederek korumalı dişilere yaklaşabildiğini gösterdi.
 
 149
-00:11:14,582 --> 00:11:18,927
-Ve bu bölümün kazananı, mavi eşyalarını çalan o bower kuşu.
+00:12:19,125 --> 00:12:23,357
+Yani kaçamak yapan erkek, kıyafet değiştirmiş bir gizli ajan.
 
 150
-00:11:18,927 --> 00:11:21,947
-Mimar, dekoratör, hırsız ve hâlâ kazanan.
+00:12:23,457 --> 00:12:26,364
+Peruk takmış, dikkat çekmemeye çalışıyor.
 
 151
-00:11:21,947 --> 00:11:24,377
-Doğa adil değildir, ama komiktir.
+00:12:26,464 --> 00:12:29,974
+Yine de sekiz kolu var, kolay kolay saklanmaz.
 
 152
-00:11:25,177 --> 00:11:28,371
-Bu bölümde en etkili aşk taktiği sence hangisiydi?
+00:12:30,074 --> 00:12:33,103
+Daha da ilginç olan Sepia plangon türü.
 
 153
-00:11:28,371 --> 00:11:34,247
-Dekoratör bower kuşu mu, ışık gösterisi yapan ışıkböceği mi, yoksa renk değiştiren sepya mı?
+00:12:33,203 --> 00:12:43,626
+2012'de yayımlanan bir çalışmada erkeğin vücudunun bir yanıyla dişiye erkek çiftleşme desenini, diğer yanıyla rakibe dişi desenini gösterdiği belgelendi.
 
 154
-00:11:34,247 --> 00:11:38,526
-Oyunu yorumlara yaz, en çok oy alanı bir sonraki videolarda anarız.
+00:12:43,726 --> 00:12:47,455
+Yani aynı hayvan aynı anda iki farklı mesaj veriyor.
 
 155
-00:11:38,526 --> 00:11:41,911
-Videoyu beğendiysen beğen butonuna basarak destek ol.
+00:12:47,555 --> 00:12:51,189
+Bir yanıyla "sevgilim", öbür yanıyla "geri çekil".
 
 156
-00:11:41,911 --> 00:11:47,213
-Henüz abone değilsen abone ol ve zili aç, çünkü yarınki bölümü kaçırmak istemezsin.
+00:12:51,289 --> 00:12:53,620
+Yarı romantik, yarı tehdit.
 
 157
-00:11:47,213 --> 00:11:51,556
-Sıradaki bölüm yarın sabah saat 10:00'da: kötü ve harika ebeveynler.
+00:12:53,720 --> 00:13:00,711
+Üstelik sepyalar, tek tür ışık algılayıcı hücreye sahip oldukları için klasik anlamda renk körü sayılıyor.
 
 158
-00:11:51,556 --> 00:11:58,454
-Öyle bir yuva hırsızı var ki, yumurtadan çıktıktan kısa süre sonra yuvadaki diğer yumurtaları dışarı itiyor.
+00:13:00,811 --> 00:13:04,570
+Yani renkli kıyafet giyiyorlar ama rengi göremiyorlar.
 
 159
-00:11:58,454 --> 00:12:02,030
-Üstelik onu büyüten ebeveyn hiçbir şeyin farkında değil.
+00:13:04,670 --> 00:13:07,409
+Moda dünyasından tanıdık bir durum.
 
 160
-00:12:02,030 --> 00:12:03,052
-Bu nasıl mümkün?
+00:13:07,509 --> 00:13:10,865
+Kendi gösterisini göremeyen sahne sanatçısı.
 
 161
-00:12:03,052 --> 00:12:04,841
-Cevabı yarın sabah 10:00'da.
+00:13:10,965 --> 00:13:17,084
+Hem aşkta hem savaşta iki yüzlü olmak bu kadar teknik bir beceri olarak sergilenmemişti.
+
+162
+00:13:17,784 --> 00:13:23,921
+Sanık numara yedi, ve bu bölümün en rahatsız edici karakteri: derin deniz anglerfish.
+
+163
+00:13:24,021 --> 00:13:34,019
+Anglerfish dediğimiz grubun derin denizde yaşayan, yüzü aşkın türü var ve yüzlerce, hatta binlerce metre derinlikte, ışığın ulaşmadığı yerde yaşıyorlar.
+
+164
+00:13:34,119 --> 00:13:39,384
+Dişilerin başında, içinde ışık yayan bakteriler barındıran bir yem organı var.
+
+165
+00:13:39,484 --> 00:13:46,261
+Yani kafasına bir el feneri asmış ve bunu yem diye satıyor.
+
+166
+00:13:46,361 --> 00:13:49,126
+Karanlıkta çalışan tek girişimci.
+
+167
+00:13:49,226 --> 00:13:52,534
+Erkekler ise dişiden çok daha küçük.
+
+168
+00:13:52,634 --> 00:13:56,746
+Yan yana gelince, biri ana yemek, öbürü tuzluk.
+
+169
+00:13:56,846 --> 00:14:01,806
+1925'te İngiliz ihtiyolog Charles Tate Regan, bazı türlerde küçük “erkeklerin” dişilere bağlı yaşadığını bildirdi.
+
+170
+00:14:01,906 --> 00:14:09,700
+Bazı anglerfish türlerinde erkek dişiyi bulunca ısırıyor, dokular birleşiyor ve kan dolaşımı bile ortak hale geliyor.
+
+171
+00:14:09,800 --> 00:14:13,364
+Erkek, geriye sperm üreten bir parça gibi kalıyor.
+
+172
+00:14:13,464 --> 00:14:16,367
+Bağlantı kalıcı, ayrılık mümkün değil.
+
+173
+00:14:16,467 --> 00:14:18,832
+Bu, ilişkinin en kalıcı hâli.
+
+174
+00:14:18,932 --> 00:14:20,968
+Bu bir aşk hikâyesi mi?
+
+175
+00:14:21,068 --> 00:14:24,265
+Bilim buna daha çok cinsel parazitlik diyor.
+
+176
+00:14:24,365 --> 00:14:27,798
+Peki bağışıklık sistemi bunu nasıl kabul ediyor?
+
+177
+00:14:27,898 --> 00:14:37,274
+2020'de Science dergisinde yayımlanan bir çalışma, bu balıkların bağışıklık sisteminde alışılmış bazı bileşenleri kaybettiğini gösterdi.
+
+178
+00:14:37,374 --> 00:14:44,826
+Yani bir dişiye ömür boyu tutunmak için bağışıklık sisteminden vazgeçmek gerekiyor.
+
+179
+00:14:44,926 --> 00:14:47,223
+Aşk körmüş derler.
+
+180
+00:14:47,323 --> 00:14:51,718
+Burada bağışıklık kör oluyor.
+
+181
+00:14:51,818 --> 00:14:54,533
+Ama şunu da ekleyelim: tüm anglerfish türleri bunu yapmıyor.
+
+182
+00:14:54,633 --> 00:14:58,049
+Bazılarında erkek serbest yaşıyor.
+
+183
+00:14:58,149 --> 00:15:03,820
+Derin denizde bile birbirini bulmak yeterince zor.
+
+184
+00:15:03,920 --> 00:15:06,192
+Bu balıklar için “ömür boyu bağlılık” ifadesi, bazen kelimesi kelimesine geçerli.
+
+185
+00:15:06,292 --> 00:15:10,872
+Ama hayvan acısına gülmeyelim: bu, ışıksız bir ortamda eşe ulaşmanın evrimsel bir çözümü.
+
+186
+00:15:11,572 --> 00:15:13,484
+Puan Tablosu zamanı.
+
+187
+00:15:13,584 --> 00:15:15,675
+Tavus kuşu, 6 puan.
+
+188
+00:15:15,775 --> 00:15:20,095
+Görkemli ama dişiler onu sorgulamaya devam ediyor, bilim de.
+
+189
+00:15:20,195 --> 00:15:22,605
+Çok gösteri, belirsiz sonuç.
+
+190
+00:15:22,705 --> 00:15:24,829
+Bower kuşu, 9 puan.
+
+191
+00:15:24,929 --> 00:15:27,281
+Mimar, dekoratör, hırsız.
+
+192
+00:15:27,381 --> 00:15:29,321
+Penguen, 6 puan.
+
+193
+00:15:29,421 --> 00:15:32,916
+Yüzük yerine çakıl, ama en azından taş çalmıyor.
+
+194
+00:15:33,016 --> 00:15:34,702
+Çalıyor, pardon.
+
+195
+00:15:34,802 --> 00:15:37,096
+Peygamberdevesi, 5 puan.
+
+196
+00:15:37,196 --> 00:15:40,199
+İtibarı, gerçeklerinden daha dramatik.
+
+197
+00:15:40,299 --> 00:15:42,917
+Nursery web örümceği, 7 puan.
+
+198
+00:15:43,017 --> 00:15:45,718
+Ölü taklidi yapmak cesaret ister.
+
+199
+00:15:45,818 --> 00:15:47,997
+Işıkböceği, 7 puan.
+
+200
+00:15:48,097 --> 00:15:53,343
+Photuris dişisi ise kötü karakter kategorisinde ayrı bir ödül hak ediyor.
+
+201
+00:15:53,443 --> 00:15:55,357
+Sepya, 9 puan.
+
+202
+00:15:55,457 --> 00:15:58,533
+İki yüzlü ama teknik açıdan kusursuz.
+
+203
+00:15:58,633 --> 00:16:00,832
+Anglerfish, 8 puan.
+
+204
+00:16:00,932 --> 00:16:06,662
+Rahatsız edici, ama bağışıklık sistemini feda ederek hayatta kalan bir strateji.
+
+205
+00:16:06,762 --> 00:16:09,436
+Bağlılığın tanımını değiştirdi.
+
+206
+00:16:09,536 --> 00:16:13,860
+Ve bu bölümün kazananı, mavi eşyalarını çalan o bower kuşu.
+
+207
+00:16:13,960 --> 00:16:17,213
+Mimar, dekoratör, hırsız ve hâlâ kazanan.
+
+208
+00:16:17,313 --> 00:16:20,184
+Doğa adil değildir, ama komiktir.
+
+209
+00:16:20,884 --> 00:16:24,475
+Bu bölümde en etkili aşk taktiği sence hangisiydi?
+
+210
+00:16:24,575 --> 00:16:30,903
+Dekoratör bower kuşu mu, ışık gösterisi yapan ışıkböceği mi, yoksa renk değiştiren sepya mı?
+
+211
+00:16:31,003 --> 00:16:36,114
+Oyunu yorumlara yaz, en çok oy alanı bir sonraki videolarda anarız.
+
+212
+00:16:36,214 --> 00:16:40,018
+Videoyu beğendiysen beğen butonuna basarak destek ol.
+
+213
+00:16:40,118 --> 00:16:46,202
+Henüz abone değilsen abone ol ve zili aç, çünkü sıradaki bölümü kaçırmak istemezsin.
+
+214
+00:16:46,302 --> 00:16:49,605
+Bower kuşu bile bunun için mavi kapak çalardı.
+
+215
+00:16:49,705 --> 00:16:53,275
+Sıradaki bölüm: kötü ve harika ebeveynler.
+
+216
+00:16:53,375 --> 00:17:00,890
+Öyle bir yuva hırsızı var ki, yumurtadan çıktıktan kısa süre sonra yuvadaki diğer yumurtaları dışarı itiyor.
+
+217
+00:17:00,990 --> 00:17:06,643
+Üstelik onu büyüten ebeveyn hiçbir şeyin farkında değil.
+
+218
+00:17:06,743 --> 00:17:07,382
+Bu nasıl mümkün?
+
+219
+00:17:07,482 --> 00:17:09,203
+Cevabı sıradaki bölümde.
 

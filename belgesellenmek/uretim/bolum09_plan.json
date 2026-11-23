@@ -1,0 +1,608 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 4,
+    "tags": [
+     "gazelle",
+     "cheetah"
+    ]
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Stotting",
+     "satirlar": [
+      "Ceylan dört ayağıyla birden zıplıyor",
+      "Yırtıcıya \"formdayım\" mesajı olabilir"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "gazelle"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 21,
+    "tags": [
+     "cheetah",
+     "gazelle"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 9"
+     ],
+     "etiket": "BÖLÜM 9",
+     "logo": true
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "cheetah",
+     "gazelle"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Önceki bölümde",
+     "satirlar": [
+      "Tembellik bilimsel olarak savunulabilirdi",
+      "Koala günün yaklaşık 20 saatini uyuyor"
+     ],
+     "etiket": "ÖZET"
+    }
+   },
+   {
+    "s": 2,
+    "tags": [
+     "koala"
+    ]
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "Kleptoparazitizm",
+     "satirlar": [
+      "Başkasının avladığını çalmak",
+      "Skualar ve fregat kuşlarının mesleği"
+     ],
+     "etiket": "KAVRAM"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "skua",
+     "frigatebird"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "cheetah",
+     "lion"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Cincinnati Hayvanat Bahçesi, 2012",
+     "satirlar": [
+      "Çita 100 metreyi 5,95 saniyede koştu",
+      "Saatte yaklaşık 98 km"
+     ],
+     "etiket": "REKOR"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Nature, 2013",
+     "satirlar": [
+      "Botsvana'da yabani çitalara GPS tasması takıldı",
+      "Gerçek av kovalamaları ölçüldü"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Vahşi doğada en yüksek hız",
+     "satirlar": [
+      "Saatte yaklaşık 93 km",
+      "Çoğu zaman bundan çok daha yavaş"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "cheetah",
+     "gazelle"
+    ]
+   },
+   {
+    "s": 21,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 25,
+    "kart": {
+     "baslik": "Av kovalamacası",
+     "satirlar": [
+      "Genellikle bir dakikadan kısa",
+      "Denemelerin kabaca yarısı avla sonuçlanıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 30,
+    "tags": [
+     "lion",
+     "hyena"
+    ]
+   },
+   {
+    "s": 32,
+    "tags": [
+     "cheetah"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "lion"
+    ]
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Aslanın av başarısı",
+     "satirlar": [
+      "Kabaca dörtte bir",
+      "Günde 16-20 saat dinleniyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "lion"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "wilddog"
+    ]
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Afrika yaban köpeği",
+     "satirlar": [
+      "Başarı oranı kabaca yüzde 60-80",
+      "Aslanın iki üç katı"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "wilddog"
+    ]
+   },
+   {
+    "s": 18,
+    "tags": [
+     "dragonfly"
+    ]
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Yusufçuk",
+     "satirlar": [
+      "Kovaladığı avların yüzde 90'ından fazlasını yakalıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 23,
+    "tags": [
+     "dragonfly"
+    ]
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "Nature, 2015",
+     "satirlar": [
+      "Yusufçuklar avın gideceği yere kilitleniyor",
+      "Uçtuğu yere değil, uçacağı yere"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "dragonfly"
+    ]
+   },
+   {
+    "s": 28,
+    "tags": [
+     "lion"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Orka balina değil",
+     "satirlar": [
+      "Yunus ailesinin en büyük üyesi"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Yerleşik ve Bigg's orkaları",
+     "satirlar": [
+      "Yerleşik: balık, özellikle somon",
+      "Bigg's: foklar ve yunuslar gibi deniz memelileri"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Orka kültürü",
+     "satirlar": [
+      "Farklı ses lehçeleri",
+      "Öğrenilip nesilden nesile aktarılan davranış"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "Dalga yıkama",
+     "satirlar": [
+      "Antarktika: orkalar birlikte dalga oluşturup",
+      "buzdaki foku suya düşürüyor"
+     ],
+     "etiket": "TEKNİK"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Península Valdés, Arjantin",
+     "satirlar": [
+      "Orkalar kıyıya çıkıp deniz aslanı yavrusu yakalıyor",
+      "Bu beceri anneden yavruya öğretiliyor"
+     ],
+     "etiket": "TEKNİK"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "Güney Afrika",
+     "satirlar": [
+      "Orkalar beyaz köpekbalıklarını avladı, karaciğerlerini yedi",
+      "Köpekbalıkları bölgeden çekildi"
+     ],
+     "etiket": "GÖZLEM"
+    }
+   },
+   {
+    "s": 31,
+    "tags": [
+     "orca"
+    ]
+   },
+   {
+    "s": 33,
+    "kart": {
+     "baslik": "İberya açıkları, 2020'den beri",
+     "satirlar": [
+      "Orkalar yelkenli teknelerin dümenlerine çarpıyor",
+      "Nedeni hâlâ tartışılıyor"
+     ],
+     "etiket": "GÖZLEM"
+    }
+   },
+   {
+    "s": 37,
+    "tags": [
+     "orca"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "wolf"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Yellowstone Ulusal Parkı",
+     "satirlar": [
+      "ABD"
+     ],
+     "etiket": "YER"
+    }
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Kurtlar yok edildi",
+     "satirlar": [
+      "1920'lerin ortasında parkta kurt kalmadı",
+      "Altmış yıldan uzun süre kurtsuz geçti"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "elk"
+    ]
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "1995-1996",
+     "satirlar": [
+      "Kanada'dan toplam 31 kurt getirildi",
+      "Bugün parkta yaklaşık yüz kurt var"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "wolf"
+    ]
+   },
+   {
+    "s": 12,
+    "tags": [
+     "elk"
+    ]
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Trofik kademe",
+     "satirlar": [
+      "Tepedeki avcı değişince",
+      "aşağıdaki zincir de değişiyor"
+     ],
+     "etiket": "KURAM"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "elk"
+    ]
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "\"Kurtlar nehirleri değiştirdi\"",
+     "satirlar": [
+      "Ünlü videodaki etki bilim insanlarınca",
+      "hâlâ tartışılıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "wolf"
+    ]
+   },
+   {
+    "s": 30,
+    "tags": [
+     "wolf"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "peregrine"
+    ]
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Doğan şahini",
+     "satirlar": [
+      "Dalışta saatte 320 km'yi aşan hız ölçüldü",
+      "Gezegenin en hızlı hayvanı"
+     ],
+     "etiket": "REKOR"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 6,
+    "tags": [
+     "peregrine"
+    ]
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "DDT ve geri dönüş",
+     "satirlar": [
+      "20. yüzyılın ortasında ciddi şekilde azaldı",
+      "Yasaklar ve korumayla toparlandı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "eleonora",
+     "peregrine"
+    ]
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Türkiye ve kuş göçü",
+     "satirlar": [
+      "Boğaz ve Çanakkale hattı",
+      "büyük kuş göç yollarından biri"
+     ],
+     "etiket": "BİLGİ"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "goldeneagle"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Şahincilik",
+     "satirlar": [
+      "UNESCO somut olmayan kültürel miras listesinde"
+     ],
+     "etiket": "MİRAS"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "goldeneagle"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,890 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 6: Süper Güçler"
+     ],
+     "etiket": "BÖLÜM 6",
+     "logo": true
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "mantisshrimp",
+     "pistolshrimp",
+     "bombardier",
+     "tardigrade",
+     "turritopsis",
+     "eel"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Önceki Bölüm: Zekâ",
+     "satirlar": [
+      "Hayvanların zekâsına baktık"
+     ],
+     "etiket": "HATIRLATMA"
+    }
+   },
+   {
+    "s": 2,
+    "tags": [
+     "crow",
+     "octopus",
+     "parrot"
+    ],
+    "yedek_kart": {
+     "baslik": "Betty, Alex ve ahtapot",
+     "satirlar": [
+      "Karga, ahtapot, papağan"
+     ],
+     "etiket": "HATIRLATMA"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "octopus"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "mantisshrimp",
+     "pistolshrimp",
+     "bombardier",
+     "tardigrade",
+     "turritopsis",
+     "eel"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Nature, 2004",
+     "satirlar": [
+      "Tokmak durağan halden saniyede yaklaşık 23 metreye",
+      "Saatte 80 km üzeri; ivme yaklaşık on bin kat yerçekimi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Yay ve mandal mekanizması",
+     "satirlar": [
+      "Kas enerjisi yay benzeri yapıda depolanıyor",
+      "Mandal açılınca hepsi bir anda bırakılıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Kavitasyon",
+     "satirlar": [
+      "Buhar dolu baloncuklar doğuyor",
+      "Çökerken ikinci bir darbe daha vuruyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 21,
+    "kart": {
+     "baslik": "Gözler",
+     "satirlar": [
+      "İnsanda 3 tür renk algılayıcısı",
+      "Karideste 12-16 görsel pigment türü"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 26,
+    "kart": {
+     "baslik": "Science, 2014",
+     "satirlar": [
+      "Bu kadar kanala rağmen",
+      "renkleri ayırt etmede insandan daha kötü"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "Science, 2012",
+     "satirlar": [
+      "Sarmal lif düzeni tekrar eden darbelere dayanıyor",
+      "Mühendisler zırh ve koruyucu malzeme tasarımı için inceliyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 30,
+    "tags": [
+     "mantisshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Peygamberdevesi Karidesi",
+     "satirlar": [
+      "Yumruk atan stomatopod"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "pistolshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Tabanca Karidesi",
+     "satirlar": [
+      "Şaklayan karides"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "Science, 2000",
+     "satirlar": [
+      "Kıskaç kapanırken hızlı su jeti, yaklaşık 25 m/s",
+      "Kavitasyon baloncuğu; ses yaklaşık 218 desibel ölçüldü"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "pistolshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Tabanca Karidesi",
+     "satirlar": [
+      "Şaklayan karides"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Nature, 2001",
+     "satirlar": [
+      "Baloncuk çökerken kısa süreli ışık çakması",
+      "İçerideki sıcaklık yaklaşık beş bin kelvine yaklaşabilir"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "pistolshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Tabanca Karidesi",
+     "satirlar": [
+      "Şaklayan karides"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Sonar Meselesi",
+     "satirlar": [
+      "Koloni sesi sürekli çıtırtı gibi duyuluyor",
+      "İkinci Dünya Savaşı döneminde araştırıldı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "pistolshrimp",
+     "goby"
+    ],
+    "yedek_kart": {
+     "baslik": "Tabanca Karidesi ve Gobi",
+     "satirlar": [
+      "Aynı yuvayı paylaşıyorlar"
+     ],
+     "etiket": "ORTAKLIK"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "pistolshrimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Tabanca Karidesi",
+     "satirlar": [
+      "Şaklayan karides"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "bombardier"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "İki Ayrı Bölme",
+     "satirlar": [
+      "Biri: hidrokinon ve hidrojen peroksit",
+      "Diğeri: enzimler"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "bombardier"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Science, 2015",
+     "satirlar": [
+      "Püskürtme sürekli değil",
+      "Saniyede yüzlerce kez tekrar eden darbeler"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "bombardier"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Biology Letters, 2018",
+     "satirlar": [
+      "Japon toprak kurbağası kusunca",
+      "yutulan böceklerin yaklaşık %43'ü canlı çıktı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "bombardier",
+     "frog"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "bombardier"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "Eisner ve Arkadaşları",
+     "satirlar": [
+      "Deneyler: sprey karıncalar ve kurbağalar",
+      "gibi yırtıcıları caydırıyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "bombardier"
+    ],
+    "yedek_kart": {
+     "baslik": "Bombardıman Böceği",
+     "satirlar": [
+      "Karnında kimya laboratuvarı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "1773, Goeze",
+     "satirlar": [
+      "Alman zoolog Goeze 'küçük su ayısı' dedi",
+      "Bugüne kadar 1.300'den fazla tür tanımlandı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 10,
+    "kart": {
+     "baslik": "Tun Hâli",
+     "satirlar": [
+      "Vücuttaki suyun büyük kısmı kaybediliyor",
+      "Metabolizma neredeyse duruyor, yıllarca beklenebiliyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "FOTON-M3, 2007",
+     "satirlar": [
+      "10 gün alçak Dünya yörüngesinde, doğrudan uzay boşluğunda",
+      "Current Biology, 2008: bir kısmı hayatta kaldı, yavru çıkardı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "2016, Antarktika",
+     "satirlar": [
+      "Yaklaşık 30 yıl dondurulmuş yosun örneği",
+      "Bir tardigrad canlandı ve çoğaldı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Dsup, 2016",
+     "satirlar": [
+      "Japon araştırmacılar Dsup proteinini buldu",
+      "İnsan hücrelerinde röntgen DNA hasarı yaklaşık %40 azaldı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "turritopsis"
+    ],
+    "yedek_kart": {
+     "baslik": "Turritopsis dohrnii",
+     "satirlar": [
+      "Ölümsüz denizanası adayı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "turritopsis",
+     "jellyfish"
+    ],
+    "yedek_kart": {
+     "baslik": "Turritopsis dohrnii",
+     "satirlar": [
+      "Ölümsüz denizanası adayı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Transdiferansiyasyon",
+     "satirlar": [
+      "Stres, açlık, yaralanmada medüz hücreleri yeniden programlanıyor",
+      "Polip aşamasına geri dönüş mümkün"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "turritopsis"
+    ],
+    "yedek_kart": {
+     "baslik": "Turritopsis dohrnii",
+     "satirlar": [
+      "Ölümsüz denizanası adayı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "1990'lar, İtalya",
+     "satirlar": [
+      "İtalyan araştırmacılar durumu",
+      "laboratuvarda gözlemledi"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "PNAS, 2022",
+     "satirlar": [
+      "Genom çalışması: DNA onarımı ve telomer bakımı",
+      "genleri akrabalarıyla karşılaştırıldı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "turritopsis",
+     "ship"
+    ],
+    "yedek_kart": {
+     "baslik": "Turritopsis dohrnii",
+     "satirlar": [
+      "Ölümsüz denizanası adayı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "turritopsis"
+    ],
+    "yedek_kart": {
+     "baslik": "Turritopsis dohrnii",
+     "satirlar": [
+      "Ölümsüz denizanası adayı"
+     ],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "eel"
+    ],
+    "yedek_kart": {
+     "baslik": "Elektrikli Yılan Balığı",
+     "satirlar": [
+      "Aslında bıçak balığı akrabası"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Nature Communications, 2019",
+     "satirlar": [
+      "Tek tür sanılan hayvan üç türe bölündü",
+      "Electrophorus voltai: yaklaşık 860 volt, bilinen en yüksek"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "eel"
+    ],
+    "yedek_kart": {
+     "baslik": "Elektrikli Yılan Balığı",
+     "satirlar": [
+      "Aslında bıçak balığı akrabası"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "PNAS, 2015",
+     "satirlar": [
+      "Yüksek voltajlı darbelerle avın kasları",
+      "istemsizce kasılıyor, av yerinden oynuyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "eel"
+    ],
+    "yedek_kart": {
+     "baslik": "Elektrikli Yılan Balığı",
+     "satirlar": [
+      "Aslında bıçak balığı akrabası"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "eel"
+    ],
+    "yedek_kart": {
+     "baslik": "Elektrikli Yılan Balığı",
+     "satirlar": [
+      "Aslında bıçak balığı akrabası"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "1800, Humboldt",
+     "satirlar": [
+      "Venezuela'da balıkçılar atları gölete sürerek",
+      "balıkları yordu; balıklar defalarca deşarj oldu"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Science, 2014",
+     "satirlar": [
+      "Hayvan suyun dışına sıçrayıp çenesini",
+      "hedefe bastırarak elektriği daha etkili iletiyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "eel"
+    ],
+    "yedek_kart": {
+     "baslik": "Elektrikli Yılan Balığı",
+     "satirlar": [
+      "Aslında bıçak balığı akrabası"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "PUAN TABLOSU",
+     "satirlar": [
+      "Hayatta kalma puanı"
+     ],
+     "etiket": "PUAN"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Su Ayısı: 10/10",
+     "satirlar": [
+      "Kuruyabiliyor, donabiliyor, uzayda hayatta kaldı"
+     ],
+     "etiket": "PUAN"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "tardigrade"
+    ],
+    "yedek_kart": {
+     "baslik": "Su Ayısı",
+     "satirlar": [
+      "Tardigrad"
+     ],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Ama komiktir"
+     ],
+     "etiket": "",
+     "logo": true
+    }
+   }
+  ]
+ }
+}

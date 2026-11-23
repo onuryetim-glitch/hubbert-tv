@@ -80,8 +80,13 @@ def tag_of(m):
     if m.get("kaynak")=="kullanici":
         mm=re.match(r"s\d+_([a-zA-Z]+)\d*\.mp4",os.path.basename(m["file"])); return mm.group(1).lower() if mm else None
     return SP2TAG.get(m.get("query",""))
+SP2EK={"Cuculus canorus":["cuckoo"],"Acrocephalus scirpaceus":["warbler"],"Aptenodytes forsteri":["penguin"],"Hippocampus":["seahorse"],"Crocodylus niloticus":["crocodile"],"Pipa pipa":["pipa"],"Chelonia mydas":["turtle","seaturtle"],"Enteroctopus dofleini":["octopus","cephalopod"],"Octopus vulgaris":["octopus"],"Octopoda":["octopus","cephalopod"],"Cephalopoda":["octopus","cephalopod"],"Teuthida":["vampirsquid","giantsquid","cephalopod"],"Architeuthis dux":["giantsquid"],"Lophiiformes":["anglerfish"],"Myctophidae":["lanternfish"],"Cnidaria":["jellyfish"],"Hydrozoa":["jellyfish"],"Balaenoptera musculus":["whale"],"Riftia pachyptila":["tubeworm"],"Siboglinidae":["tubeworm","osedax"],"Corvus moneduloides":["ncrow","crow"],"Corvus corax":["raven","crow"],"Corvus macrorhynchos":["crow"],"Corvus brachyrhynchos":["crow"],"Pan troglodytes":["chimp"],"Tursiops truncatus":["dolphin"],"Loxodonta africana":["elephant"],"Pica pica":["magpie"],"Psittacus erithacus":["parrot"],"Odontodactylus scyllarus":["mantisshrimp"],"Gonodactylus":["mantisshrimp"],"Alpheus":["pistolshrimp"],"Brachinus":["bombardier"],"Tardigrada":["tardigrade"],"Turritopsis":["turritopsis","jellyfish"],"Electrophorus electricus":["eel"],"Electrophorus":["eel"],"Gymnotiformes":["eel"],"Atta cephalotes":["ant"],"Eciton burchellii":["ant"],"Formica rufa":["ant"],"Apis mellifera":["bee"],"Heterocephalus glaber":["molerat"],"Bathyergidae":["molerat"],"Fukomys":["molerat"],"Canis lupus":["wolf"],"Suricata suricatta":["meerkat"],"Bradypus variegatus":["sloth"],"Choloepus hoffmanni":["sloth"],"Phascolarctos cinereus":["koala"],"Panthera leo":["lion"],"Stercorarius skua":["skua"],"Fregata magnificens":["frigatebird"],"Larus argentatus":["gull"],"Aphelocoma californica":["jay"],"Acinonyx jubatus":["cheetah"],"Lycaon pictus":["wilddog"],"Anax imperator":["dragonfly"],"Orcinus orca":["orca"],"Falco peregrinus":["peregrine","falcon"],"Falco eleonorae":["eleonora"],"Aquila chrysaetos":["goldeneagle"],"Vulpes vulpes":["fox"],"Megaptera novaeangliae":["humpback"],"Haliaeetus leucocephalus":["baldeagle"],"Gymnogyps californianus":["condor"],"Panthera tigris":["tiger"]}
+def tags_of(m):
+    t=tag_of(m); r=set([t]) if t else set()
+    if m.get("kaynak")!="kullanici": r|=set(SP2EK.get(m.get("query",""),[]))
+    return r
 BLOCK=set(PLAN.get("engelle",[])) if PLAN else set()
-POOL=[dict(m,_tag=tag_of(m)) for m in man if os.path.basename(m["file"]) not in BLOCK]
+POOL=[dict(m,_tag=tag_of(m),_tags=tags_of(m)) for m in man if os.path.basename(m["file"]) not in BLOCK]
 USE={}
 SPANS={}
 def spans_for(n,text,a,adur):
@@ -98,8 +103,8 @@ def plan_segments(n,s,L,a,adur,sp):
             p=f"{sp}_k{k}.png"; sync.card(p,sh["kart"]["baslik"],sh["kart"].get("satirlar",[]),sh["kart"].get("etiket","BİLGİ"),logo=sh["kart"].get("logo",False))
             o=f"{sp}_p{k}.mp4"; seg_image(p,o,Dsh,k); segs.append(o); continue
         tags=sh["tags"]
-        vids=[m for t in tags for m in POOL if m["kind"]=="video" and m["_tag"]==t]
-        imgs=[m for t in tags for m in POOL if m["kind"]=="image" and m["_tag"]==t]
+        vids=[m for t in tags for m in POOL if m["kind"]=="video" and t in m["_tags"]]
+        imgs=[m for t in tags for m in POOL if m["kind"]=="image" and t in m["_tags"]]
         pieces=[]
         if not vids and not imgs:
             gaps.append((n,k,tags)); p=f"{sp}_k{k}.png"

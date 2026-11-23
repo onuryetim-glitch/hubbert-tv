@@ -1,0 +1,811 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Japon araştırmacılar",
+     "satirlar": [
+      "Karga davranışını bilimsel olarak kaydetti",
+      "Bu bir internet efsanesi değil"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 5: Zekâ"
+     ],
+     "etiket": "BÖLÜM 5",
+     "logo": true
+    }
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "anglerfish"
+    ],
+    "yedek_kart": {
+     "baslik": "Fener balığı",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Bugünün sorusu",
+     "satirlar": [
+      "Hayatta kalmak için beyin gerekir mi,",
+      "yoksa sadece iyi bir şans mı?"
+     ],
+     "etiket": "SORU"
+    }
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "ncrow"
+    ],
+    "yedek_kart": {
+     "baslik": "Yeni Kaledonya kargası",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Nature, 2005",
+     "satirlar": [
+      "İnsan eliyle büyütülen genç kargalar da",
+      "alet yapımına yöneldi: yetenek kısmen doğuştan"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "ncrow"
+    ],
+    "yedek_kart": {
+     "baslik": "Yeni Kaledonya kargası",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Oxford Üniversitesi, 2002",
+     "satirlar": [
+      "Karga Betty ve kancalı tel",
+      "Abel kancalı teli çoktan kapıp götürmüş"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "ncrow"
+    ],
+    "yedek_kart": {
+     "baslik": "Yeni Kaledonya kargası",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Science dergisi",
+     "satirlar": [
+      "Betty düz teli büküp kendi kancasını yaptı",
+      "Kovayı çekti ve et parçasını yedi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 23,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "Ezop'un masalı bilime döndü",
+     "satirlar": [
+      "Ekin kargası taşları tüpe attı",
+      "Su seviyesi yükseldi, solucana ulaştı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 28,
+    "kart": {
+     "baslik": "Su problemleri",
+     "satirlar": [
+      "Yeni Kaledonya kargaları 5-7 yaş çocukların",
+      "başardığı düzeye yakın sonuç verdi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 29,
+    "kart": {
+     "baslik": "PNAS, 2016",
+     "satirlar": [
+      "Kargagil ve papağanların ön beyninde",
+      "birçok memeli beynine göre çok daha fazla nöron"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 31,
+    "tags": [
+     "ncrow"
+    ],
+    "yedek_kart": {
+     "baslik": "Yeni Kaledonya kargası",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "John Marzluff, Seattle, 2006",
+     "satirlar": [
+      "Washington Üniversitesi ornitologu",
+      "Tehlikeli maske ve masum maske"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Beyin görüntüleme",
+     "satirlar": [
+      "Tehlikeli yüz görülünce korku ve öğrenmeyle",
+      "ilgili bölgeler devreye girdi"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Sonradan doğan kargalar",
+     "satirlar": [
+      "Olaydan sonra doğanlar da aynı maskeye tepki verdi",
+      "Husumet bir tür aile mirası"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "crow"
+    ],
+    "yedek_kart": {
+     "baslik": "Karga",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Ortak ahtapot",
+     "satirlar": [
+      "Yaklaşık 500 milyon nöron",
+      "Yaklaşık üçte ikisi beyinde değil, kollarda"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "3 kalp, mavi kan",
+     "satirlar": [
+      "Oksijeni demir yerine bakır içeren",
+      "bir proteinle taşıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "1990 çalışması",
+     "satirlar": [
+      "Ahtapotlar içinde yengeç olan vidalı",
+      "kavanozun kapağını açmayı öğrendi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Current Biology, 2009",
+     "satirlar": [
+      "Hindistancevizi kabuğunu taşıyan ahtapot",
+      "Omurgasızlarda alet kullanımı örneği"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "Inky, 2016",
+     "satirlar": [
+      "Yeni Zelanda'daki bir akvaryum",
+      "Tank kapağından çıktı, drenaj borusundan denize ulaştı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "octopus"
+    ],
+    "yedek_kart": {
+     "baslik": "Ahtapot",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Ortak ahtapotun ömrü",
+     "satirlar": [
+      "Yaklaşık bir ila iki yıl"
+     ],
+     "etiket": "BİLİM"
+    }
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Gombe, Tanzanya, 1960",
+     "satirlar": [
+      "Jane Goodall: David Greybeard bir ot sapını",
+      "termit yuvasına sokup termit yedi"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 3,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Louis Leakey (anlatılana göre)",
+     "satirlar": [
+      "Ya aleti yeniden tanımlamalıyız,",
+      "ya insanı, ya da şempanzeleri insan sayacağız"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Genetik benzerlik",
+     "satirlar": [
+      "Şempanze ve insan yaklaşık yüzde 98,8 benzer"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Ayumu, Kyoto Üniversitesi, 2007",
+     "satirlar": [
+      "1-9 arası sayılar saniyenin yaklaşık beşte biri kadar gösterildi",
+      "Ayumu insan yetişkinlerden daha iyi sonuç aldı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Nature, 1999",
+     "satirlar": [
+      "Şempanze toplulukları arasında en az 39 davranış kalıbı değişiyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "Taï Ormanı, Fildişi Sahili",
+     "satirlar": [
+      "Şempanzeler taşla fındık kırıyor",
+      "Alışkanlık yaklaşık 4.300 yıl öncesine uzanıyor"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "chimp"
+    ],
+    "yedek_kart": {
+     "baslik": "Şempanze",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "dolphin"
+    ],
+    "yedek_kart": {
+     "baslik": "Şişe burunlu yunus",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "PNAS, 2013",
+     "satirlar": [
+      "Yabani yunuslara imza ıslığının sentetik kopyası dinletildi",
+      "Kendi ıslıklarının kopyasına yanıt verdiler"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "dolphin"
+    ],
+    "yedek_kart": {
+     "baslik": "Şişe burunlu yunus",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "elephant"
+    ],
+    "yedek_kart": {
+     "baslik": "Fil",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Afrika filinin beyni",
+     "satirlar": [
+      "Yaklaşık beş kilo, yaklaşık 257 milyar nöron",
+      "Büyük kısmı beyincikte"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 12,
+    "tags": [
+     "elephant"
+    ],
+    "yedek_kart": {
+     "baslik": "Fil",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Happy, Bronx, 2006",
+     "satirlar": [
+      "Dişi Asya filinin başına aynada görülebilecek işaret konuldu",
+      "Hortumuyla işarete dokundu"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "elephant"
+    ],
+    "yedek_kart": {
+     "baslik": "Fil",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Aynada kendini tanıma",
+     "satirlar": [
+      "Testi geçenler: büyük maymunlar,",
+      "yunuslar ve fil"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "elephant"
+    ],
+    "yedek_kart": {
+     "baslik": "Fil",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 20,
+    "tags": [
+     "magpie"
+    ],
+    "yedek_kart": {
+     "baslik": "Saksağan",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "PLoS Biology, 2008",
+     "satirlar": [
+      "Avrasya saksağanı aynadaki işareti fark etti",
+      "Yazarlardan biri: Onur Güntürkün"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 23,
+    "tags": [
+     "magpie"
+    ],
+    "yedek_kart": {
+     "baslik": "Saksağan",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "parrot"
+    ],
+    "yedek_kart": {
+     "baslik": "Afrika gri papağanı",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Irene Pepperberg, 1977",
+     "satirlar": [
+      "Alex'i evcil hayvan dükkânından aldı",
+      "Yıllarca onunla çalıştı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Alex neler biliyordu?",
+     "satirlar": [
+      "Yaklaşık yüz kelime, yedi renk, beş şekil",
+      "Altıya kadar nesneyi sayabiliyordu"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "parrot"
+    ],
+    "yedek_kart": {
+     "baslik": "Afrika gri papağanı",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Pepperberg'in çalışması",
+     "satirlar": [
+      "Papağanlar yalnızca taklit etmiyor",
+      "Görmediği nesnelerle de doğru yanıt verdi"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Alex, 2007",
+     "satirlar": [
+      "31 yaşında öldü",
+      "Son sözleri: Sen iyi ol, yarın görüşürüz, seni seviyorum"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "parrot"
+    ],
+    "yedek_kart": {
+     "baslik": "Afrika gri papağanı",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Zekâ nasıl ölçülür?",
+     "satirlar": [
+      "Hayvanı insana benzemesine göre değil,",
+      "kendi yaşam şartlarında neyi ne kadar iyi yaptığına göre"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "ncrow"
+    ],
+    "yedek_kart": {
+     "baslik": "Yeni Kaledonya kargası",
+     "satirlar": [],
+     "etiket": "HAYVAN"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,847 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "2022 araştırması",
+     "satirlar": [
+      "Karıncaların toplam kuru karbon kütlesi",
+      "yabani kuşlar ve yabani memelilerin toplamından fazla"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 10,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 7: Kalabalığın Gücü"
+     ],
+     "etiket": "BÖLÜM 7",
+     "logo": true
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Bugünün programı",
+     "satirlar": [
+      "Karıncalar • Arılar • Kel fareler",
+      "Kurtlar • Mirketler • İmparator penguenler"
+     ],
+     "etiket": "PROGRAM"
+    }
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Önceki bölümde",
+     "satirlar": [
+      "Boksör gibi yumruk atan peygamberdevesi karidesi",
+      "Tabanca karidesi • ölümsüz denizanası"
+     ],
+     "etiket": "ÖNCEKİ BÖLÜM"
+    }
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 7: Kalabalığın Gücü"
+     ],
+     "etiket": "BÖLÜM 7",
+     "logo": true
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "Bugün: tam tersi",
+     "satirlar": [
+      "Tek başına sıradan",
+      "Birlikte neredeyse yenilmez"
+     ],
+     "etiket": "BÖLÜM 7"
+    }
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Bilinen 14.000'den fazla tür",
+      "Hepsi koloni halinde yaşıyor"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 3,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Kendi kendine örgütlenme",
+     "satirlar": [
+      "Her karınca koku ve komşularına basit tepkiler veriyor",
+      "Ortaya milyonluk bir iş gücünün düzeni çıkıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "Karınca-mantar ortaklığı",
+     "satirlar": [
+      "Elli milyon yılı aşkın süredir sürüyor",
+      "İnsanlık tarımı yaklaşık 10.000 yıl önce buldu"
+     ],
+     "etiket": "ARAŞTIRMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Karıncaların antibiyotiği",
+     "satirlar": [
+      "Mantarlarını hastalıklardan korumak için",
+      "antibiyotik üreten bakteriler taşıyorlar"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Arjantin karıncası süper kolonisi",
+     "satirlar": [
+      "Avrupa'da Akdeniz kıyısı boyunca",
+      "yaklaşık 6.000 km uzanan tek koloni"
+     ],
+     "etiket": "KEŞİF"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "Karl von Frisch",
+     "satirlar": [
+      "1973 Nobel Fizyoloji veya Tıp Ödülü",
+      "Yıllarca arıların dansını inceledi"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 10,
+    "kart": {
+     "baslik": "2005: radar takibi",
+     "satirlar": [
+      "Dans bilgisini alan arıların",
+      "gerçekten o noktaya uçtuğu doğrulandı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Canlı kalorifer",
+     "satirlar": [
+      "Yavru bölümü kışın bile yaklaşık 35 derecede",
+      "Uçuş kaslarını titreterek ısı üretiyorlar"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "Thomas Seeley",
+     "satirlar": [
+      "Cornell Üniversitesi",
+      "Yeni yuva kararının nasıl verildiğini yıllarca inceledi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 25,
+    "kart": {
+     "baslik": "Doğu bal arılarının savunması",
+     "satirlar": [
+      "Eşek arısını sarıp top yapıyor",
+      "Titreyen kaslar sıcaklığı yaklaşık 46 dereceye çıkarıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "wasp",
+     "bee"
+    ],
+    "yedek_kart": {
+     "baslik": "Bal arıları",
+     "satirlar": [
+      "Dansla yön tarifi veren işçiler"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "ant"
+    ],
+    "yedek_kart": {
+     "baslik": "Karıncalar",
+     "satirlar": [
+      "Koloni halinde yaşayan sosyal böcekler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 3,
+    "tags": [
+     "molerat"
+    ],
+    "yedek_kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Yer altında yaşayan ötososyal memeli"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Kenya, Etiyopya ve Somali'nin kurak bölgeleri",
+      "Yaklaşık 10 cm boyunda, 30 gram civarında"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "molerat"
+    ],
+    "yedek_kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Yer altında yaşayan ötososyal memeli"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 10,
+    "kart": {
+     "baslik": "Ötososyal memeli",
+     "satirlar": [
+      "Kraliçesi, işçileri, hatta askerleri var",
+      "Bilinen yalnızca iki ötososyal memeliden biri"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 13,
+    "tags": [
+     "molerat"
+    ],
+    "yedek_kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Yer altında yaşayan ötososyal memeli"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "Ömür farkı",
+     "satirlar": [
+      "Kel fare: 30 yılı aşkın",
+      "Benzer boydaki fare: 2-3 yıl"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Oksijensiz ortamda 18 dakika",
+     "satirlar": [
+      "2017, Science dergisi",
+      "Oksijensiz ortamda yaklaşık 18 dakika dayanıyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 23,
+    "tags": [
+     "molerat"
+    ],
+    "yedek_kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Yer altında yaşayan ötososyal memeli"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 32,
+    "kart": {
+     "baslik": "Neden inceleniyor?",
+     "satirlar": [
+      "Yaşlanmayı ve kanseri anlamak için"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 33,
+    "tags": [
+     "molerat"
+    ],
+    "yedek_kart": {
+     "baslik": "Kel fare",
+     "satirlar": [
+      "Yer altında yaşayan ötososyal memeli"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "wolf"
+    ],
+    "yedek_kart": {
+     "baslik": "Kurt sürüsü",
+     "satirlar": [
+      "Gerçekte bir aile"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 3,
+    "kart": {
+     "baslik": "Alfa kurt efsanesi",
+     "satirlar": [
+      "Esaret altındaki, birbirini tanımayan kurtlar",
+      "üzerindeki gözlemlerden çıktı"
+     ],
+     "etiket": "EFSANE"
+    }
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "L. David Mech, 1970",
+     "satirlar": [
+      "Alfa fikri Mech'in 1970 tarihli",
+      "kitabıyla yayıldı"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Ellesmere Adası",
+     "satirlar": [
+      "Mech yıllarca yabani kurtları gözlemledi",
+      "Sürü: anne, baba ve yavrular"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "wolf"
+    ],
+    "yedek_kart": {
+     "baslik": "Kurt sürüsü",
+     "satirlar": [
+      "Gerçekte bir aile"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Mech'in düzeltmesi",
+     "satirlar": [
+      "Yanlışı açıkça yazdı",
+      "Kitap hâlâ basılıyor"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 11,
+    "tags": [
+     "wolf"
+    ],
+    "yedek_kart": {
+     "baslik": "Kurt sürüsü",
+     "satirlar": [
+      "Gerçekte bir aile"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Genç kurtlar",
+     "satirlar": [
+      "Genellikle 1-3 yaşta sürüden ayrılıyor",
+      "Kendi eşini ve bölgesini arıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "wolf"
+    ],
+    "yedek_kart": {
+     "baslik": "Kurt sürüsü",
+     "satirlar": [
+      "Gerçekte bir aile"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Kalahari, Güney Afrika",
+     "satirlar": [
+      "1993'ten beri süren araştırma projesi",
+      "Mirket: en iyi tanınan sosyal hayvanlardan biri"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 2,
+    "tags": [
+     "meerkat"
+    ],
+    "yedek_kart": {
+     "baslik": "Mirket",
+     "satirlar": [
+      "Kalahari'de nöbet tutan sosyal hayvan"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Nöbet şarkısı",
+     "satirlar": [
+      "Her şey yolundaysa alçak sesle şarkı söylüyor",
+      "Şarkı kesilirse herkes bir şeylerin ters gittiğini anlıyor"
+     ],
+     "etiket": "DAVRANIŞ"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "meerkat"
+    ],
+    "yedek_kart": {
+     "baslik": "Mirket",
+     "satirlar": [
+      "Kalahari'de nöbet tutan sosyal hayvan"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "2006, Science",
+     "satirlar": [
+      "Yetişkinler yavrulara önce ölü akrep,",
+      "sonra etkisiz akrep, en sonunda canlı akrep getiriyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "meerkat"
+    ],
+    "yedek_kart": {
+     "baslik": "Mirket",
+     "satirlar": [
+      "Kalahari'de nöbet tutan sosyal hayvan"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 19,
+    "kart": {
+     "baslik": "Puan Tablosu: Mirketler",
+     "satirlar": [
+      "8 / 10",
+      "Nöbetçisi, bakıcısı, öğretmeni var"
+     ],
+     "etiket": "PUAN"
+    }
+   },
+   {
+    "s": 22,
+    "tags": [
+     "meerkat"
+    ],
+    "yedek_kart": {
+     "baslik": "Mirket",
+     "satirlar": [
+      "Kalahari'de nöbet tutan sosyal hayvan"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "penguin"
+    ],
+    "yedek_kart": {
+     "baslik": "İmparator penguenler",
+     "satirlar": [
+      "Antarktika'da sıkı kümeler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Antarktika kışı",
+     "satirlar": [
+      "Hava -40 derecenin altına inebiliyor",
+      "Rüzgâr saatte 150 km'yi aşabiliyor"
+     ],
+     "etiket": "İKLİM"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "penguin"
+    ],
+    "yedek_kart": {
+     "baslik": "İmparator penguenler",
+     "satirlar": [
+      "Antarktika'da sıkı kümeler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Sıkı küme",
+     "satirlar": [
+      "Yoğunluk metrekareye 10 kuşa kadar çıkabiliyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "2011 çalışması",
+     "satirlar": [
+      "Kümenin içinde yavaş, küçük adım dalgaları yayılıyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "penguin"
+    ],
+    "yedek_kart": {
+     "baslik": "İmparator penguenler",
+     "satirlar": [
+      "Antarktika'da sıkı kümeler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Kümenin içi",
+     "satirlar": [
+      "Dışarısı donarken bile",
+      "ölçülen sıcaklık 30 dereceyi bulabiliyor"
+     ],
+     "etiket": "ARAŞTIRMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "penguin"
+    ],
+    "yedek_kart": {
+     "baslik": "İmparator penguenler",
+     "satirlar": [
+      "Antarktika'da sıkı kümeler"
+     ],
+     "etiket": "TÜR"
+    }
+   },
+   {
+    "s": 17,
+    "kart": {
+     "baslik": "Karıncadan pengene formül",
+     "satirlar": [
+      "İş bölümü • iletişim • fedakârlık"
+     ],
+     "etiket": "ÖZET"
+    }
+   },
+   {
+    "s": 18,
+    "tags": [
+     "penguin"
+    ],
+    "yedek_kart": {
+     "baslik": "İmparator penguenler",
+     "satirlar": [
+      "Antarktika'da sıkı kümeler"
+     ],
+     "etiket": "TÜR"
+    }
+   }
+  ]
+ }
+}

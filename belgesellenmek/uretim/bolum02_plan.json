@@ -29,7 +29,7 @@
       "Sarkastik Doğa Belgeseli",
       "Bölüm 2: Aşk ve Savaş"
      ],
-     "etiket": "KANALIMIZA HOŞ GELDİNİZ",
+     "etiket": "BÖLÜM 2",
      "logo": true
     }
    },
@@ -61,7 +61,7 @@
     ]
    },
    {
-    "s": 2.0,
+    "s": 2,
     "tags": [
      "octopus"
     ]
@@ -245,7 +245,7 @@
     ]
    },
    {
-    "s": 9,
+    "s": 13,
     "kart": {
      "baslik": "Photuris dişileri: femme fatale",
      "satirlar": [
@@ -256,7 +256,7 @@
     }
    },
    {
-    "s": 14,
+    "s": 20,
     "tags": [
      "fireflies"
     ]
@@ -280,13 +280,13 @@
     }
    },
    {
-    "s": 5,
+    "s": 7,
     "tags": [
      "cuttlefish"
     ]
    },
    {
-    "s": 9,
+    "s": 13,
     "kart": {
      "baslik": "Sepia plangon, 2012",
      "satirlar": [
@@ -297,7 +297,7 @@
     }
    },
    {
-    "s": 11,
+    "s": 17,
     "tags": [
      "cuttlefish"
     ]
@@ -312,7 +312,7 @@
     ]
    },
    {
-    "s": 5,
+    "s": 8,
     "kart": {
      "baslik": "Charles Tate Regan, 1925",
      "satirlar": [
@@ -322,14 +322,14 @@
     }
    },
    {
-    "s": 6,
+    "s": 9,
     "tags": [
      "anglerfish",
      "deepsea"
     ]
    },
    {
-    "s": 11,
+    "s": 16,
     "kart": {
      "baslik": "Science, 2020",
      "satirlar": [
@@ -340,7 +340,7 @@
     }
    },
    {
-    "s": 13,
+    "s": 20,
     "tags": [
      "anglerfish",
      "deepsea"

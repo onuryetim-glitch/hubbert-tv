@@ -1,0 +1,466 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 8,
+    "tags": [
+     "koala"
+    ]
+   },
+   {
+    "s": 9,
+    "tags": [
+     "frigatebird"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "gull"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "sloth",
+     "koala"
+    ]
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Bölüm 8"
+     ],
+     "etiket": "BÖLÜM 8",
+     "logo": true
+    }
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "bee",
+     "meerkat",
+     "penguin"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Önceki bölümde",
+     "satirlar": [
+      "Mirketler puan tablosunda 8 aldı"
+     ],
+     "etiket": "HATIRLATMA"
+    }
+   },
+   {
+    "s": 3,
+    "tags": [
+     "meerkat"
+    ]
+   },
+   {
+    "s": 5,
+    "tags": [
+     "sloth",
+     "koala"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "sloth",
+     "harpyeagle"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "Panama'da vahşi sloth'lar",
+     "satirlar": [
+      "Beyin aktivitesi ilk kez doğada kaydedildi",
+      "Doğada üç parmaklı sloth: günde ~10 saat uyku",
+      "Esaret altında: 15 saatten fazla"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 18,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "2014 çalışması",
+     "satirlar": [
+      "Sloth, güve ve alg: üçlü ortaklık",
+      "Güveler dışkıya yumurtlar, algler tüyde gelişir"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 24,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 26,
+    "tags": [
+     "sloth"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "koala"
+    ]
+   },
+   {
+    "s": 6,
+    "tags": [
+     "bat"
+    ]
+   },
+   {
+    "s": 7,
+    "tags": [
+     "koala"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "koala"
+    ]
+   },
+   {
+    "s": 16,
+    "tags": [
+     "lion"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "ant"
+    ]
+   },
+   {
+    "s": 22,
+    "kart": {
+     "baslik": "Hokkaido Üniversitesi, 2016",
+     "satirlar": [
+      "Tembel işçiler kolonide yedek oyuncu",
+      "Çalışanlar yorulunca yedekler devreye giriyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "bear"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "tags": [
+     "sloth"
+    ]
+   },
+   {
+    "s": 2,
+    "tags": [
+     "skua"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Kleptoparazitizm",
+     "satirlar": [
+      "Yunanca \"klepto\": çalmak",
+      "Başka hayvanın bulduğu yiyeceği çalarak beslenmek"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "skua"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "gannet",
+     "skua"
+    ]
+   },
+   {
+    "s": 14,
+    "tags": [
+     "skua"
+    ]
+   },
+   {
+    "s": 19,
+    "tags": [
+     "skua"
+    ]
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "Kleptoparazitizm",
+     "satirlar": [
+      "Kuşlardan böceklere, balıklardan memelilere",
+      "çok farklı hayvan grubunda tanımlanıyor"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "argyrodes",
+     "spider"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "s": 1,
+    "tags": [
+     "frigatebird"
+    ]
+   },
+   {
+    "s": 13,
+    "kart": {
+     "baslik": "Henri Weimerskirch ve ark., 2016",
+     "satirlar": [
+      "Büyük fregat kuşları iki aya kadar",
+      "hiç inmeden okyanus üzerinde uçtu",
+      "Kuşlara GPS ve hareket sensörü takıldı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 15,
+    "tags": [
+     "frigatebird"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "Niels Rattenborg ve ekibi",
+     "satirlar": [
+      "Galapagos'ta yapılan çalışma",
+      "Havada günde ~40 dakika uyku",
+      "Karada 12 saatten fazla uyku"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "frigatebird"
+    ]
+   },
+   {
+    "s": 22,
+    "tags": [
+     "frigatebird",
+     "gannet"
+    ]
+   },
+   {
+    "s": 26,
+    "tags": [
+     "frigatebird"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "s": 1,
+    "tags": [
+     "gull"
+    ]
+   },
+   {
+    "s": 8,
+    "kart": {
+     "baslik": "Exeter Üniversitesi, 2019",
+     "satirlar": [
+      "Biology Letters dergisi",
+      "Cornwall'daki ringa martıları",
+      "insan bakışını takip ediyor"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 9,
+    "tags": [
+     "gull"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "baldeagle",
+     "osprey"
+    ]
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Benjamin Franklin, 1784",
+     "satirlar": [
+      "Kızına yazdığı mektupta kel kartalı eleştirdi",
+      "Başkasının balığını çaldığı için"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "baldeagle"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "gull"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "jay"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "Nature, 2007",
+     "satirlar": [
+      "Alakargalar ertesi sabah kahvaltı",
+      "alamayacakları bölmeye daha çok yiyecek sakladı"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 7,
+    "tags": [
+     "jay"
+    ]
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Clayton ve Emery, 2001",
+     "satirlar": [
+      "Cambridge Üniversitesi, Nature",
+      "Çalma deneyimi olan alakargalar",
+      "saklama yerini değiştirdi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 10,
+    "tags": [
+     "jay"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "jay"
+    ]
+   },
+   {
+    "s": 19,
+    "tags": [
+     "jay"
+    ]
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "Kuzgunlar, 2005",
+     "satirlar": [
+      "Yeri görmüş ve görmemiş rakiplere",
+      "farklı davrandıkları gösterildi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "raven",
+     "jay"
+    ]
+   }
+  ]
+ }
+}

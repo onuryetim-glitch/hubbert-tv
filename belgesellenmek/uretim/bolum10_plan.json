@@ -1,0 +1,559 @@
+{
+ "engelle": [],
+ "scenes": {
+  "1": [
+   {
+    "s": 1,
+    "tags": [
+     "fox"
+    ]
+   },
+   {
+    "s": 6,
+    "tags": [
+     "fox"
+    ]
+   },
+   {
+    "s": 11,
+    "tags": [
+     "falcon"
+    ]
+   },
+   {
+    "s": 12,
+    "tags": [
+     "crow"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "fox",
+     "crow",
+     "falcon"
+    ]
+   },
+   {
+    "s": 18,
+    "kart": {
+     "baslik": "DOĞA ADİL DEĞİLDİR",
+     "satirlar": [
+      "Sarkastik Doğa Belgeseli",
+      "Seri Finali"
+     ],
+     "etiket": "FİNAL",
+     "logo": true
+    }
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Serinin sözü",
+     "satirlar": [
+      "Her sayı, bilim insanlarının ölçtüğü",
+      "veya gözlemlediği şeylere dayandı"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 25,
+    "tags": [
+     "octopus",
+     "peacock",
+     "chameleon"
+    ]
+   },
+   {
+    "s": 27,
+    "tags": [
+     "fox",
+     "crow",
+     "falcon"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "s": 1,
+    "tags": [
+     "cheetah"
+    ]
+   },
+   {
+    "s": 2,
+    "tags": [
+     "cheetah",
+     "lion",
+     "dragonfly"
+    ]
+   },
+   {
+    "s": 3,
+    "tags": [
+     "orca",
+     "wolf",
+     "falcon"
+    ]
+   },
+   {
+    "s": 5,
+    "tags": [
+     "wolf",
+     "dragonfly"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "cheetah"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "s": 1,
+    "tags": [
+     "fox"
+    ]
+   },
+   {
+    "s": 2,
+    "kart": {
+     "baslik": "Londra tilkileri",
+     "satirlar": [
+      "1930'lardan itibaren şehirli hayat",
+      "Tahmini sayı: on bin civarı"
+     ],
+     "etiket": "ŞEHİR"
+    }
+   },
+   {
+    "s": 4,
+    "tags": [
+     "fox"
+    ]
+   },
+   {
+    "s": 10,
+    "tags": [
+     "crow"
+    ]
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Sendai kargaları, Japonya",
+     "satirlar": [
+      "Cevizi yola bırakıp arabalara kırdırıyorlar",
+      "Kırmızı ışıkta yola inip topluyorlar"
+     ],
+     "etiket": "DAVRANIŞ"
+    }
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "Belgelenen davranış",
+     "satirlar": [
+      "2000'li yılların başında",
+      "bilim insanları tarafından belgelendi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 16,
+    "tags": [
+     "crow"
+    ]
+   },
+   {
+    "s": 19,
+    "tags": [
+     "falcon"
+    ]
+   },
+   {
+    "s": 20,
+    "kart": {
+     "baslik": "Gökdelen şahinleri",
+     "satirlar": [
+      "Doğan şahinleri yüksek binalara yuva kuruyor",
+      "New York ve Chicago'da yuvaları kaydedildi"
+     ],
+     "etiket": "ŞEHİR"
+    }
+   },
+   {
+    "s": 21,
+    "tags": [
+     "falcon"
+    ]
+   },
+   {
+    "s": 25,
+    "tags": [
+     "dolphin"
+    ]
+   },
+   {
+    "s": 29,
+    "tags": [
+     "monkseal"
+    ]
+   },
+   {
+    "s": 30,
+    "kart": {
+     "baslik": "Akdeniz foku",
+     "satirlar": [
+      "Tehlike altındaki nadir bir tür",
+      "Dünyadaki sayısı birkaç yüz"
+     ],
+     "etiket": "KORUMA"
+    }
+   },
+   {
+    "s": 33,
+    "tags": [
+     "coyote"
+    ]
+   },
+   {
+    "s": 34,
+    "kart": {
+     "baslik": "Chicago kojotları",
+     "satirlar": [
+      "Yıllardır süren izleme çalışmaları",
+      "Şehirde, daha çok geceleri aktifler"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 37,
+    "kart": {
+     "baslik": "Şehre uyum sağlayanlar",
+     "satirlar": [
+      "Esnek beslenen, zeki",
+      "ve çabuk öğrenen türler"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 41,
+    "tags": [
+     "fox"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "s": 1,
+    "tags": [
+     "humpback"
+    ]
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "Kambur balina",
+     "satirlar": [
+      "1960'larda uluslararası koruma",
+      "1986: ticari balina avı yasağı"
+     ],
+     "etiket": "KORUMA"
+    }
+   },
+   {
+    "s": 5,
+    "tags": [
+     "humpback"
+    ]
+   },
+   {
+    "s": 6,
+    "kart": {
+     "baslik": "IUCN, 2008",
+     "satirlar": [
+      "Kambur balina küresel ölçekte",
+      "'asgari endişe' kategorisine alındı"
+     ],
+     "etiket": "STATÜ"
+    }
+   },
+   {
+    "s": 8,
+    "tags": [
+     "humpback"
+    ]
+   },
+   {
+    "s": 12,
+    "tags": [
+     "baldeagle"
+    ]
+   },
+   {
+    "s": 14,
+    "kart": {
+     "baslik": "Kel kartal, 1963",
+     "satirlar": [
+      "Alt 48 eyalette yaklaşık 417 yuvalama çifti",
+      "2020 tahminlerine göre 70 binden fazla çift"
+     ],
+     "etiket": "SAYILAR"
+    }
+   },
+   {
+    "s": 15,
+    "kart": {
+     "baslik": "DDT",
+     "satirlar": [
+      "Böcek ilacı yumurta kabuklarını inceltiyordu",
+      "DDT yasaklandı, koruma programları başladı"
+     ],
+     "etiket": "NEDEN"
+    }
+   },
+   {
+    "s": 17,
+    "tags": [
+     "baldeagle"
+    ]
+   },
+   {
+    "s": 20,
+    "tags": [
+     "condor"
+    ]
+   },
+   {
+    "s": 23,
+    "kart": {
+     "baslik": "Kaliforniya kondoru",
+     "satirlar": [
+      "1980'lerin ortasında son bireyler yakalandı",
+      "Sayı yaklaşık 27'ye düşmüştü"
+     ],
+     "etiket": "SAYILAR"
+    }
+   },
+   {
+    "s": 24,
+    "kart": {
+     "baslik": "Bugün 500'ün üzerinde",
+     "satirlar": [
+      "Yarıdan fazlası özgürce uçuyor"
+     ],
+     "etiket": "SAYILAR"
+    }
+   },
+   {
+    "s": 26,
+    "tags": [
+     "condor"
+    ]
+   },
+   {
+    "s": 29,
+    "tags": [
+     "tiger"
+    ]
+   },
+   {
+    "s": 31,
+    "kart": {
+     "baslik": "Yabani kaplan",
+     "satirlar": [
+      "2010: yaklaşık 3.200",
+      "2020'ler: 4.500 ve üzeri"
+     ],
+     "etiket": "SAYILAR"
+    }
+   },
+   {
+    "s": 33,
+    "tags": [
+     "tiger"
+    ]
+   },
+   {
+    "s": 38,
+    "tags": [
+     "seaturtle"
+    ]
+   },
+   {
+    "s": 39,
+    "kart": {
+     "baslik": "Hawaii yeşil deniz kaplumbağaları",
+     "satirlar": [
+      "Korumadan sonra yuvalama sayıları arttı",
+      "Hakemli çalışmalarla belgelendi"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 42,
+    "tags": [
+     "seaturtle"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "s": 1,
+    "kart": {
+     "baslik": "Madalyonun diğer yüzü",
+     "satirlar": [
+      "Bu serinin kuralı: bilgiyi çarpıtmamak"
+     ],
+     "etiket": "UYARI"
+    }
+   },
+   {
+    "s": 5,
+    "kart": {
+     "baslik": "WWF Yaşayan Gezegen Raporu, 2024",
+     "satirlar": [
+      "1970-2020: izlenen yaban hayatı popülasyonlarında",
+      "ortalama yüzde 73 düşüş"
+     ],
+     "etiket": "RAPOR"
+    }
+   },
+   {
+    "s": 7,
+    "kart": {
+     "baslik": "Düşüş her yerde aynı değil",
+     "satirlar": [
+      "Tatlı su popülasyonları: yaklaşık yüzde 85",
+      "Latin Amerika ve Karayipler: yaklaşık yüzde 95"
+     ],
+     "etiket": "RAPOR"
+    }
+   },
+   {
+    "s": 9,
+    "kart": {
+     "baslik": "Rakam ne anlama geliyor?",
+     "satirlar": [
+      "Hayvanların yüzde 73'ü ölmedi",
+      "İzlenen popülasyonların ortalama büyüklüğündeki değişim"
+     ],
+     "etiket": "BİLİM"
+    }
+   },
+   {
+    "s": 11,
+    "kart": {
+     "baslik": "IPBES, 2019",
+     "satirlar": [
+      "Küresel değerlendirme: yaklaşık bir milyon tür",
+      "yok olma tehdidi altında"
+     ],
+     "etiket": "RAPOR"
+    }
+   },
+   {
+    "s": 12,
+    "kart": {
+     "baslik": "Baskının temel nedenleri",
+     "satirlar": [
+      "Yaşam alanı kaybı, aşırı avlanma",
+      "İklim değişikliği, kirlilik, istilacı türler"
+     ],
+     "etiket": "NEDEN"
+    }
+   },
+   {
+    "s": 14,
+    "tags": [
+     "passengerpigeon"
+    ]
+   },
+   {
+    "s": 16,
+    "kart": {
+     "baslik": "Martha, 1914",
+     "satirlar": [
+      "Yolcu güvercininin son bireyi",
+      "Cincinnati Hayvanat Bahçesi'nde öldü"
+     ],
+     "etiket": "TARİHÇE"
+    }
+   },
+   {
+    "s": 19,
+    "tags": [
+     "condor",
+     "humpback",
+     "tiger"
+    ]
+   },
+   {
+    "s": 21,
+    "kart": {
+     "baslik": "Kurtarıcı kim?",
+     "satirlar": [
+      "Tek bir kahraman değil",
+      "Uzun yıllar çalışan, sıkıcı ve inatçı bir ekip"
+     ],
+     "etiket": "SONUÇ"
+    }
+   }
+  ],
+  "8": [
+   {
+    "s": 1,
+    "tags": [
+     "ant"
+    ]
+   },
+   {
+    "s": 2,
+    "tags": [
+     "orca",
+     "wolf",
+     "baldeagle"
+    ]
+   },
+   {
+    "s": 4,
+    "kart": {
+     "baslik": "2022 çalışması",
+     "satirlar": [
+      "Dünya'daki karınca sayısı tahmini:",
+      "yaklaşık 20 katrilyon"
+     ],
+     "etiket": "ÇALIŞMA"
+    }
+   },
+   {
+    "s": 6,
+    "tags": [
+     "ant"
+    ]
+   },
+   {
+    "s": 9,
+    "tags": [
+     "ant",
+     "bee",
+     "spider"
+    ]
+   },
+   {
+    "s": 15,
+    "tags": [
+     "ant"
+    ]
+   }
+  ]
+ }
+}
